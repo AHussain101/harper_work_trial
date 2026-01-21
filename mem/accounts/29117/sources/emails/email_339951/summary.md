@@ -10,43 +10,43 @@
 
 ## Business Details
 - **Company Name:** Lakeview Concierge Services
-- **Industry:** Concierge Services
-- **Coverage Status:** Quote being finalized; awaiting underwriting approval
+- **Contact Email:** ethan@lakeviewservices.com
+- **Coverage Status:** Quote in finalization phase with underwriting
 
 ## Personal Details
 - **Contact Name:** Ethan
-- **Contact Email:** ethan@lakeviewservices.com
-- **Harper Representative:** Jordan Kim (jordan@harperinsure.com)
+- **Contact Role/Title:** Not specified (likely decision-maker or account manager)
+- **Harper Contact:** Jordan Kim (jordan@harperinsure.com)
 
 ## Conversation Context
 
-### Main Purpose
-Outbound request for required documentation to finalize insurance quote and move toward binding
+### Main Topic
+Submission of required documentation to finalize insurance quote for Lakeview Concierge Services
 
-### Key Documents Requested (Subjectivities)
-1. **Loss Runs**
-   - Time period: Prior 3 years (or full duration of prior coverage if less than 3 years)
-2. **Certificates of Insurance (COIs)**
-   - Any contract-specific insurance requirements
+### Documents Requested
+1. **Loss Runs** - Covering prior 3 years (or entire duration of prior coverage)
+2. **Certificates of Insurance (COIs)** - Any COIs with contract-specific insurance requirements
 
-### Timeline & Deadlines
-- **Deadline:** 21 days from binding date (or sooner if available)
-- **Upload Portal:** https://portal.example-insure.com/upload/subjectivities-48-1032
+### Key Details
+- **Deadline:** 21 days from binding (or sooner if available)
+- **Submission Method:** Online portal upload at https://portal.example-insure.com/upload/subjectivities-48-1032
+- **Reference ID:** 48-1032
 
-### Action Items
+### Action Items for Customer (Ethan)
+- [ ] Gather loss runs for prior 3 years
+- [ ] Compile any COIs with contract-specific insurance requirements
+- [ ] Upload documents to specified portal within 21 days
+- [ ] Contact Jordan if assistance needed obtaining loss runs
 
-**For Ethan (Customer):**
-- [ ] Obtain and upload loss runs for prior 3 years
-- [ ] Gather any COIs or contract-specific insurance requirements
-- [ ] Submit documents via provided portal link within 21 days of binding
-
-**For Harper/Jordan:**
-- [ ] Monitor for document submission
-- [ ] Offer assistance if customer needs help obtaining loss runs
-- [ ] Follow up if documents not received within 21-day window
+### Action Items for Harper (Jordan)
+- [ ] Monitor submission of documents
+- [ ] Assist with loss runs retrieval if requested
+- [ ] Proceed with underwriting approval once documents received
 
 ### Tone/Sentiment
-Professional, helpful, and supportive. Jordan offers assistance if needed, indicating a collaborative approach.
+- Professional, straightforward, helpful
+- Friendly tone with offer of assistance
 
 ### Next Steps
-Awaiting document submission to complete underwriting review and finalize binding.
+- Customer to submit required documents within 21 days
+- Quote finalization pending document receipt

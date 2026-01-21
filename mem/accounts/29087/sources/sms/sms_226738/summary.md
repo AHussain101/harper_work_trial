@@ -5,34 +5,40 @@
 
 # SMS Summary for Harper
 
-## Conversation Context
-- **Main Topic:** Status update on underwriting review
-- **Message Type:** Outgoing status notification from Harper to client
-- **Tone/Sentiment:** Professional, reassuring, informative
-- **Date Sent:** December 5, 2025 at 12:05 AM
+## Message Overview
+- **Direction:** Outgoing (Harper → Client)
+- **Date/Time:** December 5, 2025 at 12:05 AM
+- **Message Type:** Status update / Acknowledgment
+
+---
 
 ## Personal Details
 - **Contact Name:** Steven
-- **Communication Method:** SMS text message
-- **Preferred Contact Method Note:** Client is receiving text updates (appears to have opted in)
+- **Communication Method:** SMS/Text messaging
 
-## Business Details
-- **Status:** Underwriting review currently in progress
-- **Expected Timeline:** Update expected within 24–48 hours
+---
 
-## Action Items
+## Conversation Context
 
-### For Harper
-- **Pending:** Follow up with underwriting to obtain review results
-- **Deadline:** Within 24–48 hours from December 5, 2025
-- **Next Step:** Send follow-up communication to Steven with underwriting decision/details
+### Main Topic
+- Acknowledgment of receipt of information from Steven
+- Status update on underwriting process
 
-### For Customer (Steven)
-- **Awaiting:** Underwriting review results
-- **Timeline:** Expect contact within 24–48 hours
-- **Option:** Can reply "STOP" to unsubscribe from text notifications
+### Key Information Shared
+- **Current Status:** Underwriting review is actively underway
+- **Expected Timeline:** Update anticipated within 24–48 hours
+- **Tone/Sentiment:** Professional, reassuring, timely
 
-## Important Notes
-- Standard unsubscribe disclaimer included in message
-- No specific policy details, premium amounts, or coverage types mentioned in this message
-- Appears to be part of an ongoing application or policy review process
+### Action Items for Harper
+- Follow up with Steven if no update provided within 48 hours
+- Prepare underwriting response/decision within stated timeframe
+
+### Action Items for Customer (Steven)
+- Await Harper's follow-up communication within 24–48 hours
+- No immediate action required from Steven's side
+
+---
+
+## Additional Notes
+- **Unsubscribe Notice:** Standard STOP text message unsubscribe option included (compliance/regulatory standard)
+- **Next Steps:** Harper will provide underwriting determination within specified timeline

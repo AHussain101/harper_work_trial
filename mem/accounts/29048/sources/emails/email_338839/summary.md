@@ -6,62 +6,69 @@
 **From:** ashley.myers@harperinsure.com
 **To:** olivia.grant@brooksidebotanicals.com
 
-# Email Summary: Brookside Botanicals LLC Insurance Quote Follow-up
+# Email Summary: Brookside Botanicals LLC Insurance Quote Follow-Up
 
 ## Business Details
 
-**Company Information**
+**Company Information:**
 - Company Name: Brookside Botanicals LLC
-- Industry: Botanical/Plant products (based on product labels and ingredient lists mentioned)
-- Business Type: Appears to involve product manufacturing/distribution with warehouse operations
+- Industry: Botanical/Plant Products (appears to be product-based business)
+- Business Type: Likely manufacturing or distribution (mentions product labels, ingredient lists, warehouses)
 
-**Coverage & Policy Information**
-- Application Status: Submitted to carrier network; initial quotes expected soon
-- Coverage Types Discussed:
-  - General liability
-  - Product liability (indicated by product documentation request)
-  - Warehouse/storage coverage
-  - Certificate of Insurance (COI) requirements for contracts
-- Documents Requested:
-  - Loss runs (last 3 years or full coverage history)
-  - Certificates of Insurance (COI) for existing contracts/warehouse requirements
-  - Product documentation (sample labels, ingredient lists, safety/usage instructions)
-  - Any additional coverage gap information
+**Coverage Details:**
+- Application submitted to carrier network
+- Initial quotes expected shortly
+- Carrier quotes pending from Harper's network
+- Specific coverage types not yet detailed
 
-**Claims History**
-- Loss runs requested for past 3 years (or entire coverage history if less than 3 years)
+**Documents Requested:**
+- Loss runs (claim history for last 3 years)
+- Certificates of Insurance (COI) - if applicable to existing contracts
+- Product documentation:
+  - Sample product labels
+  - Ingredient lists
+  - Safety/usage instructions
+- Documentation of any additional coverage gaps or specific insurance requirements
+
+**Submission Method:**
+- Documents to be uploaded to Harper Insurance secure portal
+
+---
 
 ## Personal Details
 
-**Contact Information**
-- Customer Name: Olivia Grant
+**Contact Information:**
+- Name: Olivia Grant
 - Email: olivia.grant@brooksidebotanicals.com
-- Harper Insurance Contact: Ashley Myers, Senior Producer
-  - Email: ashley.myers@harperinsure.com
-  - Title: Senior Producer
-  - Company: Harper Insurance
+- Company contact for Brookside Botanicals
 
-**Communication Preferences**
-- Customer has secure portal access for document uploads
-- Direct email communication established
+**Harper Insurance Contact:**
+- Name: Ashley Myers
+- Title: Senior Producer
+- Email: ashley.myers@harperinsure.com
+- Phone/Direct: Not provided
+- Company Website: www.harperinsure.com
+
+---
 
 ## Conversation Context
 
-**Main Purpose**
-- Follow-up to initial consultation call regarding insurance quote for Brookside Botanicals
-- Request for documentation to expedite carrier quote process
+**Main Purpose:**
+- Follow-up to initial consultation meeting regarding business insurance coverage for Brookside Botanicals
+- Request for documentation to expedite quote process
 
-**Key Points Discussed**
-- Business operations overview provided during phone call
-- Application submitted to carrier network
-- Timeline: Initial quotes expected "shortly"
+**Key Points:**
+- Initial meeting/consultation already occurred between Olivia and Harper team
+- Application has been submitted to carrier network
+- Process is in early stages (awaiting initial quotes)
 
-**Action Items for Customer (Olivia Grant)**
-- Upload all requested documents to Harper Insurance secure portal:
-  - Loss runs (3 years of claim history or full coverage history)
-  - Certificates of Insurance from existing contracts/warehouse relationships
-  - Product documentation (labels, ingredient lists, safety/usage instructions)
-  - Information on any additional coverage gaps
-- Request assistance from Harper if unable to obtain loss runs independently
+**Action Items for Customer (Olivia):**
+- Upload requested documents to Harper's secure portal
+- Provide loss runs (claim history for past 3 years, or duration of current coverage)
+- Submit any existing Certificates of Insurance
+- Provide product documentation (labels, ingredient lists, safety instructions)
+- Identify any additional coverage gaps or specific coverage requirements
 
-**Action Items for
+**Action Items for Harper (Ashley):**
+- Monitor for initial carrier quotes
+- Be prepared to assist Olivia with obtaining loss runs if needed

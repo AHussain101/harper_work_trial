@@ -3,46 +3,62 @@
 **Date:** 2025-12-04T23:33:34.267000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary
 
 ## Business Details
-- **Company Name:** Sentinel Patrol Services
+
+### Company Information
+- **Business Name:** Sentinel Patrol Services
 - **Industry:** Security/Patrol Services
-- **Coverage Status:** Recently placed with Harper Insurance
-- **Policy Status:** Active/newly transitioned to Harper
+- **Coverage Status:** Recently placed/transferred to Harper Insurance
 
-## Personal Details
-- **Contact Method:** SMS
-- **Sender:** Harper Insurance representative
-- **Recipient:** Sentinel Patrol Services contact (name not specified in this message)
-
-## Conversation Context
-- **Main Topic/Purpose:** 
-  - Confirmation message acknowledging new/transferred business relationship
-  - Reassurance communication to new client
-  
-- **Key Message:**
-  - Harper Insurance representative confirming receipt and assumption of responsibility for Sentinel Patrol Services insurance coverage
-  
-- **Tone/Sentiment:** 
-  - Professional, warm, and reassuring
-  - Positive (expressing gratitude for trust)
-  - Transactional confirmation
-
-## Action Items for Harper
-- ⚠️ **PENDING:** Obtain specific policy details from this conversation or previous correspondence:
-  - Policy types/coverage lines placed
-  - Premium amounts
-  - Deductibles and limits
-  - Effective date
-  - Renewal date
-  - Carrier information
-  - Complete contact name and title for Sentinel Patrol Services
-
-## Next Steps
-- **Follow-up Required:** Confirm detailed policy information and coverage specifics with client
-- **Timeline:** Not specified in this message
+### Coverage Details
+- **Carrier:** Harper Insurance (Harper Rep)
+- **Current Status:** Policy acceptance/placement confirmation
 
 ---
 
-**Note:** This appears to be an initial outreach/confirmation message. More detailed business information will be needed to complete Harper's file on this client.
+## Personal Details
+
+### Contact Information
+- **Recipient:** Not explicitly named in SMS
+- **Contact Method:** SMS (text message)
+
+---
+
+## Conversation Context
+
+### Main Purpose
+- **Topic:** Policy placement confirmation for Sentinel Patrol Services
+- **Message Type:** Acknowledgment/welcome message from Harper Insurance
+
+### Key Points
+- Confirmation that Harper Insurance has accepted the business
+- Assurance of service ("we'll take it from here")
+- Tone indicates customer has already decided to move forward with Harper
+
+### Tone/Sentiment
+- **Overall Sentiment:** Professional, reassuring, welcoming
+- **Tone:** Friendly, confident, service-oriented
+
+---
+
+## Action Items
+
+### For Harper
+- ✅ Send follow-up communication with policy documents (if not already sent)
+- ✅ Assign dedicated account representative
+- ✅ Ensure smooth transition from previous carrier (if applicable)
+- ⚠️ Clarify expected timeline for detailed policy information
+
+### For Customer (Sentinel Patrol Services)
+- Review policy documents when received
+- Confirm policy details are accurate
+
+---
+
+## Missing Information
+- ⚠️ **Specific coverage types** (General Liability, Workers' Comp, etc.) not mentioned
+- ⚠️ **Premium amounts** not included
+- ⚠️ **Effective date** of new policy not specified
+- ⚠️ **Direct contact name** at Sentinel Patrol Services not provided

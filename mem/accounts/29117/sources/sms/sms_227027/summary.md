@@ -5,45 +5,34 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Outgoing (sent from Harper to recipient)
+## Message Details
+- **Direction:** Outgoing (from Harper to customer)
 - **Date & Time:** December 5, 2025 at 12:30 AM
-- **Message Type:** Likely automated or mass communication
+- **Message Type:** Automated/System message
 
-## Message Content Analysis
+## Content Analysis
 
-### Key Information
-- **Content:** Standard unsubscribe notice/footer
-- **Text:** "Reply STOP to unsubscribe from these messages."
+### Message Body
+- Standard unsubscribe notice: "Reply STOP to unsubscribe from these messages."
+- This appears to be a boilerplate compliance footer
 
-### Issues & Limitations
-⚠️ **No substantive business or personal details provided in this SMS**
+### Important Notes
+- **No substantive business or personal information provided** in this message
+- This is a regulatory/compliance message only (likely part of an SMS campaign or automated notification system)
+- No insurance details, quotes, coverage information, or customer communication captured
 
-The message appears to be only a standard legal disclaimer/footer text, containing:
-- Unsubscribe instruction
-- No customer information
-- No policy details
-- No business context
-- No action items
-- No previous conversation reference
+## Action Items
+- **For Harper:** None directly indicated by this message
+- **For Customer:** Option to reply "STOP" if they wish to unsubscribe from future SMS messages
 
-## Missing Information
-The SMS does not contain:
-- ❌ Business or company details
-- ❌ Personal contact information
-- ❌ Insurance coverage needs or quotes
-- ❌ Premium or deductible amounts
-- ❌ Policy dates or renewal information
-- ❌ Claims history
-- ❌ Document requests
-- ❌ Carrier information
-- ❌ Specific conversation context
-
-## Recommendations for Harper
-- **Action:** This appears to be a footer/template message with no actionable items
-- **Next Steps:** Check if this SMS was sent in error or if there's a parent message/conversation that provides context
-- **Follow-up:** Review the full message thread if this was part of a longer exchange
+## Context & Next Steps
+- This message appears to be either:
+  - A footer/closing to a previous message (content cut off)
+  - An automated system message
+  - Part of a bulk notification campaign
+  
+- **Missing Information:** The primary message content that preceded this unsubscribe notice is not included in the provided SMS
 
 ---
 
-*Note: This summary is limited due to minimal content in the provided SMS. Full context requires additional message history or details.*
+**⚠️ Recommendation:** Request the full SMS thread or preceding message content to extract meaningful business/coverage details for your records.

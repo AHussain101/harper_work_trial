@@ -6,33 +6,36 @@
 # SMS Summary for Harper
 
 ## Message Type
-- **Direction:** Outgoing (Harper → Customer)
-- **Date/Time:** December 5, 2025 at 12:30 AM
-- **Purpose:** Instructional notification about communication channel
+- **Direction:** Outgoing (from Harper to client)
+- **Date & Time:** December 5, 2025 at 12:30 AM
+- **Purpose:** Service notification/communication setup
 
-## Communication Details
-- **Key Message:** Customer is being informed to save Harper's phone number for future communications
-- **Content:** All future updates, questions, and quote notices will be sent from this specific line
+## Key Content
+- Client is being instructed to save Harper's phone number
+- This number will be used for all future communications regarding:
+  - Updates
+  - Questions
+  - Quote notices
 
-## Action Items
+## Communication Preferences Established
+- **Primary Contact Method:** SMS/Text messaging
+- **Scope:** All insurance-related communications will originate from this number
 
-### For Customer
-- Save the phone number from which this message was sent
-- Expect future communications from this number regarding:
-  - Insurance updates
-  - Answers to insurance questions
-  - Quote notices and documents
+## Action Items for Client
+- Save this phone number in their contacts for easy identification
 
-### For Harper
-- Note that this message establishes the primary communication channel with the customer
-- Plan to use this number for all ongoing correspondence
-
-## Conversation Context
-- **Tone/Sentiment:** Professional, informational
-- **Status:** Initial setup/onboarding communication
-- **Next Steps:** Awaiting customer response or subsequent insurance discussion
+## Notes for Harper
+- This appears to be an initial outreach/onboarding message
+- Sets expectations for future contact method
+- **No business or personal details were exchanged in this message**
+- **No specific insurance details mentioned** (coverage types, quotes, premiums, etc.)
 
 ---
 
-## ⚠️ Notable Gaps
-No business or personal details are contained in this message. This appears to be a preliminary/introductory communication before substantive insurance discussion occurs.
+## ⚠️ Missing Context
+This is a standalone service notification with minimal information. To build a complete client profile, you will need additional communications covering:
+- Client name and company details
+- Insurance needs and coverage types
+- Quote information and pricing
+- Effective dates and renewal information
+- Any documents or loss runs

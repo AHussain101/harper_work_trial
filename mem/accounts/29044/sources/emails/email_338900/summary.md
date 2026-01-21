@@ -6,48 +6,51 @@
 **From:** submissions@harperinsure.com
 **To:** underwriting@carrier-network.example
 
-# Email Summary: Riverbend Care Homes GL Submission
+# Insurance Submission Summary: Riverbend Care Homes
 
 ## Business Details
 
 **Company Information**
 - Company name: Riverbend Care Homes
+- Industry: Healthcare/Social Services
 - Business type: Group home for adults with disabilities
-- Facility type: Licensed care facility
 - Licensed beds: 5 (initial phase)
+- Staffing: 1 non-medical caregiver (anticipated)
 
-**Coverage & Policy Information**
-- Coverage type: General Liability (GL)
-- Submission status: Application submitted to participating carriers for underwriting consideration
+**Coverage Details**
+- Policy type: General Liability (GL)
+- Status: Submitted to participating carriers for underwriting consideration
+
+**Documents & Submission**
 - Submission date: December 4, 2025
-
-**Staffing Details**
-- Staffing plan: One non-medical caregiver anticipated
-
-**Documents & Status**
-- Application has been formally submitted
-- Carriers may request additional documentation or clarification during underwriting review
+- Submission method: Harper Insurance submissions team
+- Recipients: Participating carrier network for underwriting review
 
 ## Conversation Context
 
-**Main Topic**
-- Confirmation that Riverbend Care Homes GL insurance application has been submitted to carrier network for underwriting evaluation
+**Purpose**
+- Confirmation that GL insurance application has been submitted to carriers
+- Notification that underwriting process is underway
 
-**Key Points**
-- This is a submission confirmation notification (automated)
-- Application is now in underwriters' hands
-- Carriers have ability to request additional subjectivities (questions/documentation)
+**Current Status**
+- Application submitted ✓
+- Awaiting carrier responses, initial indications, and any requests for additional documentation
+- No quotes or decisions received yet
 
 **Action Items for Harper**
-- Monitor for carrier questions or initial underwriting indications
-- Relay any carrier subjectivities/requests to the client as they arrive
-- Follow up with client once carrier feedback is received
+- Monitor for carrier questions or subjectivity requests
+- Relay any carrier inquiries or documentation requests to client (Riverbend Care Homes)
+- Follow up with carrier responses/initial indications when received
+- Track underwriting progress and timeline
+
+**Action Items for Customer (Riverbend Care Homes)**
+- Prepare for potential carrier requests for additional documentation or clarification
+- Be available to respond to any subjectivity questions from underwriters
 
 **Next Steps**
-- Await carrier underwriting responses and feedback
-- No specific timeline provided in this communication
-- Harper will proactively communicate with client regarding any carrier requests or initial indications
+- Awaiting carrier responses (timeline not specified)
+- Harper will provide updates as underwriter questions/indications arrive
 
 **Tone/Sentiment**
-- Professional, routine notification
-- Standard submission process confirmation
+- Professional, routine administrative communication
+- Neutral/informative tone

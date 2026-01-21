@@ -6,62 +6,64 @@
 **From:** rachel.m@maplebridgestaffing.example
 **To:** yvonne@harperinsurance.com
 
-# Email Summary: COI & Coverage Requirements Review
+# Insurance Broker Summary: MapleBridge Staffing COI Request
 
 ## Business Details
 
-**Company Information**
-- **Company Name:** MapleBridge Staffing
-- **Business Type:** Staffing/Workforce Solutions
-- **Location:** 123 Maple Ave, Cambridge, MA 02139
-- **Website:** https://maplebridgestaffing.example
+**Company Information:**
+- Company Name: MapleBridge Staffing
+- Industry: Staffing/Temporary Staffing Services
+- Business Address: 123 Maple Ave, Cambridge, MA 02139
+- Website: https://maplebridgestaffing.example
 
-**Current Insurance Coverage**
-- Employer's Liability (disease/each employee): ~$1.0M
-- Professional Liability (per occurrence): ~$2.0M
-- Commercial General Liability (per occurrence): ~$1.0M
-- Workers' Compensation: Statutory limits
-- Products & Completed Operations: Included where required
-- General Liability Aggregate: ~$10M *(client requires high aggregate)*
-- Commercial Blanket Bond: ~$2.0M
-- Commercial Auto Liability (CSL): ~$1.0M
+**Coverage Types & Limits:**
+- **Employer's Liability**: ~$1.0M (disease / per employee)
+- **Professional Liability**: ~$2.0M (per occurrence)
+- **Commercial General Liability**: ~$1.0M (per occurrence)
+- **General Liability Aggregate**: ~$10M (client specifically requires high aggregate)
+- **Workers' Compensation**: Statutory limits
+- **Products & Completed Operations**: Included where required
+- **Commercial Blanket Bond**: ~$2.0M
+- **Commercial Auto Liability (CSL)**: ~$1.0M
 
-**Special Notes on Coverage**
-- Client has specifically requested high general liability aggregate limits
-- This appears to be a contract/client requirement situation
+---
 
 ## Personal Details
 
-**Primary Contact**
-- **Name:** Rachel Manning
-- **Title:** CEO
-- **Company:** MapleBridge Staffing
-- **Phone:** 617-915-31XX *(partial number in email)*
-- **Email:** rachel.m@maplebridgestaffing.example
+**Primary Contact:**
+- Name: Rachel Manning
+- Title: CEO
+- Company: MapleBridge Staffing
+- Email: rachel.m@maplebridgestaffing.example
+- Phone: 617-915-31XX (partial number provided)
+- Preferred Contact Method: Email (forwarding email address provided)
+
+---
 
 ## Conversation Context
 
-**Purpose of Email**
-- Forwarding required Certificate of Insurance (COI) and coverage summary information
-- Seeking Harper's review and professional guidance on contract requirements
+**Main Topic/Purpose:**
+- Request for Certificate of Insurance (COI) and coverage summary documentation
+- Email forwarded from original sender to Harper for review and action
 
-**Key Request**
-- Review contract requirements for compliance
-- Advise whether any carrier delegations are needed
+**Key Requests from Client:**
+- Review contract requirements
+- Advise on any carrier delegations needed
 - Identify if additional documents are required
 
-**Action Items for Harper**
-- [ ] Review MapleBridge Staffing's contract requirements
-- [ ] Assess current coverage limits against contract obligations
-- [ ] Determine if any carrier delegations are necessary
-- [ ] Identify any additional required documents
-- [ ] Provide written recommendation/advise to Rachel
+**Action Items for Harper:**
+1. Review MapleBridge Staffing's contract requirements
+2. Determine if carrier delegations are necessary
+3. Identify any additional documentation needed beyond the COI
+4. Advise Rachel Manning of findings
 
-**Action Items for MapleBridge Staffing**
-- Awaiting Harper's review and recommendations
+**Action Items for Client:**
+- Awaiting Harper's review and recommendations (implied pending)
 
-**Tone/Sentiment**
-- Professional and straightforward
-- Appears to be a routine contract compliance review request
+**Tone/Sentiment:** Professional and straightforward request
 
-**
+**Next Steps:** Harper should review contract requirements and respond with guidance on carrier delegations and any additional document needs
+
+---
+
+## Notes for Follow-

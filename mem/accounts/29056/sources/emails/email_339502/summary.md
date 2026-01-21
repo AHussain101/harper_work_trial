@@ -10,38 +10,55 @@
 
 ## Business Details
 - **Company Name:** Harbor Watch Security
-- **Industry:** Security (based on domain)
+- **Industry:** Security Services
 - **Coverage Type:** Workers' Compensation
-- **Premium Estimate:** Low thousands (annually) - rounded estimate, final amount pending
+- **Premium Estimate:** Low thousands (annual cost - rounded estimate pending final payroll details)
+- **Status:** Preliminary quote stage; formal quote package in preparation
 - **Variables Affecting Quote:** Selected limits and payroll details
-- **Quote Status:** Preliminary pricing received from carriers; formal quote package in preparation
-- **Next Steps for Pricing:** Carrier subjectivities and coverage options to follow
 
 ## Personal Details
 - **Contact Name:** Anthony Morales
-- **Title/Role:** Appears to be decision-maker for Harbor Watch Security
+- **Title/Role:** Appears to be decision-maker/owner for Harbor Watch Security
 - **Email:** anthony@harborwatchsecurity.com
-- **Communication Style:** Professional; responsive to preliminary updates
-- **Preferred Contact Method:** Email with option for phone discussion
+- **Preferred Contact Method:** Email with option for phone call
+- **Communication Style:** Professional; appears responsive to broker outreach
 
 ## Conversation Context
-- **Email Purpose:** Notify client that preliminary carrier quotes are available for workers' compensation coverage
-- **Main Topic:** Workers' compensation insurance pricing and quote preparation
-- **Key Information Provided:**
-  - Preliminary pricing is in (low thousands, annual cost)
-  - Formal quote package being prepared
-  - Final cost depends on coverage limits selected and payroll information
-  - Additional carrier options and conditions will be provided soon
-- **Questions/Decisions Pending:**
-  - Specific coverage limits preference
-  - Payment plan preference
-- **Tone/Sentiment:** Professional, helpful, proactive
-- **Call to Action for Customer:** 
-  - Reply if interested in discussing coverage limits or payment plans before formal quote sent
-  - Stand by for formal quote package with full details
-- **Action Items for Harper (Jordan Kim):**
-  - Prepare and send formal quote package
-  - Include coverage limit options
-  - Communicate carrier subjectivities and conditions
-  - Offer phone call if customer wants to discuss before formal quote
-- **Follow-up Timeline:** Formal quote package "shortly" (no specific date given)
+
+### Main Topic
+- Delivery of preliminary workers' compensation insurance pricing to prospect
+
+### Key Points Discussed
+- Carriers have provided initial pricing indications
+- Full formal quote package is being prepared and will be sent separately
+- Quote is subject to carrier requirements/subjectivities
+- Final premium depends on coverage limit selection and payroll confirmation
+
+### Pending Decisions
+- Coverage limits selection
+- Payment plan preference
+
+### Action Items for Harper
+- [ ] Send formal quote package summary
+- [ ] Prepare coverage limit options for presentation
+- [ ] Identify and communicate any carrier subjectivities or requirements
+- [ ] Schedule call with Anthony if requested
+
+### Action Items for Customer (Anthony Morales)
+- [ ] Review preliminary estimate
+- [ ] Consider preferred coverage limits
+- [ ] Consider payment plan preferences
+- [ ] Respond if interested in pre-quote discussion call
+
+### Follow-Up Timeline
+- Formal quote package: "shortly" (timeline not specified - appears imminent)
+- Next communication: Pending Anthony's response
+
+### Tone/Sentiment
+- **Tone:** Professional, helpful, service-oriented
+- **Sentiment:** Positive; moving forward with quote process
+- **Urgency Level:** Moderate (preliminary stage, no rush indicated)
+
+---
+
+**Note:** This appears to be an early-stage quote opportunity with no critical documents or loss runs mentioned yet.

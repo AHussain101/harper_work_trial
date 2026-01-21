@@ -3,44 +3,45 @@
 **Date:** 2025-12-04T23:28:17.461000+00:00
 **Direction:** Outgoing
 
-# SMS Summary
+# SMS Summary for Harper
 
 ## Message Overview
-- **Direction:** Outgoing (Harper → Customer)
-- **Date & Time:** December 4, 2025 at 11:28 PM
-- **Tone/Sentiment:** Professional, action-oriented
-
----
+- **Direction:** Outgoing (Harper sending to customer)
+- **Date/Time:** December 4, 2025 at 11:28 PM
+- **Tone:** Professional, action-oriented
 
 ## Conversation Context
 
 ### Main Topic
-- Harper is sending corrected documents to the customer
+Harper is sending corrected documents to the customer.
 
-### Key Actions
-- **Harper's Action Item:** Sending corrected documents now (in progress/completed)
+### Action Items for Harper
+- ✅ **Completed:** Sending corrected documents
 
-### Context Gaps
-- **Note:** This is a brief confirmation message with minimal context
-- The nature of the corrections is not specified
-- The specific documents being sent are not identified
-- The customer/business details are not mentioned in this message
+### Action Items for Customer
+- ⏳ **Pending:** Receive and review corrected documents
+
+### Key Details
+- **Documents:** Corrected versions (specific document types not specified in this message)
+- **Status:** In transit/being sent
 
 ---
 
-## Missing Information for Full Context
+## ⚠️ Missing Information
 
-To better understand this communication, consider:
-- What documents were corrected? (policy documents, quotes, applications, etc.)
-- What was incorrect about the original documents?
-- What was the customer's previous request or complaint?
-- Is this related to a renewal, new policy, or claims process?
-- What is the expected next step after receiving these documents?
+The following critical details are **NOT provided** in this message and should be clarified:
+
+- **Customer name/contact details** - Unknown
+- **Specific documents being sent** - Type/purpose unclear
+- **What corrections were made** - Reason for resend unknown
+- **Expected response timeline** - Not specified
+- **Business details** - No context about the policy or client
+- **Next steps** - Follow-up actions not mentioned
 
 ---
 
 ## Recommended Follow-Up
-If reviewing later, reference previous messages in this conversation thread to understand:
-- What corrections were needed
-- Which business/client this relates to
-- What action the customer needs to take upon receipt
+Harper may want to follow up with specific details about:
+- What documents were corrected and why
+- Deadline for customer review/signature
+- Next steps in the process

@@ -10,66 +10,54 @@
 
 ## Business Details
 
-**Company Information:**
-- Company name: Johnson Engineering, LLC
-- Industry: Engineering
-- Business type: Not explicitly stated, but professional services (based on E&O coverage request)
+- **Company Name:** Johnson Engineering, LLC
+- **Industry:** Engineering
+- **Coverage Types Requested:**
+  - Professional E&O (Errors & Omissions): $1M/$2M limits
+  - General Liability: $1M/$2M limits
+  - Cyber Liability: $1M limit
+  - Umbrella: $1M limit
 
-**Coverage Details Requested:**
-- Professional E&O: $1M/$2M limits
-- General Liability: $1M/$2M limits
-- Cyber Liability: $1M limit
-- Umbrella: $1M limit
+- **Premium & Pricing:**
+  - Estimated carrier premium and fees: ~$4,300
+  - Harper service fee: ~$200
+  - **Estimated total due: ~$4,500**
+  - Payment options: Full payment via secure portal OR short-term installment plan available
 
-**Premium & Pricing:**
-- Carrier premium and fees (United Specialty example): ~$4,300
-- Harper Insurance service fee: ~$200
-- **Estimated total due: ~$4,500**
-- Payment options: Full payment via secure portal OR short-term installment plan available
-- Secure payment link provided: https://payments.example-insure.com/quote-johnson-01
-
-**Quote Status:**
-- Preliminary/indicative quote only
-- Final terms subject to change pending carrier underwriting review
-- Example carrier shown: United Specialty
-- Additional carriers likely in process
-
----
+- **Carrier Information:**
+  - Example carrier provided: United Specialty
+  - **Status:** Preliminary quotes only — final terms pending underwriting review
 
 ## Personal Details
 
-**Primary Contact:**
-- Name: Brandon Johnson
-- Email: brandon.johnson@johnsonengineering.com
-- Role/Title: Not specified (likely owner/decision-maker)
+- **Contact Name:** Brandon Johnson
+- **Email:** brandon.johnson@johnsonengineering.com
+- **Role/Title:** Appears to be decision-maker/owner (implied by email recipient status)
 
-**Harper Contact:**
-- Name: Alex Rivera
-- Title: Account Executive
-- Email: alex.rivera@harperinsure.com
-- Company: Harper Insurance
-
----
+- **Harper Contact:**
+  - Name: Alex Rivera
+  - Title: Account Executive
+  - Email: alex.rivera@harperinsure.com
 
 ## Conversation Context
 
-**Purpose:**
-- Delivery of preliminary insurance quotes following customer request for multiple coverage types
+- **Purpose:** Delivery of preliminary insurance quotes for requested coverages
 
-**Key Information Communicated:**
-- Quote is preliminary; final pricing/terms pending underwriting
-- Multiple payment options available
-- Customer can request specific carriers or adjust limits/deductibles before binding
+- **Key Information:**
+  - This is preliminary pricing only; final terms may change after underwriting
+  - Subjectivities remain to be confirmed during underwriting review
+  - Secure payment portal available: https://payments.example-insure.com/quote-johnson-01
 
-**Action Items for Harper:**
-- Await customer response regarding:
-  - Acceptance of quote or request for modifications
-  - Carrier preferences
-  - Limit/deductible adjustments
-- Follow underwriting review process with United Specialty
-- Prepare final documentation upon customer decision
+- **Pending Items:**
+  - Carrier underwriting review of application materials
+  - Final pricing confirmation post-underwriting
 
-**Action Items for Customer (Brandon Johnson):**
-- Review preliminary quote
-- Decide on payment method (full or installment)
-- Reply if requesting specific carriers or
+- **Action Items for Harper:**
+  - Await Brandon's response regarding carrier preferences or coverage adjustments
+  - Prepare for underwriting submission once Brandon provides feedback
+  - Process binding once Brandon confirms acceptance of terms
+
+- **Action Items for Customer (Brandon Johnson):**
+  - Review preliminary quote details
+  - Confirm acceptance of terms OR request adjustments to carrier selection, limits, or deductibles
+  - Arrange payment via secure portal or request installment

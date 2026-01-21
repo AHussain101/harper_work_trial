@@ -6,34 +6,36 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Coverage/Documents**: Preliminary quotes have been prepared and uploaded
-- **Portal Access**: Customer has access to online portal where quotes are located
-- **Next Step**: Formal review call needed to discuss quotes
+- **Coverage Type:** Preliminary quotes provided
+- **Documents Shared:** Quotes uploaded to customer portal
+- **Next Step:** Review call needed to discuss quotes
 
 ## Personal Details
-- **Contact Name**: Alicia
-- **Preferred Contact Method**: SMS reply
-- **Communication Style**: Brief, direct messaging preferred
+- **Contact Name:** Alicia
+- **Preferred Contact Method:** SMS (text message reply)
+- **Communication Style:** Professional, direct
 
 ## Conversation Context
-- **Main Topic/Purpose**: Notification of preliminary insurance quotes ready for review
-- **Status**: Quotes uploaded and awaiting customer feedback
-- **Key Action Item for Harper**:
-  - Wait for Alicia's SMS reply to schedule review call
-  - Prepare for upcoming call discussion with Alicia
-  
-- **Action Item for Customer (Alicia)**:
-  - Reply via SMS to confirm availability for review call
-  - Review preliminary quotes in portal before call
-  
-- **Follow-up Timeline**: Pending Alicia's response to schedule call
-- **Tone/Sentiment**: Professional, helpful, action-oriented
+- **Main Topic:** Quote delivery and scheduling review meeting
+- **Purpose:** Inform customer that preliminary insurance quotes have been uploaded and initiate next steps
+- **Key Action:** Waiting for customer to reply via SMS to schedule review call
+- **Tone/Sentiment:** Professional, proactive
+
+## Action Items
+
+### For Harper
+- [ ] Await Alicia's reply to schedule review call
+- [ ] Be prepared to discuss preliminary quotes during the call
+- [ ] Have quote details, premium amounts, coverage options ready for discussion
+
+### For Customer (Alicia)
+- [ ] Review preliminary quotes in portal
+- [ ] Reply via SMS to schedule review call with Harper
+
+## Follow-up Timeline
+- **Status:** Pending customer response
+- **Next Contact Method:** SMS response expected from Alicia
 
 ---
 
-## Missing Information to Obtain
-- Alicia's company details (business type, industry, size)
-- Specific insurance lines/coverage types in quotes
-- Premium amounts or policy limits
-- Renewal/effective dates
-- Alicia's phone number or email (if different from SMS channel)
+**Note:** This message appears to be a follow-up after quotes were prepared. Limited context available - monitor for Alicia's reply to move forward with the review discussion.

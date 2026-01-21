@@ -5,41 +5,34 @@
 
 # SMS Summary for Harper
 
-## Business Details
-- **No business details mentioned**
-
-## Personal Details
-- **Contact name/role:** Not specified in this message
-- **Preferred contact method:** Phone call (SMS reply for scheduling)
-- **Communication style:** Professional, casual/friendly tone
-
 ## Conversation Context
 
-### Main Topic
-- Harper is offering to schedule a call to discuss insurance coverages with the recipient
+### Main Topic/Purpose
+- Offering to schedule a call with the customer to discuss and review insurance coverages
+- Follow-up message (appears to be responding to a previous interaction, indicated by "Thanks")
 
-### Key Points
-- This appears to be a follow-up message (starts with "Thanks")
-- Call purpose: Review/discuss coverage options
+### Key Details
+- **Tone/Sentiment:** Friendly, professional, helpful
+- **Type of Communication:** Outgoing SMS from Harper
+- **Purpose:** Moving conversation forward by proposing a call to discuss coverage details
 
-### Action Items
+## Action Items
 
-**For Harper:**
-- Await recipient's reply with available times for a call
+### For Harper
+- **Pending:** Awaiting customer's response with their availability for a call
+- **Next Step:** Schedule call once customer provides preferred time
 
-**For Customer:**
-- Reply to this SMS with preferred time slot(s) for the coverage discussion call
+### For Customer
+- **Required Action:** Reply with available time(s) for a call to discuss coverages
+- **Preferred Contact Method:** Phone call (as indicated by Harper's suggestion)
 
-### Follow-up Timeline
-- Next step contingent on customer's response with availability
+## Important Notes
 
-### Tone/Sentiment
-- **Friendly and accommodating** — Harper is being flexible about scheduling and keeping the conversation casual
+⚠️ **Context Limitation:** This appears to be a follow-up message in an ongoing conversation. The SMS itself lacks:
+- Customer/business identification details
+- Specific coverage types being discussed
+- Premium amounts or policy details
+- Carrier information
+- Specific dates or urgency level
 
----
-
-## ⚠️ Notes for Harper
-- This message lacks context about which customer/business this relates to
-- No specific coverage types, policy details, or company information discussed yet
-- This is likely an initial outreach or early-stage conversation
-- Customer engagement appears positive (implied they're interested in discussing coverages)
+**Recommendation:** Review prior messages in this conversation thread to capture customer name, business details, coverage needs, and any background information discussed earlier.

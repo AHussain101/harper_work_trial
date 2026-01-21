@@ -10,75 +10,64 @@
 
 ## Business Details
 
-**Company Information:**
-- **Business Name:** Brightview Adult Day Center
-- **Business Type:** Adult day health program
+**Company Information**
+- **Company Name:** Brightview Adult Day Center
+- **Business Type:** Adult day health care facility
 - **Industry:** Healthcare/Senior Care Services
-- **Structure:** C-Corporation
-- **Years in Operation:** Since 2021
+- **Business Structure:** C-Corporation (operating since 2021)
+- **Location:** Maryland (MD)
+
+**Operations & Staffing**
 - **Number of Employees:** 5 part-time staff + registered clinical staff for medication oversight
 - **Annual Revenue:** ~$370,000
-- **Licensing:** Licensed by state health authorities for medical day care services
+- **Services Provided:** Daily care and supervised activities for adult clients; medication management; supervised mobility support
+- **Licensing:** State-licensed for medical day care services
+- **Transportation:** Third-party vendor arrangement for client transport
 
-**Coverage Needs:**
-- General Liability (GL)
-- Commercial Property (CP)
-- Business Owners Policy (BOP)
+**Coverage Details**
+- **Coverage Types Needed:**
+  - General Liability (GL)
+  - Commercial Property (CP)
+  - Business Owners Policy (BOP)
+- **Policy Start Date:** Early December (2025)
+- **Premium Amounts:** Not specified
+- **Deductibles:** Not specified
+- **Coverage Limits:** Not specified
 
-**Policy Dates:**
-- **Policy Start Date:** Early December 2025 (pending)
+**Claims & Loss History**
+- **Loss Runs:** 3-year loss run documentation has been **requested** for underwriting review (status: pending receipt)
 
-**Risk Characteristics:**
-- Daily care and supervised activities for adult clients
-- Medication management and supervised mobility support
-- Group activities
-- Third-party vendor transportation for clients
-- Staff CPR training
-- Video surveillance systems
-- Written emergency plans in place
-
-**Documents Requested:**
-- Loss run documentation for past 3 years (requested for underwriting review)
+**Risk Characteristics & Safety Measures**
+- Adult day care with medication management requirements
+- Supervised mobility support for clients
+- Group activities programming
+- Staff CPR training completed
+- Video surveillance in place
+- Written emergency plans documented
+- Client capacity and staffing levels documented for underwriting
 
 ---
 
 ## Personal Details
 
-**Key Contact:**
-- **Name:** Emma Johnson
-- **Role:** Owner
-- **Background:** Brings industry experience and oversight to the operation
+**Primary Contact**
+- **Name:** Shannon Hurst
+- **Email:** shannon.hurst@rtspecialty.com
+- **Organization/Role:** RT Specialty (appears to be recipient/underwriting contact)
 
-**Other Contacts Referenced:**
-- Shannon Hurst (RT Specialty) - appears to be recipient/underwriting contact
+**Key Stakeholder**
+- **Name:** Emma Johnson
+- **Role:** Owner/Principal
+- **Background:** Brings industry experience and provides oversight of operations
 
 ---
 
 ## Conversation Context
 
-**Purpose of Email:**
-Submission summary to RT Specialty for new insurance coverage placement
+**Email Purpose**
+- Formal insurance submission for new business coverage at Brightview Adult Day Center
+- Initial underwriting submission to RT Specialty
 
-**Main Topic:**
-Risk assessment and underwriting submission for Brightview Adult Day Center
-
-**Status:**
-- New coverage being engaged
-- Awaiting loss run documentation from applicant
-- Policy pending effective date in early December
-
-**Documents in Progress:**
-- Loss runs (3-year history) - requested but not yet provided
-
-**Outstanding Action Items:**
-
-*For Customer:*
-- Provide loss run documentation for past 3 years to Harper/underwriting
-
-*For Harper:*
-- Follow up on receipt of loss run documentation
-- Submit complete underwriting package to carrier once loss runs received
-- Finalize quotes from carriers
-- Confirm December policy effective date with underwriting
-
-**Tone/
+**Main Topics**
+- New coverage placement for adult day care facility
+- Under

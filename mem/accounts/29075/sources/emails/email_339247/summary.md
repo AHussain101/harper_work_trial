@@ -6,72 +6,72 @@
 **From:** Jamie Park <jamie.park@harperinsure.com>
 **To:** risingtransportllc@gmail.com
 
-# Harper Insurance - Rising Transport LLC Summary
+# Email Summary: Rising Transport LLC Insurance Quote Update
 
 ## Business Details
 
-**Company Information:**
-- Company Name: Rising Transport LLC
-- Industry: Transportation/Trucking
-- Business Type: Transport company
+**Company Information**
+- Company name: Rising Transport LLC
+- Industry: Transportation
+- Business type: Transport/Logistics company
 
-**Coverage & Documentation Needs:**
-- Policy Types: Commercial transportation insurance
-- Documents Requested:
-  - Proof of prior coverage
-  - MCS-150 form (motor carrier safety form)
-  - Legal correspondence (if any)
-  - Loss runs for last 3 years (or available period)
-  - Certificate of Insurance (COI) requirements for contracts
-- Additional Information Needed: Any additional coverage needs or known exposures
-
-**Current Status:**
+**Coverage & Documents Requested**
 - Application submitted to carrier network
-- Initial carrier responses expected shortly
-- Quote stage in progress
+- **Documents needed (via secure portal):**
+  - Proof of prior coverage
+  - MCS-150 form
+  - Any legal correspondence
+  - Loss runs for last 3 years (or available period)
+- **Additional information requested:**
+  - Certificate of Insurance (COI) requirements for contracts
+  - Any additional coverage needs or known exposures
 
----
+**Portal Information**
+- Secure upload portal: https://portal.harperinsure.com/upload/rising-transport
 
 ## Personal Details
 
-**Primary Contact:**
-- Name: Marco (last name not provided)
+**Contact Information**
+- Name: Marco (customer contact)
 - Email: risingtransportllc@gmail.com
-- Role: Decision-maker/owner (inferred from application context)
+- Agent: Jamie Park (Harper Insurance)
+- Agent email: jamie.park@harperinsure.com
+- Agent phone: 470-731-4971
 
-**Harper Insurance Agent:**
-- Name: Jamie Park
-- Email: jamie.park@harperinsure.com
-- Phone: 470-731-4971
-- Website: www.harperinsure.com
-
----
+**Communication Style**
+- Marco is responsive and cooperative (took time to speak with Harper team)
+- Professional/business tone from agent
+- Appreciative tone from Harper's side
 
 ## Conversation Context
 
-**Purpose:**
-- Follow-up on insurance application submission for Rising Transport LLC
-- Request for required documentation to expedite quote process
+**Main Topic**
+- Follow-up on insurance quote application for Rising Transport LLC after initial conversation
 
-**Key Actions for Marco (Customer):**
-1. Upload documents via secure portal: https://portal.harperinsure.com/upload/rising-transport
+**What's Happened**
+- Initial consultation meeting completed with Marco
+- Application submitted to Harper's carrier network
+- Awaiting initial carrier responses
+
+**Action Items for Marco (Customer)**
+1. Upload required documents to secure portal:
    - Proof of prior coverage
    - MCS-150 form
-   - Any legal correspondence
-   - Loss runs (3 years or available period)
-2. Provide any COI requirements for contracts
-3. Clarify any additional coverage needs or exposures
-4. Contact Harper if assistance needed obtaining loss runs
+   - Legal correspondence (if any)
+2. Provide loss runs (3 years or whatever available)
+3. Provide COI requirements if contractually obligated
+4. Communicate any additional coverage needs or exposures
+5. Contact Harper if assistance needed obtaining loss runs
 
-**Key Actions for Harper:**
-1. Monitor carrier responses to submitted application
-2. Review uploaded documentation once received
-3. Prepare quotes based on carrier feedback and documentation
+**Action Items for Harper/Jamie**
+- Monitor for carrier responses to application
+- Be available to assist with loss run procurement if needed
+- Review uploaded documents when provided
 
-**Timeline:**
-- Initial carrier responses expected "shortly" (no specific date given)
+**Timeline**
+- Carrier responses expected "shortly"
+- No specific deadline mentioned
 
-**Tone/Sentiment:**
-- Professional, collaborative, and helpful
-- Marco responded positively to initial conversation
-- No urgency indicators, but process moving forward actively
+**Next Steps**
+- Awaiting document upload from Marco
+-

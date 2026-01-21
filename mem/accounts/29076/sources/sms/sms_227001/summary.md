@@ -5,38 +5,38 @@
 
 # SMS Summary for Harper
 
-## Conversation Context
-- **Main Topic:** Acknowledgment of a previous update
-- **Direction:** Incoming message from customer
-- **Date/Time:** December 4, 2025 at 9:20 PM UTC
+## Message Details
+- **Date/Time:** December 4, 2025 at 9:20 PM
+- **Direction:** Incoming (customer to Harper/agent)
 - **Tone/Sentiment:** Positive, appreciative
-
-## Personal Details
-- **Contact Name:** Not specified in this message
-- **Message Recipient:** Jordan (likely Harper's colleague or team member)
-- **Communication Style:** Professional, courteous, brief
-
-## Key Points
-- Customer is thanking "Jordan" for providing an update
-- Indicates a previous communication or update was received and appreciated
-- No specific details about insurance coverage, quotes, or policies mentioned in this message
-
-## Action Items
-
-### For Harper
-- **Context Needed:** Review previous communication with this customer to understand:
-  - What update was provided by Jordan
-  - What coverage, quotes, or policy details were discussed
-  - Any pending decisions or next steps from that conversation
-- **Note:** Clarify if "Jordan" is a team member who handled this customer or if there's a naming confusion
-
-### For Customer
-- No outstanding action items indicated in this message
-
-## Follow-Up Timeline
-- No specific follow-up timeline mentioned
-- May need to reference previous conversation thread for context on next steps
 
 ---
 
-**⚠️ NOTE:** This is a brief acknowledgment message. Review the previous SMS/email thread with this customer to capture full context of what update they're referencing.
+## Contact Information
+- **Contact Name:** Not specified (referred to as "Jordan" - likely the sender or someone Jordan represents)
+- **Communication Method:** SMS
+
+---
+
+## Conversation Context
+- **Main Topic:** Acknowledgment of a previous update
+- **Key Details:**
+  - Customer is thanking the recipient (presumably Harper or someone on Harper's team) for providing an update
+  - Positive reception to the communication received
+
+---
+
+## Action Items & Next Steps
+- **For Harper:** 
+  - No immediate action required based on this message
+  - Continue with pending items from the previous update that prompted this response
+  - Monitor for further communication from this contact
+  
+- **For Customer:** 
+  - None explicitly stated
+
+---
+
+## Notes
+- **Missing Context:** This is a brief acknowledgment message. The previous update being referenced is not included in this SMS thread, so the full context of what was communicated is unknown
+- **Recommendation:** Review prior correspondence with this contact to understand what update triggered this response and ensure all action items from that conversation are being addressed

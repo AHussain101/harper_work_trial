@@ -6,71 +6,55 @@
 **From:** quotes@rps.com
 **To:** submissions@harperinsure.com
 
-# Email Summary: RPS Preliminary Quote - Summit Security Solutions
+# Email Summary: RPS Preliminary Quote for Summit Security Solutions
 
 ## Business Details
 
 **Company Information:**
-- Company Name: Summit Security Solutions
-- Industry: Security Services
-- Business Type: Not explicitly stated
+- Company name: Summit Security Solutions
+- Industry: Security services
+- Coverage type: General Liability
 
-**Coverage Details:**
-- Coverage Type: General Liability
-- Proposed Premium: $1,200
-- Policy Limits: State-minimum limits
-  - Per Occurrence: ~$100,000
-  - Aggregate: ~$200,000
-- Quote Number: RPS-48291
-- Quote Validity Period: 60 days
+**Policy Details:**
+- Coverage: General Liability
+- Proposed premium: ~$1,200
+- Policy limits: State-minimum limits
+  - Per occurrence limit: ~$100,000
+  - Aggregate limit: ~$200,000
+- Quote number: RPS-48291
+- Quote validity: 60 days
 
-**Additional Information:**
-- Carrier: RPS Underwriting
-- Status: Preliminary quote provided
-
----
-
-## Personal Details
-
-**Contacts:**
-- From: quotes@rps.com (RPS Underwriting)
-- To: submissions@harperinsure.com (Harper's office email)
-- Specific contact names at Summit Security Solutions: Not provided
-- Specific contact names at Harper Insurance: Not specified
-
----
+**Documents/References:**
+- Quote provided by: RPS Underwriting
+- Quote number: RPS-48291
 
 ## Conversation Context
 
 **Purpose:**
-- RPS Underwriting is submitting a preliminary General Liability quote for Harper to review on behalf of client Summit Security Solutions
+- Preliminary General Liability insurance quote for Summit Security Solutions
 
-**Key Information Provided:**
-- Quote is preliminary and subject to review
-- Quote references potential "subjectivities" (additional conditions or requirements that may apply)
+**Current Status:**
+- Quote received from RPS Underwriting
+- Awaiting Harper's review and feedback
 
 **Action Items for Harper:**
 - Review the preliminary quote
-- Advise RPS if any adjustments are needed
-- Identify if any additional subjectivities apply
-- Determine next steps with client
+- Determine if any adjustments are needed to coverage or premium
+- Identify if additional subjectivities apply
+- Advise RPS Underwriting of any changes needed
+- **Pending:** Decision on whether to proceed, request modifications, or seek alternative quotes
 
-**Action Items for Customer (Summit Security Solutions):**
-- Pending Harper's review and recommendation
+**Pending Information:**
+- Client acceptance/approval of quote terms
+- Clarification on whether adjustments or additional subjectivities are needed
+- Next steps (acceptance, modification, or rejection)
 
-**Follow-up Timeline:**
-- Quote valid for 60 days from 2025-12-05
+**Timeline:**
+- Quote expires in 60 days from 2025-12-05
 
 **Tone/Sentiment:**
-- Neutral/Professional - routine quote submission
+- Neutral/professional; routine quote submission
 
 ---
 
-## Missing/Needed Information
-
-- Client contact information for Summit Security Solutions
-- Specific client contact person and title
-- Employee count and revenue for Summit Security Solutions
-- Claims history or loss runs
-- Current coverage or renewal date
-- Whether additional coverages are needed beyond General Liability
+**⚠️ Note:** This appears to be a preliminary quote awaiting Harper's review. No client contact information, renewal date, or claims history is included in this communication.

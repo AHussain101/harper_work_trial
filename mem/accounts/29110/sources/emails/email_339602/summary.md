@@ -6,68 +6,67 @@
 **From:** harper_employee@harperinsure.com
 **To:** neil.carter@brightsideplaythings.com
 
-# Insurance Quote Summary for Brightside Playthings LLC
+# Insurance Quote Summary for Harper
 
 ## Business Details
 
-### Company Information
-- **Company Name:** Brightside Playthings LLC
-- **Industry:** Toy/Playthings Manufacturing
-- **Business Type:** Product manufacturer (requires product testing and recall planning)
+**Company Information:**
+- Company Name: Brightside Playthings LLC
+- Industry: Toy/Plaything Manufacturing
+- Business Type: Product manufacturer
 
-### Coverage & Pricing
-- **Estimated Annual Program Cost:** ~$18,000/year (low tens of thousands)
-  - *Note: Final amount depends on final territories and subjectivities*
-- **Status:** Initial estimate provided; carrier-specific terms and subjectivities still pending
-- **Final Premium Details:** To be included in formal quote along with payment options
+**Coverage & Quote Details:**
+- **Initial Program Estimate:** ~$18,000/year (low tens of thousands range)
+- **Quote Status:** Preliminary estimate provided; final premium pending
+- **Carrier-Specific Terms:** Still pending from market
+- **Subjectivities:** Pending finalization (noted as dependent on final territories and other factors)
+- **Payment Options:** Will be provided with formal quote
 
-### Documents Needed
-- [ ] Loss runs
-- [ ] Product testing reports
-- [ ] Recall plan
+**Documents Requested (CRITICAL - NOT YET PROVIDED):**
+- Loss runs
+- Product testing reports
+- Recall plan
 - **Upload Portal:** https://payments.example-insure.com/quote-abc123
 
-### Renewal/Effective Date
-- *Not specified in this email*
+**Next Steps on Business Side:**
+- Final territories to be determined
+- Carrier subjectivities to be resolved
+- Formal quote with payment options to follow
 
 ---
 
 ## Personal Details
 
-### Primary Contact
+**Contact Information:**
 - **Name:** Neil Carter
 - **Email:** neil.carter@brightsideplaythings.com
-- **Role/Title:** *Not specified*
-- **Company Contact Method:** Email preferred (based on communication pattern)
-
-### Harper Insurance Contact
-- **Sender:** Harper Employee
-- **Email:** harper_employee@harperinsure.com
-- **Availability:** Open to phone discussion if Neil wants to discuss options
+- **Title/Role:** Not specified (likely decision-maker or insurance contact at Brightside Playthings)
+- **Preferred Contact Method:** Email or phone (per email invitation)
 
 ---
 
 ## Conversation Context
 
-### Purpose
-Initial insurance estimate/quote for Brightside Playthings LLC product liability and related coverages
+**Purpose:** Delivery of initial insurance program estimate for Brightside Playthings LLC
 
-### Key Information Provided
-- High-level program cost estimate of approximately $18,000/year
-- Clarification that final premium depends on territories and underwriting subjectivities
-- Carrier-specific terms still being finalized
+**Key Information Shared:**
+- Rough annual program cost: ~$18,000
+- Estimate is preliminary pending documentation and carrier finalization
+- This is a toy/product manufacturer with potential recall and testing considerations
 
-### Pending Items
-- Carrier-specific terms and final subjectivities from underwriters
-- Formal quote with payment options
-- Document uploads from client
+**Action Items for Harper:**
+- Obtain remaining carrier-specific terms and subjectivities
+- Finalize quote based on territories once confirmed
+- Prepare formal quote with final premium and payment options
+- Monitor document upload portal for Neil's submissions
 
-### Action Items - **Harper**
-- Follow up once documents are received
-- Obtain final carrier terms and subjectivities
-- Prepare formal quote with payment options
-- Be available for phone discussion per customer preference
+**Action Items for Neil Carter (Customer):**
+- Upload loss runs via portal
+- Upload product testing reports via portal
+- Upload recall plan via portal
+- Review initial estimate
+- Optionally contact Harper to discuss options
 
-### Action Items - **Neil Carter**
-- [ ] Upload loss runs via portal
-- [ ]
+**Tone/Sentiment:** Professional, helpful, straightforward
+
+**Follow-Up Timeline:**

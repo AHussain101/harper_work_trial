@@ -6,60 +6,64 @@
 **From:** underwriting@carrier-requests.com
 **To:** olivia.grant@brooksidebotanicals.com
 
-# Insurance Quote Summary for Harper
+# Email Summary for Harper
 
 ## Business Details
 
 **Company Information**
 - Company Name: Brookside Botanicals
-- Industry: Manufacturing/Personal Care (soap production)
-- Product: Finished soap products (multiple SKUs)
-- Primary formulation: Botanical soap
+- Industry: Personal Care/Soap Manufacturing
+- Product Type: Finished soap products (multiple SKUs)
 
-**Coverage & Policy Details**
-- Policy Status: Under underwriting review
-- Current Stage: Pre-quote finalization
-- Carrier: Not explicitly named (referred to as "carrier review team")
-- Quote Timeline: Expedited upon document receipt
+**Coverage/Policy Details**
+- Policy Status: Underwriting review in progress
+- Stage: Terms finalization pending document submission
+- Carrier: Unnamed (referred to as "carrier review team")
+
+**Documents Requested**
+- High-resolution product label(s) for finished soap SKU(s)
+- Current Safety Data Sheet (SDS) for primary soap formulation
+
+**Submission Methods Available**
+- Direct email to: ashley.myers@harperinsure.com
+- Portal upload (carrier's system)
+
+---
 
 ## Personal Details
 
-**Primary Contact**
-- Name: Olivia Grant
-- Email: olivia.grant@brooksidebotanicals.com
-- Role/Title: Not specified (appears to be decision-maker/owner)
+**Contact Information**
+- Primary Contact Name: Olivia
+- Contact Email: olivia.grant@brooksidebotanicals.com
+- Underwriting Contact: ashley.myers@harperinsure.com
+- Sender Email: underwriting@carrier-requests.com
 
-**Insurance Broker Contact**
-- Name: Ashley Myers
-- Title: Harper Underwriting team
-- Email: ashley.myers@harperinsure.com
-- Organization: Harper Insurance (inferred as Harper's firm)
+---
 
 ## Conversation Context
 
-**Main Purpose**
-- Underwriting review for Brookside Botanicals insurance quote
-- Carrier requesting additional documentation before finalizing policy terms
+**Main Topic**
+- Underwriter document request to finalize insurance quote/terms
 
-**Documents Requested (Action Items for Customer)**
-1. High-resolution product label(s) for finished soap SKU(s)
-2. Current Safety Data Sheet (SDS) for primary soap formulation
+**Key Items**
+- Underwriting review identified 2 items needed before proceeding
+- Documents are routine requirements for product liability/manufacturing coverage
 
-**Submission Options Provided**
-- Email directly to Ashley Myers at Harper Insurance
-- Upload via carrier portal
+**Status**
+- Quote/terms NOT yet finalized - pending document submission
+- Flagged as urgent to "expedite quoting"
+
+**Action Items for Customer (Olivia)**
+- [ ] Upload high-resolution product label(s) for soap SKU(s)
+- [ ] Provide current SDS for primary soap formulation
+- [ ] Submit via email to ashley.myers@harperinsure.com OR portal upload
 
 **Action Items for Harper**
-- Ensure Olivia Grant receives this request
-- Follow up if documents aren't submitted within reasonable timeframe
-- Process documents upon receipt to expedite quote finalization
-
-**Next Steps**
-- Customer to provide requested documents
-- Upon receipt: Quote finalization and terms completion
-- Timeline: Described as expedited once documents provided
+- [ ] Follow up with Olivia if documents not received within reasonable timeframe
+- [ ] Confirm receipt and forward to underwriting team
+- [ ] Monitor for final underwriting approval
 
 **Tone/Sentiment**
-- Professional and cooperative
-- Routine underwriting request
-- No urgency indicated, but "expedite" suggests quicker turnaround upon compliance
+- Professional and courteous
+- Urgent/time-sensitive (expedited language used)
+- Routine underwriting process

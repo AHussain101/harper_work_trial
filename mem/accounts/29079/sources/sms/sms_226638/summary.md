@@ -3,48 +3,36 @@
 **Date:** 2025-12-04T21:21:13.464000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
-
-## Business Details
-- **Company/Account Status:** Customer has submitted business for insurance coverage
-- **Coverage Status:** Submissions currently in progress
-- **Documents/Information:** Awaiting details from customer submissions
-
-## Personal Details
-- **Harper Agent:** HARPER_AGENT
-- **Customer Contact:** Not specified in this message
-- **Communication Method:** SMS
+# SMS Summary for Harper Insurance Broker
 
 ## Conversation Context
+- **Direction:** Outgoing message from Harper Agent to client
+- **Date/Time:** December 4, 2025 at 9:21 PM
+- **Main Purpose:** Initial outreach/acknowledgment message
+- **Tone/Sentiment:** Professional, friendly, reassuring
 
-### Main Topic/Purpose
-- Initial outreach/acknowledgment message to customer regarding their insurance submission
-- Reassurance that Harper Insurance is actively processing their request
+## Message Content Summary
+Harper Agent is:
+- Thanking the client for entrusting Harper Insurance with their business
+- Acknowledging that submissions are currently being processed
+- Providing reassurance that work is actively underway
 
-### Key Messages
-- Thanking customer for their business/trust
-- Confirming that submissions are being worked on
-- Setting expectation that process is underway
+## Action Items for Harper
+- Continue processing client submissions
+- Maintain momentum on current work in progress
+- Follow up with client once submissions are completed or if additional information is needed
 
-### Tone/Sentiment
-- **Tone:** Professional, friendly, reassuring
-- **Sentiment:** Positive
+## Action Items for Customer
+- None indicated at this time (this is an informational/acknowledgment message)
 
-## Action Items
+## Missing Information for Follow-up
+⚠️ **Note:** This is a brief acknowledgment message. The following details are NOT included and should be clarified in subsequent communications:
 
-### For Harper
-- Continue processing customer submissions
-- Prepare next communication with updates or information requests
-
-### For Customer
-- None explicitly stated in this message
-- Implied: Await further communication from Harper regarding submission status
-
-## Follow-up Timeline
-- No specific timeline mentioned
-- No explicit next steps or deadline provided
-- Customer should expect future communication as submissions are processed
+- **Business Details:** Company name, industry, coverage needs, policy types, premium amounts
+- **Personal Details:** Contact name, specific role/title, phone number, email address
+- **Submission Details:** What specific submissions are being processed, expected timeline for completion, what documents may be needed
+- **Next Steps:** When client should expect to hear back, how to reach Harper, any outstanding items needed from client
 
 ---
 
-**Note:** This appears to be an initial acknowledgment message with limited specific business details. More information would emerge in subsequent communications.
+**Recommended Next Steps:** Follow this message with more detailed communication once submissions are reviewed, including specific quotes, coverage recommendations, and timeline for binding/renewal.

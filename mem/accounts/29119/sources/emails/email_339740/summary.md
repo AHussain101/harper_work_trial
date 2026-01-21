@@ -6,7 +6,7 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** maya.alvarez@sunnydayschildcare.com
 
-# Email Summary: Sunny Days Childcare Application
+# Email Summary: Sunny Days Childcare Insurance Application
 
 ## Business Details
 
@@ -15,44 +15,58 @@
 - Business Type: Daycare operation
 - Industry: Childcare services
 
-**Coverage Details:**
-- Coverage Type: General Liability
-- Policy Limits Requested: $1M per occurrence / $2M aggregate
-- Special Requirements: Childcare-specific wording and abuse/molestation coverage as applicable
-- Status: Application completed and received
+**Coverage Needs:**
+- Policy Type: General Liability
+- Coverage Limits: $1M per occurrence / $2M aggregate (typical for daycare)
+- Special Endorsements Needed:
+  - Childcare-specific wording
+  - Abuse/molestation coverage
 
-**Information Still Needed:**
-- Estimated average daily attendance (number of children)
-- Number of staff on site
+**Pending Information:**
+- Estimated average daily attendance (not yet provided)
+- Number of staff on site (not yet provided)
 
 ## Personal Details
 
 **Contact Information:**
-- Contact Name: Maya Alvarez
+- Name: Maya Alvarez
+- Title/Role: Decision-maker for Sunny Days Childcare (presumed owner/manager)
 - Email: maya.alvarez@sunnydayschildcare.com
-- Role: Primary contact for Sunny Days Childcare (appears to be decision-maker or owner)
+- Preferred Contact Method: Email (based on outbound email communication)
 
 ## Conversation Context
 
 **Main Purpose:**
-- Confirmation email that the application has been received
-- Initiation of underwriting process
+- Confirmation of completed application submission
+- Notification that underwriting process has begun
+- Request for additional operational details to expedite underwriting
 
-**Key Information Requested:**
-- Approximate number of children attending daily (~20 mentioned as example)
-- Approximate number of staff members (~6 mentioned as example)
+**Key Information Provided:**
+- Application for coverage has been received and logged
+- Standard daycare GL limits are $1M/$2M
+- Childcare-specific endorsements will be included
+- Abuse/molestation coverage will be included as applicable
 
-**Timeline/Next Steps:**
-- Carriers expected to return initial indications within 24–72 hours
-- Preliminary quotes and any subjectivities will be shared once carrier responses received
+**Information Still Needed:**
+- Approximate number of children served daily
+- Approximate number of staff members on site
 
-**Action Items for Customer (Maya Alvarez):**
-- Reply with estimated average daily attendance numbers
-- Confirm number of staff on site
+**Action Items for Harper:**
+- Follow up with Maya if operational details not received within reasonable timeframe
+- Distribute application to carriers
+- Collect preliminary quotes from carriers (expected within 24–72 hours)
+- Review any carrier subjectivities or conditions
+- Prepare preliminary quote package for Maya
 
-**Action Items for Harper (Jordan Kim):**
-- Wait for carrier responses (24–72 hour window)
-- Prepare preliminary quotes for Maya
-- Identify any underwriting subjectivities to communicate
+**Action Items for Customer (Maya):**
+- Reply with estimated average daily attendance (~number of children)
+- Reply with estimated number of staff on site
 
-**Tone/Sentiment:** Professional, helpful, and efficient. No concerns flagged.
+**Timeline:**
+- Carrier indications expected: 24–72 hours from submission
+- Next communication: Once preliminary quotes and subjectivities received from carriers
+
+**Tone/Sentiment:**
+- Professional and courteous
+- Efficient and organized
+- Collaborative

@@ -6,66 +6,61 @@
 **From:** submissions@harperinsure.com
 **To:** lloyd.mattson@rpsins.com
 
-# Insurance Submission Summary: Elm Street Transit LLC
+# Elm Street Transit LLC - GA GL Risk Submission Summary
 
 ## Business Details
 
-### Company Information
+**Company Information**
 - **Company Name:** Elm Street Transit LLC
 - **Business Type:** Taxi/Transportation Services
-- **Industry:** Scheduled ride services
-- **Years in Operation:** 1 year (newly established)
+- **Industry:** Ground Transportation/Scheduled Ride Services
 - **Business Structure:** LLC
-- **Owner/Operator:** Marcus Johnson
-
-### Operations
-- **Service Area:** Woodstock and surrounding county
-- **Current Fleet:** 1 sedan vehicle
-- **Safety Equipment:** Interior and exterior camera recording system installed
-- **Maintenance Protocol:** Monthly vehicle servicing
-- **Staffing:** Currently owner-operated (sole driver); plans to hire additional drivers in the future
-- **Driver Training:** Defensive driving training protocols in place
-- **Service Type:** Scheduled taxi services sold directly to customers
-
-### Coverage Details
-- **Coverage Type Sought:** General Liability
-- **Coverage Amount:** Approximately $1M
-- **Deductible:** Not specified
-- **Premium:** Not quoted
-- **Effective Date:** Not specified
-- **Renewal Date:** Not applicable (new business)
-
-### Financial Information
+- **Years in Operation:** 1 year (newly established)
+- **Service Area:** Woodstock and surrounding county area
 - **Annual Revenue:** $100.2k (current year actual)
 
-### Insurance History
-- **Prior Coverage:** None - new business with no prior insurance history
-- **Claims History:** Not mentioned
+**Operations & Assets**
+- **Current Fleet:** 1 sedan vehicle (equipped with interior/exterior camera recording system)
+- **Service Model:** Scheduled taxi services sold directly to customers
+- **Staffing:** Owner (Marcus Johnson) currently serves as sole driver with plans to hire additional drivers in future
+- **Maintenance:** Monthly vehicle servicing
+- **Safety Protocols:** 
+  - Defensive driving training in place
+  - Routine maintenance protocols established
+  - Dash-cam recording system (interior and exterior)
 
----
+**Coverage Needs & Policy Details**
+- **Coverage Type Sought:** General Liability (GA GL)
+- **Coverage Amount:** Approximately $1M
+- **Prior Insurance History:** None - new business with no prior coverage
 
 ## Personal Details
 
-### Primary Contact
+**Owner/Decision Maker**
 - **Name:** Marcus Johnson
-- **Title/Role:** Owner and Operator
-- **Contact Information:** Not provided in submission
-- **Phone:** Not provided
-- **Email:** Not provided
+- **Role:** Owner and operator of Elm Street Transit LLC
+- **Experience:** Many years of personal driving experience
+- **Notes:** Currently serves as sole driver
 
-### Submission Contact
-- **Name:** Jordan Kim
-- **Title/Role:** Insurance professional/Broker (submitting on behalf of Harper)
-- **Email:** submissions@harperinsure.com
-
----
+**Contact for Submission**
+- **Submitted By:** Jordan Kim (Harper Insurance)
+- **Submitting Email:** submissions@harperinsure.com
+- **Recipient Contact:** lloyd.mattson@rpsins.com (likely RPS Insurance contact)
 
 ## Conversation Context
 
-### Purpose
-This is a formal insurance submission for a new business seeking general liability coverage. The submission was sent from the Harper Insurance submissions email to Lloyd Mattson at RPS Insurance (lloyd.mattson@rpsins.com), indicating this may be a carrier submission or referral.
+**Purpose of Email**
+- Formal submission of new business application for general liability coverage
+- Risk assessment and underwriting information summary
 
-### Key Information Provided
-- New business status requiring coverage placement
-- Strong risk mitigation factors (dash cams, monthly maintenance, defensive driving training)
-- Owner has extensive personal driving experience
+**Key Information Provided**
+- Detailed business operation description
+- Financial information (revenue)
+- Risk mitigation measures already in place
+- Owner experience and background
+- Fleet and equipment details
+
+**Underwriting Considerations Highlighted**
+- Established safety protocols reduce risk profile
+- Owner has significant personal driving experience
+- New business status (no claims history = clean

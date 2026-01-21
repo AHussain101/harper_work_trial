@@ -3,46 +3,43 @@
 **Date:** 2025-12-05T00:05:12+00:00
 **Direction:** Outgoing
 
-# Insurance Document Request Summary
+# Insurance Broker SMS Summary for Harper
 
 ## Business Details
-- **Coverage Type:** Loss runs and proof of current coverage requested
-- **Documents Needed:**
+- **Coverage Type Requested:** Loss runs and proof of current coverage
+- **Documents Requested:**
   - Loss runs
-  - Proof of current coverage documents
+  - Proof of current coverage
 
 ## Personal Details
-- **Contact Method:** SMS (outgoing message)
-- **Portal Access:** Customer provided with secure upload link
+- **Contact Method:** SMS
+- **Portal Access:** Provided secure upload link
 
 ## Conversation Context
 
 ### Main Topic
-- Document collection for insurance review/renewal process
+- Document collection for insurance review/quote process
 
-### Key Actions
-**Action Items for Customer:**
+### Key Actions Taken
+- **Harper's Actions (Completed):**
+  - Generated and sent secure upload portal link to customer
+  - Requested loss runs documentation
+  - Requested proof of current coverage documentation
+
+### Action Items for Customer (Pending)
 - Upload loss runs to secure portal
-- Upload proof of current coverage documents
-- Use provided secure upload link: `https://portal.harperinsure.com/upload/def456`
-
-**Action Items for Harper:**
-- Monitor portal for document uploads
-- Review submitted loss runs and coverage documents once received
-- Follow up if documents not uploaded within reasonable timeframe
+- Upload proof of current coverage to secure portal
+- Use provided link: https://portal.harperinsure.com/upload/def456
 
 ### Follow-up Timeline
-- **Message Sent:** December 5, 2025 at 12:05 AM UTC
-- **Next Step:** Pending customer document submission via secure portal
+- Awaiting customer to upload documents via secure link
+- No specific deadline mentioned
 
 ### Tone/Sentiment
-- Professional and efficient
-- Direct call-to-action with secure portal link provided
+- Professional, process-oriented
+- Neutral/informational
 
 ---
 
-## ⚠️ Notes for Harper
-- This appears to be an automated or templated message
-- Portal link should be verified as secure and legitimate
-- No specific customer name or business details mentioned in this message
-- Consider following up if documents aren't received within 5-7 business days
+## Notes
+**Missing Information:** No specific customer name, business type, current carriers, or timeline for document submission was mentioned in this message. Follow-up may be needed if documents are not received within a reasonable timeframe.

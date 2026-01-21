@@ -15,42 +15,68 @@
 ---
 
 ## Personal Details
-- **Contact Name:** Not provided
-- **Harper Agent:** Jordan
-- **Contact Method:** Phone
-- **Communication Style:** Polite, apologetic; quick interaction
+
+### Contact Information
+- **Name:** Not provided
+- **Role/Title:** Not provided
+- **Contact Method Used:** Phone call (incoming/outgoing)
+- **Phone Number:** Not captured in transcript
+- **Email:** Not provided
+- **Preferred Contact Method:** Phone (immediate callback requested)
+
+### Communication Style & Preferences
+- **Tone/Sentiment:** Apologetic, polite, urgent
+- **Key Preference:** Requested immediate callback
+- **Notes:** Client was cooperative and courteous despite technical issue
+
+---
+
+## Business Details
+- **Company Name:** Not mentioned
+- **Industry/Business Type:** Not mentioned
+- **Employee Count:** Not mentioned
+- **Coverage Needs:** Not discussed
+- **Policy Types:** Not discussed
+- **Premiums/Deductibles/Limits:** Not discussed
+- **Claims History:** Not discussed
+- **Renewal Date/Effective Date:** Not mentioned
+- **Carriers/Quotes:** Not discussed
 
 ---
 
 ## Conversation Context
-- **Purpose:** Unclear - call was interrupted immediately
-- **Issue:** Client accidentally converted the call to a conference call and requested an immediate callback
-- **Tone/Sentiment:** Neutral/apologetic on client side; professional on Harper side
+
+### Purpose of Call
+Brief, technical support call regarding an accidental conference call setup
+
+### Key Issue
+Client accidentally converted the call to a conference call and requested Harper agent call back immediately
+
+### Decisions Made
+None
+
+### Action Items
+
+#### For Harper Agent (Jordan)
+- **URGENT:** Call back the external contact immediately
+- Obtain client's name, company, and actual business purpose for original call
+- Determine what business needs prompted the initial outreach
+
+#### For Client
+- None
 
 ---
 
-## Action Items
-
-### For Harper (Agent Jordan)
-- [ ] **Call back the client immediately** at their phone number
-- **Priority:** High (client requested urgent callback)
-- **Note:** Determine the original purpose of the outgoing call once reconnected
-
-### For Client
-- None identified at this time
+## Follow-Up Required
+- **Timeline:** Immediate/ASAP
+- **Next Contact:** Incoming callback from Harper agent
+- **Status:** Pending - callback not yet completed
 
 ---
 
-## Missing Information
-⚠️ **Critical Details Not Captured:**
-- Client's name
-- Client's phone number
-- Client's company name and industry
-- Original reason for the outgoing call
-- Policy details, coverage needs, or renewal information
-- Any pending quotes or documents
-
----
-
-## Notes
-This was an extremely brief interaction. Jordan should be prepared to restart the conversation when calling back and clarify the original purpose of the call. The client's phone number should be retrieved from call logs or CRM records before the callback.
+## Missing Information Needed
+- Client name and company
+- Contact phone number
+- Nature of insurance business to be discussed
+- Reason for original outreach
+- Any existing policy or coverage details

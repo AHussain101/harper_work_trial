@@ -6,41 +6,46 @@
 # SMS Summary for Harper
 
 ## Message Type
-- **Direction:** Outgoing (from Harper/insurance broker to client)
+- **Direction:** Outgoing (from Harper/team to customer)
 - **Date & Time:** December 4, 2025 at 6:55 PM
-- **Purpose:** Establishing communication protocol
+- **Purpose:** Establishing primary contact channel
 
 ## Communication Details
 
 ### Contact Information
-- **Instruction:** Client is being asked to save the phone number used for this SMS
-- **Primary Contact Method:** SMS/Text messaging
-- **Communication Path:** Direct line to Harper's team
+- **Method:** SMS/Text messaging
+- **Instruction:** Customer should save this phone number
+- **Commitment:** All future communications will come through this number
 
-### Key Message Points
-- All future updates will come through this number
-- All questions should be directed to this number
-- All quotes will be provided via this number
-- This establishes a **single, clear communication channel**
+### Communication Scope
+- Updates
+- Questions
+- Quotes
+
+### Key Message
+- Single point of contact established for clarity and convenience
+- Consolidation of communication to reduce confusion from multiple contact methods
+
+## Conversation Context
+
+### Main Topic
+- Establishing preferred communication channel with customer
+
+### Tone/Sentiment
+- Professional and organizational
+- Helpful/service-oriented
 
 ## Action Items
 
-### For the Client
-- Save the provided phone number
-- Use this number for all future inquiries, questions, and communications
-- Expect future correspondence through this channel
+### For Customer
+- ✅ Save the phone number for future reference
+- Expect all communications to arrive via this SMS line
 
 ### For Harper
-- Ensure this is the primary contact number for the client's account
-- Direct all updates, quotes, and communications to the client through this number
-- Monitor this line for client responses
+- Monitor this number for customer responses
+- Ensure all updates, questions, and quotes are delivered through this established channel
 
-## Conversation Context
-- **Tone:** Professional, instructional, organizational
-- **Sentiment:** Neutral/positive (helping establish clear communication)
-- **Status:** Initial setup message
-
-## Notes
-- This appears to be an early message in the client relationship
-- No specific coverage details, business information, or personal details were discussed in this particular SMS
-- This is a procedural/housekeeping message to streamline future interactions
+## Follow-Up Notes
+- No specific follow-up timeline mentioned
+- This appears to be a standard protocol message to set expectations
+- Next interaction will likely be quote delivery or customer questions

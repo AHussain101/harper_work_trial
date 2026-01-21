@@ -8,60 +8,65 @@
 
 ## Business Details
 
-**Company Information:**
+**Company Information**
 - **Company Name:** Green Path Health Group
-- **Business Type:** Nonmedical home care business
-- **Industry:** Home healthcare/caregiving services
+- **Type of Business:** Nonmedical home care business
+- **Industry:** Home healthcare services
 - **Years in Operation:** Established in 2020
-- **Estimated Annual Revenue:** ~$65,000
-- **Number of Employees:** 1 part-time caregiver
-
-**Coverage Needs & Discussion:**
-- **Policies Requested:** General Liability (GL) and Professional Liability (PL)
-- **Commercial Auto:** Not required at this time (occasional patient transport in employee or client vehicles represents <10% exposure)
 - **Service Model:** Services provided in patient homes
-- **Employee Background Checks:** Confirmed - background checks are performed for employees
 
-**Policy Details:**
-- Quote generation timeline: Same day or early next day
+**Staffing & Revenue**
+- **Number of Employees:** 1 part-time caregiver
+- **Estimated Annual Revenue:** ~$65,000
+
+**Coverage Needs & Policies Discussed**
+- **Policies Requested:**
+  - General Liability (GL)
+  - Professional Liability (PL)
+- **Commercial Auto:** NOT required at this time (transport of patients occurs occasionally in employee or client vehicles, representing <10% exposure)
+
+**Compliance & Operations**
+- **Background Checks:** Confirmed that background checks are performed for employees
+- **Patient Transport:** Occasional transport of patients in employee or client vehicles (minimal exposure, under 10%)
 
 ---
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Alicia Williams
-- **Title/Role:** Business owner/representative
-- **Phone:** (Not explicitly stated in call record)
-- **Email:** (Not explicitly stated - will receive Harper intake messages)
-- **Preferred Contact Method:** Email preferred (will receive quote options via email); can also call intake line or reply to Harper intake messages with questions
+**Contact Information**
+- **Contact Name:** Alicia Williams
+- **Title/Role:** Appears to be business owner/operator of Green Path Health Group
+- **Contact Method Preference:** Email (will monitor for quotes and follow-up communication)
+
+**Personality Notes**
+- Responsive and cooperative during call
+- Organized in providing business information
+- No concerns or frustrations noted; appears straightforward in communication style
 
 ---
 
 ## Conversation Context
 
-**Call Purpose:**
-- Incoming request for general and professional liability insurance quotes for a nonmedical home care business
+**Purpose of Call**
+- Incoming request for general and professional liability insurance coverage for nonmedical home care business
 
-**Key Details Discussed:**
-- Business establishment date and service delivery model
-- Staffing structure (1 part-time employee)
-- Annual revenue estimates
-- Patient transport exposure and frequency (<10% of operations)
-- Employee background check procedures
-- Coverage type requirements and commercial auto determination
+**Key Discussion Points**
+- Confirmed business type and operational details
+- Clarified that commercial auto insurance is not needed at this time due to minimal transport exposure
+- Discussed employee background check procedures
+- Outlined next steps for obtaining quotes
 
-**Decisions Made:**
-- Confirmed commercial auto coverage is not required
-- Approved to proceed with GL and PL quotes only
+**Decisions Made**
+- ✅ GL and PL coverage will be pursued
+- ✅ Commercial auto coverage is NOT needed currently
 
-**Action Items for Harper:**
-- Submit application for GL and PL coverage to carriers
-- Generate quotes same day or early next day
-- Follow up with Alicia via email with quote options
-- Schedule follow-up call to review quotes
+**Pending Decisions**
+- Final carrier selection pending quote review
 
-**Action Items for Alicia Williams:**
-- Monitor email for quote options from Harper
-- Prepare for follow-up call to review quotes
-- Contact
+---
+
+## Action Items
+
+### Harper's Responsibilities
+- [ ] Submit application for GL and PL coverage to carriers
+- [ ] Generate quotes same day or early next day (target:

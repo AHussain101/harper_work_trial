@@ -6,14 +6,15 @@
 **From:** submissions@harperinsure.com
 **To:** info@summitsecuritytx.com
 
-# Email Summary: Summit Security Solutions Insurance Quote Follow-up
+# Email Summary: Summit Security Solutions Insurance Application Follow-up
 
 ## Business Details
 - **Company Name:** Summit Security Solutions, Inc.
-- **Industry:** Security services
-- **Location:** Texas (indicated by domain "summitsecuritytx.com")
+- **Industry:** Security Services
+- **Location:** Texas (inferred from domain "summitsecuritytx.com")
 - **Coverage Status:** Application submitted to carrier network
-- **Documents Requested:**
+- **Expected Timeline:** Initial carrier responses expected shortly
+- **Documents Needed:**
   - Licensing documentation
   - Training documentation
   - Loss runs (if available)
@@ -22,40 +23,27 @@
 
 ## Personal Details
 - **Contact Name:** Michael
-- **Contact Role/Title:** Appears to be owner/decision-maker for Summit Security Solutions
 - **Contact Email:** info@summitsecuritytx.com
-- **Harper Agent Contact:** HARPER_AGENT, Senior Producer
+- **Harper Agent Contact:**
+  - Name: HARPER_AGENT (title: Senior Producer)
   - Phone: +1 (470) 731-9934
   - Email: submissions@harperinsure.com
 
 ## Conversation Context
-
-### Main Purpose
-- Follow-up email after initial phone consultation regarding insurance quote for Summit Security Solutions
-- Notification that application has been submitted to carrier network
-
-### Key Actions Required
-
-**For Michael (Customer):**
-- Upload licensing, training documentation, and loss runs via secure portal: https://portal.harperinsure.com/upload
-- Provide Certificates of Insurance (COI) requirements for prospective clients
-- Communicate any additional coverage needs or policy subjectivities to address
-
-**For Harper:**
-- Monitor carrier responses (expected shortly)
-- Review submitted application once documents are uploaded
-- Follow up with Michael if additional information is needed
-
-### Timeline
-- Carrier responses expected "shortly" after application submission
-- Email sent: December 4, 2025
-
-### Tone/Sentiment
-- Professional and courteous
-- Collaborative and helpful
-- Efficient (emphasizing speed of process)
-- No urgency indicators or concerns raised
-
----
-
-**Note for Harper:** This is an outbound email from Harper's system to the customer. Follow up if documents are not received within a reasonable timeframe (suggest 5-7 business days).
+- **Main Topic:** Follow-up after initial consultation discussing Summit Security Solutions' insurance needs
+- **Purpose:** 
+  - Confirm application submission to carrier network
+  - Request supporting documentation to expedite quote process
+- **Key Actions for Michael (Customer):**
+  - Upload licensing and training documentation via secure portal
+  - Provide loss runs if available
+  - Submit COI requirements for prospective clients
+  - Identify any additional coverage needs or policy subjectivities
+  - **Upload Link:** https://portal.harperinsure.com/upload
+- **Key Actions for Harper:**
+  - Monitor carrier responses
+  - Review submitted documentation once received
+  - Follow up on quotes once carrier responses arrive
+- **Tone/Sentiment:** Professional, helpful, collaborative
+- **Next Steps:** Await customer document submission and carrier responses
+- **Follow-up Timeline:** No specific deadline mentioned; process described as "shortly"

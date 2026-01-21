@@ -6,67 +6,68 @@
 **From:** marisol.vega@summitcareservices.com
 **To:** avery.kim@harperinsure.com
 
-# Email Summary for Harper Kim
+# Email Summary for Harper
 
 ## Business Details
 
-**Company Information**
+**Company Information:**
 - Company Name: Summit Care Services
 - Business Type: Care services
-- Industry: Healthcare/Social Services
-- Years in Operation: Unknown (appears to be new business for insurance purposes)
-
-**Staffing & Financials**
-- Number of Employees: 3 W-2 employees
-- Annual Payroll: Approximately $44,800
-- Revenue: Not mentioned
-
-**Insurance/Coverage Details**
+- Ownership: Marisol Vega (Owner)
 - Status: New business (no prior loss runs available)
-- Loss History: None on file (new to this broker)
-- Documents Status: Owner willing to provide additional documents upon request
-- Quote Status: Awaiting Harper to proceed with quoting
 
-**Identification**
-- EIN: Provided via phone call (ends in 4321) - full number on file
+**Payroll & Staffing:**
+- Number of W-2 Employees: 3
+- Annual Payroll: approximately $44,800
+
+**EIN:**
+- EIN (partial): ends in 4321
+- Full EIN provided via phone call for privacy reasons
+
+**Coverage Status:**
+- Claims History: None (new business - no prior loss runs)
+- Status: Ready for quoting phase
+
+**Documents:**
+- EIN confirmed via phone call
+- Payroll information confirmed
+- Customer willing to provide additional documents upon request
+
+---
 
 ## Personal Details
 
-**Primary Contact**
+**Primary Contact:**
 - Name: Marisol Vega
-- Title: Owner, Summit Care Services
+- Title: Owner
 - Email: marisol.vega@summitcareservices.com
-- Phone: Called Harper directly to provide EIN verbally (number not provided in email)
-- Communication Style: Professional, direct, efficient
-- Preferred Contact: Email (communication via email)
+- Communication Style: Professional, cooperative, responsive
+- Preference: Email communication
+
+---
 
 ## Conversation Context
 
-**Main Purpose**
-- Confirm business identification details (EIN and payroll information) needed for insurance quotes
+**Main Topic:**
+- Providing EIN and payroll confirmation to move forward with insurance quoting process
+- Response to Harper's request for verification documentation
 
-**Key Information Provided**
-- EIN confirmation (provided via phone for privacy)
-- Employee count verified: 3 W-2 employees
-- Annual payroll confirmed: ~$44,800
-- Acknowledgment of new business status with no prior claims
+**Key Information Exchanged:**
+- Confirmed company has 3 W-2 employees
+- Confirmed annual payroll amount ($44.8k)
+- Confirmed no prior loss runs (new business)
 
-**Decisions Made**
-- Marisol has approved Harper to proceed with obtaining quotes
+**Decisions Made:**
+- Proceed with quoting process
 
-**Action Items for Harper**
-- Proceed with generating insurance quotes
-- Request any additional documents if needed from Marisol
-- Follow up with quote options and recommendations
+**Action Items for Harper:**
+- Generate insurance quotes
+- Request any additional documents if needed for underwriting
 
-**Action Items for Marisol**
-- None explicitly stated; willing to provide additional documentation if requested
+**Action Items for Customer:**
+- None currently - will provide additional documents if Harper requests them
 
-**Next Steps**
-- Harper to move forward with quoting process
-- Marisol awaits Harper's quote request or follow-up
-
-**Tone/Sentiment**
-- Cooperative and positive
+**Tone/Sentiment:**
+- Positive and cooperative
 - Efficient and professional
-- No concerns or
+- No concerns or red flags noted

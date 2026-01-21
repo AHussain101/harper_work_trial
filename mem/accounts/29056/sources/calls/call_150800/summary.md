@@ -4,51 +4,51 @@
 **Duration:** 0m 45s
 **Direction:** Outgoing
 
-# Call Summary - Anthony Morales
+# Call Summary for Harper
 
-## Business Details
-- **Documents Received:**
-  - Certificate of Insurance (COI)
-  - Loss runs
-- **Underwriting Timeline:** 24–48 hours
-- **Status:** Under review
-
-## Personal Details
+## Contact Information
 - **Contact Name:** Anthony Morales
-- **Role/Title:** Not specified
-- **Communication Method:** Phone (outbound call)
-
-## Conversation Context
-
-### Purpose
-Confirmation call to verify receipt of required documents and communicate underwriting timeline to client.
-
-### Key Points Discussed
-- Confirmed receipt of Certificate of Insurance (COI)
-- Confirmed receipt of loss runs
-- Communicated underwriting timeframe: 24–48 hours
-- Offered to answer any immediate questions
-
-### Action Items for Harper (Jordan)
-- ✅ Call placed to confirm document receipt
-- Document file summary logged on client record
-- Monitor underwriting review (24–48 hour window)
-
-### Action Items for Customer
-- Await underwriting review results (within 24–48 hours)
-- Contact Harper with any immediate questions
-
-### Next Steps & Timeline
-- **Follow-up:** Within 24–48 hours (underwriting decision expected)
-- Brief summary of next steps documented on client file
-
-### Tone/Sentiment
-Professional and routine; brief confirmatory call
+- **Contact Role/Title:** Not specified
+- **Communication Type:** Outbound call
+- **Call Duration:** 45 seconds
+- **Call Date/Time:** December 5, 2025 at 2:08 PM
 
 ---
 
-**Call Details:**
-- Direction: Outbound
-- Duration: 45 seconds
-- Date/Time: December 5, 2025 at 14:08 UTC
-- Agent: Jordan
+## Call Purpose & Context
+- **Main Topic:** Document receipt confirmation and underwriting timeline
+- **Call Type:** Outbound follow-up call
+- **Tone/Sentiment:** Professional, informational
+
+---
+
+## Documents & Coverage
+- **Documents Received & Confirmed:**
+  - Certificate of Insurance (COI)
+  - Loss runs
+- **Processing Status:** Documents received and acknowledged
+
+---
+
+## Timeline & Next Steps
+- **Underwriting Timeframe:** 24–48 hours
+- **Agent Action:** Left summary of next steps on client's file
+- **Pending Items:** Underwriting review in progress
+
+---
+
+## Agent Notes
+- **Agent Name:** Jordan (Harper agent)
+- **Actions Taken:**
+  - Confirmed receipt of COI and loss runs
+  - Communicated underwriting timeframe (24–48 hours) to client
+  - Offered to answer any immediate questions
+  - Documented next steps on file
+- **Client Questions:** Anthony Morales had opportunity to ask immediate questions (status unknown if any were asked)
+
+---
+
+## Follow-Up Items
+- **For Harper:** Monitor underwriting completion within 24–48 hour window
+- **For Anthony Morales:** Awaiting underwriting review results
+- **Next Contact:** Expected after underwriting review is complete

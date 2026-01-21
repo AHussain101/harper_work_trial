@@ -3,34 +3,46 @@
 **Date:** 2025-12-05T06:05:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# SMS Summary: Brightview Adult Day Center Quote Notification
 
 ## Business Details
 - **Company Name:** Brightview Adult Day Center
-- **Business Type:** Adult Day Care/Senior Services Center
-- **Coverage Status:** New quote generated
-- **Action Required:** Quote details and e-signature links sent via email
+- **Industry:** Adult Day Care/Senior Services
+- **Coverage Status:** Quote generated and ready for review
 
 ## Personal Details
-- **Contact Method:** Email communication preferred
-- **Recipient:** Harper (Insurance Broker)
+- **Contact Method:** Email (primary communication method for this action)
+- **Action Required:** Review and e-sign
 
 ## Conversation Context
-- **Main Topic:** New insurance quote availability notification
-- **Purpose:** Alert Harper that a quote for Brightview Adult Day Center has been prepared and is ready for review
-- **Documents/Links Provided:** 
-  - Quote details (sent via email)
-  - E-sign links (sent via email)
-- **Action Items for Harper:**
+
+### Main Topic
+- Notification of newly generated insurance quote for Brightview Adult Day Center
+- Quote documentation and execution stage
+
+### Key Actions
+- **For Harper:**
   - Check email for quote details
-  - Review the quote
-  - Access and process e-signature links as needed
-- **Tone/Sentiment:** Professional, routine notification
+  - Review quote documentation
+  - Provide e-sign links to client
+  - Forward materials to appropriate contact at Brightview
+
+- **For Customer (Brightview):**
+  - Check email for quote details
+  - Review insurance quote
+  - Complete electronic signature(s) on provided links
+  - Return signed documents to Harper/insurance provider
+
+### Next Steps
+- Quote review pending
+- Electronic signature execution required
+- Timeline: Immediate (quote available now)
+
+### Tone/Sentiment
+- **Professional and straightforward**
+- Transactional in nature
+- No urgency indicators, routine business communication
 
 ---
 
-## Notes
-- This appears to be an automated or administrative notification
-- Client (Brightview Adult Day Center) will likely need to review and sign the quote
-- No specific coverage types, premium amounts, or limits mentioned in this SMS
-- Follow-up communication may be needed once Harper reviews the email contents
+**Note:** This SMS appears to be a system-generated or automated notification. No specific policy details, premium amounts, coverage types, or effective dates are mentioned in the message itself—these details would be in the email referenced.

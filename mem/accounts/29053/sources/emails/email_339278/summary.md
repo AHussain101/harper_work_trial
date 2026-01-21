@@ -12,53 +12,64 @@
 
 ### Company Information
 - **Company Name:** Riverside Tire & Service Co.
-- **Industry:** Garage/Automotive Service
+- **Industry:** Automotive/Garage Services
+- **Business Type:** Tire service and automotive repair facility
 - **Location:** Ohio (OH)
-- **Coverage Type:** Garage Liability & Property Risk
 
-### Coverage & Policy Details
-- **Policy Type(s):** Garage/Property Risk
-- **Specific Coverage Needs:** Not detailed in email (referenced in portal documents)
-- **Premium, Deductibles, Limits:** Not specified in email
-- **Documents Available:** Details attached in portal
+### Coverage Details
+- **Coverage Types:** Garage/Property Risk insurance
+- **Submission Status:** Under review (details available in portal)
 
-## Personal Details
+---
 
-### Contact Information
-- **From (Sender):** Jordan Kim
-- **Sender's Role/Title:** Harper Submissions Department
-- **Sender's Email:** submissions@harperinsure.com
-- **Recipient:** Jessica Moore
-- **Recipient's Email:** jessica.moore@rpsins.com
-- **Recipient's Role/Title:** Not explicitly stated (appears to be an insurance professional reviewing the submission)
+## Contact Information
+
+### From Harper (Sender)
+- **Name:** Jordan Kim
+- **Title:** Submissions team (Harper Insurance)
+- **Email:** submissions@harperinsure.com
+- **Role:** Handling initial submission distribution
+
+### Recipient
+- **Name:** Jessica Moore
+- **Title/Organization:** RPS Insurance (appears to be a partner/producer)
+- **Email:** jessica.moore@rpsins.com
+
+---
 
 ## Conversation Context
 
-### Main Purpose
-- Submission request for garage/property risk insurance coverage for Riverside Tire & Service Co.
-- Request for Jessica to review the submission details
+### Purpose
+- Initial submission review request for a new garage/property risk insurance case
+- Documents provided through secure portal for review
 
-### Documents & Information Location
-- All detailed submission information is located in the portal (not included in the email body)
+### Key Actions Required
 
-### Action Items
+**Action Items for Harper (Jessica Moore):**
+- Review the full submission details in the portal
+- Assess coverage needs for Riverside Tire & Service Co.
+- Evaluate garage and property risk exposure
 
-#### For Harper (Jessica Moore)
-- Review garage/property risk submission details in portal
-- Assess coverage needs and requirements for Riverside Tire & Service Co.
-
-#### For Harper/Next Steps
-- None explicitly stated; awaits Jessica's review and response
+**Action Items for the Customer:**
+- Await review feedback (pending)
 
 ### Tone/Sentiment
-- Professional and straightforward
-- Routine submission request
+- Professional and routine
+- Neutral/procedural
 
-### Missing Information
-- Detailed business specifications (employee count, revenue, years in operation, claims history)
-- Specific premium amounts, deductibles, and coverage limits
-- Renewal or effective dates
-- Carrier recommendations or quotes
-- Specific customer concerns or preferences
+---
 
-**Note:** Complete details referenced as "attached in portal" — Harper should access the portal for full submission documentation.
+## Missing Information
+⚠️ **Note:** The following details were NOT provided in this email and should be requested:
+- Number of employees
+- Annual revenue
+- Years in operation
+- Specific coverage limits and deductibles
+- Premium quotes
+- Claims history or loss runs
+- Renewal/effective dates
+- Specific documents attached or referenced
+- Carrier recommendations
+- Preferred contact method or timeline preferences
+
+**Recommendation:** Check the portal referenced for complete submission details.

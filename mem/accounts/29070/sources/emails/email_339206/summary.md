@@ -6,69 +6,62 @@
 **From:** Harper Submissions <submissions@harperinsure.com>
 **To:** Marcus Bell <owner@smithfreight.example>
 
-# Harper Insurance - Smith Freight Lines Quote Follow-up Summary
+# Insurance Quote Summary - Smith Freight Lines
 
 ## Business Details
-
 - **Company Name:** Smith Freight Lines
 - **Industry:** Freight/Transportation
-- **Business Type:** Freight lines operation
+- **Business Type:** Trucking/Logistics operation
 - **Coverage Type:** Commercial auto/freight insurance
-- **Status:** Application submitted to carrier network
-- **Expected Timeline:** Initial quotes expected shortly
-
-### Documents Requested
-- Loss runs for prior coverage (last 3 years, or less if unavailable)
-- Certificate of Insurance (COIs) for contracts/customers
-- Vehicle records
-- Any additional coverage documentation
-
-### Portal Information
-- **Secure Upload Portal:** https://portal.example-insure.com/upload/SMF-4821
-- **Application Reference:** SMF-4821
-
-### Coverage Needs Discussed
-- Standard freight/commercial auto coverage
-- Cargo limits (specifics to be determined)
-- Hired/non-owned vehicle coverage (optional)
-- Additional coverage needs (to be clarified)
-
----
+- **Potential Coverage Needs:** 
+  - Cargo limits
+  - Hired/non-owned vehicle coverage
+  - Certificate of Insurance (COI) requirements
 
 ## Personal Details
-
-- **Contact Name:** Marcus Bell
+- **Primary Contact:** Marcus Bell
 - **Title/Role:** Owner
 - **Email:** owner@smithfreight.example
-- **Communication:** Recent phone conversation with Harper team
-
----
+- **Phone:** Available through Harper Insurance
 
 ## Conversation Context
 
-### Purpose
-- Follow-up after initial insurance application consultation
-- Request for supporting documentation to expedite quote process
+### Main Purpose
+- Insurance application follow-up after initial consultation call
+- Quote submission and documentation gathering
 
-### Key Points
-- Application successfully submitted to carrier network
-- Phone conversation completed between Marcus and Harper team
-- Quick turnaround expected on initial quotes
+### Key Actions Completed
+- Initial insurance application submitted to carrier network
+- Application ID/Reference: **SMF-4821**
+- Quotes expected shortly from carrier network
 
-### Action Items for Customer (Marcus Bell)
-- [ ] Upload loss runs (3-year history if available)
-- [ ] Provide Certificate of Insurance documentation
+### Documents Requested
+Harper is requesting Marcus provide the following (upload to secure portal):
+1. **Loss runs** - Last 3 years of prior coverage history (or less if unavailable)
+2. **Certificates of Insurance (COIs)** - For any contracts or customer requirements
+3. **Vehicle records** - Documentation of fleet/vehicles to be insured
+4. **Additional coverage specifications** - Any specific cargo limits or hired/non-owned vehicle needs
+
+### Portal Access
+- **Secure Upload Portal:** https://portal.example-insure.com/upload/SMF-4821
+- Marcus should upload documents here to expedite process
+
+### Action Items - For Marcus (Customer)
+- [ ] Upload loss runs to secure portal
+- [ ] Provide COI requirements and documentation
 - [ ] Submit vehicle records
 - [ ] Clarify any additional coverage needs (cargo limits, hired/non-owned vehicles, etc.)
-- [ ] Use secure portal (SMF-4821) for document uploads
 
-### Action Items for Harper
-- [ ] Monitor carrier responses for initial quote options
-- [ ] Follow up with Marcus if documents not received within reasonable timeframe
-- [ ] Process incoming documents and forward to carriers
-- [ ] Prepare quotes once documentation is complete
+### Action Items - For Harper
+- [ ] Await carrier quotes
+- [ ] Monitor document uploads
+- [ ] Follow up with quotes once received
+- [ ] Review submitted documents for completeness
 
-### Next Steps
-- Marcus submits requested documents to secure portal
-- Harper receives carrier quote options
-- Follow-up communication once quotes available (timeline: TBD)
+### Next Steps/Timeline
+- Initial quotes expected "shortly" (timeframe not specified)
+- Awaiting Marcus's document submissions to move process forward
+
+### Tone/Sentiment
+- Professional and courteous
+- Collaborative and solution-focuse

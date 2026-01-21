@@ -3,7 +3,7 @@
 **Date:** 2025-12-04T22:03:30.137000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# SMS Summary
 
 ## Message Overview
 - **Direction:** Outgoing (Harper → Customer)
@@ -14,40 +14,37 @@
 
 ## Conversation Context
 
-### Main Topic
-- Follow-up communication regarding policy/quote documents delivery
+### Main Topic/Purpose
+- Confirmation that policy and/or quote documents have been sent via email
+- Request for customer acknowledgment of receipt
 
-### Action Items
+### Key Action Items
 
-#### For the Customer
-- **Confirm receipt** of emailed policy/quote documents
-- Timeline: "when you can" (not urgent, but confirmation requested)
+#### For Customer
+- [ ] Check email for policy/quote documents
+- [ ] Confirm receipt with Harper when documents are received and reviewed
 
 #### For Harper
-- **Awaiting confirmation** from customer that documents were received
-- Documents sent via email (method of delivery)
+- Awaiting confirmation of document receipt from customer
+- Documents sent include policy and/or quote materials
 
 ---
 
-## Documents Discussed
-- Policy documents
-- Quote documents
-- Delivery method: Email
+## Documents Mentioned
+- **Type(s):** Policy documents and/or quote documents
+- **Delivery Method:** Email
+- **Status:** Sent (awaiting confirmation)
 
 ---
 
-## Follow-Up Notes
-- **Status:** Pending customer confirmation of receipt
-- **Next Step:** Wait for customer acknowledgment/confirmation email
-- **Urgency Level:** Low (flexible timeline given)
+## Missing/Unclear Information
+⚠️ **Note:** This is a brief message with limited context. The following information is not included but may be relevant:
+- Customer name/contact details
+- Specific business or personal details
+- Policy type(s)
+- Coverage details
+- Premium amounts
+- Effective/renewal dates
+- Next steps beyond document confirmation
 
----
-
-## Missing Information to Clarify Later
-- No customer name mentioned in this SMS
-- No specific business details referenced
-- No policy types specified
-- No premium amounts or coverage details mentioned
-- No customer contact information in this message
-
-**Note:** This appears to be a transactional follow-up message. Refer to previous communications or email thread for complete policy/quote details and customer information.
+**Recommendation:** Review email thread or previous communications for full context on what documents were sent and the customer's coverage needs.

@@ -13,55 +13,57 @@
 **Company Information:**
 - Company Name: Summit BioDevices
 - Industry: Research-device manufacturing
-- Business Type: Medical/biotech device manufacturer
+- Business Type: Medical device manufacturer
 
-**Coverage & Quotes:**
+**Coverage & Quote Details:**
 - Coverage Type: General Liability
 - Carrier: USLI (United States Liability Insurance Company)
-- Preliminary Premium Range: $8,000–$9,000 annual premium
-- Note: Final premium dependent on exposures and subjectivities
+- Preliminary Premium Indication: $8,000–$9,000 annual premium
+- Premium Range: Mid single-thousands (subject to final exposures and subjectivities)
+- Status: Preliminary interest (formal quote pending documentation)
 
-**Information Needed from Insured:**
+**Information Still Needed:**
 - Annual production and sales estimate
-- Product recall history (if any)
-- Product-related claims history (if any)
-- Copies of product specifications
-- Lab use instructions documentation
+- Product recall history
+- Product-related claims history/loss runs
+- Product specification documents
+- Lab use instructions/documentation
 
-## Contact Details
+## Personal Details
 
-**From Carrier:**
+**Carrier Contact:**
 - Name: Lauren Smith
-- Title/Role: USLI representative
+- Title: USLI Representative
 - Email: lauren.smith@usli.com
 
-**Broker Contact:**
+**Harper's Contact (recipient):**
 - Name: Jordan Kim
 - Email: jordan.kim@harperinsure.com
+- Role: Insurance Broker (implied)
 
 ## Conversation Context
 
 **Purpose:**
-- USLI is expressing preliminary interest to quote General Liability coverage for Summit BioDevices submission
+Carrier (USLI) providing preliminary quote indication for GL coverage on a medical device manufacturing client
 
-**Current Status:**
-- Preliminary interest stage (not yet a formal quote)
-- Contingent on receiving requested documentation
+**Key Information:**
+- USLI is expressing preliminary interest in underwriting the account
+- Quote is conditional on receipt of requested documentation
+- Premium estimate is preliminary and subject to final exposures review
 
-**Action Items for Harper (Broker):**
-- Request from Summit BioDevices:
-  - Annual production and sales estimate
-  - Product recall history documentation
-  - Product-related claims history
-  - Product specification copies
-  - Lab use instructions copies
-- Relay these items to USLI once received
+**Action Items for Harper/Client:**
+- [ ] Obtain from Summit BioDevices: annual production and sales estimate
+- [ ] Obtain: any product recall or product-related claims history
+- [ ] Obtain: copies of product specifications
+- [ ] Obtain: lab use instructions documentation
+- [ ] Submit requested documents to Lauren Smith at USLI
 
-**Action Items for Customer (Summit BioDevices):**
-- Provide the five items listed above to Harper
+**Action Items for USLI:**
+- [ ] Follow up with formal underwriting packet once documentation is received
 
 **Next Steps:**
-- USLI will issue formal quote packet upon receipt of requested documentation
+- Formal quote packet will be issued upon receipt of requested documentation
+- No specific timeline mentioned for follow-up
 
 **Tone/Sentiment:**
-- Professional and positive; carrier showing interest and willingness to move forward contingent on additional information
+Professional, collaborative, positive interest shown by carrier

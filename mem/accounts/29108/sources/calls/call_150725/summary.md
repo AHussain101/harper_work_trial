@@ -4,69 +4,77 @@
 **Duration:** 23m 19s
 **Direction:** Incoming
 
-# Call Summary - Workers' Compensation Quote Request
-
-**Call Details**
-- **Date:** December 4, 2025
-- **Time:** 11:21 PM - 11:45 PM (23m 19s duration)
-- **Call Type:** Incoming
-- **Harper Representative:** Jordan Kim
-
----
+# Call Summary: Workers' Compensation Application - Maya Thompson
 
 ## Business Details
 
 **Company Information**
-- **Business Type:** Home Health Aide Services
-- **Industry:** Healthcare/Home Care
-- **Location:** Tennessee
-- **Years in Operation:** Approximately 1 year (newly operating)
-- **Current Employees:** Sole proprietor (owner is currently the only worker)
+- Business Type: Home health aide services
+- Location: Tennessee
+- Years in Operation: ~1 year (newly operating)
+- Current Employment: Solo operation (owner is sole worker currently)
+- Industry: Healthcare/Home Health Services
 
 **Coverage Details**
-- **Policy Type:** Workers' Compensation
-- **Current Status:** Prior policy exists but requires adjustment
-- **Key Adjustment Needed:** Higher employer liability limits per contract requirements
-- **Estimated Quote Timeline:** 24-48 hours from carrier
+- Policy Type: Workers' Compensation
+- Current Status: Prior policy exists but requires adjustment
+- Key Adjustment Need: Request for higher employer liability limits
+- Contract Requirements: To be provided by business owner
+- Referral Partner: Involved in application process
+
+**Documents to be Provided**
+- Contract requirements (from business owner)
+- W-9 form (from business owner)
+- Note: EIN and sensitive identifiers redacted for privacy
+
+**Timeline & Next Steps**
+- Carrier quotes expected: Within 24-48 hours
+- Follow-up deadline: By next business day
+- Action: Confirm contract requirements with provider and referral partner
 
 ---
 
 ## Personal Details
 
 **Primary Contact**
-- **Name:** Maya Thompson
-- **Role/Title:** Business Owner
-- **Communication Preference:** Will provide contract requirements and W-9 documentation via submission
-- **Sensitivity Note:** EIN and other sensitive identifiers redacted from transcript for privacy
+- Name: Maya Thompson
+- Title: Business Owner
+- Business Structure: Sole proprietor/sole worker
 
 **Secondary Contact**
-- **Name:** Referral Partner (not specified by name in notes)
-- **Role:** Referral source who participated in call
+- Name: Jordan Kim
+- Title: Harper Representative
+- Role: Handling application and carrier coordination
+
+**Communication Preferences**
+- No specific preferences noted
+- Contact method for follow-up: To be confirmed
 
 ---
 
 ## Conversation Context
 
-**Main Purpose**
-- Workers' compensation application and policy adjustment for newly established home health aide business
+**Call Purpose**
+- Incoming call regarding workers' compensation application for newly established home health aide services business
 
-**Key Topics Discussed**
-- Current workers' comp policy adjustment needs
-- Contract-specific employer liability limit requirements
-- Documentation submission process
-- Timeline for quotes and finalization
+**Main Topics Discussed**
+1. New workers' compensation policy application for Tennessee-based business
+2. Existing policy adjustment needs
+3. Higher employer liability limits requirement
+4. Contract requirements review and submission process
 
-**Documents Requested/To Be Provided**
-- Contract requirements (from Maya Thompson)
-- W-9 form (from Maya Thompson)
+**Key Questions/Items Addressed**
+- Business structure and employment status (solo owner)
+- Current insurance status and needed modifications
+- Contract-specific requirements for coverage
 
-**Action Items - Harper**
-- [ ] Follow up with provider to confirm contract requirements
-- [ ] Follow up with referral partner to confirm contract requirements
-- [ ] Submit application to carriers
-- [ ] Finalize workers' comp adjustments per contract specifications
-- [ ] **Timeline:** Complete by next business day
-- [ ] Obtain and review carrier quote(s)
+**Decisions Made**
+- Proceed with workers' compensation application with adjusted employer liability limits
+- Business owner to provide contract requirements and W-9 documentation
+- Harper to submit application to carriers for quote
 
-**Action Items - Maya Thompson (Business Owner)**
-- [ ] Send contract requirements documentation
+**Pending Action Items**
+
+*Harper's Responsibilities:*
+- [ ] Follow up with provider to confirm contract requirements by next business day
+- [ ] Follow

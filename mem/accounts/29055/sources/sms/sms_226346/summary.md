@@ -8,38 +8,50 @@
 ## Conversation Context
 
 ### Main Topic/Purpose
-- Follow-up message regarding incoming quote options for the customer
-- Setting expectations about next steps in the quoting process
+- Confirmation message sent to customer regarding upcoming quote review and coverage finalization process
+- Setting expectations for next steps in the insurance quoting process
 
-### Key Information Shared
-- Quote options are being prepared/received for review
+### Key Information Communicated
+- Quote options are expected to be received and reviewed
 - An agent will contact the customer by phone to finalize coverage details
-- Customer is invited to ask questions before the agent's call
+- Customer is invited to reach out with any questions before the agent call
 
 ### Action Items for Customer
-- Await incoming quote options
-- Be available to receive a call from an agent for coverage finalization
-- Contact Harper (via text or phone) with any questions prior to agent call
+- Await phone call from agent for coverage finalization
+- Contact Harper's team (via text or phone) if any questions arise before the agent call
 
 ### Action Items for Harper
-- Ensure quote options are reviewed before agent contact
-- Schedule and prepare agent call to finalize coverage with customer
-- Be available to respond to customer texts or calls if questions arise
+- Receive and review quote options (timing not specified)
+- Schedule agent callback with customer to finalize coverage
+- Ensure agent is prepared with quote details for the finalization call
 
-### Follow-up Timeline & Next Steps
-- Agent call to finalize coverage (timeline not specified)
-- No specific deadline mentioned
+### Pending/Next Steps
+- Receipt and review of quote options (timeline unclear - "when we receive")
+- Agent phone call to customer for coverage finalization (pending completion of quote review)
+- Customer follow-up as needed
 
 ### Tone/Sentiment
-- Professional and reassuring
-- Helpful and customer-friendly
-- Clear communication of process expectations
+- Professional and helpful
+- Reassuring (opening communication channels for customer questions)
+- Matter-of-fact, transactional
 
 ---
 
-## Missing Information
-**Note:** This appears to be a template or standard message with no specific business or personal details mentioned. To provide fuller context, additional information would be needed regarding:
-- Customer name and contact details
-- Business name/type
-- Coverage types being quoted
-- Expected quote timeline
+## Business Details
+- **Coverage Status**: Quotes being prepared/reviewed
+- **Documents**: Quote options (not yet received at time of message)
+- **Next Action**: Agent follow-up call required
+
+---
+
+## Personal Details
+- **Contact Method**: Text or phone call preferred by customer
+- **Communication Style**: Customer is receptive to multi-channel communication
+
+---
+
+## Notable Gaps
+- No carrier names, premium amounts, or specific coverage types mentioned
+- No customer name, business name, or contact information in this message
+- No specific dates/timeline for agent callback
+- No details on what business type or coverage needs

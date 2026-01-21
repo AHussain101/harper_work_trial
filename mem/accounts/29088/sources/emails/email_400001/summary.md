@@ -10,68 +10,46 @@
 
 ## Business Details
 
-**Company Information:**
 - **Company Name:** Little Scholars Academy
-- **Industry:** Education/Child Care (implied from "Academy" name and mention of "enrollment roster")
-- **Business Type:** Not explicitly stated (appears to be educational institution)
-
-**Coverage & Policy Details:**
-- **Status:** Application submitted and under intake/underwriting review
+- **Industry:** Education/Childcare (Academy)
+- **Type of Business:** Not explicitly stated, but appears to be an educational institution
+- **Coverage Needs:** Not yet specified in this email
+- **Policy Types:** Not yet discussed
+- **Premium Amounts:** Not yet determined
+- **Deductibles/Limits:** Not yet discussed
+- **Claims History:** Not yet reviewed
+- **Application Status:** Submitted and received; currently in intake process
 - **Expected Timeline:** Initial carrier interest within 24-48 hours
-- **Documents Potentially Needed:**
+- **Documents That May Be Requested:**
   - State license
   - Enrollment roster
   - Prior policy details
-  - (Will be requested if needed by underwriting team)
-
-**Additional Business Info:**
-- Number of employees: Not mentioned
-- Revenue: Not mentioned
-- Years in operation: Not mentioned
-- Renewal date/effective date: Not mentioned
-- Specific coverage types needed: Not mentioned
-- Premium amounts: Not mentioned
-
----
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Emily Rivera
-- **Email:** emily.rivera@littlescholars.example
+- **Contact Name:** Emily Rivera
 - **Title/Role:** Not specified
-- **Phone Number:** Not provided in email (requested to verify on file)
-- **Preferred Contact Method:** Email (implied as primary communication channel)
-
-**Contact Information Action:**
-- Emily should verify/confirm primary contact email and phone number on file
-
----
+- **Email:** emily.rivera@littlescholars.example
+- **Phone Number:** Not provided in email (verification requested)
+- **Preferred Contact Method:** To be confirmed
 
 ## Conversation Context
 
-**Main Purpose:**
-- Welcome email confirming receipt of insurance application for Little Scholars Academy
-- Notification that underwriting intake process has begun
+- **Email Type:** Welcome/application acknowledgment (outbound from Harper)
+- **Main Purpose:** Confirm receipt of insurance application and set expectations for next steps
+- **Key Message:** Application received and underwriting review has begun
+- **Tone/Sentiment:** Professional, welcoming, reassuring
 
-**Key Messages:**
-- Application received and acknowledged
-- Underwriting review in progress
-- Carrier interest expected within 24-48 hours
-- May request additional documentation (conditional)
-
-**Action Items for Harper:**
+## Action Items for Harper
 - Underwriting team to review application
-- Contact customer if additional documentation needed (state license, enrollment roster, prior policy details)
-- Provide carrier interest/quotes within 24-48 hour window
+- Provide initial carrier interest within 24-48 hours
+- Contact customer if additional documentation is needed (state license, enrollment roster, prior policy details)
 
-**Action Items for Customer (Emily):**
-- Verify primary contact email and phone number on file
-- Be prepared to provide additional documentation if requested
+## Action Items for Customer (Emily Rivera)
+- Verify primary contact email address on file
+- Verify primary contact phone number on file
+- Await contact from Harper team if documentation is required
 
-**Tone/Sentiment:**
-- Professional, friendly, welcoming
-- Efficient and prompt (application acknowledged same day)
-- Clear next steps provided
-
-**Follow-up Timeline
+## Follow-Up Timeline
+- Initial carrier interest expected: 24-48 hours from application submission (submitted ~2025-12-04)
+- Contact will be made only if additional documentation is needed

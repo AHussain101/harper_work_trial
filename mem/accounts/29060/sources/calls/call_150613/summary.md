@@ -4,62 +4,52 @@
 **Duration:** 3m 43s
 **Direction:** Incoming
 
-# Call Summary for Harper
-
-## Call Details
-- **Direction:** Incoming
-- **Duration:** 3 minutes 43 seconds
-- **Date/Time:** December 5, 2025 at 2:20 PM (UTC)
-- **Completed:** December 5, 2025 at 2:24 PM (UTC)
-
----
-
-## Personal Details
-- **Contact Name:** Karen Martinez
-- **Role/Title:** Not specified
-- **Phone/Email:** Not provided in call record
-- **Preferred Contact Method:** Not specified
-- **Communication Style:** Confirmation-focused (calling to verify coverage needs)
-
----
+# Call Summary - Karen Martinez
 
 ## Business Details
-- **Company Name:** Not specified
-- **Industry/Type of Business:** Construction/Site Preparation (lot-prep operations)
-- **Number of Employees:** Not specified
-- **Revenue/Years in Operation:** Not specified
-- **Equipment:** Heavy equipment operations (included on application)
+- **Coverage Type**: Lot-prep and site exposure
+- **Policy Type**: General Liability
+- **Exposures**: Heavy equipment operations included on application
+- **Recommended Coverage**: General liability limits discussed (specific limits not stated in call)
+- **Status**: Underwriting phase - site visit needed for documentation
 
-### Coverage Needs Discussed
-- **General Liability:** Discussed; starting coverage limits recommended by agent
-- **Heavy Equipment Exposures:** Confirmed as included on application
-- **Lot-Prep/Site Exposure:** Coverage needs confirmed during call
-- **Deductibles:** Not specified
-- **Premium Amounts:** Not specified
-- **Policy Limits:** General liability limits discussed but specific amounts not documented
-- **Coverage Type:** Commercial General Liability (implied)
-
-### Renewal/Effective Information
-- **Renewal Date:** Not specified
-- **Effective Date:** Not specified
-- **Application Status:** Application in progress (heavy equipment exposures already included)
-
----
+## Personal Details
+- **Contact Name**: Karen Martinez
+- **Contact Method**: Phone (incoming call)
+- **Role/Title**: Not specified
+- **Communication Style**: Confirmation/follow-up focused
 
 ## Conversation Context
-- **Main Purpose:** Confirmation call regarding coverage needs for lot-prep and site exposure operations
-- **Key Topics Discussed:**
-  - General liability coverage limits (recommendations provided)
-  - Heavy equipment exposures (verification that included on application)
-  - Lot-prep and site-specific exposure requirements
-- **Tone/Sentiment:** Professional, cooperative, confirmation-focused
+- **Call Purpose**: Confirm coverage needs for lot-prep and site exposure
+- **Call Type**: Incoming
+- **Duration**: 3 minutes 43 seconds
+- **Date/Time**: December 5, 2025 at 2:20 PM (UTC)
 
----
+## Key Discussion Points
+- General liability limits were recommended and discussed
+- Heavy equipment exposures confirmed as included on the application
+- Site conditions need to be documented for underwriting purposes
+
+## Pending Decisions
+- Coverage limits appear to have been discussed but final selection not confirmed in summary
 
 ## Action Items
 
-### For Harper (Agent)
-- [ ] Schedule site visit for next week
-- [ ] Gather/document lot conditions during site visit
-- [ ] Collect site photos for underwriting purposes
-- [ ] Prepare general liability
+### For Harper (Insurance Broker)
+- [ ] Schedule site visit for next week to document lot conditions and gather photos
+- [ ] Ensure site visit is completed before final underwriting approval
+
+### For Client (Karen Martinez)
+- [ ] Upload site photos to secure portal for underwriting review
+- [ ] Prepare for scheduled site visit
+
+## Follow-up Timeline
+- **Site Visit**: Scheduled for next week (week of December 8-12, 2025)
+- **Next Steps**: Site photos needed for underwriting
+
+## Tone/Sentiment
+Neutral/Professional - routine confirmation call
+
+---
+
+**Note**: Specific general liability limits, premium amounts, deductibles, carrier information, renewal/effective dates, and company name were not mentioned in this call summary.

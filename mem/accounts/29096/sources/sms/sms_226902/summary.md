@@ -5,41 +5,42 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Incoming
-- **Date/Time:** December 5, 2025 at 9:10 AM
-- **Tone/Sentiment:** Professional, procedural
+## Business Details
+- **Coverage Type Discussed:** Auto/Vehicle coverage (MVRs - Motor Vehicle Records indicate auto insurance)
+- **Documents Provided:** Background checks and Motor Vehicle Records (MVRs)
+
+## Personal Details
+- **Contact Method:** SMS
+- **Document Status:** Proactively uploaded materials
+
+## Conversation Context
+
+### Main Topic
+Customer has uploaded required documentation (background checks and MVRs) for insurance application/renewal process and is requesting confirmation of receipt.
+
+### Key Details
+- **Documents Submitted:**
+  - Background checks
+  - MVRs (Motor Vehicle Records)
+- **Customer Request:** Confirmation of document receipt
+
+### Action Items for Harper
+- [ ] **URGENT:** Confirm receipt of uploaded documents (background checks and MVRs)
+- [ ] Verify all documents received completely and legibly
+- [ ] Check for any missing or incomplete information
+- [ ] Respond to customer promptly to acknowledge receipt
+
+### Action Items for Customer
+- Awaiting Harper's confirmation of document receipt
+
+### Tone/Sentiment
+- **Professional and cooperative** - Customer proactively uploaded required documents
+- **Organized** - Demonstrates engagement and readiness to move forward
+- **Expectant** - Waiting for confirmation
+
+### Follow-Up Timeline
+- **Immediate:** Harper should confirm receipt ASAP (same day preferred)
 
 ---
 
-## Documents Provided by Customer
-- **Background checks** - uploaded
-- **MVRs (Motor Vehicle Records)** - uploaded
-- Customer requesting confirmation of receipt
-
----
-
-## Action Items for Harper
-- [ ] Confirm receipt of uploaded documents (background checks and MVRs)
-- [ ] Review uploaded documents
-- [ ] Follow up with customer once documents are received and processed
-
----
-
-## Action Items for Customer
-- ✅ Uploaded background checks
-- ✅ Uploaded MVRs
-- Waiting for confirmation of receipt
-
----
-
-## Follow-up Notes
-- Customer is expecting acknowledgment that documents were successfully received
-- No timeline specified for next steps
-- Documents appear to be related to a hiring/staffing or commercial auto insurance matter (given the combination of background checks and MVRs)
-
----
-
-## Contact/Identification Details
-- **Sender identity:** Not specified in message
-- *Note: Determine which client/business this is associated with*
+**Note:** No specific company name, employee count, premium amounts, deductibles, or policy specifics mentioned. This appears to be mid-process documentation submission.

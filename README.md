@@ -120,8 +120,7 @@ mem/
 │   ├── search/
 │   │   ├── SKILL.md             # Core search agent skill
 │   │   ├── tool_reference.md    # Detailed tool usage
-│   │   ├── formatting.md        # Answer formatting rules
-│   │   └── scripts/             # Helper utilities
+│   │   └── formatting.md        # Answer formatting rules
 │   ├── router/
 │   │   └── SKILL.md             # Intent classification skill
 │   └── update/
@@ -429,10 +428,7 @@ harper_v3/
 │   │   │   ├── tool_reference.md   # Tool usage details
 │   │   │   ├── formatting.md       # Answer formatting
 │   │   │   ├── reading_sources.md  # Source file strategy
-│   │   │   ├── examples.md         # Example flows
-│   │   │   └── scripts/
-│   │   │       ├── count_sources.py     # Count sources utility
-│   │   │       └── search_summaries.py  # Search summaries utility
+│   │   │   └── examples.md         # Example flows
 │   │   ├── router/
 │   │   │   ├── SKILL.md            # Router/intent skill
 │   │   │   └── confirmation.md     # New account flow

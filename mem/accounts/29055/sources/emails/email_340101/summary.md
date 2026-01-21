@@ -10,45 +10,58 @@
 
 ## Business Details
 
-**Company Information:**
-- **Applicant Name:** Sentinel Shield Security
-- **Business Type:** Security services
-- **Industry:** Security/Protection services
+**Client Company**
+- Company Name: Sentinel Shield Security
+- Industry: Security Services
+- Business Type: Not specified
 
-**Coverage & Pricing:**
-- **Estimated Annual Premium:** ~$1,200 (before fees and taxes)
-- **Carrier:** RTS Specialty
-- **Quote Reference Number:** SS-2025-01
-- **Broker Portal Access:** Available at https://portal.example-mga.example/quotes/SS-2025-01
-- **Quote Status:** Initial quote ready for review
+**Coverage & Policy Information**
+- Carrier: RTS Specialty
+- Premium: ~$1,200 annual (before fees and taxes)
+- Quote Status: Initial quote available for review
+- Quote Reference: SS-2025-01
+- Portal Access: Broker portal available at https://portal.example-mga.example/quotes/SS-2025-01
+
+**Quote Details Not Yet Provided**
+- Specific policy types: Not mentioned
+- Deductibles: Not mentioned
+- Coverage limits: Not mentioned
+- Renewal/effective dates: Not mentioned
+- Claims history/loss runs: Not mentioned
+
+---
 
 ## Personal Details
 
-**Contacts:**
-- **From:** RTS Specialty Underwriting (quotes@rtspecialty.com)
-- **To:** Harper Insurance submissions (submissions@harperinsure.com)
+**Contact Information**
+- Sender: RTS Specialty Underwriting (quotes@rtspecialty.com)
+- No specific client contact person named
+- Recipient: Harper Insurance submissions email
+
+---
 
 ## Conversation Context
 
-**Main Purpose:**
-- RTS Specialty has provided an initial quote for Sentinel Shield Security that is ready for Harper's review
+**Main Purpose**
+- Delivery of initial insurance quote for Sentinel Shield Security from RTS Specialty
 
-**Key Information:**
-- Quote is preliminary and subject to fees and taxes
-- Carrier offers customization options for client-facing quote materials
-- Customizations can include broker fees and payment plan options
+**Key Actions Required**
 
-**Action Items for Harper:**
-- [ ] Review the quote in the RTS Specialty broker portal using the provided link
-- [ ] Decide if customization of applicant-facing materials is needed
-- [ ] Reply to RTS Specialty if broker fee or payment options customization is desired
+*For Harper:*
+- Review quote in broker portal using provided link
+- Determine if applicant-facing version needs customization
+- Decide on broker fee structure and payment options (if applicable)
+- Contact RTS Specialty with customization requests if needed
 
-**Action Items for Carrier:**
-- [ ] Awaiting Harper's response regarding customization requests
-- [ ] Will prepare client-friendly quote version if requested
+*For RTS Specialty:*
+- Awaiting confirmation from Harper on whether customized quote version is needed
+- Ready to prepare applicant-facing quote with broker fee and payment options upon request
 
-**Next Steps:**
-- Harper should review quote and confirm if customization is needed
-- Timeline is not specified; appears to be ready for immediate action
+**Tone/Sentiment**
+- Professional, routine
+- No urgency indicated
+- Standard carrier quote submission process
 
-**Tone/Sentiment:** Professional, matter-of-fact; straightforward quote notification
+**Next Steps**
+- Harper to review quote in portal
+- Harper to confirm whether customization needed with RTS Specialty

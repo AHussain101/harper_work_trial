@@ -3,50 +3,43 @@
 **Date:** 2025-12-04T18:38:39.253000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# SMS Summary - Harper Insurance
 
 ## Business Details
-- **Coverage Type**: Submission in progress (specific coverage type not yet specified)
-- **Quote Status**: Awaiting quotes from carriers
-- **Documents/Information**: Submission has been received and is being processed
+- **Coverage Status**: Submission in progress
+- **Current Stage**: Awaiting quotes from carriers
 
 ## Personal Details
 - **Contact Name**: Marcus
 - **Contact Method**: SMS
-- **Communication Preference**: Text message communication established
+- **Relationship Status**: New client ("thanks for choosing Harper")
 
 ## Conversation Context
+- **Main Topic**: Acknowledgment of new business submission and quote status update
+- **Purpose**: 
+  - Thank Marcus for selecting Harper as broker
+  - Inform client that submission is being processed
+  - Set expectation for future quote delivery
+  
+- **Key Messages**:
+  - Submission has been received and is actively being processed
+  - Quotes from carriers are expected to arrive
+  - Client will receive updates as quotes come in
 
-### Main Topic
-- Initial acknowledgment of new client onboarding
-- Confirmation of submission receipt
+- **Tone/Sentiment**: Professional, courteous, reassuring
 
-### Key Information Exchanged
-- Marcus has chosen to work with Harper for insurance coverage
-- A submission has been provided by the client
-- Harper is actively working on obtaining quotes
+## Action Items
+**Harper's Actions**:
+- Monitor incoming quotes from carriers
+- Update Marcus once quotes arrive
+- Maintain communication timeline with client
 
-### Action Items for Harper
-- Obtain quotes from insurance carriers
-- Send quote updates to Marcus as they arrive
-- Follow up with specific coverage details and recommendations once quotes are received
+**Customer Actions**:
+- None at this time (awaiting Harper's update)
 
-### Action Items for Customer (Marcus)
-- Await quote updates from Harper
-- Be available to review quotes when they arrive
-
-### Pending Decisions
-- Carrier selection pending (awaiting quotes)
-- Coverage details/final policy selection pending quote review
-
-### Follow-Up Timeline
-- Next contact when quotes arrive from carriers
-- **Timeline**: TBD (dependent on carrier response times)
-
-### Tone/Sentiment
-- **Tone**: Professional, courteous, reassuring
-- **Sentiment**: Positive - confirming client selection and proactive service
+## Follow-Up Timeline
+- Next contact: When carrier quotes arrive (timeline not specified)
 
 ---
 
-**Status**: Initial contact phase - waiting for carrier quotes
+**Note**: This is a preliminary acknowledgment message. Limited detail provided. Additional information about coverage type, business details, and policy requirements would typically come from the initial submission form or previous conversation documentation.

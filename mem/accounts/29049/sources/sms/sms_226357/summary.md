@@ -5,49 +5,35 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Incoming message from customer
-- **Date & Time:** December 4, 2025 at 7:51 PM
-- **Tone/Sentiment:** Professional, responsive, cooperative
-
----
-
-## Business Details
-
-### Coverage Information
-- **Policy Type:** Workers' Compensation
-- **Document Type:** Certificate of Insurance (COI)
-- **Status:** Document uploaded by customer
-
----
-
-## Personal Details
-- **Contact:** Name not provided in this message
-- **Communication Method:** SMS
-- **Communication Style:** Brief, professional, action-oriented (customer is following through on requests)
-
----
-
 ## Conversation Context
+- **Main Topic:** Document submission - Workers' Compensation Certificate of Insurance (COI)
+- **Purpose:** Customer fulfilling a previous request from Harper
+- **Tone/Sentiment:** Cooperative, straightforward, professional
+- **Action Completed:** Document upload completed by customer
 
-### Main Purpose
-- Customer is fulfilling a prior request from Harper for documentation
+## Document Details
+- **Document Type:** Workers' Compensation Certificate of Insurance (COI)
+- **Status:** Uploaded/Provided
+- **Context:** This was previously requested by Harper
 
-### Key Action Items Completed
-- ✅ **Customer Action Completed:** Uploaded Workers' Compensation Certificate of Insurance
+## Action Items
 
-### Action Items for Harper
-- Review the uploaded Workers' Compensation COI document
-- Verify document completeness and current status
-- Determine next steps based on document contents (if any additional documentation is needed)
-- Follow up with customer if clarification is needed on the COI
+### For Harper
+- [ ] Review and verify the uploaded Workers' Compensation COI
+- [ ] Confirm receipt of the document with the customer
+- [ ] Check if this COI meets all coverage requirements
+- [ ] Determine if any additional documents are still needed
+- [ ] Proceed with next steps in the insurance process (underwriting, quoting, binding, etc.)
 
-### Follow-up Timeline
-- No specific timeline mentioned; Harper should review promptly and respond with next steps
+### For Customer
+- ✅ Completed: Upload Workers' Compensation COI
+
+## Follow-Up Status
+- **Pending:** Harper's acknowledgment and next steps
+- **No explicit timeline mentioned** - recommend prompt follow-up to confirm receipt and communicate next steps
 
 ---
 
 ## Notes
-- This appears to be a follow-up to a previous conversation where Harper requested the COI
-- Customer is responsive and cooperative with documentation requests
-- No issues, concerns, or complications noted in this message
+- **Missing Information:** Customer name/contact info, company name, specific policy being quoted/renewed, any other outstanding document requests
+- **Recommended Action:** Harper should reply promptly to confirm receipt and outline any remaining requirements

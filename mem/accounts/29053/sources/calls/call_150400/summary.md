@@ -4,51 +4,57 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary: Asif Khan - GL Quote & Building Coverage Follow-Up
+# Call Summary: Asif Khan - GL Quote & Building Coverage Follow-up
 
 ## Business Details
 - **Coverage Types Discussed:**
   - General Liability (GL) quote
   - Building coverage (newly requested)
-- **Building Coverage Details:**
-  - Limit: $500,000
-  - Reason: Landlord requirement
-- **Next Steps for Documentation:**
+  - Building limit: $500,000
+- **Renewal/Effective Date:** Not specified
+- **Driver:** Landlord requirement for building coverage
+- **Documents/Actions:**
+  - GL quote and carrier questions previously emailed
   - Updated quote with building coverage to be sent by end of day
 
 ## Personal Details
 - **Contact Name:** Asif Khan
-- **Role:** Client
-- **Contact Method:** Email (preferred for quote delivery)
-- **Communication Style:** Professional, responsive to requests
+- **Role/Title:** Not specified
+- **Communication Method:** Email (primary method used)
+- **Contact Method Preferences:** Email confirmed as effective
 
 ## Conversation Context
-- **Call Purpose:** Follow-up confirmation call
-- **Main Topics:**
-  1. Confirm GL quote and carrier questions were emailed to client
-  2. Request to add building coverage to quote
-  3. Set expectations for updated quote delivery
+- **Call Purpose:** Follow-up confirmation call regarding GL quote and coverage modifications
+- **Call Type:** Outgoing from Harper to Asif Khan
+- **Duration:** 1 minute 35 seconds
+- **Call Date/Time:** December 5, 2025 at 3:00 PM UTC
 
-## Key Details & Decisions
-- ✅ **Confirmed:** GL quote and carrier questions successfully emailed
-- ✅ **Client Action:** Asif will review the GL quote
-- ✅ **New Request:** Building coverage ($500k limit) per landlord requirement
-- ⏳ **Pending:** Updated quote with building coverage
+## Key Details Discussed
+- GL quote and carrier questions were previously emailed ✓ (confirmed)
+- Client will review the quote
+- **New Request:** Add building coverage with $500,000 limit
+- **Reason for Change:** Landlord requirement
+
+## Decisions Made
+- Asif Khan agreed to review the GL quote
+- Harper agreed to add $500,000 building coverage to quote
+- Updated quote to be delivered by end of business day
 
 ## Action Items
 
-### Harper's Action Items
-- [ ] Add $500k building coverage limit to existing GL quote
-- [ ] Send updated quote to Asif Khan by end of day (2025-12-05)
+### For Harper
+- [ ] Add $500,000 building coverage limit to GL quote
+- [ ] Send updated quote to Asif Khan by end of day (December 5, 2025)
 
-### Client Action Items
+### For Asif Khan
 - [ ] Review GL quote
-- [ ] Review updated quote once received
+- [ ] Review updated quote with building coverage once received
 
-## Follow-Up Timeline
-- **Updated Quote Due:** End of business day (2025-12-05)
-- **No specific follow-up date mentioned** - may need to schedule confirmation call after client reviews updated quote
+## Follow-up Timeline
+- **Next Steps:** Updated quote delivery by end of day (December 5, 2025)
+- **Implicit Next Step:** Awaiting Asif Khan's review and approval of updated quote
 
-## Tone & Sentiment
-- **Tone:** Professional, cooperative
-- **Sentiment:** Positive - client is engaged and responsive to requests
+## Tone/Sentiment
+- **Overall Tone:** Professional and cooperative
+- **Client Sentiment:** Receptive; no concerns raised
+- **

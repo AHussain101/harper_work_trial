@@ -11,53 +11,59 @@
 ## Business Details
 
 **Company Information:**
-- Company name: Bright Futures Childcare Center
-- Industry: Childcare/Early Childhood Education
-- Business type: Childcare facility
+- Business name: Bright Futures Childcare Center
+- Industry: Childcare
+- Type of business: Childcare facility
 
 **Coverage Details:**
 - Policy type: General Liability
 - Suggested coverage limit: $500,000 per occurrence
 - Estimated annual premium (including fees & taxes): $3,600
-- Quote valid until: February 2, 2026
+- Quote valid through: February 2, 2026
 
-**Additional Notes:**
-- Quote is preliminary and carrier-generated
+**Underwriting Status:**
+- Quote type: Preliminary/carrier-generated estimate
 - Final pricing subject to completed underwriting
-- Subjectivities may be requested before binding
+- Subjectivities may be requested
 
-## Carrier Information
+## Personal Details
 
-- Carrier: ChildCare Liability Co.
-- Contact: Lauren Smith
+**Carrier Contact:**
+- Name: Lauren Smith
+- Title: ChildCare Liability Co. representative
 - Email: lauren.smith@example-carrier.com
+- Company: ChildCare Liability Co.
+
+**Recipient:**
+- Recipient name: Ethel (Harper agent)
+- Email: submissions@harperinsure.com
 
 ## Conversation Context
 
-**Purpose:**
-- Delivery of preliminary general liability insurance quote for childcare center
+**Main Topic:**
+- Delivery of preliminary general liability insurance quote for childcare center client
 
-**What Was Provided:**
-- Preliminary quote attached to email with coverage summary and pricing
+**Documents Provided:**
+- Preliminary quote attachment (referenced but not detailed)
 
-**Action Items for Harper:**
-- Review quote with Bright Futures Childcare Center client
-- Present quote details and pricing to decision-maker
-- Obtain client approval to proceed
-- Coordinate binding of coverage if approved
-- Prepare client for potential underwriting subjectivities
+**Key Information:**
+- Quote is carrier-generated estimate, not final
+- Final pricing contingent on underwriting completion and any requested subjectivities
 
-**Action Items for Client:**
-- Review preliminary quote
+**Action Items for Harper/Ethel:**
+- Review preliminary quote with client
+- Obtain client approval if quote is acceptable
+- Reply to Lauren Smith's email or contact Harper agent by phone/text to bind coverage upon approval
+
+**Action Items for Customer (Bright Futures Childcare Center):**
+- Review quote details
 - Approve or request modifications
-- Provide approval to bind coverage (via reply, phone call, or text to Harper agent)
-- Be prepared for underwriting questions/subjectivities
+- Provide any additional information needed for underwriting
 
-**Next Steps:**
-- Client to approve/respond with binding request
-- Upon approval: Harper to notify carrier for binding
-- Finalize coverage upon underwriting completion
+**Next Steps/Timeline:**
+- Quote expires: February 2, 2026
+- Action needed before expiration to bind coverage
 
 **Tone/Sentiment:**
-- Professional, straightforward
-- No concerns or issues raised
+- Professional, straightforward, routine quote delivery
+- No urgency indicated, but deadline is present

@@ -6,31 +6,52 @@
 # SMS Summary for Harper
 
 ## Conversation Context
-- **Main Topic:** Confirming next steps in the quoting process
-- **Purpose:** Setting expectations for follow-up communication
-- **Tone/Sentiment:** Professional, procedural, reassuring
 
-## Key Information
-- **Current Stage:** Awaiting quote options (quotes are being prepared/retrieved)
-- **Next Action:** Agent will call to finalize coverage once quotes are ready
-- **Communication Method:** SMS remains open for questions before the call
+### Main Topic/Purpose
+- Follow-up message confirming next steps in the quote process
+- Setting expectations for upcoming agent contact
 
-## Action Items
+### Key Messages
+- Quote options are being prepared
+- An agent will call the customer to finalize coverage details once quotes are ready
+- Customer is invited to ask questions via SMS before the agent call
 
-### For Harper/Agency
-- **Pending:** Prepare quote options for this customer
-- **Pending:** Schedule and conduct follow-up call to finalize coverage details
-- **Pending:** Monitor SMS for any customer questions before the call
+### Decisions Made
+- Process established: quotes will be generated → agent will call → coverage will be finalized
 
-### For Customer
-- **Pending:** Review quote options (when received)
-- **Pending:** Prepare for agent call to finalize coverage
-- **Optional:** Reply via SMS with any questions before the call
+### Action Items
 
-## Follow-Up Timeline
-- **Next Steps:** Agent will call after quotes are available
-- **Timeline:** Not specified - customer is open to questions in the interim
+#### For Harper/Team
+- Prepare quote options for this customer
+- Schedule agent call to finalize coverage
+- Monitor SMS for any questions from customer before quotes are sent
+
+#### For Customer
+- Wait for quote options
+- Expect an incoming call from an agent
+- Reach out via SMS if questions arise before then
+
+### Timeline & Next Steps
+- **Immediate:** Customer should reply if they have questions
+- **Next:** Quote options will be sent/prepared
+- **Following:** Agent will contact customer by phone to finalize coverage
+
+### Tone/Sentiment
+- Professional, helpful, and reassuring
+- Clear communication of process flow
+- Open door for customer concerns or questions
 
 ---
 
-**Note:** This is a confirmation/transition message. Limited specific business or personal details are provided in this SMS. Additional context may be found in previous messages or customer account records.
+## Missing Information
+
+**Note:** This SMS does not contain specific details about:
+- Customer name or contact information
+- Business details (company name, industry, employee count)
+- Coverage types or amounts being quoted
+- Premium ranges or deductibles
+- Carrier options
+- Renewal or effective dates
+- Any prior correspondence context
+
+*These details may exist in earlier messages or customer records.*

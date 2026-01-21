@@ -6,65 +6,65 @@
 **From:** submissions@harperinsure.com
 **To:** underwriting@carrier-network.example.com
 
-# Insurance Submission Summary: Maple Home Care Services, LLC
+# Insurance Submission Summary: Maple Home Care Services
 
 ## Business Details
 
-**Company Information**
-- Company name: Maple Home Care Services, LLC
-- Business type: Non-medical home care provider
-- Industry: Healthcare/Home Services
-- Years in operation: ~5 years
-- Annual revenue: ~$100,000
+**Company Information:**
+- **Company Name:** Maple Home Care Services, LLC
+- **Industry/Type:** Non-medical home care provider
+- **Years in Operation:** ~5 years
+- **Annual Revenue:** ~$100,000
 
-**Services Offered**
+**Services Offered:**
 - Companion care
 - Personal care assistance
 - Light housekeeping
 
-**Staffing**
-- Multiple part-time caregivers contracted per schedule
+**Coverage Needs:**
+- General Liability (GL)
+- Professional Liability / Errors & Omissions (E&O)
+
+**Key Exposures:**
+- Non-medical in-home care visits
+- Multiple part-time caregivers contracted on a per-schedule basis
 - Background checks and training programs in place
 
-**Coverage & Policy Details**
-- Coverage types requested: 
-  - General Liability (GL)
-  - Professional Liability/E&O (Errors & Omissions)
-- Premium amounts: Not yet specified
-- Deductibles: Not yet specified
-- Coverage limits: Not yet specified
-
-**Key Exposures Identified**
-- Non-medical in-home care visits
-- Multiple contracted part-time caregivers operating on various schedules
+**Risk Management:**
+- Background checks implemented
+- Staff training programs in place
 
 ## Documents Provided
+
 - Application form
-- Training documentation (attached)
-- Background check documentation (attached)
+- Statements/documentation on training procedures
+- Statements/documentation on background check procedures
 
-## Submission Details
+## Personal Details
 
-**Submission Source:** Harper Submissions Team  
-**Submission Date:** December 4, 2025  
-**Submission Type:** Outbound carrier submission  
-**Recipient:** Underwriting department at carrier network
-
-## Action Items
-
-### Harper's Completed Actions
-- ✅ Submitted application and supporting documents to carrier
-- ✅ Compiled and attached training/background check documentation
-
-### Pending Actions
-- Awaiting carrier underwriting review and quote
-- Awaiting coverage limits, premium, and deductible confirmation
+**Contact Information:**
+- Submission originated from Harper Submissions Team email: submissions@harperinsure.com
+- No individual contact person name provided in submission
 
 ## Conversation Context
-- **Purpose:** Initial coverage submission to underwriters for GL and E&O quotes
-- **Tone:** Professional, routine submission
-- **Status:** Application submitted; awaiting underwriter response
-- **Next Steps:** Carrier review and quote development
 
----
-*No personal contact details for business owner/principal were included in this submission communication.*
+**Purpose:**
+Outbound insurance submission to carrier network for quote and underwriting review
+
+**Main Topic:**
+GL and E&O coverage placement for small non-medical home care business
+
+**Key Information Requested from Applicant:**
+- Background check documentation (requested to be attached)
+- Training documentation (requested to be attached)
+
+**Status:**
+- Submission in progress to underwriters
+- Awaiting carrier review and quote
+
+**Next Steps:**
+- Carrier (underwriting@carrier-network.example.com) to review submission materials
+- Quote/underwriting response expected from carrier
+
+**Tone/Sentiment:**
+Professional, routine submission; organized presentation of information

@@ -6,59 +6,57 @@
 **From:** dakota@harperinsure.com
 **To:** marcus.lee@harborviewrecovery.com
 
-# Insurance Quote Follow-Up Summary for Harper
+# Harper Insurance - Harborview Recovery Center Summary
 
 ## Business Details
+
 - **Company Name:** Harborview Recovery Center
-- **Industry:** Healthcare/Recovery Services
-- **Coverage Type:** General business insurance (specific lines not detailed in this email)
+- **Industry:** Recovery/Healthcare (treatment facility)
+- **Coverage Stage:** Insurance application submitted to carrier network
 - **Documents Requested:**
   - Loss runs (3-year history from prior insurer)
-  - Certificates of Insurance (COIs)
+  - Certificates of Insurance (COIs) required by contracts/leases
   - Additional intake forms
-  - Specific coverage needs documentation
-  - Contract/lease insurance requirement details
+  - Any contracts with specific insurance requirements
+- **Document Upload Portal:** https://portal.example-insure.com/upload/harborview
 
 ## Personal Details
-- **Contact Name:** Marcus Lee
-- **Title/Role:** Not specified
-- **Email:** marcus.lee@harborviewrecovery.com
-- **Communication Method:** Email
-- **Preferred Contact:** Not specified
+
+- **Primary Contact:** Marcus Lee
+- **Contact Email:** marcus.lee@harborviewrecovery.com
+- **Harper Representative:** dakota@harperinsure.com (sender)
 
 ## Conversation Context
-- **Email Purpose:** Follow-up to a phone conversation; requesting documentation to expedite insurance application processing
-- **Previous Action:** Application was submitted to carrier network following a phone discussion with Marcus
-- **Main Topic:** Gathering required documentation to support insurance quote process
+
+### Main Topic
+- Follow-up on insurance application for Harborview Recovery Center
+- Expediting carrier responses by gathering necessary documentation
 
 ### Key Points
 - Application has been submitted to Harper's carrier network
-- Initial carrier responses are expected shortly
-- Document submission is time-sensitive for expediting the process
+- Initial carrier responses expected soon
+- Harper is requesting supporting documentation to speed up the process
+- Loss runs should cover last 3 years of prior coverage
+- Harper offers assistance in obtaining loss runs if needed
 
 ### Action Items for Customer (Marcus Lee)
-- [ ] Upload loss runs (3-year coverage history from prior insurer) to portal
-- [ ] Upload Certificates of Insurance if required by contracts/leases
-- [ ] Submit any additional intake forms
-- [ ] Provide documentation of specific coverage needs
-- [ ] Share any contracts with insurance requirement details
-- [ ] **Upload Portal Link:** https://portal.example-insure.com/upload/harborview
+- [ ] Upload loss runs (3-year coverage period from prior insurer)
+- [ ] Upload Certificates of Insurance (COIs) from existing contracts/leases
+- [ ] Complete any additional intake forms
+- [ ] Provide details on contracts with specific insurance requirements
+- [ ] Use provided portal link to upload documents
 
-### Action Items for Harper
-- [ ] Monitor carrier responses to Harborview Recovery Center application
-- [ ] Be prepared to assist Marcus with obtaining loss runs if needed
-- [ ] Follow up with Marcus once documents are received
+### Action Items for Harper (Dakota)
+- [ ] Await carrier responses to submitted application
+- [ ] Follow up on document submission status
+- [ ] Be prepared to assist Marcus in obtaining loss runs if requested
 
-### Timeline/Next Steps
-- Carrier responses expected "shortly"
-- Follow-up needed pending document submission and carrier feedback
-- No specific deadline mentioned, but expedited processing requested
+### Timeline
+- **Email Date:** December 4, 2025
+- **Next Steps Expected:** "Shortly" (carrier responses pending)
+- **No specific deadline mentioned** for document submission
 
 ### Tone/Sentiment
-- Professional and helpful
-- Positive and collaborative
-- Action-oriented
-
----
-
-**Email Sender:** Harper employee (dakota@harperinsure.com) - specific agent name not provided
+- Professional and collaborative
+- Efficient and solution-oriented
+- Supportive (offering assistance with loss runs if needed)

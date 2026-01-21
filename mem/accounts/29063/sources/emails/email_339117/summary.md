@@ -6,50 +6,69 @@
 **From:** avery.kim@harperinsure.com
 **To:** marisol.vega@summitcareservices.com
 
-# Insurance Quote Follow-Up Summary for Harper
+# Email Summary for Harper Insurance
 
 ## Business Details
-- **Company Name:** Summit Care Services
-- **Industry:** Healthcare/Care Services (based on company name)
-- **Coverage Type:** Application submitted (specific policy types not detailed in this email)
-- **Documents Requested:**
-  - Loss runs (last 3 years if available)
-  - Proof of payroll / W-2 headcount
-  - Any required COI (Certificate of Insurance) language for clients or contracts
+
+**Company Information:**
+- Company name: Summit Care Services
+- Industry: Healthcare/Care Services (based on company name)
+- Employee count: Not specified (but payroll details requested)
+- Revenue: Not mentioned
+
+**Coverage & Policy Information:**
+- Coverage needs: Not yet detailed in this email
+- Policy types: Not specified
+- Premium amounts: Not yet provided
+- Deductibles/limits: Not yet provided
+- Claims history: Loss runs requested for evaluation
+
+**Documents Requested:**
+- Loss runs (last 3 years if available)
+- Proof of payroll / W-2 headcount documentation
+- Any required COI (Certificate of Insurance) language for clients or contracts
+
+**Application Status:**
+- Application submitted to carrier network
+- Initial carrier responses expected shortly
+- Quote stage: In progress
+- Submission date: December 4, 2025
+
+**Documents/Resources:**
+- Secure upload portal provided: https://portal.example-insure.com/uploads/submit-claim-abc123
+
+---
 
 ## Personal Details
-- **Contact Name:** Marisol Vega
-- **Contact Email:** marisol.vega@summitcareservices.com
-- **Harper Representative:** Avery Kim (Intake Team)
-- **Harper Contact Email:** intake@harperinsure.com
-- **Preferred Contact Method:** Email or phone to intake team
+
+**Contact Information:**
+- Name: Marisol Vega
+- Company email: marisol.vega@summitcareservices.com
+- Role/Title: Not specified (likely decision-maker or insurance contact for Summit Care Services)
+
+**Harper Insurance Contact:**
+- Name: Avery Kim
+- Title: Intake Team member
+- Email: intake@harperinsure.com (team email also provided: avery.kim@harperinsure.com)
+- Phone: Available through intake team (specific number not in email)
+
+**Communication Preferences:**
+- Preferred contact method: Email or phone to intake team
+- Response method: Reply to email or phone call
+
+---
 
 ## Conversation Context
 
-### Main Topic
-- Insurance application follow-up and quote process acceleration for Summit Care Services
+**Purpose:**
+- Follow-up to insurance quote application for Summit Care Services
+- Streamline the quoting process by collecting necessary documentation
 
-### Key Actions Completed
-- Application submitted to carrier network
-- Initial carrier responses expected shortly
+**Key Points:**
+- Marisol and Harper team recently spoke (verbal conversation occurred)
+- Application already submitted to carrier network
+- Waiting for initial carrier responses
+- Documentation needed to expedite quotes
 
-### Action Items for Customer (Marisol Vega)
-- **Upload documents via secure portal:** https://portal.example-insure.com/uploads/submit-claim-abc123
-- Provide loss runs from last 3 years (if available from prior coverage)
-- Submit proof of payroll / W-2 headcount documentation
-- Provide any required COI language needed for clients or contracts
-- Contact Harper intake team if assistance needed with document retrieval or portal upload
-
-### Action Items for Harper
-- Monitor carrier responses
-- Support customer with document upload process if needed
-- Process submitted documents upon receipt
-
-### Timeline
-- **Email Date:** December 4, 2025
-- **Next Steps Timeline:** Initial carrier responses expected "shortly" (no specific deadline provided)
-
-### Tone/Sentiment
-- Professional and helpful
-- Cooperative (recent conversation reference suggests positive interaction)
-- Efficient (proactive request for documents to speed process)
+**Action Items for Customer (Marisol/Summit Care Services):**
+- [ ] Upload loss runs

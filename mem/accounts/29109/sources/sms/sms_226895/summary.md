@@ -5,49 +5,35 @@
 
 # SMS Summary for Harper
 
+## Business Details
+- **Coverage Type**: Quote provided (specific coverage details not mentioned in SMS)
+- **Documents Provided**: 
+  - Preliminary quote (emailed)
+  - E-sign package (emailed)
+
 ## Personal Details
-- **Contact Name:** Wei
-- **Contact Method:** SMS (with email follow-up)
-- **Preferred Communication:** Email preferred for documents
+- **Contact Name**: Wei
+- **Preferred Contact Method**: Email
+- **Communication Style**: Professional, efficient
 
 ## Conversation Context
+- **Main Topic**: Delivery of preliminary insurance quote and electronic signature documentation
+- **Documents Sent**: 
+  - Preliminary quote
+  - E-sign package
+- **Key Request**: Wei asked to review materials "when you have a moment"
+- **Action Items for Customer (Wei)**:
+  - Review preliminary quote
+  - Review e-sign package
+  - Likely to sign and return documents
+- **Action Items for Harper**:
+  - Await Wei's review and feedback
+  - Be prepared to answer questions about the quote
+  - Monitor for return of signed e-sign package
+- **Follow-up Timeline**: Informal/flexible timeline ("when you have a moment")
+- **Tone/Sentiment**: Professional, casual, friendly
 
-### Main Topic/Purpose
-- Delivery of preliminary insurance quote to client
-- Transmission of e-signature package for policy documents
-
-### Documents Shared
-- Preliminary quote (emailed)
-- E-sign package (emailed)
-
-### Action Items for Customer (Wei)
-- Review preliminary quote when available
-- Review e-signature package
-- Sign documents via e-sign platform (implied next step)
-
-### Action Items for Harper
-- ✅ Sent preliminary quote email
-- ✅ Sent e-sign package email
-- Monitor for Wei's review and return of signed documents
-
-### Tone/Sentiment
-- Professional and friendly
-- Casual ("when you have a moment" - low pressure)
-- Efficient communication style
-
-### Follow-Up Timeline
-- **Status:** Awaiting customer review
-- **Next Steps:** Depends on Wei's review timeline
-- **Implied Timeline:** No specific deadline mentioned; appears to be informal/flexible
-
----
-
-## ⚠️ Missing Information (May Need Follow-Up)
-- No specific business details captured in this message
-- No policy types, coverage limits, or premiums mentioned
-- No coverage needs details
-- No renewal or effective dates discussed
-- No carrier information included
-- No claims history or loss runs referenced
-
-**Note:** This appears to be a follow-up message in an ongoing conversation. Full context may require review of previous communications with Wei.
+## Notes for Follow-Up
+- No specific deadline mentioned for review
+- Harper should expect communication from Wei after document review
+- Consider follow-up if no response within a reasonable timeframe (3-5 business days)

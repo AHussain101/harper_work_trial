@@ -5,32 +5,40 @@
 
 # SMS Summary for Harper
 
-## Conversation Context
-
-**Main Topic/Purpose**
-- Brief acknowledgment message; minimal context provided
-- Appears to be a response confirming agreement to take action
-
-**Key Details**
-- **Tone/Sentiment**: Neutral, cooperative, brief
-- **Message Type**: Confirmatory response
-- **Actionable Content**: Limited - customer is agreeing to something previously discussed
-
-## Important Notes
-
-⚠️ **Context Limitation**: This SMS alone contains insufficient information to determine:
-- What specific action the customer agreed to
-- What was discussed in previous communication
-- What "will do" refers to
-- Customer identity or business details
-- Insurance-related specifics (coverage, quotes, renewal, etc.)
-
-## Recommended Action for Harper
-
-- **Review Previous Communication**: Check prior SMS messages, emails, or notes with this contact to understand what action item they're confirming
-- **Document Agreement**: Note this confirmation in the customer file once context is clarified
-- **Follow-up**: Ensure the agreed-upon action is completed on the expected timeline
+## Message Overview
+- **Direction:** Incoming message from customer
+- **Date/Time:** December 5, 2025 at 2:15 AM
+- **Tone/Sentiment:** Neutral, brief acknowledgment
 
 ---
 
-**Message Received**: December 5, 2025 at 2:15 AM UTC
+## Conversation Context
+- **Main Topic:** Customer confirming/agreeing to take an action
+- **Key Message:** Simple confirmation - customer is agreeing to do something previously discussed and expressing gratitude
+- **Type:** Follow-up/acknowledgment message
+
+---
+
+## Important Notes
+⚠️ **Limited Information Available**
+- This appears to be a continuation of a previous conversation
+- The actual action item being confirmed is **not included in this message**
+- **Context needed:** Review previous SMS/email messages with this contact to understand:
+  - What task the customer agreed to complete
+  - What documents or information were requested
+  - Timeline for next steps
+  - Any pending decisions or quotes
+
+---
+
+## Action Items for Harper
+- [ ] **Review prior conversation** with this contact to understand what action they're confirming
+- [ ] **Document the confirmation** in CRM notes for this customer
+- [ ] **Prepare for next steps** based on the action they agreed to
+
+---
+
+## Follow-Up Notes
+- Customer appears responsive and cooperative
+- Early morning message (2:15 AM) - likely sent while reviewing materials or planning
+- Consider following up with promised information/next steps timeline if not already provided

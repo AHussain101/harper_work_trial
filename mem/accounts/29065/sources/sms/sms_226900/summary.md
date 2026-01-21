@@ -6,42 +6,46 @@
 # SMS Summary for Harper Insurance
 
 ## Business Details
-- **Carrier Status**: One carrier has declined coverage
-- **Policy Action**: Declination received (specific coverage type not mentioned)
-- **Next Steps**: Summary and next steps to be provided via email
+- **Coverage Status**: Active quote/application process
+- **Carrier Issue**: One carrier has issued a declination (rejection)
+- **Outstanding Items**: Summary and next steps documentation pending
 
 ## Personal Details
 - **Contact Name**: Harold
-- **Contact Method**: SMS (primary), Email (secondary for detailed information)
-- **Harper Representative**: Maya
-- **Harper Company**: Harper Insurance
+- **Contact Role/Title**: Unknown (likely business owner or decision-maker)
+- **Communication Method**: SMS preferred for immediate contact
+- **Contacted By**: Maya (Harper Insurance representative)
+- **Follow-up Method**: Email will be used for detailed documentation
 
 ## Conversation Context
 
 ### Main Topic
-- Communication regarding a carrier declination for Harold's insurance coverage
+- Notification of carrier declination and communication of next steps
 
-### Key Actions
-- Declination received from one carrier
-- Summary and next steps to be emailed within the next hour
+### Key Points
+- One insurance carrier has declined coverage
+- Maya (Harper Insurance) has prepared a summary of the declination
+- Next steps document is being prepared
+
+### Status
+- **Pending**: Email with summary and next steps (expected within 1 hour of SMS timestamp)
 
 ### Action Items for Harper
-- **Urgent**: Send email summary to Harold within one hour
-- Document declination details in client file
-- Outline alternative options/next steps in email
+- Send email to Harold with:
+  - Summary of declination details
+  - Next steps/alternative options
+  - Expected timeline: within 1 hour of SMS (by ~11:16 PM on 2025-12-04)
 
 ### Action Items for Customer (Harold)
-- Await email from Maya with summary and next steps
-- Contact Maya via SMS if questions arise while waiting for email
-
-### Follow-up Timeline
-- Email to be sent within 1 hour of this SMS (sent 2025-12-04 at 22:16 UTC)
+- Review email when received
+- Reply via SMS if questions arise
+- Presumably review alternative carrier options or next steps outlined
 
 ### Tone/Sentiment
-- Professional and responsive
-- Reassuring (offering clear next steps and open communication channel)
-- Efficient (proactive communication and quick turnaround promised)
+- Professional and reassuring
+- Proactive (providing next steps rather than leaving client hanging)
+- Open communication (inviting questions)
 
 ---
 
-**Note**: Limited details provided in this brief SMS. Detailed coverage type, specific carrier name, and full context will likely be in the promised email summary.
+**Note**: This appears to be a mid-process update during an active quote/application. Additional context about the specific business type and coverage being sought is not provided in this message.

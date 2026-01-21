@@ -6,41 +6,42 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Coverage Type:** Not yet specified
-- **Quote Status:** Submissions in progress
-- **Expected Next Step:** Quotes to be provided via email and text
+- **Coverage needs:** Not specified yet
+- **Policy types:** Not specified yet
+- **Carrier names/quotes:** Pending
+- **Documents:** Submissions to be initiated
 
 ## Personal Details
-- **Contact Name:** Emma
-- **Preferred Contact Methods:** Email and text message
+- **Contact name:** Emma
+- **Preferred contact methods:** Email and text
 
 ## Conversation Context
-- **Main Topic:** New client onboarding / quote initiation
-- **Purpose:** Acknowledge client selection and confirm process timeline
-- **Key Message:** Harper is beginning the submission process for Emma's insurance needs
+- **Main topic/purpose:** New client onboarding; acknowledgment of client selection
+- **Key points:**
+  - Emma has chosen to work with Harper for insurance
+  - Customer has expressed intent to move forward
+  
+- **Action items for Harper:**
+  - Initiate submissions for Emma's coverage needs
+  - Obtain and send quotes via email
+  - Obtain and send quotes via text
+  
+- **Action items for customer (Emma):**
+  - Await quotes from Harper (via email and text)
+  
+- **Follow-up timeline:** Quotes to be provided via email and text (timeline not specified)
 
-### Action Items for Harper
-- [ ] Submit coverage requests to appropriate carriers
-- [ ] Prepare and send quotes via email
-- [ ] Prepare and send quotes via text message
-- [ ] Follow up with Emma regarding quotes
-
-### Action Items for Customer (Emma)
-- None at this time - awaiting Harper's quote delivery
-
-### Follow-up Timeline
-- Next contact via email and text with quotes (timeline not specified)
-
-### Tone/Sentiment
-- **Tone:** Professional, friendly, reassuring
-- **Sentiment:** Positive - new client acquisition
+- **Tone/sentiment:** Professional, friendly, appreciative
 
 ---
 
-## ⚠️ Information Gaps
-The following key details are **not yet captured** and should be clarified in next communication:
-- Specific business type/industry
-- Coverage types needed (property, liability, workers comp, etc.)
-- Business size (employees, revenue)
-- Timeline urgency
-- Preferred carrier preferences or exclusions
+## ⚠️ Missing Information Needed
+The following details should be gathered at the next interaction:
+- Specific business details (company name, type, industry, size, revenue)
+- Coverage types/policies needed
+- Premium budget expectations
+- Claims history
+- Renewal/effective dates
+- Current carriers (if switching)
+- Complete contact information (phone, email verification)
+- Risk details for underwriting

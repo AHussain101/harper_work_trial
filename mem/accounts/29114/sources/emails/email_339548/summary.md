@@ -6,67 +6,47 @@
 **From:** team@harperinsure.com
 **To:** info@brightpathedu.com
 
-# Email Summary for Harper Insurance
+# Harper Insurance Summary: BrightPath Education Consulting
 
 ## Business Details
-
-**Company Information**
-- Company name: BrightPath Education Consulting
-- Industry: Education Consulting
-- Business type: Consulting firm
-
-**Coverage & Application Status**
-- Application has been submitted to carrier network
-- Initial carrier indications expected soon
-- Policy types: Not specified in email
-- Premium amounts: Not mentioned
-- Deductibles/Limits: Not mentioned
-- Coverage needs: Not specified
-
-**Documents Requested**
-- Loss runs
-- Payroll verification
-- Certificates of Insurance (COIs)
-- Document upload portal: https://portal.example-insure.com/doc-upload/BRP123
-
-**Additional Coverage Information**
-- Harper is offering assistance with obtaining loss runs if needed
-
----
+- **Company Name:** BrightPath Education Consulting
+- **Industry:** Education Consulting
+- **Email:** info@brightpathedu.com
+- **Coverage Status:** Application submitted to carrier network
+- **Documents Requested:**
+  - Loss runs
+  - Payroll verification
+  - Certificates of Insurance (COIs)
+- **Document Upload Portal:** https://portal.example-insure.com/doc-upload/BRP123
+- **Portal Reference Code:** BRP123
 
 ## Personal Details
-
-**Contact Information**
-- Name: Laura Benson
-- Company email: info@brightpathedu.com
-- Harper contact: team@harperinsure.com
-
-**Communication Preferences**
-- Email communication (primary method used)
-
----
+- **Contact Name:** Laura Benson
+- **Contact Method:** Email (primary)
+- **Organization:** BrightPath Education Consulting
 
 ## Conversation Context
+- **Main Purpose:** Follow-up on insurance application submission and document collection
+- **Key Status Update:** Application has been submitted to carrier network; initial indications expected soon
+- **Documents Outstanding:** Loss runs, payroll verification, and COIs required to move application forward
+- **Harper's Offers of Assistance:** Can help obtain loss runs if client needs support
+- **Tone/Sentiment:** Professional, helpful, collaborative
 
-**Main Purpose**
-- Follow-up email after initial consultation call with Laura Benson
-- Status update on insurance application submission
+## Action Items
 
-**Key Actions Completed**
-- Application submitted to Harper's carrier network
+### For Harper
+- Monitor carrier network for initial indications/quotes on BrightPath Education Consulting application
+- Follow up if documents are not uploaded within reasonable timeframe
+- Be prepared to assist with loss runs if requested by Laura Benson
 
-**Action Items for Customer (BrightPath)**
-- Upload requested documents to portal: loss runs, payroll verification, COIs
+### For Customer (Laura Benson/BrightPath Education Consulting)
+- **URGENT:** Upload requested documents to portal: https://portal.example-insure.com/doc-upload/BRP123
+  - Loss runs
+  - Payroll verification
+  - Certificates of Insurance (COIs)
 - Contact Harper if assistance needed obtaining loss runs
 
-**Action Items for Harper**
-- Monitor for initial carrier indications
-- Provide support if customer needs help obtaining loss runs
-- Process uploaded documents once submitted
-
-**Timeline/Next Steps**
-- Initial carrier indications expected "soon" (no specific date provided)
-- Awaiting document uploads from customer
-
-**Tone/Sentiment**
-- Professional, helpful, and collaborative
+## Next Steps
+- Await document uploads from client
+- Await initial indications from carrier network
+- Follow-up communication timing: Not specified (recommend proactive follow-up if documents not received within 3-5 business days)

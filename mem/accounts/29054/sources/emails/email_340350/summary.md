@@ -6,43 +6,53 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** emma.johnson@brightviewadc.com
 
-# Email Summary for Harper Insurance
+# Email Summary: Quote Follow-up & Documentation Request
 
 ## Business Details
 - **Company Name:** Brightview ADC
-- **Documents Status:** 
-  - Quote previously sent (awaiting review and e-signature)
-  - Loss run reports required for last 3 years
-  - E-signature portal link provided: https://portal.example-insure.com/esign/brightview-001
-- **Binding Status:** Pending completion (awaiting e-signatures and loss runs)
+- **Coverage Type:** Unspecified (loss runs requested for underwriting)
+- **Loss Run Period:** Last 3 years required
+- **Binding Status:** Pending finalization
 
 ## Personal Details
 - **Contact Name:** Emma Johnson
 - **Email:** emma.johnson@brightviewadc.com
 - **Company Email Domain:** brightviewadc.com
 - **Communication Method:** Email
+- **Preferred Contact:** Jordan Kim (appears to be primary contact)
 
 ## Conversation Context
-- **Main Topic:** Follow-up on insurance quote requiring e-signature and documentation
-- **Purpose:** Obtain signed agreement and loss run documentation to finalize binding process
 
-### Key Items Needed
-1. **Customer Action Items:**
-   - Review the quote documents sent earlier
-   - E-sign documents using provided portal link
-   - Provide loss run reports for the last 3 years
+### Main Topic
+Follow-up on previously sent insurance quote requiring customer action to move forward with binding.
 
-2. **Harper Action Items:**
-   - Monitor for Emma's completion of e-signatures
-   - Monitor for receipt of loss run reports
-   - Finalize binding once documents received
+### Key Questions/Requests
+1. Review and e-sign provided documents
+2. Submit loss run reports covering the last 3 years
 
-### Status & Timeline
-- **Current Status:** Awaiting customer response (binding not yet finalized)
-- **Urgency:** Standard follow-up (polite, non-urgent tone: "when you have a moment")
-- **Next Steps:** Pending Emma's e-signature and loss run submission to proceed with binding
+### Documents/Actions Required
+- **E-signature Portal:** https://portal.example-insure.com/esign/brightview-001
+- **Outstanding Items:**
+  - Executed documents (e-signature pending)
+  - Loss run reports (3-year history)
 
-### Tone/Sentiment
-- Professional, courteous reminder
-- Low-pressure approach
-- Collaborative tone ("thanks" closing)
+### Action Items
+
+**For Harper (Jordan Kim):**
+- Follow up if documents not signed within reasonable timeframe
+- Verify receipt of loss run reports once submitted
+- Proceed with binding once all documentation received
+
+**For Customer (Emma Johnson):**
+- Review quote documents
+- Complete e-signature via provided portal link
+- Obtain and submit 3-year loss run reports
+- Return documents at earliest convenience
+
+### Tone & Sentiment
+- **Tone:** Professional, polite, patient
+- **Sentiment:** Neutral/routine follow-up
+- **Urgency Level:** Moderate (uses "when you have a moment" - not urgent but indicates pending deadlines)
+
+### Next Steps
+Pending customer submission of e-signed documents and loss run reports before binding can be finalized.

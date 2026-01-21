@@ -5,39 +5,50 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Outgoing (Harper to customer)
-- **Date/Time:** December 5, 2025 at 9:13 AM UTC
-- **Tone/Sentiment:** Professional, reassuring, confirmatory
-
----
-
 ## Conversation Context
 
-### Main Topic/Purpose
-Confirmation that customer's insurance documents have been received and are being submitted to carriers for quote processing.
+**Main Topic/Purpose:**
+- Status update on insurance quote submission process
+- Confirmation of document receipt and next steps
 
-### Key Information Communicated
-- Documents have been successfully received by Harper's office
+**Key Messages:**
+- Documents have been received and confirmed
 - Documents are being forwarded to insurance carriers
-- Customer should expect quote updates within 24–48 hours
+- Customer should expect quote updates in the near future
 
-### Action Items for Harper
-- ✅ Forward/submit received documents to carriers
-- ⏰ Follow up to provide quotes within 24–48 hour timeframe
-- 📋 Track carrier response times and quotes for this customer
+**Timeline:**
+- Quote updates expected within 24–48 hours from message date (2025-12-05)
 
-### Action Items for Customer
-- ⏳ Await quote updates (expected within 24–48 hours from this message)
-- 📱 Be available to receive follow-up communication
-
-### Follow-up Timeline
-- **Expected Quote Updates:** Within 24–48 hours of December 5, 2025
-- **Next Contact:** Harper should follow up if quotes aren't ready by December 7, 2025
+**Tone/Sentiment:**
+- Professional, reassuring, and positive
+- Confirms action has been taken to move process forward
 
 ---
 
-## Additional Notes
-- This appears to be a confirmation message following document submission
-- No specific business details, personal details, or premium information mentioned in this particular SMS
-- Customer appears to be in the underwriting/quoting phase of their insurance process
+## Action Items
+
+**Harper's Completed Actions:**
+- ✅ Received customer documents
+- ✅ Confirmed receipt with customer
+- ✅ Forwarded/submitted documents to carriers
+
+**Harper's Pending Actions:**
+- ⏳ Monitor for quote responses from carriers
+- ⏳ Prepare to send quote updates to customer within 24–48 hour window
+
+**Customer's Pending Actions:**
+- Awaiting quote updates from Harper
+
+---
+
+## Missing Information
+
+**Note:** This is a status update message. The following details were NOT provided in this SMS:
+- Customer name or contact information
+- Company/business details
+- Specific coverage types or policy details
+- Carrier names
+- Premium amounts or policy limits
+- Previous conversation context
+
+*Recommendation: Review previous communications or customer file for comprehensive policy details.*

@@ -3,35 +3,46 @@
 **Date:** 2025-12-04T23:30:23.124000+00:00
 **Direction:** Outgoing
 
-# SMS Summary
+# SMS Summary for Harper
+
+## Business Details
+- **Not mentioned in this message**
 
 ## Personal Details
 - **Contact Name:** Wei
-- **Preferred Contact Method:** Phone call
-- **Communication Style:** Direct, professional
+- **Communication Method:** Phone call (attempted transfer)
+- **Personality/Communication Style:** 
+  - Customer appears to be waiting for a callback
+  - Seems understanding/patient with the missed connection
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- **Purpose:** Technical issue with phone transfer; Harper attempting to reconnect with Wei
+### Main Topic
+- **Purpose:** Technical issue with phone transfer; Harper is attempting to reconnect with Wei
 
-### Key Details
-- **Issue:** Phone transfer failed/did not connect successfully
-- **Tone/Sentiment:** Apologetic, professional
-- **Timing:** Message sent at 11:30 PM (23:30) on December 4, 2025
+### Key Events
+- Harper missed/failed to complete a phone transfer to Wei
+- Reason for disconnect: Unknown/unclear to Harper
+- Harper is apologizing for the missed transfer
 
-### Action Items for Harper
-- Call Wei back shortly to re-establish connection
-- Investigate why transfer did not connect
+### Action Items
 
-### Action Items for Customer (Wei)
-- Expect incoming call from Harper
+**For Harper:**
+- Call Wei back shortly to complete the originally intended conversation
+- Determine what the original call/transfer topic was (not mentioned in this SMS)
 
-## Notes for Follow-Up
-- **Status:** Pending callback
-- **Context:** This appears to be a mid-conversation interruption; the original purpose of Wei's contact is not mentioned in this SMS
-- **Recommendation:** When connection is re-established, confirm what Wei's original insurance inquiry or need was
+**For Wei (Customer):**
+- Awaiting Harper's callback
+
+### Follow-up Timeline
+- **Timing:** "Shortly" (immediate/very soon)
+- **Date/Time of Message:** December 4, 2025 at 11:30 PM
+
+### Tone/Sentiment
+- **Tone:** Apologetic, professional
+- **Sentiment:** Slightly inconvenienced but professional; Harper is taking responsibility for the technical issue
 
 ---
 
-**⚠️ Important:** This SMS provides limited context. Review previous messages or call notes to understand Wei's full insurance needs, coverage types, or business details being discussed.
+## ⚠️ Note for Harper
+**Context is limited** — This message only addresses a technical connection issue. The actual purpose of Wei's inquiry/call is not revealed in this SMS and should be clarified during the callback.

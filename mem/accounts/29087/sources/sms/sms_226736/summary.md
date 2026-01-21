@@ -3,41 +3,57 @@
 **Date:** 2025-12-04T23:05:10.000000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Harbor Shield Upload Reminder
+# SMS Summary for Harper
+
+## Message Type
+- **Direction:** Outgoing (Harper → Customer)
+- **Date & Time:** December 4, 2025 at 11:05 PM
+- **Message Type:** Reminder/Administrative
+
+---
 
 ## Business Details
-- **Company Name:** Harbor Shield
-- **Documents Requested:** 
-  - EIN (Employer Identification Number)
-  - Business license
-  - Contracts
+
+### Documents Requested
+- **EIN** (Employer Identification Number)
+- **License** (type not specified)
+- **Contracts**
+
+### Portal Information
+- **Secure Upload Portal:** https://portal.example-insure.com/upload/harbor-shield
+- **Client/Account Name:** Harbor Shield (referenced in URL)
+
+---
 
 ## Conversation Context
-- **Main Topic:** Secure document upload reminder
-- **Purpose:** Prompting client to submit required business documentation
-- **Document Submission Method:** Secure online portal
-- **Portal Link Provided:** https://portal.example-insure.com/upload/harbor-shield
 
-## Action Items
+### Main Purpose
+- Administrative reminder to customer about uploading required business documents
 
-### For the Customer (Harbor Shield)
-- [ ] Upload EIN to secure portal
-- [ ] Upload business license to secure portal
-- [ ] Upload contracts to secure portal
-- [ ] Use provided portal link for submission
+### Key Information
+- Documents can be uploaded securely through a dedicated portal link
+- This appears to be a follow-up/reminder message (use of word "reminder")
 
-### For Harper
-- [ ] Follow up if documents are not received within reasonable timeframe
-- [ ] Review submitted documents once received
-- [ ] Proceed with quote or policy process after document verification
+### Action Items for Customer
+- [ ] Upload EIN to portal
+- [ ] Upload License to portal
+- [ ] Upload Contracts to portal
+- [ ] Access secure portal at provided link
 
-## Message Details
-- **Direction:** Outgoing (sent by Harper)
-- **Date & Time:** December 4, 2025 at 11:05 PM
-- **Type:** Reminder/Call-to-Action
-- **Tone:** Professional, helpful, straightforward
+### Action Items for Harper
+- Monitor for document submissions through portal
+- Follow up if documents not received by deadline (if applicable)
 
-## Notes
-- This appears to be a follow-up/reminder message about previously discussed documentation needs
-- Secure portal link provided to facilitate easy document sharing
-- No immediate response required from customer unless documents are already ready for upload
+---
+
+## Tone & Sentiment
+- **Tone:** Professional, helpful, procedural
+- **Sentiment:** Neutral/positive - providing clear instructions
+
+---
+
+## Missing Information
+- No specific deadline mentioned for document upload
+- No clarity on which type of license is needed
+- No mention of consequences or next steps after upload
+- No customer response captured in this message

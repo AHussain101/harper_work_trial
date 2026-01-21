@@ -4,62 +4,60 @@
 **Duration:** 22m 51s
 **Direction:** Incoming
 
-# Insurance Call Summary – Metro Guard Services
+# Insurance Call Summary for Harper
 
 ## Business Details
 
 **Company Information**
-- Company Name: Metro Guard Services
-- Industry: Safety Consulting & Vulnerability Assessments
-- Business Type: Professional advisory services (no manual labor)
-- Years in Operation: ~14 years (started 2011)
-- Primary Service Areas: Schools and behavioral health facilities
-- Gross Annual Revenue: ~$120,000
+- **Company Name:** Metro Guard Services
+- **Industry:** Safety consulting and vulnerability assessments
+- **Type of Work:** Advisory reports and recommendations to schools and behavioral health facilities (no manual labor)
+- **Years in Operation:** Approximately 14 years (started in 2011)
+- **Number of Employees:** Operates primarily solo with occasional contractors
+- **Gross Annual Revenue:** ~$120,000
 
 **Coverage & Policy Details**
-- Coverage Type: Professional Liability (E&O – Errors & Omissions)
-- Scope: Safety consulting, vulnerability assessments, advisory reports, and recommendations
-- Claims History: No claims reported in the past 5 years
-- Contracts: Written agreements in place with standard disclaimers and limits of liability; contracts legally reviewed
-- Future Plans: Pursuing government contracts; client wants to ensure coverage aligns with government contracting requirements
-- Retroactive Date: To be confirmed with underwriting
-
-**Staffing**
-- Operates primarily solo with occasional contractors
+- **Coverage Type Needed:** Professional Liability / E&O (Errors & Omissions)
+- **Claims History:** No claims reported in the past 5 years
+- **Contracts & Risk Management:** 
+  - Uses written agreements with clients
+  - Includes standard disclaimers and limits of liability
+  - Contracts reviewed by legal counsel
+- **Future Considerations:** Planning to pursue government contracts; wants to ensure coverage will be appropriate for government work
 
 ## Personal Details
 
 **Primary Contact**
-- Name: Terry Blake
-- Title: Owner/Operator
-- Background: Retired law officer and disabled veteran
-- Preferred Contact Method: Email
-- Phone/Email: Not explicitly provided in transcript
-
-**Communication Preferences**
-- Email preferred for all follow-up communication
-- Responsive and cooperative demeanor
+- **Name:** Terry Blake
+- **Title/Role:** Owner/Operator
+- **Background:** Retired law officer and disabled veteran
+- **Preferred Contact Method:** Email
+- **Availability:** Not specified
 
 ## Conversation Context
 
-**Call Purpose**
-- Incoming referral transfer from Harper partner
-- Initial consultation to secure Professional Liability (E&O) coverage for safety consulting business
+**Call Type & Source**
+- **Direction:** Incoming call (transferred from referral partner)
+- **Date & Time:** December 4, 2025, at 20:48:20 UTC
+- **Duration:** 22 minutes 51 seconds
+- **Harper Agent:** Jordan
 
-**Key Questions Addressed**
-- Years in business? → ~14 years (since 2011)
-- Claims history? → None in past 5 years
-- Use of contracts/disclaimers? → Yes, written agreements with legal review in place
-- Revenue? → ~$120k annually
-- Future coverage needs? → Government contracting opportunities pending
+**Main Purpose**
+- Initial consultation to secure Professional Liability (E&O) coverage for Metro Guard Services
+- Determine eligibility and appropriate coverage limits/options
+
+**Key Questions & Answers**
+- Years in business: 14 years ✓
+- Claims history: None in past 5 years ✓
+- Use of contracts/disclaimers: Yes, with legal review ✓
+- Annual revenue: ~$120k ✓
+- Future government contracting: Yes, pursuing opportunities ✓
 
 **Decisions Made**
-- Proceed with E&O quote submission to carriers
-- Policy activation needed promptly
-- Confirm retroactive date options with underwriting
-- Verify government contracting coverage applicability
+- Client approved proceeding with E&O quote submission
+- Email determined as preferred communication method
 
-**Action Items for Harper**
-- ✅ Review submitted documents
-- ✅ Prepare E&O quote submission to underwriting
-- ✅
+## Action Items
+
+**For Harper / Underwriting**
+- [ ]

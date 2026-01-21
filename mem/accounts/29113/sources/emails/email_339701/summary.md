@@ -13,59 +13,51 @@
 **Company Information:**
 - Company Name: Riverbend Hauling Co.
 - Industry: Hauling/Transportation
-- Business Type: Not explicitly stated (appears to be a hauling/freight business)
+- Business Type: Not explicitly stated, but appears to be commercial hauling operation
 
-**Coverage & Quotes:**
+**Coverage & Quote Information:**
 - Carrier: United States Liability Insurance Company (USLI)
 - Quote Status: **Preliminary**
 - Estimated Annual Premium: ~$3,600
-- Quote Reference/Portal: https://carrier-portal.example.com/quotes/RB-4821
+- Quote Portal Link: https://carrier-portal.example.com/quotes/RB-4821
 
-**Subjectivities (Requirements for Finalization):**
-- Signed application from insured
+**Subjectivities (Conditions for Final Quote):**
+- Signed application
 - Proof of vehicle ownership
-- Driver Motor Vehicle Records (MVR)
+- Driver Motor Vehicle Record (MVR)
 
 ## Personal Details
 
-**Contact at USLI:**
+**From (Carrier Representative):**
 - Name: Lauren Smith
-- Title: Underwriting (USLI)
+- Title: Underwriting, USLI
 - Email: lauren.smith@usli.com
 
-**Contact at Harper Insurance:**
-- Email reference: submissions@harperinsure.com
-- Internal contact referenced as: Dakotah (recipient/Harper staff member)
+**To (Harper/Recipient):**
+- Contact: Dakotah (appears to be Harper's team member or associated person)
+- Email: submissions@harperinsure.com
 
 ## Conversation Context
 
 **Purpose:** 
-Carrier submission of preliminary insurance quote for new/renewal business
+Transmitting preliminary insurance quote from USLI carrier for client Riverbend Hauling Co.
 
 **Key Information:**
-- This is a preliminary quote pending documentation
-- Quote is contingent on three items being completed by the insured
-- Carrier portal link provided for reference/tracking
+- This is a preliminary quote, not final
+- Several conditions must be satisfied before finalizing
 
 **Action Items for Harper:**
 - Review preliminary quote details
-- Request from client: signed application, vehicle ownership proof, and driver MVRs
-- Follow up once subjectivities are submitted to USLI
-- Determine if quote meets client needs/budget
+- Obtain from client: signed application, proof of vehicle ownership, driver MVR
+- Submit subjectivity documentation to USLI to move toward final quote
 
-**Action Items for Riverbend Hauling Co.:**
-- Provide signed application
-- Submit proof of vehicle ownership
-- Furnish driver MVR(s)
-
-**Next Steps:**
-- Pending receipt of subjectivity items
-- Quote will be finalized once all documents received by USLI
-- No specific timeline provided
+**Action Items for Client (Riverbend Hauling Co.):**
+- Sign and return application
+- Provide proof of vehicle ownership
+- Provide driver Motor Vehicle Record (MVR)
 
 **Tone/Sentiment:** 
-Professional, routine submission; neutral/straightforward communication
+Professional, straightforward, routine underwriting submission
 
----
-
-**Note:** This appears to be a standard carrier submission with preliminary pricing pending documentation requirements.
+**Next Steps:** 
+Pending receipt of subjectivity documentation from client before USLI can issue final quote

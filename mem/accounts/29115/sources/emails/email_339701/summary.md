@@ -9,63 +9,48 @@
 # Email Summary: Johnson Engineering, LLC Insurance Submission
 
 ## Business Details
-
-### Company Information
 - **Company Name:** Johnson Engineering, LLC
 - **Industry:** Engineering
-- **Reference/Application ID:** APP-LD-48-1032
-
-### Coverage & Policy Details
-- **Submission Status:** Application received and acknowledged
-- **Effective Date:** Pending confirmation with insured
-- **Carrier:** Integrated MGA
-
-### Documentation Status
-- **Outstanding Documents:** Possibly remaining (carrier requesting uploads)
-- **Next Step for Documents:** Upload to carrier portal for faster review
-
----
+- **Submission Reference Number:** APP-LD-48-1032
+- **Coverage Type:** Not specified in email
+- **Policy Details:** 
+  - Effective date: Pending confirmation with insured
+  - Carrier: Integrated MGA
+- **Documentation Status:** Application submitted; additional documentation may be required
 
 ## Personal Details
-
-### Contact Information
-- **Harper's Role:** Insurance broker handling this account
-- **Submission Point:** submissions@harperinsure.com (company submission email)
-
-### Personality/Preferences
-- Not applicable for this automated notification
-
----
+- **Contact:** Not specified in this automated notification
+- **Harper's Contact:** submissions@harperinsure.com (submission email address)
 
 ## Conversation Context
 
-### Email Purpose
-- **Type:** Automated submission acknowledgment from insurance carrier
-- **Main Topic:** Confirmation that Johnson Engineering's insurance application has been received and entered into underwriting review
+### Main Topic
+- Acknowledgment that Johnson Engineering, LLC's insurance application has been received by Integrated MGA
 
 ### Key Information
-- Application successfully submitted and logged in carrier system
-- Underwriting team will review the file
-- Carrier will contact Harper if additional information is needed
+- Application is currently under underwriting review
+- Carrier will contact if more documentation is needed
+- Effective date for the policy has not yet been confirmed with the insured
 
-### Action Items for Harper
-- [ ] Confirm effective date with Johnson Engineering insured/client
-- [ ] Upload any remaining documents to Integrated MGA carrier portal
+### Action Items
+
+**For Harper:**
+- [ ] Confirm effective date with Johnson Engineering, LLC (insured)
+- [ ] Upload any remaining/outstanding documents to carrier portal to expedite review
 - [ ] Monitor for follow-up requests from Integrated MGA underwriting team
 
-### Action Items for Client/Insured
-- [ ] Provide confirmation of requested effective date to Harper
+**For Customer (Johnson Engineering, LLC):**
+- Potential requirement to provide additional documentation (pending underwriting review)
 
-### Follow-Up Timeline
-- **No specific timeline provided** — Awaiting underwriting review
-- Recommend following up if no communication received within 5-10 business days
+### Next Steps & Timeline
+- Underwriting review in progress
+- No specific timeline provided; awaiting either confirmation from insured or additional document request from carrier
+- Submit any remaining documents to carrier portal ASAP for faster processing
 
 ### Tone/Sentiment
-- **Professional, neutral** — Standard automated carrier acknowledgment
-- **Status:** Routine/normal processing
+- Neutral/Professional (automated notification)
+- No urgency indicated, but implies proactive step needed on Harper's part regarding effective date confirmation
 
 ---
 
-## Important Notes
-- This is an **automated notification** — not from a specific underwriter
-- **Effective date is unconfirmed** — requires client confirmation before finalizing
+**Note:** This is an automated acknowledgment. Expect direct communication from Integrated MGA underwriting team if issues arise.

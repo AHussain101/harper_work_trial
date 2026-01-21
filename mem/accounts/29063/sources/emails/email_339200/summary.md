@@ -6,51 +6,52 @@
 **From:** avery.kim@harperinsure.com
 **To:** marisol.vega@summitcareservices.com
 
-# Email Summary: Workers' Comp Quote Information Request
+# Email Summary for Harper Insurance Broker
 
 ## Business Details
-- **Company Name:** Summit Care Services
-- **Coverage Type:** Workers' Compensation
-- **Number of Employees:** 3 W-2 employees (to be confirmed)
-- **Information Needed:**
-  - Federal EIN (Employer Identification Number)
-  - Total annual payroll amount
-  - Current policy details or loss history
-  - Loss run or letter from prior carrier (if available)
+
+**Company Information:**
+- Company Name: Summit Care Services
+- Business Type: Not specified (inferred to be care/services based on name)
+- Number of Employees: 3 W-2 employees (needs confirmation)
+- Annual Payroll: Not yet provided (requested)
+- Federal EIN: Not yet provided (requested or will be provided later)
+
+**Coverage & Policy Details:**
+- Coverage Type: Workers' Compensation
+- Status: Quote requested/in preparation
+- Current Policy Status: Unknown - may have prior coverage
+
+**Documents Status:**
+- Loss run or prior carrier letter: Requested (optional but recommended to speed up placement)
+- Upload portal available: https://portal.example-insure.com/uploads/docs-xyz
 
 ## Personal Details
-- **Contact Name:** Marisol Vega
-- **Email:** marisol.vega@summitcareservices.com
-- **Company Contact:** Avery Kim (Harper Insurance Intake)
-- **Avery's Email:** avery.kim@harperinsure.com
+
+**Contact Information:**
+- Name: Marisol Vega
+- Role/Title: Not specified (appears to be decision-maker/point of contact for Summit Care Services)
+- Email: marisol.vega@summitcareservices.com
+- Phone: Not provided
+
+**Communication:**
+- Sender: Avery Kim (Harper Intake Department)
+- Sender Email: avery.kim@harperinsure.com
 
 ## Conversation Context
-- **Purpose:** Follow-up after phone call to gather missing information for workers' compensation quotations
-- **Main Topic:** Information collection needed to submit workers' comp quotes
-- **Key Information Requested:**
-  1. Federal EIN (or notification that it will be provided later)
-  2. Confirmation of total annual payroll
-  3. Confirmation of 3 W-2 employees on staff
-  4. Loss run or prior carrier letter (if available, to expedite placement)
 
-## Action Items
+**Purpose:** Follow-up email after phone call to collect missing information needed for workers' compensation quotation
 
-### For Marisol (Customer):
-- [ ] Provide federal EIN (or confirm will provide later)
-- [ ] Confirm total annual payroll amount
-- [ ] Confirm 3 W-2 employees on staff
-- [ ] **Optional:** Provide current loss run or letter from prior carrier
-- [ ] Upload documents to: https://portal.example-insure.com/uploads/docs-xyz
+**Key Information Needed:**
+- [ ] Federal EIN (or confirmation it will be provided later)
+- [ ] Confirmation of total annual payroll amount
+- [ ] Confirmation of 3 W-2 employees on staff
+- [ ] Loss run or prior carrier letter (if available)
 
-### For Harper/Avery:
-- [ ] Submit workers' compensation quotations once information is received
-- [ ] Follow up if documents not received within reasonable timeframe
+**Tone/Sentiment:** Professional, helpful, and efficient. Avery provides clear next steps and optional documentation that would expedite the process.
 
-## Tone/Sentiment
-- Professional and courteous
-- Efficient and action-oriented
-- Clear expectations set
+**Next Steps:**
+- **For Marisol (Customer):** Submit requested documents to portal; confirm payroll and employee count; provide EIN
+- **For Harper/Avery:** Proceed with quote preparation once documents are received
 
----
-**Email Date:** December 4, 2025  
-**Type:** Outbound information request (follow-up to call)
+**Follow-up Timeline:** Not specified - implies this is time-sensitive for quote preparation

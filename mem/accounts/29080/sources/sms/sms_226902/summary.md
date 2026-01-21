@@ -3,37 +3,45 @@
 **Date:** 2025-12-05T14:23:10+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Property Insurance Call Scheduling
+# SMS Summary for Harper
 
 ## Conversation Context
-- **Main Topic:** Scheduling a call to discuss property insurance options
-- **Purpose:** Review and discuss property limits and deductibles with the customer
-- **Tone/Sentiment:** Professional, helpful, and accommodating
-- **Direction:** Outgoing message from Harper to customer
 
-## Key Details
-- **Proposal:** Quick call to review property insurance options
-- **Topics for Discussion:**
-  - Property limits
-  - Deductibles
-- **Timing:** Same-day scheduling offered (December 5, 2025)
+### Main Topic
+- Proactive offer to schedule a call with the customer to discuss property insurance options
+- Focus areas: property limits and deductibles review
 
-## Action Items
+### Key Actions & Next Steps
 
-### For Harper
-- Await customer response with available time slots
-- Prepare property insurance options/quotes for discussion
-- Be ready to discuss property limits and deductible options during call
+**Action Items for Harper:**
+- Await customer response regarding availability
+- Schedule call at customer's preferred time
+- Prepare to discuss property limits options
+- Prepare to discuss deductible options
+- Have policy/quote details ready for the call
 
-### For Customer
-- **Required:** Respond with preferred call time for today
-- **Pending:** Confirmation of availability
+**Action Items for Customer:**
+- Respond with available time for call today
+- Be prepared to discuss property coverage needs
 
-## Follow-up Timeline
-- **Next Step:** Awaiting customer's time availability response
-- **Expected Action:** Schedule call for same day if possible (December 5, 2025)
+### Tone & Sentiment
+- Professional and helpful
+- Flexible and customer-centric (offering to work around their schedule)
+- Proactive engagement
 
-## Notes
-- Message demonstrates proactive approach to customer service
-- Flexible scheduling offered to accommodate customer preference
-- Conversation appears to be mid-negotiation regarding property coverage terms
+## Communication Details
+
+### Timing
+- **Message Sent:** December 5, 2025 at 2:23 PM (UTC)
+- **Proposed Call Timing:** Same day (today) - specific time TBD pending customer response
+
+### Contact Method
+- SMS (text message communication established)
+
+## Missing Information / Follow-up Needed
+
+⚠️ **No customer response captured yet** - awaiting their availability confirmation
+
+---
+
+**Note:** This appears to be an initial outreach message. Insufficient details about the specific customer, business, or existing policy are present in this SMS alone. The full context file should include prior communications for complete picture.

@@ -6,37 +6,38 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Coverage Type:** Certificate of Insurance (COI) and loss runs requested
-- **Documents Status:** Pending upload
-- **Timeline:** To be uploaded this afternoon (same day as message)
+- **Coverage Type Discussed:** Certificate of Insurance (COI) required
+- **Documents Status:** Loss runs being prepared for submission
 
 ## Personal Details
-- **Contact Name:** Unknown
-- **Communication Style:** Brief, professional, appreciative tone
-- **Preferred Contact Method:** SMS (implied)
+- **Contact:** Unknown (no name provided in message)
+- **Communication Style:** Professional, efficient, responsive
 
 ## Conversation Context
-- **Main Topic:** Document submission for insurance coverage
-- **Purpose:** Likely related to policy renewal, new coverage application, or proof of insurance verification
-- **Key Action Items:**
 
-### For Customer:
+### Main Topic
+- Customer acknowledging receipt of a previous request/instruction from Harper
+- Commitment to provide required insurance documentation
+
+### Key Points
+- Loss runs document will be uploaded
+- Certificate of Insurance (COI) will be uploaded
+- **Timeline:** This afternoon (same day as message)
+
+### Action Items for Customer
 - ✅ Upload loss runs this afternoon
 - ✅ Upload Certificate of Insurance (COI) this afternoon
 
-### For Harper:
-- Expect document uploads this afternoon (from 2025-12-04)
-- Review uploaded loss runs when received
-- Review uploaded COI when received
-- Follow up if documents are not received by end of day
+### Action Items for Harper
+- Prepare to receive and review loss runs once uploaded
+- Prepare to receive and review COI once uploaded
+- Follow up if documents are not received by end of business day
 
-## Tone & Sentiment
-- **Tone:** Professional, cooperative, positive
-- **Sentiment:** Responsive and willing to help; appreciative ("thanks")
-- **Urgency Level:** Moderate (same-day delivery promised)
+### Tone/Sentiment
+- **Positive** - Cooperative and responsive
+- Customer is actively following through on request
 
-## Missing Information to Clarify Later
-- Customer's full name/title
-- Company name or account number
-- Specific policy being discussed
-- Reason for needing these documents (renewal? new coverage? verification?)
+## Notes for Follow-Up
+- **Pending:** Actual receipt and review of loss runs and COI
+- No specific deadline mentioned beyond "this afternoon"
+- Consider sending a follow-up message if documents are not received by end of day to confirm successful upload

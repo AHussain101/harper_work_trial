@@ -13,59 +13,53 @@
 ### Company Information
 - **Company Name:** QuickAssist Roadside Services
 - **Legal Entity:** Johnson Holdings, LLC
-- **Industry:** Roadside Services
+- **Industry:** Roadside Assistance Services
+- **State of Operation:** Texas (TX)
 - **Coverage Type:** General Liability (GL)
-- **Location:** Texas (TX)
 
-### Coverage & Policy Details
-- **Coverage Needed:** General Liability
-- **Policy Type:** TX GL Risk
-- **Documents Status:** Submission package attached (details not provided in email body)
+### Policy Information
+- **Policy Type:** General Liability
+- **Status:** Submission for review by wholesale partners
+- **Documents:** Submission package attached (details not specified in email body)
 
 ---
 
-## Recipient/Carrier Details
+## Personal Details
 
-### Wholesale Partners Being Contacted
-- **Mark Johnson** - mark.johnson@amwins.com
-- **Dustin Broussard** - dustin.broussard@amwins.com
-- **Ethan Cook** - ethan.cook@amwins.com
-- **Carrier/Partner Type:** AMWINS (wholesale partners)
+### Contact Information
+- **Submitting Agent:** Harper Submissions (submissions@harperinsure.com)
+- **Recipients/Wholesale Partners:**
+  - Mark Johnson (mark.johnson@amwins.com)
+  - Dustin Broussard (dustin.broussard@amwins.com)
+  - Ethan Cook (ethan.cook@amwins.com)
 
-### Sender
-- **From:** Harper Submissions (Harper Insurance - submission department)
-- **Email:** submissions@harperinsure.com
+### Contact Method
+- Email submission to AMWINS wholesale partners
 
 ---
 
 ## Conversation Context
 
 ### Purpose
-- Formal submission of insurance quote request to wholesale carriers/partners for review
+- Formal submission of a General Liability insurance risk to wholesale partners for review and underwriting
 
-### Main Action Items
-**For Wholesale Partners:**
-- Review attached submission for QuickAssist Roadside Services
+### Key Action Items
+
+**For Wholesale Partners (Mark Johnson, Dustin Broussard, Ethan Cook):**
+- Review the attached submission for QuickAssist Roadside Services
+- Provide quotes, underwriting decision, or additional information requests
 
 **For Harper:**
-- ✅ Submission sent to partners (completed)
-- Pending: Carrier responses and quotes
+- Follow up on wholesale partner responses regarding this submission
 
-### Key Details
-- **Tone:** Professional, routine submission
-- **Urgency:** Standard (not indicated as urgent)
-- **Next Steps:** Awaiting carrier review and quote response
-- **Follow-up Timeline:** Not specified in this email
+### Timeline
+- Submission Date: December 4, 2025
 
-### Missing Information
-- Premium amounts
-- Deductibles and limits
-- Claims history
-- Renewal/effective dates
-- Specific business details (employee count, revenue, years in operation)
-- Decision timeline
+### Tone/Sentiment
+- **Professional, neutral** - standard business submission format
+- Concise and straightforward communication
 
 ---
 
-## Notes
-This is an internal/outbound submission notice with minimal detail. The actual submission packet is referenced as "attached" but not included in the email text provided.
+## Missing Information
+⚠️ **Note:** The actual submission details (premium amounts, deductibles, limits, employee count, revenue, claims history, renewal date, etc.) are contained in the attached document and are not visible in this email text alone.

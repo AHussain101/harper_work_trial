@@ -4,46 +4,32 @@
 **Duration:** 12m 44s
 **Direction:** Incoming
 
-# Call Summary: Silver State Auto Services Insurance Application
+# Insurance Call Summary: Silver State Auto Services
 
 ## Business Details
 
 **Company Information**
-- Company Name: Silver State Auto Services
-- Business Type: Auto Repair Shop
-- Industry: Automotive Repair & Maintenance
-- Years in Operation: 3 years (under current ownership)
-- Number of Employees: 4
-- Annual Payroll: ~$35,000
-- Estimated Gross Revenue: ~$400,800
-- Business Hours: 24/7 operation
+- Company name: Silver State Auto Services
+- Business type: Auto repair shop
+- Industry: Automotive repair and maintenance
+- Years in operation: 3 years (under current ownership)
+- Number of employees: 4
+- Annual payroll: ~$35,000
+- Gross revenue: ~$400,800
+- Business hours: 24/7 operation
 
-**Location**
-- Address: 1230 East Summit Road, Suite 204
+**Service Details**
+- Services performed: General diagnostics, brake service, electrical work, parts replacements
+- Services NOT performed: Tire sales, painting, car loaning, tow operations
+- Customer vehicles retained on-site: Approximately 8 vehicles (ranging from low-cost daily drivers to higher-value passenger cars)
 
-**Services Offered**
-- General diagnostics
-- Brake service
-- Electrical work
-- Parts replacements
-- Oil changes
-- **Does NOT offer:** tire sales, painting, car loans, or tow operations
-
-**Assets/Operations**
-- Retains approximately 8 customer vehicles on-site at any given time
-- Vehicle values range from low-cost daily drivers to higher-value passenger cars
-
-**Coverage Details Discussed**
-- **General Liability:** Requested
-- **Workers' Compensation:** Requested (basic placement)
-- **Coverage Preference:** State-minimum liability
-- **Owner Coverage for Workers' Comp:** Owners will be excluded
-
-**Prior Insurance**
-- Current Carrier: Travelers
-- Claims History: No recent claims reported
-
----
+**Coverage & Policy Details**
+- Coverage types needed: General liability and workers' compensation
+- Coverage preference: State-minimum liability limits
+- Workers' comp: Basic placement; owners to be excluded from coverage
+- Current carrier: Travelers (prior insurance)
+- Claims history: No recent claims reported
+- Business address: 1230 East Summit Road, Suite 204
 
 ## Personal Details
 
@@ -51,23 +37,32 @@
 - Name: Chris Mitchell
 - Title/Role: Owner/Representative of Silver State Auto Services
 - Email: chris.mitchell@silverstateautoservices.com
-- Phone: Not explicitly provided (to be confirmed in follow-up)
+- Best contact method: Email and phone (text follow-up preferred)
 
-**Communication Preferences**
-- Prefers email communication (chris.mitchell@silverstateautoservices.com)
-- Open to follow-up text and phone call scheduling
-
-**Personality/Concerns**
-- Professional and responsive
-- **Time-Sensitive:** Client indicated "a bit of urgency" regarding the quote timeline
-
----
+**Personality/Communication Notes**
+- Professional and cooperative
+- **TIME-SENSITIVE:** Client indicated urgency with their business needs; flagged as priority
 
 ## Conversation Context
 
-**Call Details**
-- Direction: Incoming call
-- Agent: Mia (Harper Insurance)
-- Duration: 12 minutes 44 seconds
-- Date/Time: December 4, 2025, 10:37 PM UTC
--
+**Purpose of Call**
+- Initial application consultation for general liability and workers' compensation insurance
+
+**Key Information Exchanged**
+- Confirmed business address and email
+- Reviewed service offerings and operational scope
+- Confirmed employee count and payroll
+- Clarified vehicle retention practices
+- Discussed workers' comp ownership exclusion preference
+- Verified no recent claims with prior carrier
+
+**Decisions Made**
+- Proceed with general liability and workers' comp application
+- State-minimum liability limits selected
+- Basic workers' comp placement (owners excluded)
+- Application to be submitted to carriers immediately
+
+## Action Items
+
+**Harper's Responsibilities**
+- [ ] Submit application to carriers

@@ -6,20 +6,23 @@
 **From:** communications@simplybusiness.com
 **To:** producer@harperinsure.com
 
-# Insurance Quote Referral Summary for Harper
+# Insurance Referral Summary for Harper
 
 ## Business Details
 
 **Company Information:**
 - **Business Name:** Harborview Recovery Center
-- **Industry/Type:** Substance abuse counseling / residential recovery services
-- **Business Classification:** Recovery facility (likely requires specialized coverage)
+- **Industry/Type:** Substance abuse counseling and residential recovery services
+- **Business Classification:** Healthcare/Behavioral Health Services
 
-**Coverage & Quote Details:**
-- **Referral Source:** Simply Business (online placement platform)
-- **Quote Status:** ❌ UNABLE TO PLACE - Declined by Simply Business panel at this time
-- **Reason for Referral:** Standard panel carriers unable to accommodate this risk
-- **Next Steps Available:** Re-submission possible with additional information or exploring alternative markets
+**Coverage & Policy Information:**
+- **Current Status:** Unplaced through Simply Business panel
+- **Reason:** Unable to place coverage at this time through their available carriers
+- **Referral Source:** Simply Business (broker referral network)
+
+**Documents/Information:**
+- Client details were redacted in the referral notice
+- Additional information may be needed for resubmission
 
 ---
 
@@ -27,7 +30,7 @@
 
 **Primary Contact:**
 - **Name:** Marcus Lee
-- **Title/Role:** Appears to be owner/decision-maker for Harborview Recovery Center
+- **Title/Role:** Business owner/decision-maker (Harborview Recovery Center)
 - **Email:** marcus.lee@harborviewrecovery.com
 - **Phone:** Not provided
 
@@ -35,32 +38,30 @@
 
 ## Conversation Context
 
-**Main Topic:**
-- Referral from Simply Business indicating quote placement failure for a substance abuse treatment facility
+**Main Purpose:**
+- Simply Business referral notification indicating they could not secure coverage through their panel for this prospect
 
-**Current Status:**
-- Quote could not be placed through Simply Business's standard panel carriers
-- Reason unclear (may relate to: claims history, specialized nature of business, coverage gaps, or risk profile)
+**Key Information:**
+- Referral came through Simply Business network to Harper's agency
+- Coverage placement was declined/unable to be processed by Simply Business carriers
 
 **Action Items for Harper:**
-- ⚠️ **URGENT:** Contact Marcus Lee to understand placement denial and gather missing information
-- Determine what additional details/documentation may be needed for re-submission
-- Explore alternative carriers/markets beyond Simply Business panel that specialize in substance abuse facilities
-- Consider reaching out to Simply Business support for clarification on specific reasons for decline
-- Review Harborview's loss history and coverage needs
+- ✋ **Contact Marcus Lee** to discuss alternative markets and coverage options
+- Consider reaching out to Simply Business support if wanting to resubmit with additional information
+- Explore other carriers/markets not on Simply Business panel
+- Request any additional underwriting information that might help placement with alternative carriers
 
 **Action Items for Customer (Marcus Lee):**
-- Provide any additional information requested by Harper for re-submission
-- Clarify specific coverage needs and policy requirements
+- Awaiting contact from Harper with next steps and options
+- May need to provide additional information for resubmission attempts
 
-**Follow-up Timeline:**
-- No specific deadline mentioned - treat as moderately urgent (referral suggests customer actively seeking coverage)
+**Follow-Up Timeline:**
+- No specific deadline provided; recommend contacting Marcus Lee promptly
 
 **Tone/Sentiment:**
-- Neutral/procedural (referral notice) - no frustration detected, but indicates a placement challenge requiring broker intervention
+- Neutral/Professional; routine referral notification indicating a challenge that needs resolution
 
 ---
 
-## Key Notes for Harper
-
-- This is a **specialized risk** (substance abuse treatment facility) that may
+## Notes for Harper
+This is a **substance abuse treatment facility** - may have specific underwriting requirements or market limitations. Be prepared to discuss specialized carriers that handle behavioral health/addiction services.

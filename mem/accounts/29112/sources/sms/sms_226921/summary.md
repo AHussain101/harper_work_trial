@@ -6,29 +6,41 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **QA Report**: Customer will be uploading a QA (Quality Assurance) report
-  - Timeline: This afternoon (as of December 5, 2025)
-  - Purpose: Not explicitly stated, but likely related to underwriting, claims assessment, or policy review
+- **Document Type**: QA (Quality Assurance) report
+- **Status**: Document to be provided by customer
 
 ## Personal Details
-- **Contact**: Unknown/Not identified in this message
-- **Communication Style**: Brief, professional, collaborative
-- **Responsiveness**: Appears prompt and reliable
+- **Contact**: Unknown/Not specified in message
+- **Communication Method**: SMS
+- **Tone**: Professional, cooperative
 
 ## Conversation Context
-- **Main Topic**: Document submission - QA report upload
-- **Previous Context**: Harper apparently requested or discussed the need for a QA report in a prior communication
-- **Status**: Action item confirmed by customer
-- **Tone/Sentiment**: Positive and cooperative
-- **Key Action Items**:
-  - ✅ **Customer**: Upload QA report this afternoon
-  - ⏳ **Harper**: Receive and review QA report (timing: this afternoon on 12/5/25)
 
-## Missing Context
-⚠️ **Note for Harper**: This message appears to be a response to a previous request. The original context is not provided, so consider reviewing:
-- What QA report was being discussed?
-- Which business/account is this related to?
-- What will this report be used to assess?
+### Main Topic
+- Customer is responding affirmatively to a request for documentation
+
+### Key Points
+- Customer has agreed to upload a QA report
+- **Timeline**: This afternoon (same day as message - December 5, 2025)
+
+### Action Items
+- **For Customer**: Upload QA report this afternoon
+- **For Harper**: 
+  - Prepare to receive QA report
+  - Review uploaded document once received
+  - Follow up if document is not received by end of business day (optional)
+
+### Follow-up
+- **Expected Delivery**: This afternoon (December 5, 2025)
+- **Next Steps**: TBD pending document review
 
 ---
-**Recommendation**: Keep this message linked to the original request/conversation thread for full context.
+
+## ⚠️ Information Gaps
+- Sender identity/contact name not identified
+- No previous conversation context provided
+- Purpose of QA report unclear (claims review, underwriting, compliance, etc.)
+- No carrier or policy information referenced
+- No specific deadline or time provided for "afternoon" upload
+
+**Recommendation**: Confirm sender identity and clarify what the QA report will be used for when the document arrives.

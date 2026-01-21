@@ -6,69 +6,48 @@
 **From:** HARPER EMPLOYEE <harper_employee@harperinsure.com>
 **To:** marcus.thompson@sentinelshield.com
 
-# Email Summary for Harper Insurance Broker
+# Email Summary: Sentinel Shield Security Insurance Quote Follow-Up
 
 ## Business Details
+- **Company Name:** Sentinel Shield Security
+- **Industry:** Security (based on company name)
+- **Coverage Stage:** Application submitted to carrier network
+- **Next Step:** Awaiting initial quotes from carriers
+- **Documents Needed:**
+  - Prior policy documents
+  - Loss run reports (showing claim history or no-claim certification)
+  - Certificate of Insurance (COI) requirements
+  - Details on specific coverage gaps to be addressed
+- **Upload Portal:** https://portal.example-insure.com/upload/SS-001
 
-**Company Information**
-- Company name: Sentinel Shield Security
-- Industry: Security (based on company name)
-- Business type: Not explicitly stated
-
-**Coverage & Policy Status**
-- Application status: Submitted to carrier network
-- Expected timeline: Initial quotes anticipated soon
-- Policy type/coverage specifics: Not detailed in this email
-- Current needs: Potential coverage gaps to be addressed
-
-**Documents & Requirements**
-- Loss run reports: Requested (shows prior claim history or certifies no claims)
-- Certificate of Insurance (COI): Customer may have specific requirements to provide
-- Prior policy documents: Requested for upload
-- Upload portal: https://portal.example-insure.com/upload/SS-001
-
-## Personal/Contact Details
-
-**Primary Contact**
-- Name: Marcus Thompson
-- Email: marcus.thompson@sentinelshield.com
-- Company contact: Sentinel Shield Security
-
-**Harper Representative**
-- Harper Employee (name not provided in email)
-- Phone: +1 (470) 731-4971
-- Email: harper_employee@harperinsure.com
+## Personal Details
+- **Contact Name:** Marcus Thompson
+- **Email:** marcus.thompson@sentinelshield.com
+- **Preferred Contact Method:** Email (based on email communication)
+- **Harper Representative:** Harper Employee
+  - **Phone:** +1 (470) 731-4971
+  - **Email:** harper_employee@harperinsure.com
+  - **Company:** Harper Insurance
+  - **Website:** www.harperinsure.com
 
 ## Conversation Context
+- **Purpose:** Follow-up on insurance application submission and next steps
+- **Main Topic:** Requesting supporting documentation to expedite quote process
+- **Key Information Provided:**
+  - Application has been submitted to carrier network
+  - Initial quotes expected soon
+  - Loss runs explained as prior insurer's claim history report (or certification of no claims)
+- **Customer Action Items:**
+  - Upload prior policy documents via secure portal
+  - Provide loss run reports if available
+  - Submit any COI requirements
+  - Detail any specific coverage gaps needing to be addressed
+- **Harper Action Items:**
+  - Follow up once quotes received from carriers
+  - Assist Marcus with obtaining loss runs if needed
+- **Timeline:** Expedited process; quotes expected "soon"
+- **Tone/Sentiment:** Professional, helpful, collaborative
 
-**Email Purpose**
-- Follow-up on insurance application submission
-- Request for supporting documentation to expedite quote process
-
-**Key Points**
-- Application has been successfully submitted to carrier network
-- Multiple carriers in Harper's network are reviewing
-- Process can be accelerated with prompt document submission
-
-**Action Items for Customer (Marcus Thompson)**
-- [ ] Upload prior policy documents to secure portal
-- [ ] Upload loss run reports (if available) to secure portal
-- [ ] Provide any Certificate of Insurance (COI) requirements
-- [ ] Specify any coverage gaps that need to be addressed
-- [ ] Contact Harper if assistance needed obtaining loss runs
-
-**Action Items for Harper**
-- [ ] Monitor for incoming quotes from carrier network
-- [ ] Assist Marcus with obtaining loss runs if requested
-- [ ] Review documents once uploaded
-- [ ] Follow up with quotes when available
-
-**Timeline/Next Steps**
-- Initial quotes expected soon
-- No specific deadline mentioned
-- Follow-up contingent on document submission
-
-**Tone/Sentiment**
-- Professional and helpful
-- Collaborative (offering assistance)
--
+## Additional Notes
+- Harper has offered assistance if Marcus needs help obtaining loss run reports
+- Privacy notice included regarding carrier/partner information sharing

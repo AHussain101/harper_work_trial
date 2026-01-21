@@ -3,64 +3,44 @@
 **Date:** 2025-12-04T20:15:30+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# SMS Summary: North Star Towing & Recovery Application Confirmation
 
 ## Business Details
-
-### Company Information
 - **Company Name:** North Star Towing & Recovery
 - **Industry:** Towing & Recovery Services
-- **Status:** Application submitted (new prospect/client)
-
-### Coverage & Documentation
-- **Documents Status:** 
-  - Application has been submitted
-  - Secure document upload link sent to customer's email
-  - Awaiting documents to be uploaded via secure portal
-
-### Next Steps Timeline
-- Company will contact customer with next steps (timeline not specified)
-
----
+- **Current Status:** Application submitted
+- **Documents:** Secure upload link provided via email for document submission
 
 ## Personal Details
-
-### Contact Information
-- **Contact Method:** Email (secure upload link was sent)
-- **Contact Preference:** Likely email-based communication preferred
-
-### Personality/Communication Notes
-- Customer appears organized (submitted application)
-- No personal details shared in this message
-
----
+- **Contact Method:** Email (primary - secure upload link sent)
+- **Preferred Communication:** Email-based document management system
 
 ## Conversation Context
+- **Main Topic:** Insurance application confirmation and next steps
+- **Purpose:** Welcome message acknowledging receipt of application
+- **Key Message:** Application has been received and is being processed
 
-### Purpose
-- Welcome/acknowledgment message for new insurance application
-- Onboarding communication for North Star Towing & Recovery
+## Action Items
 
-### Key Points
-- Application successfully received ✓
-- Customer directed to use secure portal for document uploads
-- More information coming from Harper's company
+### For Customer (North Star Towing & Recovery)
+- [ ] Check email for secure upload link
+- [ ] Use secure link to upload any requested documentation
+- [ ] Await next steps from Harper/insurance team
 
-### Action Items for Customer
-- Check email for secure upload link
-- Upload required documents via the secure portal link
+### For Harper
+- [ ] Monitor for document uploads from applicant
+- [ ] Proceed with application review
+- [ ] Prepare next steps communication
 
-### Action Items for Harper
-- Review submitted application from North Star Towing & Recovery
-- Determine next steps for underwriting/quote process
-- Prepare follow-up communication with next steps details
+## Tone/Sentiment
+- Professional, courteous, welcoming
+- Reassuring (acknowledging receipt of application)
+- Clear and straightforward
 
-### Tone/Sentiment
-- Professional, welcoming, and reassuring
+## Timeline
+- **Message Sent:** December 4, 2025 at 20:15:30 UTC
+- **Next Steps:** Pending (awaiting documents and Harper's follow-up)
 
 ---
 
-## Outstanding Questions
-- What specific coverage types are being requested?
-- What documents are pending upload?
-- What is the timeline for next steps?
+**Note:** This is an automated/template welcome message. Further details about coverage needs, premium amounts, policy types, and renewal dates will emerge in subsequent communications once documents are received.

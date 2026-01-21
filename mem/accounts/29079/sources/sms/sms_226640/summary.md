@@ -5,39 +5,60 @@
 
 # SMS Summary for Harper
 
-## Conversation Context
-
-### Main Topic/Purpose
-- Outbound message setting expectations about the quote process and next steps
-- Informing customer about upcoming agent contact for coverage finalization
-
-### Key Messages
-- Quote options will be received by the customer
-- An agent will initiate a follow-up call to finalize coverage details
-- Customer is encouraged to reach out proactively if questions arise before agent contact
-
-### Communication Method
-- Customer can reply to this SMS or call the provided number with questions
-- Indicates this is a two-way communication channel (SMS or phone)
-
-### Next Steps/Timeline
-- **Pending Action - Customer receives quotes** (timing not specified)
-- **Pending Action - Agent will call** to finalize coverage (timing not specified, likely after quotes are sent)
-- **For Customer**: Wait for quote options, then expect agent call for finalization
-- **For Harper/Team**: Prepare to send quotes and schedule agent call for coverage finalization
-
-### Tone/Sentiment
-- Professional and helpful
-- Sets clear expectations
-- Reassuring (provides multiple contact options)
-- Proactive customer service approach
+## Message Overview
+**Direction:** Outgoing (Harper → Customer)  
+**Date & Time:** December 4, 2025 at 9:21 PM  
+**Type:** Informational/Process Update
 
 ---
 
-## Missing Information
-⚠️ **No specific business or personal details included in this message** - This appears to be a standard templated message. Additional context needed:
-- Customer name/contact info
-- Business details (if applicable)
-- Quote timeline
-- Specific coverage types being quoted
-- Agent assignment for follow-up call
+## Conversation Context
+
+### Main Topic
+- Communication of next steps in the quote/coverage process
+- Setting expectations for follow-up contact
+
+### Key Information Shared
+- Quote options are being prepared/awaited
+- An agent will contact the customer by phone once quotes are ready
+- Purpose of agent call: finalize coverage details
+
+### Customer Action Items
+- Await quote options
+- Contact Harper (via reply or phone call) if questions arise before agent call
+
+### Harper Action Items
+- Send quote options to customer when available
+- Schedule/arrange agent call to finalize coverage
+- Be prepared to answer questions via phone or SMS response
+
+---
+
+## Important Notes
+
+### Tone/Sentiment
+- Professional and helpful
+- Clear and concise communication
+- Reassuring (provides multiple contact methods)
+
+### Communication Method
+- SMS preferred for this interaction
+- Customer can reach out via:
+  - SMS reply to this message
+  - Phone call to provided number
+
+### Pending Elements
+- Quote options (status: awaited)
+- Agent call for coverage finalization (status: scheduled for future)
+- Specific coverage details (status: pending until agent call)
+
+---
+
+## Missing Context
+⚠️ **Note:** This appears to be a follow-up message in an ongoing quote/coverage process. Earlier conversation details about:
+- Business/personal details
+- Coverage types being quoted
+- Specific needs assessment
+- Customer contact information
+
+...are not included in this SMS and would be found in prior messages.

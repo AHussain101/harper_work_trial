@@ -6,43 +6,38 @@
 **From:** Dakota Reed <dakota@harperinsure.com>
 **To:** ethan@lakeviewservices.com
 
-# Harper Insurance - Lakeview Concierge Services Quote Summary
+# Email Summary for Harper Insurance Broker
 
 ## Business Details
 - **Company Name:** Lakeview Concierge Services
 - **Industry:** Concierge Services
 - **Coverage Status:** Application submitted to carrier network
 - **Documents Requested:**
-  - Loss run report (prior 3 years of coverage, or full length if less than 3 years)
-  - Certificate of Insurance (COI) for any contracts or leases
-  - Additional coverage needs documentation
-  - Special operations notes (if applicable)
-- **Upload Portal:** https://portal.example-insure.com/upload/quote-48-1032
-- **Quote ID:** 48-1032
+  - Loss run report (last 3 years or length of prior coverage)
+  - Certificate of Insurance (COI) for contracts/leases
+  - Any special operations notes or additional coverage needs
+- **Document Upload Portal:** https://portal.example-insure.com/upload/quote-48-1032
+- **Quote Reference ID:** quote-48-1032
 
 ## Personal Details
-- **Primary Contact:** Ethan
-- **Email:** ethan@lakeviewservices.com
-- **Harper Representative:** Dakota Reed
-- **Dakota's Email:** dakota@harperinsure.com
+- **Contact Name:** Ethan
+- **Company Email:** ethan@lakeviewservices.com
+- **Harper Insurance Contact:** Dakota Reed
 - **Dakota's Phone:** (470) 731-4971
-- **Harper Insurance Website:** www.harperinsure.com
+- **Dakota's Email:** dakota@harperinsure.com
+- **Dakota's Website:** www.harperinsure.com
 
 ## Conversation Context
-- **Purpose:** Follow-up on insurance application submission
-- **Main Topic:** Quote process update and document collection
-- **Status:** Application submitted; awaiting initial quotes from carrier network
-- **Timeline:** Quotes expected "soon" (no specific date provided)
-- **Key Actions for Customer (Ethan):**
-  - Upload available loss run reports
-  - Upload any required Certificates of Insurance
-  - Provide any special coverage needs or operations notes
-  - Use secure portal for document uploads
-- **Key Actions for Harper (Dakota):**
-  - Monitor for incoming quotes from carriers
-  - Follow up once quotes received
-  - Review submitted documents
-- **Tone:** Professional, helpful, collaborative
-
----
-**Note for Harper:** Ethan has already spoken with the team, indicating initial contact/discovery call completed. Awaiting his document submission to proceed with quotes.
+- **Main Topic:** Insurance quote follow-up and application status update
+- **Recent Activity:** Ethan spoke with Harper's team (in-person or phone conversation on or before 2025-12-05)
+- **Current Status:** Application submitted to carrier network; quotes expected soon
+- **Key Action Items for Customer (Ethan):**
+  - Upload loss run report (if available)
+  - Upload any Certificate of Insurance requirements
+  - Provide any special operations notes or additional coverage needs
+  - Use secure portal to submit documents
+- **Key Action Items for Harper/Dakota:**
+  - Monitor carrier responses for quote options
+  - Follow up once quotes are received
+- **Timeline:** Expects initial quotes "soon" (no specific date given)
+- **Tone/Sentiment:** Professional, helpful, cooperative; transaction moving forward smoothly

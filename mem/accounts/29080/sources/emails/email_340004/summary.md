@@ -11,35 +11,35 @@
 ## Business Details
 - **Company Name:** Willow Creek Assisted Living
 - **Industry:** Senior Care / Assisted Living Facility
-- **Coverage Status:** Binder pending (underwriting approved)
-- **Next Steps:** Awaiting signed applications and proof of prior coverage
-- **Documents Needed:**
+- **Coverage Status:** Binder pending approval (underwriting has approved)
+- **Documents Required:**
   - Signed applications
   - Proof of prior coverage
-- **Final Deliverable:** Policy documents (to be delivered once forms received and confirmed)
+- **Document Submission Method:** Online portal upload at https://portal.harperinsure.com/esign
 
 ## Personal Details
 - **Contact Name:** Ethan Carter
-- **Title/Role:** Appears to be decision-maker/authorized representative for Willow Creek
+- **Title/Role:** Appears to be decision-maker or authorized representative for Willow Creek
 - **Email:** ethan.carter@willowcreeksenior.com
-- **Communication Method:** Email (established)
+- **Preferred Contact Method:** Email (this communication is via email)
 
 ## Conversation Context
-- **Main Topic:** Binding confirmation for insurance coverage
-- **Current Status:** Underwriting has approved the binder - awaiting client action
-- **Key Questions/Information Needed:**
-  - Client confirmation of receipt
-  - Signed applications to be uploaded
-  - Proof of prior coverage documentation
-- **Pending Client Actions:**
-  - Upload signed forms to: https://portal.harperinsure.com/esign
-  - Confirm receipt of this email
-- **Pending Harper Actions:**
-  - Finalize binder once signed forms and prior coverage proof received
-  - Deliver policy documents to Ethan
-- **Tone/Sentiment:** Professional, routine, positive (approval already granted)
-- **Urgency Level:** Standard - waiting on client submission
+- **Main Topic:** Confirmation and next steps for binding insurance coverage
+- **Current Status:** Underwriting approval granted - awaiting client action
+- **Key Requirements from Underwriting:**
+  1. Signed applications must be received
+  2. Proof of prior coverage must be provided
+- **Key Decision/Milestone:** Underwriting has already approved binding
+- **Action Items for Harper:**
+  - Finalize and deliver policy documents once signed forms and proof of coverage are received
+- **Action Items for Ethan/Willow Creek:**
+  - Upload signed applications to the portal
+  - Provide proof of prior coverage
+  - Confirm receipt/completion
+- **Next Steps:** Upon Ethan's confirmation of form submission, Harper will finalize and deliver policy documents
+- **Timeline:** Urgent/timely (implies quick turnaround expected)
+- **Tone/Sentiment:** Professional, straightforward, positive (approval already granted - just awaiting client action)
 
 ---
 
-**Note for Harper:** This is a binder-ready situation. No further underwriting delays anticipated. Focus is on document collection and delivery.
+**Key Takeaway:** This is the final step before binding. Waiting on client to submit required documentation via portal.

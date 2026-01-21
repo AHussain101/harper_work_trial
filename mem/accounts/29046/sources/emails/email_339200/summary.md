@@ -6,68 +6,68 @@
 **From:** marisol@harperinsure.com
 **To:** marcus.lee@harborviewrecovery.com
 
-# Email Summary: Harborview Recovery Center Insurance Quote
+# Email Summary: Harper Quote - Harborview Recovery Center
 
 ## Business Details
 
-**Company Information:**
+**Company Information**
 - Company name: Harborview Recovery Center
-- Industry: Recovery/Healthcare (substance abuse treatment facility implied)
-- Business type: Not explicitly stated but recovery center suggests treatment/rehabilitation services
+- Industry: Recovery/Healthcare (substance abuse treatment or similar recovery services)
+- Business type: Recovery center
 
-**Coverage & Premium Details:**
+**Coverage & Pricing**
 - Estimated carrier premium: $7,800
 - Harper brokerage fee: $325
 - Estimated taxes & fees: $200
-- **Estimated total premium: $8,300**
+- **Estimated total annual cost: $8,300**
 - Quote status: Preliminary, subject to standard carrier subjectivities and final review
-- Specific policy types/limits: Not detailed in this email
 
-**Documents & Process:**
-- Secure portal available for e-sign documents: https://payments.example-insure.com/quote-harborview-001
-- Payment instructions available via secure portal
-
----
+**Documents & Portal**
+- Secure payment portal available: https://payments.example-insure.com/quote-harborview-001
+- E-sign documents available upon request
 
 ## Personal Details
 
-**Contact Information:**
+**Contact Information**
 - Name: Marcus Lee
-- Title/Role: Not specified (likely decision-maker/owner at Harborview Recovery Center)
+- Title: Not specified (likely owner, manager, or decision-maker)
 - Email: marcus.lee@harborviewrecovery.com
-- Contact method: Email preferred (based on communication channel)
+- Phone: Not provided
+- Preferred contact method: Email
 
-**Harper Insurance Contact:**
-- Name: Marisol Chan
-- Title: Insurance Broker
-- Email: marisol@harperinsure.com
-
----
+**Communication Notes**
+- Tone: Professional, neutral
+- No personality indicators or preferences mentioned
+- No family/personal details shared
 
 ## Conversation Context
 
-**Purpose:** Preliminary insurance quote presentation for Harborview Recovery Center
+**Purpose**
+- Delivery of preliminary insurance quote for Harborview Recovery Center
 
-**Key Information Provided:**
-- Quote breakdown with itemized costs
-- Secure portal link for contract signing and payment
-- Clear statement that quote is subject to final carrier review
+**Key Information Provided**
+- Three-component pricing breakdown (carrier premium, broker fee, taxes/fees)
+- Secure portal link for payment and documentation
+- Note that quote is subject to carrier subjectivities
 
-**Pending Decisions:**
-- Whether to proceed with binding the policy
-- Whether to request changes to coverage limits
-- Whether to request alternative terms from different carriers
+**Pending Decisions**
+- Marcus has not yet confirmed intent to proceed
+- No clarity on specific coverage types or limits quoted
 
-**Action Items for Harper (Marisol):**
-- Await response from Marcus Lee regarding quote acceptance or next steps
-- Stand by to send e-sign documents if approved
-- Provide alternative quotes if requested
+**Action Items for Customer (Marcus Lee)**
+- Reply to confirm how to proceed: bind policy, change limits, or request alternative terms
+- Ask any questions about the quote
+- Access secure portal if ready to bind or sign documents
 
-**Action Items for Customer (Marcus Lee):**
-- Review quote details
-- Reply with confirmation to proceed OR request changes/alternatives
-- Use secure portal to sign documents and submit payment if proceeding
+**Action Items for Harper (Marisol)**
+- Await response from Marcus on proceeding method
+- Be prepared to send e-sign documents and payment instructions
+- Be ready to adjust limits or provide alternative quotes if requested
 
-**Follow-Up Timeline:** Not explicitly stated; awaiting client response
+**Follow-up Timeline**
+- No specific deadline mentioned
+- Response expected from Marcus before proceeding
 
-**Tone/
+**Tone/Sentiment**
+- Professional, straightforward
+- No urgency indicated

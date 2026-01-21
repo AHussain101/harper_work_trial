@@ -5,39 +5,50 @@
 
 # SMS Summary for Harper
 
-## Message Type
-- **Direction:** Outgoing (sent by Harper/Harper's team to customer)
+## Message Overview
+- **Direction:** Outgoing (from Harper/Harper's team to customer)
 - **Date & Time:** December 4, 2025 at 9:27 PM
-- **Purpose:** Instructional/Administrative message
+- **Type:** Administrative/Informational message
+
+---
 
 ## Key Message Content
-- Customer is being directed to save the phone number as their primary contact point
-- This number will be used for:
-  - Updates
-  - Questions
-  - Quotes
-- **Benefit highlighted:** Single point of contact for clarity and consistency
+Harper's team is asking the customer to **save this phone number** as the primary contact point for all future insurance communication.
 
-## Communication Details
-- **Method:** SMS (text message)
-- **Tone/Sentiment:** Professional, helpful, organized
-- **Communication Style:** Clear, action-oriented
+---
+
+## Conversation Context
+
+### Main Topic/Purpose
+- Establishing a single, dedicated communication channel for the customer relationship
+- Streamlining contact method for efficiency
+
+### Key Points Communicated
+- All updates will come through this number
+- All customer questions should be directed to this number
+- All quotes will be sent via this number
+- This creates "one clear contact" for the customer to the Harper team
+
+### Tone/Sentiment
+- **Professional and helpful**
+- Clarifying/informational
+- Customer-service focused
+
+---
 
 ## Action Items
 
-### For Customer
-- **Required:** Save the provided phone number to their contacts
-- **Expected use:** Use this number for all insurance-related communications with Harper's team
+### For the Customer
+- ✓ Save this phone number in their contacts
+- Reference this number for all future communications with Harper's team
 
 ### For Harper
-- **Ongoing:** Monitor this number for inbound customer inquiries, questions, and quote requests
-- **Expectation set:** All updates and quotes will originate from this line
+- No immediate action items indicated
+- This appears to be a standard procedure message
 
-## Follow-up Timeline
-- No specific follow-up date mentioned
-- Implies ongoing, open communication channel
+---
 
-## Notes
-- **Business Context:** Suggests an ongoing or new client relationship where Harper is establishing communication protocols
-- No specific coverage details, premium amounts, or business information included in this message
-- This appears to be an administrative/procedural message rather than substantive coverage discussion
+## Important Notes
+- **No business details, personal details, or coverage information mentioned** in this message
+- This is a foundational communication to establish contact protocol
+- No follow-up timeline specified beyond the directive to save the number

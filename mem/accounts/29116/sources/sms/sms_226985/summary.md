@@ -7,40 +7,42 @@
 
 ## Business Details
 - **Coverage Status**: Intake submitted to underwriting
-- **Documents**: Intake form uploaded to underwriting department
+- **Documents**: Intake form completed and uploaded
 - **Timeline**: Underwriting review in progress
 
 ## Personal Details
 - **Contact Name**: Marcus
-- **Communication Method**: SMS (text message)
-- **Preferred Contact**: Phone (expects a call based on message content)
+- **Communication Method**: SMS
+- **Preferred Contact**: Phone (underwriting team will call)
 
 ## Conversation Context
 
 ### Main Topic
-- Confirmation that Marcus's insurance intake application has been submitted to the underwriting team for review
+- Notification that Marcus's insurance intake has been processed and submitted to underwriting
 
 ### Key Information
-- Intake form has been successfully uploaded to underwriting
-- Marcus should expect direct contact from underwriting team
-- Timeline: Follow-up call expected within 48 hours
-
-### Pending Actions
-- **For Underwriting Team**: Review Marcus's intake; prepare clarifying questions if needed
-- **For Marcus**: Await underwriting team's call within 48 hours; be prepared to answer any clarifying questions about the application
+- Intake form has been uploaded to underwriting department
+- Underwriting review is underway
 
 ### Action Items for Harper
-- Ensure intake was properly uploaded
-- Monitor underwriting queue to confirm Marcus receives timely follow-up
-- No immediate action required (underwriting team has taken ownership)
+- Monitor underwriting process
+- Ensure underwriting team follows up within stated timeframe
+- Be prepared to address any clarifying questions that arise during underwriting review
 
-### Next Steps
-- Underwriting team will contact Marcus within 48 hours
-- Call will address any clarifying questions about the intake submission
+### Action Items for Customer (Marcus)
+- Expect a follow-up call from underwriting team
+- Be available to answer clarifying questions if needed
+
+### Follow-up Timeline
+- **Expected Next Contact**: Within 48 hours
+- **Expected Contact Type**: Phone call from underwriting team
+- **Expected Reason**: Clarifying questions (if any)
 
 ### Tone/Sentiment
-- **Professional and reassuring** — straightforward confirmation message setting clear expectations
+- Professional, informative
+- Reassuring (clear timeline provided)
+- No urgency or concerns indicated
 
 ---
 
-**Note**: No specific coverage types, premium amounts, business industry, or other detailed policy information was provided in this message.
+**Note**: This appears to be a confirmation message to Marcus. No specific coverage details, premium amounts, or carrier information are mentioned in this message.

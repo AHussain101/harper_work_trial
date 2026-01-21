@@ -10,51 +10,63 @@
 
 ## Business Details
 
-**Company Information**
+### Company Information
 - **Company Name:** Lakeview Concierge Services
 - **Industry:** Home repair and maintenance services
-- **Business Type:** Concierge-based residential/vacation property maintenance
+- **Business Type:** Weekend-focused residential/vacation property repair and maintenance
 - **Years in Operation:** 11 years
 - **Annual Revenue:** ~$1.5M
 - **Number of Employees:** 10 full-time employees
+- **Location:** Harborview, NY
 
-**Coverage & Policy Information**
-- **Coverage Type Needed:** General Liability (GL)
-- **Service Scope:** Weekend-focused home repair and maintenance operations
-- **Customer Base:** Residential and vacation property owners
+### Coverage & Policy Information
+- **Coverage Type Sought:** General Liability (GL)
+- **Claims History:** No claims reported in available intake notes
+- **Premium/Deductibles/Limits:** Not specified in submission
+- **Renewal/Effective Dates:** Not specified in submission
 
-**Claims History**
-- **Loss History:** No claims history reported in available intake notes
+### Documents & Submissions
+- Intake notes reviewed (source of claims history information)
+- No additional documents mentioned as requested or provided
 
-**Important Dates**
-- **Submission Date:** December 5, 2025
+### Carriers & Quotes
+- Not mentioned in this submission
+
+---
 
 ## Personal Details
 
-**Primary Contact**
+### Key Contact
 - **Name:** Ethan Marshall
-- **Title/Role:** Owner
-- **Email:** jim_luiz@rpsins.com (recipient address - likely broker/agent contact)
+- **Role/Title:** Owner
+- **Email:** Not provided in email content
+- **Phone:** Not provided in email content
+- **Preferred Contact Method:** Not specified
+
+---
 
 ## Conversation Context
 
-**Main Purpose**
-- General Liability insurance submission and underwriting for Lakeview Concierge Services
+### Purpose
+Submission of General Liability insurance quote request for Lakeview Concierge Services
 
-**Key Information Provided**
-- Clean claims history
-- Established 11-year operational track record
-- Focused business model with weekend scheduling emphasis
+### Key Information Shared
+- Clean loss history (no claims)
+- Established 11-year operating history
+- Consistent business model with focused customer service approach
+- Stable workforce (10 FT employees)
 
-**Action Items for Harper**
-- Process GL coverage submission for Lakeview Concierge Services
-- Obtain quotes from appropriate carriers
-- Prepare policy recommendations based on business profile
+### Action Items for Harper
+- Obtain formal GL quotes from carriers
+- Review underwriting requirements for home repair/maintenance operations
+- Follow up with additional policy details (premiums, limits, deductibles)
+- Contact Ethan Marshall with next steps and quote options
 
-**Pending Items**
-- Carrier quotes/recommendations
-- Premium quotes, deductible options, and coverage limits
-- Formal policy placement
+### Action Items for Customer
+- Awaiting Harper's quote submission and recommendations
 
-**Tone/Sentiment**
-- Professional and straightforward; standard submission documentation
+### Tone/Sentiment
+Professional, straightforward submission notification
+
+### Next Steps
+Pending - no specific follow-up timeline mentioned

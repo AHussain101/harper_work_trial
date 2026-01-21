@@ -5,28 +5,39 @@
 
 # SMS Summary for Harper
 
+## Business Details
+- **Payroll documentation** mentioned - indicates this is a business client
+- No specific company name, industry, or other business details provided in this message
+
+## Personal Details
+- **Contact name/identity**: Unknown (not identified in message)
+- **Contact method**: SMS
+- **Preferred communication style**: Brief, direct communication
+
 ## Conversation Context
-- **Main Topic:** Customer acknowledging request and committing to provide payroll documentation
-- **Direction:** Incoming message from customer
-- **Date & Time:** December 5, 2025 at 11:20 AM (UTC)
-- **Tone/Sentiment:** Professional, cooperative, responsive
 
-## Action Items - Customer
-- **Upload payroll documentation** - Committed to complete this afternoon (same day as message)
+### Main Topic
+- Customer is confirming they will provide payroll documentation
 
-## Action Items - Harper
-- **Await payroll documentation** - Monitor for upload this afternoon
-- **Review payroll** once received (for underwriting, rating, or verification purposes)
+### Key Points
+- Customer is responding affirmatively to a previous request (implied)
+- **Timeline**: Documentation to be uploaded "this afternoon"
+- Tone/Sentiment: **Cooperative and responsive** - positive, willing to comply
+
+### Action Items
+
+**For Harper:**
+- ⏳ **Pending**: Awaiting payroll documentation upload from customer (expected this afternoon)
+- 📋 Review payroll docs once received
+- Note: Determine what this payroll documentation is needed for (likely for underwriting, classification, or renewal purposes)
+
+**For Customer:**
+- ✅ Upload payroll documentation this afternoon
+
+### Follow-up Timeline
+- **Expected delivery**: Same day (this afternoon, 2025-12-05)
+- **Next step**: Harper should review documents upon receipt and follow up with any questions or next steps
 
 ---
 
-## Notes
-⚠️ **Limited Context:** This is a brief confirmatory message. The following details are **not provided in this SMS** and may need to be referenced from prior communications:
-- Customer/contact name and role
-- Company details (name, type, size, industry)
-- Specific coverage or policy being discussed
-- Why payroll documentation was requested
-- Policy effective date or renewal date
-- Next steps after payroll review
-
-**Recommendation:** Cross-reference with previous SMS/emails with this contact to maintain full context of the underwriting or policy renewal process.
+**⚠️ Note for Harper**: This appears to be a follow-up message to a previous conversation. Review prior SMS/email history with this contact to understand the full context of what payroll documents are needed and for what purpose (quotes, renewals, claims, underwriting, etc.).

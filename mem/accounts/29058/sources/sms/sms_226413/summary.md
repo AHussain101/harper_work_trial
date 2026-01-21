@@ -5,49 +5,34 @@
 
 # SMS Summary for Harper Insurance
 
-## Business Details
-- **Status**: Quote in progress
-- **No specific business details mentioned yet**
-
 ## Personal Details
-- **Contact Name**: Marcus
-- **Harper Staff Member**: Talia
-- **Talia's Role/Title**: Senior Producer at Harper Insurance
-- **Communication Method**: SMS
-- **Tone/Personality Notes**: 
-  - Marcus appears to be a new client (just chose Harper Insurance)
-  - Talia's approach: professional, friendly, appreciative
+- **Contact Name:** Marcus
+- **Harper Contact:** Talia
+- **Talia's Role/Title:** Senior Producer at Harper Insurance
+- **Communication Method:** SMS
+- **Date of Contact:** December 4, 2025 at 8:04 PM
 
 ## Conversation Context
+- **Main Topic/Purpose:** Initial outreach and acknowledgment of new client
+- **Tone/Sentiment:** Professional, welcoming, positive
 
-### Main Topic/Purpose
-- Initial outreach message confirming Marcus selected Harper Insurance for coverage
-- Acknowledgment that a quote is being prepared
+## Action Items for Harper
+- **In Progress:** Developing/preparing quote for Marcus
+- **Status:** Quote work is actively underway
 
-### Key Information
-- This is an **outgoing message from Harper to the client**
-- Timestamp: December 4, 2025 at 8:04 PM
-- Message serves as a thank you and status update
+## Action Items for the Customer
+- None explicitly stated at this time
 
-### Action Items
-**For Harper/Talia:**
-- Complete quote preparation for Marcus
-- Follow up with Marcus once quote is ready
+## Outstanding Information Needed
+- No specific details about Marcus's business or coverage needs are mentioned yet
+- This appears to be an initial contact/acknowledgment message
 
-**For Customer (Marcus):**
-- Await quote from Harper Insurance
-
-### Follow-up Timeline
-- **Next Steps**: Quote completion (timeline not specified)
-- No specific deadline mentioned
-
-### Missing Information
-- **No business/coverage details provided** (coverage type, industry, business size, etc.)
-- No premium amounts, deductibles, or policy limits discussed
-- No specific policy types mentioned
-- No documents requested
-- No renewal or effective dates mentioned
+## Key Notes
+- Marcus has selected Harper Insurance as his broker
+- Talia is personally managing the account as Senior Producer
+- This is a follow-up/confirmation message after Marcus has chosen to work with Harper
+- No specific business details, policy types, premium amounts, or deadlines are mentioned in this message
 
 ---
 
-**Note**: This is an initial outreach message. Significant details about Marcus's insurance needs are still to be determined in follow-up communications.
+**⚠️ Note:** This is a preliminary outreach message. Harper should expect to gather detailed business information, coverage needs, and other specifics in subsequent communications with Marcus.

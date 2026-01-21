@@ -6,46 +6,57 @@
 **From:** Dana Park <dana.park@harperinsure.com>
 **To:** brandon.johnson@johnsonengineering.com
 
-# Email Summary: Johnson Engineering, LLC Insurance Quote
+# Email Summary: Johnson Engineering, LLC Insurance Application Follow-Up
 
 ## Business Details
 - **Company Name:** Johnson Engineering, LLC
 - **Industry:** Engineering
-- **Coverage Status:** Application submitted to carrier network
+- **Coverage Needs Mentioned:**
+  - Cyber liability (higher limits potentially needed)
+  - Project-specific coverage requirements
+  - Coverage required by contracts or clients (certificates of insurance)
+- **Current Status:** Application submitted to carrier network; awaiting initial quotes/responses
 - **Documents Requested:**
   - Current policy declarations
   - Loss runs (last 3 years preferred)
-  - Certificates of insurance (required by contracts/clients)
-  - Any additional coverage needs documentation
-- **Potential Coverage Gaps Identified:**
-  - Cyber insurance limits (higher limits may be needed)
-  - Project-specific coverage requirements
-- **Next Steps:** Awaiting initial carrier responses
+  - Certificates of insurance
+  - Any additional/specialized coverage documentation
 
 ## Personal Details
-- **Contact Name:** Brandon Johnson
-- **Title/Role:** Appears to be owner/decision-maker for Johnson Engineering, LLC
-- **Email:** brandon.johnson@johnsonengineering.com
-- **Communication Style:** Professional, responsive (participated in recent conversation)
-- **Preferred Contact Method:** Email (reply to this thread)
+- **Primary Contact:** Brandon Johnson
+  - Email: brandon.johnson@johnsonengineering.com
+  - Role: Appears to be decision-maker/owner for insurance matters
+- **Harper Contact:** Dana Park (Account Manager)
+  - Email: dana.park@harperinsure.com
+  - Phone: Not provided
+  - Preferred Contact Method: Email reply or portal communication
 
 ## Conversation Context
-- **Main Purpose:** Follow-up on insurance application submitted after recent phone conversation
-- **Key Actions Taken:**
-  - Application submitted to carrier network
-  - Quote process initiated
-- **Documents Needed from Client:**
-  - Current policy declarations or loss runs
-  - Certificate of insurance requirements
-  - Specification of any additional coverage needs (cyber limits, project-specific)
-- **Harper's Action Items:**
-  - Monitor for carrier responses
-  - Assist Brandon with obtaining loss runs if needed
-  - Help clarify additional coverage requirements
-- **Client Action Items:**
-  - Upload available documents to secure portal
-  - Provide loss runs (last 3 years)
-  - Specify any additional coverage needs
-  - Contact Dana if documentation help is needed
-- **Timeline:** Expecting initial carrier responses "shortly"
-- **Tone/Sentiment:** Positive, collaborative, efficient
+
+### Main Purpose
+- Follow-up email after initial consultation call with Brandon Johnson
+- Request for documentation to expedite the insurance application and quote process
+
+### Key Points
+- Initial conversation/consultation occurred prior to this email (phone call mentioned: "Thanks for speaking with us today")
+- Application has been formally submitted to Harper's carrier network
+- Response from carriers expected "shortly"
+
+### Action Items for Harper (Dana Park)
+- Monitor for carrier responses to the submitted application
+- Assist Brandon with obtaining loss runs if needed
+- Review/process any documents uploaded by client
+- Follow up once carrier quotes are received
+
+### Action Items for Brandon Johnson (Customer)
+- **Upload documents via secure portal:** https://portal.harperinsure.com/upload/johnson-eng
+  - Current policy declarations
+  - Loss runs (3-year history)
+  - Certificates of insurance for contracts/clients
+  - Any project-specific or additional coverage requirements
+- Reply with questions or if assistance needed obtaining loss runs
+
+### Timeline
+- **Status Date:** December 5, 2025
+- **Next Expected Contact:** Once carrier responses are received (timeline not specified)
+- **Urgency Level:** Moderate—framed as "to speed the

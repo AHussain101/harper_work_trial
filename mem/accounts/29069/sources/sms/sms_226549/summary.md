@@ -6,49 +6,31 @@
 # SMS Summary for Harper Insurance
 
 ## Business Details
-
 - **Company Name:** Metro Guard Services
-- **Business Type:** Security/Guard services (inferred from company name)
-- **Coverage Status:** Application received, quotes in progress
-- **Current Stage:** Quote development phase
+- **Industry/Type:** Security/Guard Services (implied from company name)
+- **Current Status:** Application received and in underwriting/quoting phase
+- **Coverage/Quotes:** Quotes currently being prepared
+- **Documents:** Application has been submitted
 
 ## Personal Details
-
 - **Contact Name:** Terry
-- **Contact Role/Title:** Unknown (likely owner, manager, or decision-maker)
-- **Sender:** Jordan Kim, Harper Insurance
-- **Communication Method:** SMS
-- **Contact Preference:** Receptive to SMS communication (no unsubscribe indicated)
+- **Company Representative:** Jordan Kim (from Harper Insurance)
+- **Contact Method:** SMS
+- **Preferred Communication:** SMS (as evidenced by this message)
 
 ## Conversation Context
-
-- **Main Topic:** Application follow-up for Metro Guard Services insurance coverage
-- **Purpose:** Notification that application was received and quotes are being prepared
-- **Current Status:** Active quote development in progress
-- **Key Message:** Harper is actively working on the client's quotes
-- **Tone/Sentiment:** Professional, informative, service-oriented
-
-## Action Items
-
-### For Harper:
-- Complete quote preparation for Metro Guard Services
-- Send quotes to Terry once ready
-- Monitor for reply from Terry
-
-### For Customer (Terry):
-- **Optional:** Reply with HELP for communication options
-- **Optional:** Reply with STOP to unsubscribe from future messages
-- Awaiting quote delivery
-
-## Follow-up Timeline
-
-- **Next Steps:** Pending quote completion and delivery to Terry
-- **Timeline:** Not specified
-- **Urgency:** Standard (application processing)
-
-## Additional Notes
-
-- Standard automated message format with compliance language (HELP/STOP options)
-- No specific coverage needs, premium amounts, or policy details mentioned yet
-- No documents or loss runs mentioned
-- No renewal or effective dates provided
+- **Main Topic/Purpose:** Notification that Metro Guard Services' insurance application has been received and quote preparation is underway
+- **Key Message:** Proactive update to applicant about application status
+- **Key Actions Completed:**
+  - Application received from Terry/Metro Guard Services
+  - Quote preparation initiated
+- **Pending Actions for Harper:**
+  - Complete quote preparation for Metro Guard Services
+  - Send quotes to Terry when ready
+- **Pending Actions for Customer (Terry):**
+  - Await quotes from Harper Insurance
+  - Reply with questions or unsubscribe if desired
+- **Next Steps:** Harper will provide quotes; Terry can reply with questions or request help
+- **Follow-up Timeline:** Not specified; implied that quotes will be sent soon
+- **Tone/Sentiment:** Professional, helpful, routine business communication
+- **Additional Notes:** Message includes standard opt-out language (HELP for options, STOP to unsubscribe)

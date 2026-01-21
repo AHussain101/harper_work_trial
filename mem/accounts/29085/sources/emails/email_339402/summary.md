@@ -9,65 +9,50 @@
 # Email Summary for Harper Insurance
 
 ## Business Details
-
-**Company Information:**
-- Company Name: Summit Culinary Services, Inc.
-- Industry: Culinary/Food Service
-- Business Type: Not explicitly stated, but appears to be a restaurant or catering operation
-
-**Coverage & Documents:**
-- Documents Provided:
+- **Company Name:** Summit Culinary Services, Inc.
+- **Industry:** Culinary/Food Service
+- **Documents Provided:**
   - Loss runs (uploaded to portal)
   - Certificate of Insurance (COI) (uploaded to portal)
-- Effective Date: Confirmed by client (specific date not mentioned in email)
-
-**Outstanding Information:**
-- Specific policy types, premium amounts, deductibles, and limits NOT mentioned
-- Carrier names or quote details NOT mentioned
-
----
+- **Effective Date:** Requested effective date confirmed by client
 
 ## Personal Details
-
-**Contact Information:**
-- Name: Liam Harris
-- Title/Role: Not stated (likely owner or manager based on email authority)
-- Email: liam.harris@summitculinaryservices.com
-- Phone: Not provided
-
-**Communication Preferences:**
-- Uses portal system for document uploads
-- Prefers email communication
-- Concise communication style
-
----
+- **Contact Name:** Liam Harris
+- **Title/Role:** Not specified
+- **Email:** liam.harris@summitculinaryservices.com
+- **Preferred Contact Method:** Email (via portal communication)
 
 ## Conversation Context
 
-**Main Purpose:**
-- Confirming receipt of requested documents and moving forward with quote review process
+### Main Topic
+- Document submission and quote review process for Summit Culinary Services
 
-**Documents/Actions Completed by Client:**
+### Key Actions Completed
 - ✅ Loss runs uploaded to portal
-- ✅ COI uploaded to portal
-- ✅ Effective date confirmed
+- ✅ Certificate of Insurance (COI) uploaded to portal
+- ✅ Requested effective date confirmed
 
-**Pending Actions for Harper:**
-- Confirm receipt of all uploaded documents
-- Provide next steps for quote review process
-- Schedule or clarify timeline for quote delivery
+### Action Items for Harper (YOU)
+- **URGENT:** Confirm receipt of all uploaded documents with Liam
+- Review loss runs and COI documentation
+- Prepare and present quote(s) to client
+- Communicate next steps in the quote review process
 
-**Tone/Sentiment:**
-- Positive and cooperative
-- Professional but casual
-- No frustration or urgency indicated
+### Action Items for Customer
+- ✅ Completed: Upload documents
+- ✅ Completed: Confirm effective date
+
+### Pending Decisions
+- Quote review and approval
+- Final policy selection
+
+### Follow-up Timeline
+- Immediate action needed: Confirm document receipt and provide next steps
+- Timeline not specified by client
+
+### Tone/Sentiment
+- **Professional, cooperative, efficient** — Liam is responsive and organized; no concerns or frustrations indicated
 
 ---
 
-## Next Steps Required
-
-**Harper Must:**
-1. Verify documents received in portal (loss runs & COI)
-2. Confirm receipt to Liam via email
-3. Communicate next steps for quote review
-4. Provide timeline for quote delivery
+**Note:** This appears to be a straightforward renewal or new quote process with a responsive client. Quick confirmation and next steps communication will help maintain momentum.

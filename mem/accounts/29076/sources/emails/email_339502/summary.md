@@ -11,60 +11,55 @@
 ## Business Details
 
 **Company Information:**
-- Business name: Willow Grove Home Care
-- Industry: Home care services
-- Business type: Home health care provider
+- **Business Name:** Willow Grove Home Care
+- **Industry:** Home Care Services
+- **Business Type:** In-home care provider (implied from coverage needs)
 
 **Coverage & Policy Details:**
-- **General Liability:** Recommended limits of $1M/$2M aggregate
-- **Professional Liability:** Coverage for care-related professional exposures
-- **Abuse & Molestation Coverage:** Recommended as endorsement
-- **Estimated Annual Premium:** ~$4,200 (rounded estimate, subject to change)
-- **Status:** Preliminary quote pending underwriting review
+- **Coverage Types Recommended:**
+  - General Liability: $1M/$2M aggregate limits (recommended)
+  - Professional Liability: care-related professional exposures
+  - Abuse & Molestation: endorsement recommended
+- **Estimated Annual Premium:** ~$4,200 (rounded estimate)
+- **Quote Reference:** quote-xy123
+- **Important Note:** Final premium subject to change pending underwriting review
 
-**Outstanding Requirements:**
-- Loss runs (requested)
-- Staffing details (requested)
-- These documents are needed for final underwriting approval
-
----
+**Documents/Information Needed for Underwriting:**
+- Loss runs (not yet received)
+- Staffing details (not yet received)
 
 ## Personal Details
 
 **Contact Information:**
-- Name: Naomi Brooks
-- Title: Implied decision-maker/contact at Willow Grove Home Care
-- Email: naomi.brooks@willowgrovehc.com
-- Contact from Harper's side: Priya Patel (Underwriting Coordinator)
-  - Email: priya.patel@harperinsure.com
-  - Phone: +1 (470) 731-4971
+- **Name:** Naomi Brooks
+- **Title:** (not specified, but contact for Willow Grove Home Care)
+- **Email:** naomi.brooks@willowgrovehc.com
+- **Company Email Domain:** @willowgrovehc.com
 
-**Communication Preferences:**
-- Available for 15-minute call to discuss options
-- Has access to secure online portal for review/payment
-
----
+**Harper's Contact:**
+- **Name:** Priya Patel
+- **Title:** Underwriting Coordinator
+- **Email:** priya.patel@harperinsure.com
+- **Phone:** +1 (470) 731-4971
+- **Company:** Harper Insurance
 
 ## Conversation Context
 
-**Purpose:**
-Delivery of preliminary insurance quote for home care business
+**Email Purpose:**
+- Delivery of preliminary insurance quote for Willow Grove Home Care
+- Notification that quote is subject to underwriting review upon receipt of requested documents
 
 **Key Information Provided:**
-- Initial quote is an estimate only
-- Final premium will vary based on underwriting review
-- Coverage recommendations customized for home care industry
+- Preliminary quote amount and coverage recommendations
+- Secure payment portal link provided for review and payment processing
+- Option to set up payment plan available
 
-**Next Steps & Action Items:**
+**Pending Items:**
+- Loss runs from Naomi/Willow Grove
+- Staffing details from Naomi/Willow Grove
+- Underwriting review of all submitted documents
 
-*For Naomi/Willow Grove:*
-- Review quote via secure portal: https://payments.example-insure.com/quote-xy123
-- Submit requested documents: loss runs and staffing details
-- Contact Priya to discuss payment options or adjust coverage limits if needed
-- Schedule 15-minute call with Priya (if desired)
-
-*For Harper (Priya):*
-- Await submission of loss runs and staffing details
-- Conduct underwriting review once documents received
-- Finalize premium quote
-- Process payment
+**Action Items for Harper:**
+- Await submission of loss runs and staffing details from Naomi
+- Process documents through underwriting once received
+- Be available to schedule 15-minute call

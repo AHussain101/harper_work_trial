@@ -4,54 +4,52 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary - Neil Follow-up
+# Call Summary: Harper Insurance Broker Follow-Up
 
 ## Business Details
-- **Coverage/Policy Items Discussed:**
-  - Testing certificates (third-party test reports)
-  - Loss runs
-  - Territory endorsements
-  - Pricing firming up pending document submission
-  
-- **Documents Requested:**
+- **Coverage Type**: Underwriting in progress (testing certificates and loss runs required)
+- **Documents Requested**:
   - Third-party test reports
   - Loss runs
   - Subsidiary list
-  
-- **Timeline:**
-  - Preliminary terms expected: 24-48 hours after document submission
-  - Client to submit documents by end of day (2025-12-05)
+- **Quote Status**: Preliminary terms expected 24-48 hours after document submission
+- **Policy Elements Being Finalized**:
+  - Pricing
+  - Territory endorsements
 
 ## Personal Details
-- **Contact Name:** Neil
-- **Contact Role/Title:** Not specified
-- **Preferred Contact Method:** Portal upload for documents; phone for follow-up call review
-- **Communication Style:** Responsive, cooperative, organized (already pulling documents and planning to confirm information)
+- **Contact Name**: Neil
+- **Harper Contact**: Harper Employee (name not specified in transcript)
+- **Communication Method**: Phone call with follow-up via portal uploads
 
 ## Conversation Context
-- **Call Type:** Outgoing follow-up call
-- **Purpose:** Confirm receipt of underwriter's document requests and review next steps
-- **Call Details:**
-  - Date: 2025-12-05
-  - Time: 09:15 AM (UTC)
-  - Duration: 1 minute 35 seconds
-  - Status: Completed
+- **Call Purpose**: Follow-up confirmation that documents were received and to clarify next steps
+- **Call Type**: Outgoing from Harper
+- **Call Duration**: 1 minute 35 seconds
+- **Date/Time**: December 5, 2025 at 09:15 AM (UTC)
+
+## Key Information Exchanged
+- Neil confirmed receipt of underwriter's document request
+- Underwriter is requesting: testing certificates and loss runs
+- Client is sourcing third-party test reports for portal upload
 
 ## Action Items
 
-### For Harper (Harper Agent)
-- [ ] Receive and review third-party test reports from client portal
-- [ ] Receive and review loss runs from client portal
-- [ ] Generate initial quote once documents received
-- [ ] Prepare territory endorsements details
-- [ ] Schedule short follow-up call with Neil to review initial quote
-- [ ] Follow up within 24-48 hours of document submission
-
-### For Client (Neil)
+### For Neil (Client)
 - [ ] Upload third-party test reports to portal
-- [ ] Upload loss runs to portal
-- [ ] Confirm subsidiary list by end of day (2025-12-05)
-- [ ] Prepare for follow-up call to review quote
+- [ ] Confirm subsidiary list by end of day (12/5/2025)
+
+### For Harper
+- [ ] Monitor portal for document uploads
+- [ ] Prepare preliminary quote and territory endorsements (expected 24-48 hours after submission)
+- [ ] Schedule short call to review initial quote with Neil
+
+## Timeline
+- **Documents Due**: End of business day (12/5/2025)
+- **Preliminary Terms**: 24-48 hours after document submission
+- **Next Step**: Follow-up call to review initial quote (timing TBD)
 
 ## Tone/Sentiment
-- **Positive** — Client is engaged, cooperative, and responsive; process moving forward smoothly
+- **Overall**: Positive and cooperative
+- **Neil's Response**: Proactive and prompt (already pulling documents, confirming completion by EOD)
+- **No Red Flags**: Conversation proceeded smoothly with clear next steps

@@ -9,65 +9,43 @@
 # Email Summary: RPS Quote for North Star Towing & Recovery
 
 ## Business Details
+- **Company Name:** North Star Towing & Recovery
+- **Industry:** Towing/Recovery Services
+- **Coverage Types:** Auto + General Liability (GL)
+- **Carrier:** RPS Specialty
+- **Premium Quote:**
+  - Auto + GL combined: ~$4,200
+  - Estimated taxes & fees: ~$250
+  - **Estimated total: ~$4,500**
+- **Quote Valid Until:** February 1, 2026
+- **Quote Status:** Preliminary - pending MVR and VIN verification
 
-**Company Information:**
-- Business name: North Star Towing & Recovery
-- Industry: Towing/Recovery services
-- Business type: Specialty (likely commercial auto)
-
-**Coverage & Premium Details:**
-- Coverage types: Auto + General Liability (GL)
-- Premium (auto + GL): ~$4,200
-- Estimated taxes & fees: ~$250
-- **Estimated total annual cost: ~$4,500**
-- Quote validity period: Valid until February 1, 2026
-
-**Outstanding Requirements:**
-- Motor Vehicle Records (MVR) verification still needed
-- Vehicle Identification Number (VIN) verification still needed
-- Quote is preliminary and pending these verifications
-
----
+## Documents & Verification Requirements
+- Carrier documents attached to email
+- Coverage summary attached
+- **Still needed to bind:**
+  - Signed documents from customer
+  - Driver records/MVR (Motor Vehicle Records)
+  - VIN verification information
 
 ## Personal/Contact Details
-
-**RPS Specialty Representative:**
-- Name: Lauren M.
-- Title: Underwriter
-- Email: lauren.m@rps.com
-- Company: RPS Specialty
-
-**Customer Contact:**
-- Company receiving quote: North Star Brokers (submissions@northstarbrokers.com)
-- *Note: Email sent to broker submissions inbox rather than specific individual*
-
----
+- **RPS Underwriter:** Lauren M.
+- **Underwriter Email:** lauren.m@rps.com
+- **Email Received:** December 4, 2025 at 21:10 UTC
 
 ## Conversation Context
-
-**Purpose:** Initial insurance quote submission for potential client
-
-**Key Information Provided:**
-- Carrier documents attached (referenced but not detailed in email)
-- Coverage summary attached (referenced but not detailed in email)
-
-**Pending Actions - Harper/Customer Must Do:**
-- [ ] Obtain signed policy documents from customer
-- [ ] Collect driver records/MVR documentation from customer
-- [ ] Submit documents to Lauren M. at RPS Specialty to bind coverage
-
-**Pending Actions - RPS Specialty:**
-- [ ] Complete MVR verification
-- [ ] Complete VIN verification
-
-**Next Steps:**
-- Once signed documents and driver records received, policy can be bound
-- Quote expires February 1, 2026 (deadline to accept)
-
-**Tone/Sentiment:** Professional, formal; straightforward preliminary offer
+- **Purpose:** Initial insurance quote presentation for towing company
+- **Main Topic:** Preliminary coverage offer contingent on documentation verification
+- **Tone:** Professional, formal quote presentation
+- **Next Steps for Harper (Insurance Broker):**
+  - Review attached carrier documents and coverage summary
+  - Evaluate if quote is acceptable to client
+  - If acceptable: obtain signed documents from North Star Towing & Recovery
+  - Collect driver records from North Star for MVR verification
+  - Provide VIN information for verification
+  - Submit all documents back to Lauren M. at RPS Specialty to bind the policy
+- **Timeline:** Quote expires February 1, 2026 - action needed before this date
 
 ---
 
-## Documents Mentioned
-- Carrier documents (attached - need to review)
-- Coverage summary (attached - need to review)
+**Note:** This is an inbound quote from the carrier to Harper's brokerage, awaiting client approval and documentation submission.

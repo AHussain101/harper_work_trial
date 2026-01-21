@@ -6,42 +6,53 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Coverage Type**: Property/Site-based coverage (requires site inspection documentation)
-- **Underwriting Status**: Pending document submission
-- **Carrier/Portal**: example-insure.com portal system
+
+### Coverage/Underwriting Requirements
+- **Documents Requested:**
+  - Site photos
+  - Lot plan (if available)
+- **Upload Portal:** https://portal.example-insure.com/upload/abcd
+- **Status:** Awaiting underwriting review
+
+---
 
 ## Personal Details
-- **Recipient**: Customer/prospect (name not specified in SMS)
-- **Contact Method**: SMS text message
+
+- **Contact Name:** Not specified in message
+- **Communication Method:** SMS (outgoing reminder)
+
+---
 
 ## Conversation Context
 
 ### Main Topic
-- Reminder to submit required documentation for underwriting process to move forward
+- Reminder to customer to upload required documentation for underwriting process
 
-### Documents Requested
-- **Site photos** (physical property/location images)
-- **Lot plan** (property survey/layout diagram, if available)
+### Key Action Items
 
-### Submission Method
-- **Portal URL**: https://portal.example-insure.com/upload/abcd
-- **Deadline**: Not explicitly stated, but "so underwriting can proceed" implies this is blocking next steps
+#### For the Customer:
+- **URGENT:** Upload site photos to the portal
+- **URGENT:** Upload lot plan (if available) to the portal
+- Use specific upload link: https://portal.example-insure.com/upload/abcd
 
-### Key Points
-- This is a **reminder** (suggests previous request was made)
-- Documents are **required** for underwriting to move forward
-- Lot plan is **optional** ("if available")
-- Site photos are **mandatory**
-
-### Action Items
-- **Customer**: Upload site photos and lot plan to the specified portal link
-- **Harper**: Follow up if documents are not received by reasonable deadline; proceed with underwriting once documents are submitted
+#### For Harper:
+- Monitor for document uploads
+- Follow up with underwriting once documents are received
+- Confirm underwriting receipt and timeline with customer if needed
 
 ### Tone/Sentiment
-- **Professional and courteous** reminder
-- **Straightforward** and action-oriented
-- **Not urgent in tone** but implies blocked progress
+- **Professional, procedural reminder**
+- Matter-of-fact and action-oriented
+- Assumes customer understands process and portal access
+
+### Next Steps
+- Customer must upload documents before underwriting can proceed
+- Underwriting review is pending document receipt
+- No specific deadline mentioned in message
 
 ---
 
-**Note**: No specific customer name, policy number, or deadline date was provided in this message.
+## Notes
+- This appears to be a follow-up reminder (suggests prior communication established)
+- Documents are critical to moving forward with underwriting
+- Lot plan is optional ("if available") but site photos appear mandatory

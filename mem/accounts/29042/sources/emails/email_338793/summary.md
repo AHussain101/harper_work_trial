@@ -10,66 +10,50 @@
 
 ## Business Details
 
-### Applicant Company
 - **Company Name:** Maple Stoneworks (dba Maple Stoneworks)
-- **Industry:** Stoneworks/Stone fabrication or installation
+- **Industry:** Stonework/Stone fabrication (implied from business name)
 - **Policy Reference:** MCP-XXXX
-
-### Coverage & Quote Information
 - **Carrier:** USLI (United States Liability Insurance Company)
-- **Quote Status:** Initial quote provided
-- **Quote Format:** Applicant-facing version available and ready for customization
+- **Document Status:** Initial quote provided; applicant-facing version available for customization
 - **Quote Link:** https://snap.usli.com/quote/summary/MCP-XXXX
-- **Premium/Deductibles/Limits:** Not specified in email
-
----
 
 ## Personal Details
 
-### Harper Insurance Contact
+**Harper Insurance Representative:**
 - **Name:** Jordan Kim
-- **Role/Title:** Not explicitly stated (appears to be broker/submissions contact)
+- **Role:** Insurance Broker/Submissions contact
 - **Email:** submissions@harperinsure.com
 
-### USLI Contact
+**USLI Representative:**
 - **Name:** Lauren Smith
 - **Title:** USLI Representative
 - **Email:** lauren.smith@usli.com
 - **Phone:** (888) 523-5545
-- **Preferred Contact Method:** Direct contact for questions
-
----
 
 ## Conversation Context
 
 ### Main Purpose
 - Delivery of initial insurance quote from USLI for Maple Stoneworks
-- Quote is ready for Harper to customize and present to client
+- Quote is ready for Harper to customize and present to applicant
 
 ### Key Information
-- Initial quote has been generated and is available
-- Applicant-facing version is prepared for customization by Harper
+- Quote is in initial/preliminary stage
+- Applicant-facing version requires customization by Harper before presentation
+- Contact information provided for questions or clarifications
 
 ### Action Items for Harper
-- Review the USLI quote via the provided link
-- Customize the quote as needed for client presentation
-- Contact Lauren Smith at USLI if questions arise
+- Review the attached USLI quote (MCP-XXXX)
+- Customize applicant-facing version as needed for Maple Stoneworks
+- Contact Lauren Smith if questions arise regarding the quote terms or details
 
-### Action Items for Customer (Maple Stoneworks)
-- None specified at this stage
+### Action Items for Customer
+- None explicitly stated at this stage
 
-### Follow-Up
-- Open communication channel with Lauren Smith for questions
-- No specific timeline mentioned
+### Next Steps
+- Harper to customize and present quote to Maple Stoneworks
+- Further communication with USLI as needed via Lauren Smith
 
 ### Tone/Sentiment
-- Professional, straightforward, helpful
-- No urgency indicated
-- Neutral tone
-
----
-
-## Additional Notes
-- This appears to be a preliminary stage in the quoting process
-- Quote customization capability suggests flexibility with presentation
-- No claims history, loss runs, or renewal dates mentioned
+- Professional and efficient
+- Straightforward delivery with clear next steps
+- Neutral/matter-of-fact tone

@@ -3,47 +3,60 @@
 **Date:** 2025-12-04T23:43:28.184000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Harper Insurance Outgoing Message
+# SMS Summary for Harper Insurance
 
 ## Message Overview
-- **Direction:** Outgoing from Harper Insurance
+- **Direction:** Outgoing message from Harper Insurance
 - **Date & Time:** December 4, 2025 at 11:43 PM
-- **Tone/Sentiment:** Professional, reassuring, friendly
+- **Sender:** Harper Employee (Harper Insurance)
 
 ---
 
 ## Business Details
 - **Company Name:** Harper Insurance
-- **Message Sender:** Harper Employee (specific name not provided)
-- *No specific client business details mentioned in this message*
+- **Message Type:** Confirmation/Acknowledgment message
+- *No specific policy details mentioned in this message*
 
 ---
 
 ## Personal Details
-- **Contact Name:** Not specified in this message
-- **Sender Role/Title:** Harper Employee (specific title not provided)
-- *No personal details about recipient captured in this message*
+- **Sender:** Harper Employee (specific name not provided)
+- **Recipient:** Unknown (not specified in message)
+- *No recipient contact information provided in this message*
 
 ---
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- Acknowledgment message thanking a client for entrusting Harper Insurance with their business
-- Confirmation that Harper is actively working on the client's matter
+### Purpose
+- **Main Topic:** Acknowledgment and reassurance to a new or existing customer
+- **Message Intent:** Thank you/confirmation message expressing commitment to the customer's business
 
-### Key Messages
-- Expression of gratitude for the client's business
-- Assurance that the matter is being handled ("we're on it")
+### Key Points
+- Customer has entrusted Harper Insurance with their business
+- Harper team is actively working on their account/request
 
-### Tone Notes
-- Casual, friendly, professional
-- Reassuring in nature
-- Designed to build confidence and rapport
+### Tone/Sentiment
+- **Tone:** Professional, friendly, and reassuring
+- **Sentiment:** Positive and service-oriented
 
 ---
 
-## Outstanding Items
-- **⚠️ Note:** This appears to be a brief acknowledgment/reassurance message with minimal transactional details
-- No specific coverage, quotes, documents, or action items referenced in this particular message
-- Likely part of a larger conversation thread; context from prior messages would be needed for full picture
+## Action Items
+
+### For Harper
+- Determine which specific customer/business account this was sent to
+- Follow up on whatever business matter prompted this message
+- Ensure promised service delivery is completed
+
+### For Customer
+- None explicitly stated in this message (this is an outgoing confirmation)
+
+---
+
+## Missing Information
+⚠️ **Note:** This appears to be a template or generic acknowledgment message. The following context is needed:
+- Recipient/customer name and contact details
+- Specific business/policy being addressed
+- What specific matter Harper is "on" (new policy, renewal, claim, etc.)
+- Any follow-up timeline or next steps

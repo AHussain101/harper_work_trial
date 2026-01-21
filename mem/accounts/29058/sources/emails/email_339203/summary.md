@@ -6,51 +6,48 @@
 **From:** talia.green@harperinsure.com
 **To:** marcus.lee@lakesidefreight.com
 
-# Email Summary for Harper Insurance
+# Email Summary for Harper Insurance Broker
 
 ## Business Details
-
 - **Company Name:** Lakeside Freight
 - **Industry:** Freight/Transportation
 - **Coverage Type:** Workers' Compensation
-- **Documents Needed:**
-  - Payroll snapshot (for driver)
-  - Signed application
-- **Document Upload Portal:** https://portal.example-insure.com/uploads/lakeside-123
+- **Documents Needed to Finalize Quote:**
+  - Payroll snapshot for driver(s)
+  - Signed application form
+- **Status:** Quote pending finalization - awaiting documentation
 
 ## Personal Details
-
 - **Contact Name:** Marcus Lee
-- **Contact Email:** marcus.lee@lakesidefreight.com
-- **Communication Preference:** Flexible - can upload to portal or email directly (per inquiry preference)
-- **Harper Contact:** Talia Green (talia.green@harperinsure.com)
+- **Email:** marcus.lee@lakesidefreight.com
+- **Role/Title:** Not explicitly stated (appears to be owner/decision-maker)
+- **Preferred Contact Method:** Email (offered as alternative to portal upload)
 
 ## Conversation Context
+- **Main Topic:** Requesting outstanding documentation needed to complete workers' compensation quote
+- **Purpose:** Follow-up reminder to obtain missing documents
+- **Key Request:** 
+  - Upload payroll snapshot and signed application via secure portal
+  - Alternative: Email documents directly if preferred
+- **Portal Link Provided:** https://portal.example-insure.com/uploads/lakeside-123
 
-### Main Topic
-Finalizing workers' compensation insurance quote for Lakeside Freight
+## Action Items
 
-### Key Items Needed
-1. Payroll snapshot for driver (required)
-2. Signed application (required)
+### For Harper (Talia Green)
+- Monitor portal for document uploads from Marcus Lee
+- Be prepared to provide secure email attachment option if customer requests
+- Finalize workers' comp quote once documents received
 
-### Action Items for Customer (Marcus Lee)
-- [ ] Provide payroll snapshot for driver
-- [ ] Sign and return application
-- [ ] Upload documents to portal OR notify Talia if email submission preferred
+### For Customer (Marcus Lee)
+- Provide payroll snapshot for driver(s)
+- Sign and return application form
+- Upload both documents via portal OR email to Talia if preferred
 
-### Action Items for Harper (Talia Green)
-- [ ] Follow up if documents not received by target date
-- [ ] Provide secure email attachment option if customer requests
-- [ ] Process quote finalization once documents received
+## Follow-Up Timeline
+- No specific deadline mentioned
+- Implied urgency: "Quick reminder" suggests documents are overdue
 
-### Status
-- **Pending:** Document submission from customer
-- **Next Steps:** Upon receipt of documents, finalize quote
-
-### Tone/Sentiment
-Professional, courteous reminder; routine administrative follow-up
-
----
-
-**Note:** This appears to be a standard follow-up communication. No issues, concerns, or complications mentioned.
+## Tone/Sentiment
+- **Professional and courteous**
+- **Helpful** (offering multiple submission options)
+- **Neutral reminder** (gentle follow-up, not urgent or frustrated)

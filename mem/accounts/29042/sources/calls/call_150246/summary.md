@@ -7,42 +7,56 @@
 # Call Summary for Harper Insurance Broker
 
 ## Business Details
-- **Application Status**: Submitted to multiple carriers
-- **Expected Quote Timeline**: Initial quotes expected within 24-48 hours
-- **Next Step**: Review call to be scheduled once quotes arrive
+- **Coverage Type:** Commercial insurance application (specific type not detailed)
+- **Current Status:** Application submitted to multiple carriers
+- **Expected Quote Timeline:** 24-48 hours from call date
+- **Carriers Involved:** Multiple carriers (specific names not mentioned)
 
 ## Personal Details
-- **Contact Name**: Marcus
-- **Communication Method**: Email and text
-- **Contact Preference**: Prefers email updates and text scheduling
-- **Tone/Personality**: Cooperative, appreciative, brief communication style
+- **Contact Name:** Marcus
+- **Contact Role/Title:** Not specified
+- **Company/Business Details:** Not provided in call
+- **Preferred Contact Methods:** 
+  - Email (for quote details)
+  - Text (for scheduling review call)
+  - Phone (for follow-up calls)
 
 ## Conversation Context
-- **Call Purpose**: Follow-up on application submission and quote timing
-- **Call Type**: Outbound follow-up call
-- **Call Duration**: 2 minutes
-- **Call Date/Time**: December 5, 2025 at 2:00 PM UTC
+- **Call Purpose:** Follow-up call to provide status update on submitted application
+- **Call Type:** Outgoing from Harper
+- **Call Date/Time:** December 5, 2025 at 2:00 PM UTC
+- **Call Duration:** 2 minutes
 
-### Key Information Discussed
+### Key Information Shared
 - Application has been submitted to multiple carriers
-- Initial quotes expected within 24-48 hours
-- Customer will be notified via email with quote details
-- Review call will be scheduled via text
+- Quote delivery expected within 24-48 hours of call date
+- Next communication will include emailed quote details
+- A follow-up call will be scheduled via text
+
+### Decisions Made
+- None in this call (application already submitted prior)
+
+### Pending Items
+- Awaiting carrier quotes (24-48 hour window)
+- Scheduling review call with customer
 
 ### Action Items for Harper
-- ⏳ Monitor for carrier quotes (expect within 24-48 hours)
-- 📧 Email Marcus with quote details once received
-- 📱 Text Marcus to schedule review call
-- 📞 Schedule follow-up review call with Marcus
+- Monitor for incoming quotes from carriers
+- Email quote details to Marcus once received
+- Text Marcus to schedule review call
+- Be available to answer questions via email reply
 
 ### Action Items for Customer (Marcus)
-- ⏳ Await email with quote details
-- 📱 Respond to text scheduling the review call
-- 💬 Reply to email with any questions in the meantime
+- Monitor email and text for incoming communications
+- Reply to email with any questions in the meantime
+- Be available for scheduled review call
 
-### Sentiment & Tone
-- **Sentiment**: Positive, satisfied
-- **Customer Engagement**: High - cooperative and responsive
+### Follow-up Timeline
+- **Next Step:** Quote arrival (within 24-48 hours of 12/5/25)
+- **Then:** Email quotes and text to schedule review call
+- **No specific review call date set yet** (to be scheduled)
 
----
-**Call Completed Successfully** ✓
+## Tone & Sentiment
+- **Overall Tone:** Professional, friendly, efficient
+- **Customer Sentiment:** Positive and satisfied
+- **Urgency Level:** Standard (no urgent indicators)

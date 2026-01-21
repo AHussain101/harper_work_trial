@@ -8,36 +8,35 @@
 ## Conversation Context
 
 ### Main Topic/Purpose
-- Informational message confirming next steps in the quote review process
-- Setting expectations for customer contact regarding finalized coverage
+- Informing customer about next steps in the quote review and coverage finalization process
+- Setting expectations for upcoming agent contact
 
-### Key Message
-- Customer will receive quote options for review
-- An agent will contact customer by phone to finalize coverage details
-- Customer is invited to reach out with any questions before agent contact
+### Key Information Shared
+- Quote options have been (or will be) received and reviewed
+- An agent will contact the customer by phone to finalize coverage details
+- Customer is invited to reach out proactively with any questions before the agent call
 
-### Action Items for the Customer
-- Await receipt of quote options
-- Prepare for phone call from agent to finalize coverage
-- Contact Harper's office with any questions (via text or phone) before agent followup call
+### Action Items for Customer
+- **Pending**: Await phone call from agent to finalize coverage
+- **Optional**: Text or call with any questions before agent contact
 
 ### Action Items for Harper
-- Prepare quote options for delivery to customer
-- Schedule agent callback to finalize coverage once quotes are reviewed
-- Ensure quote options are ready before sending this message
+- Ensure quote options are reviewed
+- Coordinate with appropriate agent to call customer and finalize coverage
+- Be prepared to address any questions customer may ask via text/call before formal call
 
-### Tone/Sentiment
-- Professional and courteous
-- Reassuring and proactive
-- Welcoming to customer questions
+### Next Steps/Follow-up Timeline
+- **Timing**: Unspecified - no specific timeframe mentioned for when agent will call
+- **Communication Method**: Phone call from agent (primary) or text/call initiated by customer (secondary)
 
-## Important Notes
-- **No specific business or personal details provided** in this message
-- This appears to be a templated confirmation/expectation-setting message
-- No premium amounts, coverage types, or dates specified
-- No customer contact details, names, or identifying information included in this SMS
+---
 
-### Follow-up Timeline
-- Immediate: Customer reviews quote options upon receipt
-- Next: Agent phone call to finalize coverage (timeline not specified)
-- Open window for customer questions before agent contact
+## Missing Information
+⚠️ **Note**: This SMS does not contain the following details that would be helpful:
+- Customer contact name or phone number
+- Business details (company name, industry, employee count, etc.)
+- Specific policy types or coverage needs being quoted
+- Premium amounts or deductible information
+- Carrier names or specific quotes mentioned
+- Preferred contact method or customer availability preferences
+- Tone/urgency level is neutral/professional

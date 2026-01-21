@@ -6,40 +6,57 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** owner@lakefrontroadside.com
 
-# Insurance Quote Summary for Lakefront Roadside Assistance
+# Email Summary: Lakefront Roadside Assistance Quote & Next Steps
 
 ## Business Details
 - **Company Name:** Lakefront Roadside Assistance
-- **Industry:** Roadside Assistance Services
-- **Coverage Type:** General Liability
-- **Premium/Quote Information:**
-  - Estimated Annual Cost: $1,300 (includes fees & taxes)
-  - Coverage Limit Options Being Discussed: $100k vs. $300k
-- **Policy Status:** Preliminary quote received; pending binding
-- **Carrier:** Not specified in email
+- **Industry:** Roadside Assistance/Towing Services
+- **Coverage Type:** General Liability Insurance
+- **Premium:** $1,300 annually (includes fees & taxes)
+- **Coverage Limits Being Discussed:** $100k vs $300k options available
+- **Service Vehicle(s):** Yes, company operates service vehicles
+- **Carrier:** Quote received from preliminary carrier (specific carrier name not mentioned)
 
 ## Personal Details
 - **Contact Name:** Marcus
-- **Title/Role:** Owner
+- **Role/Title:** Owner (of Lakefront Roadside Assistance)
 - **Email:** owner@lakefrontroadside.com
-- **Communication Preference:** Open to phone discussion (asked for availability)
+- **Communication Style:** Professional, responsive to structured requests
 
-## Documents Required
-- [ ] Completed ACORD application (attached to email)
-- [ ] Proof of personal auto insurance for service vehicle(s)
-- **Upload Location:** https://portal.example-insure.com/upload/lf-quote-001
+## Contact Information (Harper's Side)
+- **Agent Name:** Jordan Kim
+- **Agent Email:** jordan.kim@harperinsure.com
+- **Agency:** Harper Insurance
 
 ## Conversation Context
-- **Main Purpose:** Providing general liability insurance quote and outlining next steps for binding coverage
-- **Key Items Pending:**
-  - Marcus to submit ACORD application
-  - Marcus to provide proof of personal auto insurance
-  - Potential call to discuss payment options and coverage limit selection ($100k vs. $300k)
-- **Action Items for Harper:**
-  - Arrange call with Marcus at his convenience to discuss payment options and coverage limits
-- **Action Items for Marcus:**
-  - Upload ACORD application to portal
-  - Upload proof of personal auto insurance for service vehicle(s)
-  - Reply with availability for discussion call (if interested in payment/coverage discussion)
-- **Tone/Sentiment:** Professional, helpful, straightforward
-- **Next Steps Timeline:** Awaiting Marcus's response and document submission to proceed with binding
+
+### Main Purpose
+Providing general liability insurance quote and collecting necessary documentation to proceed with policy binding.
+
+### Key Information Shared
+- Preliminary quote received: **$1,300/year** (all-inclusive)
+- Two coverage limit options available for discussion: $100k or $300k
+
+### Documents Requested (Action Items for Marcus)
+1. Completed ACORD application (attached to email)
+2. Proof of personal auto insurance for service vehicle(s)
+3. Upload location: https://portal.example-insure.com/upload/lf-quote-001
+
+### Topics Open for Discussion
+- Payment options/plans
+- Coverage limit selection ($100k vs $300k)
+
+### Action Items for Harper
+- Arrange phone call with Marcus at his preferred time to discuss payment options and coverage limits
+- Wait for document submission before binding
+
+### Action Items for Marcus
+- Complete and return ACORD application
+- Provide proof of personal auto insurance for service vehicles
+- Upload documents to provided portal link
+- Reply with availability if he wants to discuss payment/coverage options
+
+### Next Steps/Follow-up
+- Pending Marcus's document submission
+- Pending Marcus's response regarding discussion of payment/coverage options
+- Phone call

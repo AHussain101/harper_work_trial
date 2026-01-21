@@ -3,45 +3,43 @@
 **Date:** 2025-12-05T02:05:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary for Harper's Records
 
 ## Business Details
-- **Coverage Status**: Pending binding for early December
-- **Policy Documents**: Awaiting e-signature to activate coverage
+- **Coverage binding deadline**: Early December
+- **Policy status**: Pending document execution (e-signature required)
+- **Action required**: Documents need to be signed to activate coverage
 
 ## Personal Details
-- **Contact Method**: SMS
-- **Action Required From Client**: E-signature on documents
+- **Contact method**: SMS (outgoing reminder)
+- **Portal access**: Customer has access to Harper's e-signature portal
 
 ## Conversation Context
 
 ### Main Topic
-- Reminder to complete e-signature process to finalize insurance coverage
+- **Purpose**: Reminder for customer to complete e-signature process to finalize insurance coverage
 
 ### Key Details
-- **Document Portal Link**: https://portal.harperinsure.com/esign/48-1032
-- **Reference ID**: 48-1032
-- **Timeline**: Coverage needs to be bound for early December
-- **Current Status**: Documents sent, awaiting client signature
+- **E-signature portal link**: https://portal.harperinsure.com/esign/48-1032
+- **Customer ID/Reference**: 48-1032
+- **Urgency**: High - binding needed for early December coverage
 
-### Action Items for Customer
-- [ ] E-sign documents via provided portal link
-- [ ] Complete signature process to bind coverage
+### Action Items
 
-### Action Items for Harper
-- [ ] Monitor for document signature completion
-- [ ] Follow up if documents not signed by deadline
-- [ ] Process binding once e-signatures received
-- [ ] Confirm coverage effective date once bound
+#### For Customer
+- [ ] Access e-signature portal at provided link
+- [ ] E-sign all required documents
+- [ ] Complete signature process before early December deadline
+
+#### For Harper
+- [ ] Monitor portal for document completion
+- [ ] Bind coverage once documents are e-signed
+- [ ] Confirm coverage activation with customer after binding
 
 ### Follow-up Timeline
-- **Urgency**: High - coverage binding needed for early December
-- **Next Steps**: Await e-signature completion, then finalize policy binding
-
-### Tone/Sentiment
-- Professional, time-sensitive reminder
-- Routine follow-up communication
+- **Target completion**: Before early December
+- **Tone/Sentiment**: Professional, time-sensitive reminder
 
 ---
 
-**Note**: Limited information in this message. This appears to be a reminder outreach rather than initial consultation. Additional context about the specific coverage type, carrier, premium, and business details may be documented elsewhere in the client file.
+**Note**: This appears to be a follow-up reminder. Consider whether customer has already been contacted about this requirement and whether additional follow-up will be needed if documents are not signed by the deadline.

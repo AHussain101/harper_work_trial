@@ -7,40 +7,55 @@
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- **Purpose**: Notification to customer about next steps in the quote review process
-- **Type**: Outgoing informational message
+### Main Topic
+- Informational message regarding quote review process and next steps
+- Setting expectations for follow-up communication
 
 ### Key Messages
-- Quote options are being prepared for review
-- An agent will contact the customer via phone call to finalize details
-- Customer is provided with alternative contact methods for questions
+- Quote options are pending review
+- An agent will contact the customer by phone once quotes are ready for discussion
+- Customer has multiple communication channels available for questions in the interim
 
-### Next Steps & Action Items
+---
 
-#### For the Customer
-- **Pending**: Await call from agent to review and finalize quote details
-- **Options if questions arise**:
-  - Reply to this SMS thread
-  - Call their Harper contact directly
+## Action Items for Customer
+- **Pending**: Wait for agent call to finalize details after quote options are reviewed
+- **Alternative Actions Available**: 
+  - Reply via SMS with any questions that arise before agent call
+  - Contact Harper directly by phone with questions
 
-#### For Harper/Agent
-- **Pending**: Call customer to review quote options and finalize coverage details
-- **Timeline**: After quote options are ready for review (timing not specified in this message)
+---
 
-### Tone/Sentiment
-- **Tone**: Professional, helpful, and reassuring
-- **Sentiment**: Neutral/positive - setting clear expectations
+## Action Items for Harper
+- **Pending**: Review quote options
+- **Pending**: Schedule and execute phone call with customer to finalize details once quote review is complete
+- Monitor for customer replies/questions via SMS while awaiting quote review completion
+
+---
+
+## Communication Details
+
+### Contact Method
+- **Primary Upcoming Contact**: Phone call from agent
+- **Secondary Available Channels**: 
+  - SMS reply option
+  - Direct phone call to Harper contact
+
+### Timeline
+- **Status**: Awaiting quote review completion
+- **Next Step Timing**: Agent will call "when we have quote options reviewed" (timeline undefined in message)
+
+---
+
+## Tone/Sentiment
+- **Overall Tone**: Professional, procedural, helpful
+- **Sentiment**: Neutral to positive
+- **Customer Experience**: Setting clear expectations to manage the customer's timeline and reduce uncertainty
 
 ---
 
 ## Missing Information
-⚠️ **Note**: This appears to be a template or standard message. The following details were **not included** in this SMS:
-- Customer name/contact information
-- Specific quote details, premiums, or coverage types
-- Business information
-- Specific timeline for the agent callback
-- Which Harper contact to reference
-- Policy details or renewal dates
-
-**Recommendation**: Ensure customer has been provided with specific contact information and understands the timeline for agent follow-up.
+- ⚠️ **No business details provided** (company name, type, coverage needs, premium amounts, etc.)
+- ⚠️ **No personal contact details** (customer name, specific agent name, phone numbers)
+- ⚠️ **No specific timeline** for when agent will call
+- ⚠️ **No indication of which quotes** are being reviewed or carrier names

@@ -4,46 +4,48 @@
 **Duration:** 0m 28s
 **Direction:** Outgoing
 
-# Call Summary - Outgoing Call
+# Call Summary for Harper
 
 ## Call Details
 - **Direction:** Outgoing
 - **Duration:** 28 seconds
-- **Date:** December 4, 2025
-- **Time:** 11:43 PM
-- **Completed:** Yes (11:44 PM)
+- **Date/Time:** December 4, 2025 at 11:43 PM
+- **Status:** Completed (call ended at 11:44 PM)
 
 ---
 
 ## Conversation Context
-- **Purpose:** Voicemail message left (no live contact)
-- **Tone/Sentiment:** Professional, informative
-- **Type of Interaction:** One-way communication (voicemail)
+- **Purpose:** Voicemail message left by Harper agent
+- **Type:** Outbound call attempt - recipient did not answer
+- **Tone/Sentiment:** Professional, informational
 
 ---
 
-## Message Content
-Harper agent left a **brief voicemail** that included:
-- Information about Harper's availability
-- Reference to Harper support contact information for assistance
-- Note that Harper is available during **extended hours** for:
-  - Policy binding assistance
-  - Document-related questions
+## Key Message Content
+Harper agent provided the following voicemail:
+- Brief description of Harper's availability
+- Harper support contact information shared
+- Message emphasized Harper's **extended hours availability**
+- Offered assistance with:
+  - Binding policies
+  - Document questions
 
 ---
 
 ## Action Items
 
 ### For Harper
-- **Pending:** Await callback or response from recipient
-- **If no response:** Monitor for any follow-up attempts needed
+- Monitor for return call from recipient
+- Be prepared to assist with binding or documentation questions when contacted back
+- Have support resources readily available for extended hours support
 
-### For Customer
-- **Pending:** Listen to voicemail and contact Harper support if assistance needed
-- **Available Resources:** Harper support line (mentioned in voicemail)
-- **Support Available:** Extended hours for binding and document questions
+### For Customer/Recipient
+- Expected to listen to voicemail and contact Harper support at provided number if needed
+- Can reach out during extended hours for binding or document assistance
 
 ---
 
-## Outstanding Information
-⚠️ **No business or personal details captured** - Call did not connect with a live person, so no specific customer information, policy details, or requirements were discussed on this call.
+## Notes
+- **No personal details captured** - call was not answered, message was left
+- **Minimal information gathered** - very brief call duration indicates voicemail message only
+- **Follow-up required** - awaiting customer response to voicemail

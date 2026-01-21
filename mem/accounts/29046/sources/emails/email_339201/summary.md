@@ -11,60 +11,60 @@
 ## Business Details
 
 **Company Information:**
-- **Company Name:** Harborview Recovery Center
-- **Industry:** Recovery/Healthcare (appears to be a treatment or recovery facility)
-- **Type of Business:** Recovery center
+- Company Name: Harborview Recovery Center
+- Business Type: Recovery/Treatment Facility
+- Industry: Healthcare/Addiction Recovery Services
 
 **Coverage & Underwriting:**
-- Policy is currently **under underwriter review**
-- Underwriting process is **pending document submission**
+- Status: Under underwriter review
+- Policy Type: Not explicitly stated (likely General Liability and/or Professional Liability based on industry)
+- Documents Requested by Underwriter:
+  - Loss runs (last 3 years) OR claims declaration
+  - Current staff roster
+  - Subcontractor agreements (if applicable)
+  - Facility lease or ownership documentation
 
-**Documents Requested:**
-- Loss runs covering the **last 3 years** (or claims declaration as alternative)
-- Current staff roster
-- Subcontractor agreements (if applicable)
-- Copy of facility lease OR ownership documentation
-
-**Document Submission Method:**
-- Secure portal upload: https://portal.example-insure.com/upload/harborview
+**Claims History:**
+- Loss runs from past 3 years needed for underwriting review
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Marcus Lee
-- **Email:** marcus.lee@harborviewrecovery.com
-- **Role:** Not specified (likely decision-maker or operations contact at Harborview)
+**Contact Information:**
+- Name: Marcus Lee
+- Title/Role: Not specified (appears to be facility contact/decision-maker)
+- Email: marcus.lee@harborviewrecovery.com
+- Harper Contact: harper_employee@harperinsure.com
 
-**Harper Representative:**
-- **Name:** Harper Employee (specific name not provided in signature)
-- **Title:** Insurance Agent
-- **Email:** agent@harperinsure.com
-- **Company:** Harper Insurance
+**Communication Preferences:**
+- Document submission method: Secure online portal
 
 ## Conversation Context
 
-**Purpose:** 
-Formal request from underwriter for documentation needed to complete policy review and approval process
+**Main Topic:** 
+Document collection to complete underwriter review for Harborview Recovery Center policy
 
-**Key Information:**
-- This is an **outbound communication** from Harper to the client
-- Underwriter has placed specific requirements on policy completion
-- Harper is offering assistance with obtaining prior carrier loss runs if needed
+**Key Requests:**
+- Gather and submit 4 specific document categories through secure portal
+- Harper offering assistance with obtaining loss runs from prior carrier if needed
 
-**Action Items for Client (Marcus Lee):**
-- [ ] Gather and upload loss runs (last 3 years) OR submit claims declaration
-- [ ] Compile current staff roster
-- [ ] Obtain and submit subcontractor agreements (if applicable)
-- [ ] Provide facility lease copy OR ownership documentation
-- [ ] Upload all documents to secure portal
+**Action Items for Harper Employee:**
+- Wait for document submission from Marcus Lee
+- Be available to assist with loss run retrieval from prior carrier if requested
+- Follow up if documents not received within reasonable timeframe (not specified)
 
-**Action Items for Harper:**
-- [ ] Assist with obtaining loss runs from prior carrier if client requests help
-- [ ] Follow up on document submission status
-- [ ] Complete underwriter review once documents received
+**Action Items for Customer (Marcus Lee):**
+- Compile and upload all requested documents to secure portal: https://portal.example-insure.com/upload/harborview
+  - Loss runs (3 years) or claims declaration
+  - Current staff roster
+  - Subcontractor agreements
+  - Facility lease or ownership documentation
 
-**Tone/Sentiment:** 
-Professional, neutral, helpful - offering assistance if needed
+**Timeline/Next Steps:**
+- No specific deadline mentioned
+- No renewal date or effective date provided
+- Underwriter review pending document receipt
 
-**Next Steps:**
-- Client to
+**Tone/Sentiment:**
+- Professional and straightforward
+- Helpful (offering assistance with loss runs)
+- No signs of urgency, frustration, or

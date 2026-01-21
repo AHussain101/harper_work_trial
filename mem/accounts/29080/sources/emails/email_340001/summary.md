@@ -6,7 +6,7 @@
 **From:** brandon.hayes@harperinsure.com
 **To:** ethan.carter@willowcreeksenior.com
 
-# Email Summary: Willow Creek Assisted Living
+# Email Summary: Willow Creek Assisted Living — Quote Request & Document Collection
 
 ## Business Details
 - **Company Name:** Willow Creek Assisted Living
@@ -16,39 +16,40 @@
   - Loss runs (last 3 years, if available)
   - Current declarations page
   - Certificate requirements for contracts or lease agreements
+- **Document Upload Portal:** https://portal.harperinsure.com/doc-upload
 
 ## Personal Details
-- **Contact Name:** Ethan Carter
-- **Title/Role:** Not specified (appears to be decision-maker/owner representative)
-- **Email:** ethan.carter@willowcreeksenior.com
-- **Company Email Domain:** willowcreeksenior.com
-
-## Harper Insurance Representative
-- **Name:** Brandon Hayes
-- **Title:** Insurance Broker (Harper Insurance)
-- **Phone:** (470) 731-4971
-- **Email:** brandon.hayes@harperinsure.com
+- **Primary Contact:** Ethan Carter
+  - **Email:** ethan.carter@willowcreeksenior.com
+  - **Role/Title:** Not specified (likely owner, manager, or decision-maker)
+- **Harper Contact:** Brandon Hayes
+  - **Title:** Insurance Broker (Harper Insurance)
+  - **Phone:** (470) 731-4971
+  - **Email:** brandon.hayes@harperinsure.com
 
 ## Conversation Context
-- **Main Topic:** Follow-up to initial consultation; next steps in quote process
-- **Purpose:** Request documentation needed to generate insurance quotes
-- **Tone/Sentiment:** Professional, helpful, moving forward
+- **Main Topic:** Initial quote request follow-up and document gathering for insurance renewal/new coverage
+- **Previous Action:** Ethan had a conversation with Harper team; quote request was submitted
+- **Key Requests Made by Harper:**
+  1. Upload loss runs (3-year history preferred)
+  2. Provide current declarations page
+  3. Submit certificate requirements for contracts/leases
+  4. Use secure portal for document uploads
+- **Offer:** Harper can assist with obtaining loss runs if needed
+- **Next Steps:**
+  - Ethan to upload documents via secure portal
+  - Harper will gather quotes from carrier network
+  - Follow-up pending document submission
+- **Tone:** Professional, helpful, collaborative
 
-## Key Actions
-
-### Action Items for Customer (Ethan Carter)
-- [ ] Upload loss runs (3 years) to secure portal
+## Action Items
+### For Ethan Carter:
+- [ ] Upload loss runs (last 3 years) to secure portal
 - [ ] Upload current declarations page
-- [ ] Upload certificate requirements for contracts/lease agreements
-- [ ] Use portal: https://portal.harperinsure.com/doc-upload
-- [ ] Contact Harper if assistance needed obtaining loss runs
+- [ ] Upload certificate requirements for contracts/leases
+- [ ] Contact Brandon if assistance needed obtaining loss runs
 
-### Action Items for Harper (Brandon Hayes)
-- [ ] Monitor document uploads
-- [ ] Gather quotes from carrier network once documents received
-- [ ] Follow up with quotes and recommendations
-
-## Next Steps
-- Awaiting document submission from Ethan
-- Quote generation to begin upon document receipt
-- No specific deadline mentioned
+### For Harper (Brandon Hayes):
+- [ ] Monitor for document uploads from Ethan
+- [ ] Gather and prepare quotes from carrier network once documents received
+- [ ] Follow up if documents not received within reasonable timeframe

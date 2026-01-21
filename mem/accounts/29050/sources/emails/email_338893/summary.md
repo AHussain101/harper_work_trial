@@ -6,49 +6,54 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** owner@lakefrontroadside.com
 
-# Email Summary: Lakefront Roadside Assistance Insurance Quote Update
+# Harper Insurance - Lakefront Roadside Assistance Quote Summary
 
 ## Business Details
-
 - **Company Name:** Lakefront Roadside Assistance
 - **Industry:** Roadside Assistance Services
-- **Business Type:** Vehicle-based service business
-- **Coverage Needs:** Auto insurance for business vehicles
-- **Policy Type Discussed:** Roadside Assistance Insurance
-- **Application Status:** Submitted to carrier network (awaiting initial responses)
-- **Documents Requested:**
-  - Recent loss runs (last 3 years, if available)
+- **Coverage Type:** Auto Insurance (business vehicles)
+- **Policy Status:** Application submitted to carrier network
+- **Documents Needed:**
+  - Loss runs (last 3 years preferred)
   - Proof of current auto insurance for business vehicle(s)
-  - Any certificate requirements from contracts or motor clubs
+  - Certificate requirements from contracts or motor clubs
 
 ## Personal Details
-
 - **Contact Name:** Marcus
-- **Contact Role/Title:** Owner
-- **Contact Email:** owner@lakefrontroadside.com
-- **Preferred Contact Method:** Email or phone (flexible based on need)
-- **Communication Style:** Professional, responsive
+- **Title/Role:** Owner (owner@lakefrontroadside.com)
+- **Email:** owner@lakefrontroadside.com
+- **Communication Method:** Email preferred, phone available for document assistance
+- **Personality Notes:** Responsive to communication, willing to provide documentation
 
 ## Conversation Context
 
-- **Main Topic:** Follow-up on roadside assistance insurance application submission
-- **Previous Interaction:** Recent phone/verbal conversation with Jordan Kim
-- **Key Action Items for Customer (Marcus):**
-  - Upload requested documents to secure portal: https://portal.example-insure.com/upload/abcd1234
-  - Gather loss runs from last 3 years
-  - Locate proof of current auto insurance
-  - Identify any certificate requirements from existing contracts or motor clubs
-  - Contact Harper if assistance needed locating documents
+### Main Topic
+Follow-up on roadside assistance insurance application with next steps for accelerating carrier responses
 
-- **Key Action Items for Harper (Jordan Kim):**
-  - Monitor carrier network responses to submitted application
-  - Provide document upload portal access
-  - Follow up once carrier responses received
+### Key Actions Completed
+- Initial consultation conversation completed
+- Application submitted to Harper Insurance's carrier network
+- Secure document upload portal provided
 
-- **Timeline:** Initial carrier responses expected soon (no specific deadline provided)
-- **Next Steps:** Awaiting customer document submission and carrier responses
-- **Tone/Sentiment:** Professional, helpful, collaborative
+### Pending Items
+- **For Marcus (Customer):**
+  - Upload available loss runs (preferably last 3 years)
+  - Upload proof of current auto insurance for business vehicle(s)
+  - Upload any certificate requirements from contracts or motor clubs
+  - Upload via secure portal: https://portal.example-insure.com/upload/abcd1234
+
+- **For Harper Insurance (Jordan Kim):**
+  - Monitor carrier responses (expected to arrive soon)
+  - Provide document assistance if customer requests help locating files
+  - Follow up on application status once documents received
+
+### Timeline
+- **Email Date:** December 4, 2025
+- **Expected Next Action:** Carrier responses anticipated shortly after document submission
+
+### Tone/Sentiment
+Professional, helpful, and collaborative; positive momentum with clear next steps
 
 ---
 
-**Email Date:** December 4, 2025 | **From:** Jordan Kim (Harper Insurance)
+**Note for Harper:** This is an outbound follow-up email from your team member Jordan Kim to a new prospect. No critical issues or concerns noted. Standard application processing workflow.

@@ -5,50 +5,39 @@
 
 # SMS Summary for Harper
 
+## Message Details
+- **Date & Time:** December 4, 2025 at 8:51 PM
+- **Direction:** Incoming message from customer
+- **Message Content:** "Yes — thanks, received."
+
+---
+
 ## Conversation Context
+- **Main Topic:** Acknowledgment/confirmation message
+- **Purpose:** Customer confirming receipt of something previously sent by Harper
 
-### Main Topic/Purpose
-- Customer confirming receipt of something previously sent
+### Key Details
+- **Tone/Sentiment:** Positive, brief, professional
+- **Response Type:** Confirmation/acknowledgment
 
-### Key Messages
-- Brief acknowledgment message
-- Customer indicates they have received materials/information/documents
+### Action Items
+- **Harper's Next Steps:** 
+  - Verify what was sent to customer (likely documents, quote, or information)
+  - Monitor for next communication or decision from customer
+  - No immediate response required unless customer indicates otherwise
 
-### Tone/Sentiment
-- Positive/neutral
-- Polite and professional
-
----
-
-## Business Details
-- **No business information provided in this message**
-
----
-
-## Personal Details
-- **No personal information provided in this message**
-- Contact name unknown
-- No contact preferences indicated
+- **Customer's Next Steps:** 
+  - None apparent from this message
+  - Awaiting next steps or Harper's follow-up
 
 ---
 
-## Action Items
-
-### For Harper
-- **Follow up** to confirm customer has reviewed received materials
-- **Clarify** what specifically was received (quote, policy documents, renewal information, etc.)
-- **Prepare** for next conversation or decision point
-
-### For Customer
-- None identified from this message
+## Missing Context
+⚠️ **Note for Harper:** This response lacks context about what was initially sent. You may need to:
+- Review your recent outgoing messages to this customer
+- Check what documents/quotes/information were delivered
+- Determine next steps in the sales/renewal process
 
 ---
 
-## Follow-Up Notes
-
-⚠️ **Context Needed**: This message lacks context about what was sent. Harper should reference previous communications to understand:
-- What documents/quotes were sent to this customer
-- What action or decision is expected next
-- Timeline for response or next steps
-
-**Recommended Next Action**: Send follow-up message clarifying next steps or when customer expects to review materials.
+**Status:** Awaiting further communication or clarification on next steps

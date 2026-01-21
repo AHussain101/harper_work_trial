@@ -5,49 +5,34 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Outgoing (Harper → Customer)
-- **Date/Time:** December 5, 2025 at 8:46 AM
-- **Tone/Sentiment:** Professional, helpful, reassuring
-
----
+## Business Details
+- **Coverage Type**: General liability and/or workers' compensation (inferred from loss runs and payroll requests)
+- **Documents Requested/Needed**:
+  - Loss runs
+  - Payroll documentation
+- **Underwriting Status**: Currently pending underwriting review
+- **Expected Timeline**: Update to be provided within 24 hours
 
 ## Personal Details
-- **Contact Name:** Mary
-- **Communication Method:** SMS
-- **Preferred Contact Style:** Direct, text-based updates
-
----
-
-## Business Details - Documents & Requirements
-- **Documents Requested/Pending:**
-  - Loss runs (not yet received)
-  - Payroll documentation (not yet received)
-- **Next Steps With Carrier:** Confirmation needed with underwriting team
-
----
+- **Contact Name**: Mary
+- **Contact Method**: SMS
 
 ## Conversation Context
+- **Main Topic**: Insurance quote/policy underwriting process
+- **Status**: Awaiting supporting documentation from customer (Mary)
+- **Key Action Items**:
+  - **For Harper**: 
+    - Confirm details with underwriting team once loss runs and payroll are received
+    - Provide update to Mary within 24 hours
+  - **For Customer (Mary)**:
+    - Provide loss runs and payroll documentation
+- **Next Steps**: 
+  - Mary to submit loss runs and payroll
+  - Harper to review with underwriting upon receipt
+  - Follow-up communication expected within 24 hours from this message (by 2025-12-06 at 08:46 AM)
+- **Tone/Sentiment**: Professional, organized, and responsive
 
-### Main Topic
-- Policy underwriting process requiring specific documentation before final approval
-
-### Key Actions & Timeline
-**Action Items for Harper:**
-- Confirm policy details with underwriting once loss runs and payroll documents are received
-- Provide customer update within 24 hours
-
-**Action Items for Customer (Mary):**
-- Provide loss runs documentation
-- Provide payroll documentation
-
-### Follow-Up Timeline
-- **Expected Update:** Within 24 hours of receiving required documents
-- **Target Response Date:** By December 6, 2025
-
----
-
-## Important Notes
-- Policy approval is contingent on receipt of loss runs and payroll information
-- Harper has committed to a quick turnaround (24-hour update window)
-- Mary appears cooperative/responsive
+## Notes
+- This appears to be a confirmation message acknowledging receipt of information request
+- Standard underwriting process in progress
+- Clear 24-hour commitment made for follow-up

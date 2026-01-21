@@ -6,60 +6,58 @@
 **From:** underwriting@harperinsure.com
 **To:** contact@harborshield.com
 
-# Email Summary: Harbor Shield Security - Underwriting Information Request
+# Email Summary: Harbor Shield Security - Additional Underwriting Information Needed
 
 ## Business Details
+- **Company Name:** Harbor Shield Security
+- **Industry:** Security Services
+- **Coverage Type:** Commercial liability insurance (implied by armed services question)
+- **Status:** Quote/Application in underwriting phase - pricing not yet finalized
 
-**Company Information**
-- Company name: Harbor Shield Security
-- Industry: Security services
-- Coverage type: Commercial insurance (armed services component)
+### Coverage-Specific Details
+- **Key Coverage Question:** Whether armed security services will be provided in the next 12 months
+- **Policy Requirements:** 
+  - Record-retention policy documentation needed
+  - Client contracts requiring specific insurance limits must be provided
+- **Next Steps:** Pricing contingent on receiving clarification
 
-**Coverage & Policy Details**
-- Services scope: Armed security services (confirmation needed on whether these will be provided in next 12 months)
-- Status: Quote/pricing in finalization stage
-- Underwriter: Harper Underwriting Team
-
-**Documents Requested**
-- Completed questionnaire (short form provided)
-- Client contract(s) showing specific insurance limit requirements
-- Clarification on armed services plans for next 12 months
-- Record retention policy documentation (incident report retention timeline)
-
-## Personal Details
-
-**Contact Information**
-- Company contact email: contact@harborshield.com
-- Underwriter contact: underwriting@harperinsure.com
-- Submission method: Secure link upload for documents
+## Contact Details
+- **Company Email:** contact@harborshield.com
+- **Underwriter Contact:** underwriting@harperinsure.com
 
 ## Conversation Context
 
-**Email Purpose**
-- Underwriter requesting clarifying information to finalize pricing on insurance quote
+### Main Topic
+Underwriting clarification phase for Harbor Shield Security insurance quote - underwriter needs additional information to finalize pricing
 
-**Key Questions/Clarifications Needed**
-1. Will armed security services be provided within the next 12 months?
-2. What is the company's incident report retention policy duration?
-3. What specific insurance limits are required by their clients?
+### Key Questions/Information Needed
+1. Will any armed security services be provided within the next 12 months? (Yes/No clarification required)
+2. What is the company's incident report record-retention policy and duration?
+3. Any client contracts that mandate specific insurance limits?
 
-**Action Items - For Harbor Shield Security**
-- Complete and submit the attached questionnaire
-- Upload client contract(s) specifying insurance requirements
-- Provide clarification on armed services plans
-- Provide record retention policy details
-- Use secure link for document submission
+### Documents Requested
+- Completed questionnaire (short form provided)
+- Client contracts with specific insurance limit requirements
+- All documents to be uploaded via secure link provided
 
-**Action Items - For Harper**
-- Follow up if documents not received by deadline
-- Finalize pricing once information is received
-- Review submitted documents for completeness
+### Action Items for Customer (Harbor Shield Security)
+- [ ] Complete and return short questionnaire
+- [ ] Upload questionnaire via secure link
+- [ ] Provide record-retention policy documentation
+- [ ] Upload any client contracts requiring specific insurance limits
+- [ ] Clarify armed services plans for next 12 months
 
-**Timeline**
-- Email sent: December 5, 2025
-- Timeframe for response: Not explicitly stated (follow-up recommended if not received within 5-7 business days)
+### Action Items for Harper
+- [ ] Follow up if questionnaire not received within reasonable timeframe
+- [ ] Review submitted documentation for underwriting approval
+- [ ] Finalize pricing once clarifications received
+- [ ] Prepare final quote/policy terms
 
-**Tone/Sentiment**
-- Professional and routine
-- Standard underwriting process
-- No urgency indicated, but presented as necessary to move forward
+### Timeline
+- **Email Date:** December 5, 2025
+- **Urgency Level:** Standard (not marked urgent, but blocking finalization)
+- **Follow-up Timeline:** Not specified - recommend establishing deadline
+
+### Tone/Sentiment
+- Professional and straightforward
+- Routine underwriting inquiry

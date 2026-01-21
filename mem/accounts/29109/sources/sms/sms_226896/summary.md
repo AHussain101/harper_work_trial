@@ -7,39 +7,36 @@
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- Customer acknowledging receipt of materials and confirming review process
-- Setting expectations for next communication step
+### Main Topic
+- Customer acknowledging receipt of materials/information and confirming next steps
 
-### Key Actions & Timeline
-**Customer Action Items:**
-- Review materials tonight (evening of 2025-12-05)
-- Call Harper tomorrow morning (2025-12-06)
-
-**Harper Action Items:**
-- Prepare for incoming call tomorrow morning
-- Have all relevant materials/documentation ready for discussion
-
-### Tone/Sentiment
-- Positive and cooperative
-- Professional and brief
-- No urgency or concerns indicated
+### Key Details
+- **Action**: Customer will review materials tonight
+- **Follow-up**: Customer will call Harper tomorrow morning
+- **Tone/Sentiment**: Cooperative, positive, professional
 
 ---
 
-## Missing Information
-⚠️ **Note:** This SMS is very brief. The following information is **not provided** and should be clarified during tomorrow's call:
+## Action Items
 
-- Customer name/contact name
-- Company details (if business insurance)
-- What specific materials were sent for review
-- Nature of coverage being discussed
-- Specific call time preference for tomorrow
-- Any particular concerns or questions to address
+### For Harper
+- **Prepare for incoming call** tomorrow morning from this customer
+- **Have relevant files/quotes ready** for discussion
+- **Be available for call** during morning hours
+
+### For Customer
+- ✅ Review materials tonight
+- Call Harper tomorrow morning
 
 ---
 
-## Recommended Follow-Up
-- **Prepare for call:** Have the materials/quotes/documents ready that were sent to this customer
-- **Note preferred time:** Confirm or establish what time "morning" works best for the call
-- **Document call:** Log the conversation and outcomes for file
+## Next Steps
+- **Timeline**: Tomorrow morning (customer will initiate call)
+- **Status**: Awaiting customer callback
+
+---
+
+## Notes
+- **Missing Information**: No specific business or personal details provided in this message
+- **Context Needed**: Review previous SMS/emails to understand what materials were sent for review
+- **Recommendation**: Check your records for the most recent communication to this customer to prepare for their morning call

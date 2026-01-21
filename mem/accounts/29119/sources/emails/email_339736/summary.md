@@ -6,70 +6,64 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** maya.alvarez@sunnydayschildcare.com
 
-# Email Summary: Sunny Days Childcare Insurance Quote Follow-up
+# Email Summary: Sunny Days Childcare Insurance Quote Update
 
 ## Business Details
 
 **Company Information:**
-- Business Name: Sunny Days Childcare
-- Industry: Childcare
-- Business Type: Childcare facility
+- **Business Name:** Sunny Days Childcare
+- **Industry:** Childcare/Early Childhood Education
+- **Status:** Application submitted to carrier network (awaiting initial responses)
 
 **Coverage & Policy Details:**
-- Application has been submitted to carrier network
-- Awaiting initial carrier responses
-- Specific coverage needs mentioned:
-  - Abuse & molestation wording (optional)
+- **Coverage Types Discussed:** 
+  - Standard liability coverage
+  - Abuse & molestation coverage (optional add-on)
   - Sexual misconduct add-ons (optional)
-  - Potential higher limits than standard coverage
-- Certificates of Insurance (COIs) may be required for contracts/leases
+  - Custom limits (higher than standard available)
+- **Documents Requested:**
+  - Loss runs (if previously insured)
+  - Certificate of facility inspections
+  - Staff background check summaries
+  - Certificates of Insurance (COIs) for any contracts or leases
 
-**Documents Requested:**
-- Loss runs (if previously insured)
-- Certificate of facility inspections
-- Staff background check summaries
-- Insurance requirements/COIs for any contracts or leases
-- Specifications on any additional coverage needs
-
-**Submission Status:**
-- Application submitted to carrier network
-- Initial responses expected "shortly"
-- Secure portal created for document uploads
+**Carrier Information:**
+- Multiple carriers in network being contacted for quotes
+- Initial responses expected shortly
 
 ---
 
 ## Personal Details
 
-**Contact Information:**
-- Name: Maya Alvarez
-- Email: maya.alvarez@sunnydayschildcare.com
-- Role: Decision-maker/Primary contact for Sunny Days Childcare
+**Primary Contact:**
+- **Name:** Maya Alvarez
+- **Email:** maya.alvarez@sunnydayschildcare.com
+- **Role:** Decision-maker/Owner (implied)
 
-**Harper Insurance Contact:**
-- Account Manager: Jordan Kim
-- Email: jordan.kim@harperinsure.com
-- Phone: +1 (470) 731-4971
-- Communication: Professional, helpful tone
+**Harper Insurance Representative:**
+- **Name:** Jordan Kim
+- **Title:** Account Manager
+- **Phone:** +1 (470) 731-4971
+- **Email:** jordan.kim@harperinsure.com
+- **Communication Style:** Professional, helpful, responsive
 
 ---
 
 ## Conversation Context
 
-**Main Purpose:**
-- Follow-up on insurance application submission for Sunny Days Childcare
-- Request for supporting documentation to expedite carrier review
+**Main Topic:**
+- Follow-up to recent conversation regarding Sunny Days Childcare insurance quote
+- Application submission and next steps in quote process
 
-**Key Discussion Points:**
-- Recent conversation/meeting occurred to discuss childcare insurance needs
-- Jordan has good understanding of Sunny Days Childcare operations
+**Key Actions Taken:**
+- ✅ Application submitted to carrier network
+- ✅ Initial conversation completed with Maya
 
-**Action Items for Harper:**
-- Monitor for carrier responses to submitted application
-- Assist with obtaining loss run information from prior carriers if needed
-
-**Action Items for Customer (Maya/Sunny Days):**
-- Upload documents to secure portal: https://portal.example-insure.com/uploads/SDC-78
-- Provide loss runs (if previously insured)
-- Provide facility inspection certificates
-- Provide staff background check summaries
-- Provide any insurance requirements from
+**Action Items for Customer (Maya Alvarez):**
+- [ ] Upload documents via secure portal: https://portal.example-insure.com/uploads/SDC-78
+  - Loss runs from previous insurer (if applicable)
+  - Facility inspection certificates
+  - Staff background check summaries
+- [ ] Provide insurance requirements/COIs for any existing contracts or leases
+- [ ] Clarify any additional coverage needs (abuse & molestation, sexual misconduct add-ons, custom limits)
+- [ ] Contact Harper

@@ -4,68 +4,70 @@
 **Duration:** 2m 5s
 **Direction:** Outgoing
 
-# Call Summary for Harper
+# Call Summary - Follow-Up Call with Erin
 
 ## Call Details
-- **Direction:** Outgoing
+- **Direction:** Outgoing (Harper initiated)
+- **Date:** December 5, 2025
+- **Time:** 04:05 AM - 04:07 AM UTC
 - **Duration:** 2 minutes 5 seconds
-- **Date & Time:** December 5, 2025 at 4:05 AM UTC
-- **Status:** Completed
-- **Type:** Follow-up call
+- **Contact Status:** Unavailable (voicemail left)
 
 ---
 
 ## Personal Details
-
-### Contact Information
-- **Name:** Erin
-- **Role/Title:** Not specified
-- **Availability:** Was unavailable at time of call
-- **Preferred Contact Method:** Voicemail and text messaging (used during this call)
+- **Contact Name:** Erin
+- **Contact Method:** Phone (primary), Text (secondary)
+- **Status:** Unavailable during call
+- **Communication Notes:** Reached via voicemail; follow-up text sent
 
 ---
 
-## Business Details
-
-### Coverage Needs
-- Quote previously provided to Erin (awaiting confirmation of receipt)
-- Landlord certificate requirements may be needed
-
-### Policy Details
-- **Effective Date:** Discussed during call
-- **Payment Options:** Discussed during call
+## Call Purpose & Context
+- **Type:** Follow-up call
+- **Main Objective:** Confirm receipt of insurance quote and address customer questions
+- **Tone/Sentiment:** Professional, service-oriented
 
 ---
 
-## Conversation Context
+## Topics Discussed
+- Confirmation that quote was received by customer
+- Payment options (discussed or to be discussed)
+- Effective date of coverage (discussed or to be discussed)
 
-### Main Purpose
-Follow-up call to confirm quote receipt and address customer questions
+---
 
-### Key Topics Discussed
-- Confirmation that Erin received the insurance quote
-- Payment options available
-- Policy effective date
-- Landlord certificate requirements
+## Action Items for Harper
+- Monitor for Erin's response to voicemail and text
+- Be prepared to assist with landlord certificate requirements if needed
+- Answer any outstanding questions about payment and effective date upon contact
 
-### Communication Actions Taken
-- Left voicemail (brief message)
-- Sent follow-up text message with e-sign portal link
+---
 
-### Action Items for Harper
-- Assist Erin with any landlord certificate requirements if needed
-- Await response from Erin regarding quote acceptance and payment method selection
-- Follow up on e-sign portal link sent via text
-
-### Action Items for Customer (Erin)
+## Action Items for Customer (Erin)
 - Review quote materials
-- Select payment option preference
-- Access e-sign portal via text link to complete signing if ready
-- Confirm effective date preference
+- Contact Harper with any questions regarding payment options
+- Confirm preferred effective date
+- Proceed with e-signing if ready (portal link provided)
+- Provide landlord certificate requirements if applicable
 
-### Next Steps / Follow-up Timeline
-- Pending Erin's response to voicemail and text message
-- Timeline: Not specified
+---
 
-### Tone/Sentiment
-Professional and helpful; customer was unavailable so communication was left as voicemail and text
+## Documents & Systems
+- **Quote Status:** Sent to customer
+- **E-Sign Portal:** Link sent via text message
+- **Expected Documents:** Landlord certificates (if applicable to policy type)
+
+---
+
+## Follow-Up Required
+- **Next Contact Method:** Text and/or voicemail left
+- **Timeline:** Pending Erin's response
+- **Outstanding Items:** Payment method confirmation, effective date confirmation, e-signature completion
+
+---
+
+## Notes
+- Brief voicemail left due to unavailability
+- Follow-up text with e-sign portal link sent to encourage digital completion
+- Harper committed to supporting landlord certificate process

@@ -6,68 +6,47 @@
 **From:** harper_employee@harperinsure.com
 **To:** marcus.hale@riverbendcare.com
 
-# Email Summary: Riverbend Care Homes, LLC Insurance Quote Update
+# Email Summary: Riverbend Care Homes, LLC Insurance Quote
 
 ## Business Details
-
-**Company Information:**
-- Company Name: Riverbend Care Homes, LLC
-- Business Type: Group home
-- Industry: Healthcare/Senior Care
-- Status: New business (newly opened group home)
-
-**Coverage & Policy Details:**
-- Coverage Type: Not explicitly specified, but context suggests general liability, property, and possibly workers' compensation for a care facility
-- Quote Status: Application submitted to carrier network
-- Expected Carrier Responses: Within 24–48 business hours
-
-**Documents Requested:**
-- Proof of inspection readiness
-- Staffing plan
-- Facility policies
-- Loss Run Statement (if previously carried similar coverage)
-- State inspection forms (once available)
-- Certificate of Insurance (COI)
-- Contractual coverage requirements (if applicable)
-- Upload Portal: https://portal.example-insure.com/upload
-
----
+- **Company Name:** Riverbend Care Homes, LLC
+- **Business Type:** Group home (residential care facility)
+- **Industry:** Healthcare/Senior Care
+- **Coverage Status:** New application submitted
+- **Documents Requested:**
+  - Proof of inspection readiness
+  - Staffing plan
+  - Facility policies
+  - Loss Run Statement (if previously insured)
+  - State inspection forms (when available)
+  - Insurance requirements/Certificate of Insurance (COI)
+  - Contractual coverage needs documentation
+- **Expected Timeline:** Initial carrier responses in 24–48 business hours
+- **Submission Portal:** https://portal.example-insure.com/upload
 
 ## Personal Details
-
-**Contact Information:**
-- Name: Marcus Hale
-- Title/Role: Key contact for Riverbend Care Homes (presumed owner or manager)
-- Email: marcus.hale@riverbendcare.com
-- Contact Method: Email preferred (received outbound communication)
-
-**Communication Style:**
-- Professional, responsive (participated in recent call with Harper)
-
----
+- **Contact Name:** Marcus Hale
+- **Contact Email:** marcus.hale@riverbendcare.com
+- **Harper Representative:** Harper Employee (name not specified)
+- **Harper Contact Number:** +1 (470) 731-4971
+- **Harper Contact Email:** harper_employee@harperinsure.com
 
 ## Conversation Context
-
-**Main Topic:**
-- Insurance application follow-up for new group home facility
-- Submission of application to carrier network and next steps
-
-**Key Actions Completed:**
-- Harper employee conducted consultation call with Marcus
-- Insurance application submitted to carrier network
-
-**Pending Actions for Marcus (Customer):**
-1. Upload required documents to provided portal
-2. Provide Loss Run Statement if previously insured
-3. Submit state inspection forms once available
-4. Clarify any specific insurance requirements or contractual coverage needs
-5. Identify any additional coverage concerns
-
-**Pending Actions for Harper:**
-1. Monitor carrier responses (expected within 24–48 business hours)
-2. Review uploaded documents
-3. Follow up with Marcus on additional coverage needs clarification
-
-**Timeline:**
-- Initial carrier responses expected: 24–48 business hours from email date (2025-12-04)
-- No specific renewal or
+- **Main Topic:** Follow-up on new group home insurance application
+- **Purpose:** Expedite underwriting process by collecting required documentation
+- **Recent Interaction:** Harper employee and Marcus Hale had a phone conversation to discuss the new facility
+- **Key Information Provided:**
+  - Loss runs document claim history and assist underwriters with pricing and eligibility decisions
+  - Carriers are currently reviewing the application
+- **Action Items for Marcus/Customer:**
+  - Upload available documents to the provided portal
+  - Provide Loss Run Statement (if applicable from prior coverage)
+  - Submit state inspection forms once available
+  - Clarify any COI or contractual coverage requirements
+  - Communicate any additional coverage needs or concerns
+- **Action Items for Harper:**
+  - Monitor for carrier responses (expected within 24–48 business hours)
+  - Review submitted documentation upon receipt
+  - Prepare quotes/recommendations based on carrier feedback
+- **Tone/Sentiment:** Professional, helpful, collaborative; appreciative of Marcus's time
+- **Next Steps:** Await document uploads and carrier responses; follow-up

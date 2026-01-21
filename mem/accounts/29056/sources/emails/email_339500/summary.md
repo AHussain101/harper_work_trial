@@ -10,55 +10,64 @@
 
 ## Business Details
 
+### Client Company
 - **Company Name:** Harbor Watch Security
 - **Industry:** Security Services
-- **Coverage Type:** Commercial Insurance (COI requested)
-- **Documents Received:**
+- **Documents Submitted:**
   - Certificate of Insurance (COI)
   - Loss Run (uploaded)
-- **Current Status:** Under underwriter review
 
-## Personal Details
-
-- **Contact Name:** Anthony Morales
-- **Title/Role:** Appears to be decision-maker/owner at Harbor Watch Security
-- **Email:** anthony@harborwatchsecurity.com
-- **Communication Method:** Email preferred (with option to use portal uploads)
-
-## Conversation Context
-
-### Main Topic
-- Document submission and underwriting process for Harbor Watch Security insurance quote
-
-### Key Actions Completed
-- Anthony submitted COI and loss run documents
-- Jordan Kim (Harper Insurance agent) confirmed receipt of all documents
-
-### Timeline & Next Steps
-1. **Underwriter Review:** 24–48 hours from email date (Dec 5, 2025)
-2. **Preliminary Quote:** To be delivered via email following underwriter response
-3. **Agent Follow-up:** Jordan Kim will contact to review and finalize coverage details
-
-### Action Items for Harper
-- Submit COI and loss run to underwriters
-- Monitor for underwriter response (target: 24–48 hours)
-- Send preliminary quote to Anthony via email
-- Schedule follow-up call/meeting to review and finalize coverage
-
-### Action Items for Customer (Anthony Morales)
-- Await preliminary quote and underwriter requests
-- Provide any additional documents if requested
-- Prepare for agent follow-up discussion
-
-### Additional Resources Provided
-- Upload portal for additional documents: https://portal.example-insure.com/upload
-- Contact method: Reply to email thread or use portal
-
-### Tone/Sentiment
-- Professional, efficient, and reassuring
-- Proactive communication with clear timelines
-- Responsive and organized process
+### Coverage & Underwriting Status
+- **Current Stage:** Underwriter review pending
+- **Expected Timeline:** Initial underwriter response within 24–48 hours
+- **Quote Status:** Preliminary quote to be shared via email (pending underwriter review)
+- **Document Portal:** https://portal.example-insure.com/upload (available for additional submissions)
 
 ---
 
-**Note:** This appears to be a routine underwriting submission with positive momentum. No concerns or red flags mentioned.
+## Personal Details
+
+### Contact Information
+- **Name:** Anthony Morales
+- **Title/Role:** Decision-maker/Primary contact for Harbor Watch Security
+- **Email:** anthony@harborwatchsecurity.com
+- **Preferred Contact Method:** Email and document portal upload
+
+---
+
+## Conversation Context
+
+### Purpose of Email
+- Confirmation of document receipt and next steps in the quote/renewal process
+
+### Documents Exchanged
+- ✅ Certificate of Insurance (received)
+- ✅ Loss Run (received and uploaded)
+
+### Key Actions Completed
+- Harper received and logged all submitted documents
+- Documents forwarded to underwriting team
+
+### Pending Action Items
+
+**For Harper/Harper Insurance:**
+1. Submit documents to underwriters for review
+2. Obtain preliminary quote from underwriters (24–48 hour timeline)
+3. Share preliminary quote with Anthony via email
+4. Follow-up call/meeting to review and finalize coverage details
+5. Notify Anthony immediately if underwriter requests additional information
+
+**For Anthony/Harbor Watch Security:**
+1. Await preliminary quote email
+2. Be available for follow-up conversation to review and finalize coverage
+3. Submit any additional documents needed via email or portal if requested
+
+### Next Steps Timeline
+1. **Immediate:** Underwriter review begins
+2. **Within 24–48 hours:** Initial underwriter response expected
+3. **Following underwriter approval:** Preliminary quote sent to Anthony
+4. **TBD:** Agent follow-up conversation to finalize coverage
+
+### Tone/Sentiment
+- ✅ Professional and positive
+- ✅ Efficient

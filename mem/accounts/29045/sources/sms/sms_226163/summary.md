@@ -5,36 +5,70 @@
 
 # SMS Summary for Harper Insurance
 
-## Personal Details
-- **Contact Name:** Mary
-- **Contact Method:** SMS
-- **Sender:** Jordan (Harper Insurance representative)
-- **Tone/Sentiment:** Professional, appreciative, reassuring
-
 ## Conversation Context
-- **Purpose:** Initial acknowledgment and reassurance to client
-- **Main Message:** Confirmation that Harper Insurance is taking on Mary's business and will handle her insurance needs
-- **Tone Notes:** Warm, professional, customer-focused approach
 
-## Action Items
-### For Harper/Jordan:
-- Follow up with Mary regarding specific business/coverage details (not yet discussed in this message)
-- Determine what specific insurance needs Mary has
-- Request necessary documentation and information
+### Main Topic
+- Initial outreach/acknowledgment to a new or existing client
+- Reassurance message regarding insurance services
 
-### For Mary:
-- Implied expectation to provide further details about insurance needs when contacted
-- Awaiting next steps from Harper Insurance
+### Tone & Sentiment
+- **Tone:** Professional, friendly, and reassuring
+- **Sentiment:** Positive and appreciative
 
-## Important Notes
-- **Status:** This appears to be an initial outreach/confirmation message
-- **Next Steps:** Likely requires follow-up conversation to discuss:
-  - Business details (company type, size, industry)
-  - Coverage needs and policy types
-  - Quotes and premiums
-  - Effective/renewal dates
-  - Any other relevant business information
+### Key Messages
+- Introduction from Jordan at Harper Insurance
+- Expression of gratitude for client's business/trust
+- Commitment statement ("we're on it") indicating action is being taken
 
 ---
 
-**⚠️ Note:** This SMS is primarily a greeting/confirmation message. A comprehensive summary requires follow-up communication to capture the full context of Mary's insurance needs and business details.
+## Personal Details
+
+### Contact Information
+- **Contact Name:** Mary
+- **Agent/Representative Name:** Jordan
+- **Agent's Company:** Harper Insurance
+- **Communication Method:** SMS
+
+### Communication Style Notes
+- Client prefers text/SMS communication (at least for this message)
+- Professional but approachable tone used by agent
+
+---
+
+## Business Details
+
+### Coverage/Policy Information
+- **Status:** Unclear - could be new business or renewal
+- **Details:** Not specified in this message
+
+---
+
+## Action Items
+
+### For Harper/Jordan
+- Follow up on unspecified insurance matter
+- Likely next step: Send policy documents, quotes, or additional information to Mary
+- Maintain positive client relationship
+
+### For Client (Mary)
+- Await next communication from Harper Insurance
+- No immediate action required based on this message
+
+---
+
+## Outstanding Information Needed
+
+⚠️ **Note:** This is an initial/introductory message. The following critical details are **NOT YET PROVIDED** and should be gathered in subsequent communications:
+- Type of business/coverage needed
+- Policy details (type, limits, deductibles, premium)
+- Effective/renewal dates
+- Documents needed
+- Specific coverage requirements
+- Claims history
+
+---
+
+## Follow-Up Timeline
+- **Expected Next Step:** Immediate follow-up with policy details, quotes, or documentation
+- **No specific deadline mentioned**

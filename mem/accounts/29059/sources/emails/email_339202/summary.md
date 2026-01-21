@@ -6,63 +6,68 @@
 **From:** lauren.smith@usli.com
 **To:** submissions@harperinsure.com
 
-# Email Summary: USLI Quote for Lakeside Health Services
+# Email Summary for Harper
 
 ## Business Details
 
-**Company Information**
-- Company Name: Lakeside Health Services
-- Industry: Healthcare/Health Services
-- Business Type: Not specified in email
+### Company Information
+- **Company Name:** Lakeside Health Services
+- **Industry:** Healthcare/Medical Services
+- **Type:** Health services provider
 
-**Coverage & Policy Details**
-- Policy Reference: MCP0-EXAMPLE
-- Carrier: United States Liability Insurance Company (USLI)
-- Premium (rounded): ~$1,150
-- Fees & Taxes (rounded): ~$140
-- **Total Cost (rounded): ~$1,290**
-- Quote Validity: 60 days from quote date (expires approximately February 3, 2026)
+### Coverage & Quotes
+- **Carrier:** United States Liability Insurance Company (USLI)
+- **Carrier Reference Number:** MCP0-EXAMPLE
+- **Premium:** ~$1,150
+- **Fees & Taxes:** ~$140
+- **Total Cost:** ~$1,290
+- **Quote Validity Period:** 60 days
 
-**Additional Business Information**
-- Number of employees: Not mentioned
-- Revenue: Not mentioned
-- Years in operation: Not mentioned
-- Coverage type: Not specified
-- Deductibles/limits: Not mentioned
-- Claims history: Not mentioned
-- Renewal/effective date: Not mentioned
-
-**Documents**
-- Carrier quote attached to email
+### Documents Provided
+- Quote document attached (from USLI)
 
 ---
 
 ## Personal Details
 
-**Contact Information**
-- Name: Lauren Smith
-- Title/Role: USLI representative
-- Email: lauren.smith@usli.com
-- Phone: Not provided
+### Sender Contact Information
+- **Name:** Lauren Smith
+- **Company:** USLI (United States Liability Insurance Company)
+- **Email:** lauren.smith@usli.com
+- **Role:** Appears to be quote/submissions coordinator
+
+### Recipient
+- Harper Insurance (submissions@harperinsure.com)
 
 ---
 
 ## Conversation Context
 
-**Purpose**
-- Delivery of carrier quote for Lakeside Health Services from USLI
+### Purpose
+- Quote submission from USLI carrier for a prospective or renewal client (Lakeside Health Services)
 
-**Key Information Provided**
-- Quote summary with premium breakdown
-- 60-day quote validity period
+### Key Information
+- This is a formal quote delivery from the carrier to the broker
+- Quote is time-sensitive (valid for 60 days only)
+- Professional, straightforward communication
 
-**Pending Items**
-- Harper's decision on whether to present quote to client
-- Potential client acceptance/rejection of quote
+### Action Items for Harper
+- Review attached USLI quote for accuracy and completeness
+- Present quote to Lakeside Health Services client
+- Determine if additional quotes or comparisons are needed
+- Follow up with client before 60-day expiration
 
-**Next Steps/Follow-up**
-- No explicit timeline mentioned
-- Quote valid for 60 days—decision should be made before expiration
+### Pending Items
+- Client decision/acceptance of quote
+- Policy effective date determination
+- Coverage details verification (not included in this email)
 
-**Tone/Sentiment**
-- Professional, straightforward, routine quote submission
+### Tone/Sentiment
+- Professional, neutral, informative
+
+---
+
+## Notes
+- Email contains limited detail; actual quote document will have comprehensive coverage information, limits, deductibles, and policy specifics
+- No claims history or loss runs mentioned
+- No renewal date or effective date specified in this correspondence

@@ -3,33 +3,32 @@
 **Date:** 2025-12-05T14:25:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary
 
 ## Conversation Context
-- **Main Topic:** Confirming a phone call and requesting document submission
-- **Tone/Sentiment:** Professional, straightforward
-- **Message Direction:** Outgoing (Harper to customer)
+- **Main Topic:** Confirming call appointment and requesting document upload
+- **Purpose:** Following up on insurance application process
+- **Tone/Sentiment:** Professional, organized, straightforward
 
-## Action Items - Customer
-- [ ] Upload signed application to portal
-  - **Portal Link:** https://portal.harperinsure.com/esign
-  - **Timing:** "When you have a moment" (not urgent, but needed)
-- [ ] Be available for phone call at 3:05pm on 2025-12-05
+## Action Items for Customer
+- **Upload signed application** to portal at: https://portal.harperinsure.com/esign
+- **Timing:** "when you have a moment" (non-urgent but requested)
 
-## Action Items - Harper
-- [ ] Call customer at 3:05pm on 2025-12-05
+## Action Items for Harper
+- **Phone call scheduled** for 3:05pm on 2025-12-05
+- **Confirmation sent** to customer
 
-## Documents
-- **Signed Application** - pending receipt from customer
-  - Expected via: Customer portal upload
-
-## Follow-up Timeline
-- **Phone Call Scheduled:** 2025-12-05 at 3:05pm (15:05)
-- **Document Deadline:** Open-ended ("when you have a moment")
+## Important Notes
+- Application has been signed by customer (in process or completed)
+- Customer has access to Harper's portal for document submission
+- Call is confirmed and customer acknowledged
+- This appears to be a follow-up message in an ongoing application/renewal process
 
 ---
 
-## Notes
-- This appears to be a confirmation message for a previously scheduled call
-- The casual tone ("when you have a moment") suggests this is not a high-priority/urgent matter
-- The request for signed application indicates an active application process underway
+**⚠️ Missing Information for Complete Context:**
+- Customer name/contact details
+- Business/policy details (coverage type, premium amounts, etc.)
+- What the 3:05pm call will cover
+- Whether this is a new policy, renewal, or modification
+- Current status of the application process

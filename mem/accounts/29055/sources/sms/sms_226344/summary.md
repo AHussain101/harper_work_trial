@@ -5,43 +5,55 @@
 
 # SMS Summary for Harper
 
-## Message Type
-- **Direction:** Outgoing (from Harper to client)
-- **Timestamp:** December 4, 2025 at 7:45 PM
-- **Purpose:** Establishing primary communication channel
-
-## Communication Details
-
-### Contact Method
-- **Channel:** SMS/Text messaging
-- **Key Point:** This number is the established direct line for all future communication
-- **Scope:** Updates, questions, and quotes will come through this contact method
-
-### Communication Structure
-- Client has indicated their team will use this single number for continuity
-- Emphasizes centralized communication approach
-- Creates one clear point of contact between Harper and client's team
-
-## Action Items for Harper
-
-### Going Forward
-- **Save this number** in client contact records as primary communication line
-- Use this number for:
-  - Sending updates
-  - Responding to questions
-  - Delivering quotes
-  - All future correspondence related to this account
-
-### Next Steps
-- Confirm receipt of this message (if not already done)
-- Establish clear expectation that this is the primary channel
-- Be prepared to send quotes, updates, and information via SMS to this number
-
-## Tone & Context
-- **Sentiment:** Professional, organized, directive
-- **Client Communication Style:** Prefers streamlined, direct communication
-- **Organization Level:** Client values clarity and centralized contact procedures
+## Message Overview
+- **Direction:** Outgoing (Harper → Customer)
+- **Date & Time:** December 4, 2025 at 7:45 PM
+- **Tone/Sentiment:** Professional, helpful, reassuring
 
 ---
 
-**Note:** No specific business details, personal information beyond contact method, or policy details were shared in this message.
+## Business Details
+*No specific business details mentioned in this message*
+
+---
+
+## Personal Details
+- **Contact Method:** Phone number being established as primary communication channel
+- **Team Structure:** Customer indicates they have a team (mentioned "my team")
+- **Communication Preference:** Direct communication via this phone number preferred
+
+---
+
+## Conversation Context
+
+### Main Topic/Purpose
+- Establishing a single point of contact and communication channel for ongoing insurance matters
+
+### Key Message Content
+- Harper is providing the customer with a dedicated phone number
+- This number will be used for:
+  - All updates
+  - Questions/inquiries
+  - Quote delivery
+- Purpose: Create clarity and consolidation of communications (single clear line of contact)
+
+### Communication Preferences Identified
+- Customer prefers centralized, direct communication
+- All relevant information should flow through this one channel
+- Indicates preference for streamlined communication process
+
+### Implied Action Items for Harper
+- Ensure all future correspondence goes through this phone number
+- Provide all updates, quotes, and answers via this channel
+- Maintain this as the primary contact line going forward
+
+### Implied Action Items for Customer
+- Save this phone number in their contacts
+- Use this number for all future communications
+- Route all team inquiries through this line
+
+---
+
+## Follow-Up Notes
+- **Status:** Establishing ongoing relationship communication protocol
+- **Next Steps:** Continue communication through this designated channel for all future insurance matters

@@ -4,62 +4,63 @@
 **Duration:** 10m 22s
 **Direction:** Incoming
 
-# Call Summary: Dr. Marcus Reed - Workers' Compensation Policy
+# Insurance Call Summary – Dr. Marcus Reed
 
 ## Business Details
 
 **Company Information:**
-- Business Type: Dental practice (solo practitioner)
-- Principal: Dr. Marcus Reed, DDS
-- Location: California
-- Employees: Solo operator (no employees/subcontractors)
-- Years in Operation: Not specified
-- EIN: 99-XX-9536
+- **Business Type:** Dental practice (sole proprietor)
+- **Owner/Operator:** Dr. Marcus Reed
+- **Location:** California
+- **Employees:** Solo operator (no subcontractors)
+- **Years in Operation:** Not specified
 
 **Coverage Needs:**
-- Policy Type: Workers' compensation (minimal coverage)
-- Special Requirements: Officer exclusion/"ghost" policy to satisfy contracting requirement
-- Claims History: None reported
-- First Policy: Yes, this is Dr. Reed's first workers' comp policy
-- Start Date Needed: As soon as possible
+- **Policy Type:** Workers' Compensation
+- **Coverage Level:** Minimal coverage requested
+- **Special Requirements:** Officer exclusion / "ghost" policy (to satisfy contracting requirement)
+- **First Policy:** Yes – this is Dr. Reed's first workers' compensation policy
+- **Claims History:** None reported
+- **Start Date:** ASAP / as soon as possible
 
 **Policy Details:**
-- Premium amounts: Not discussed
-- Deductibles/Limits: Not specified (minimal limits requested)
-- Renewal date: Not discussed
-- Effective date: ASAP (within 24 hours if possible)
+- **EIN:** 99-XX-9536
+- **Subcontractors:** None
+- **Premium/Limits:** Not discussed in call
+- **Deductibles:** Not discussed in call
+
+**Questions/Concerns Raised:**
+- Month-to-month cancellation options
+- Early cancellation fees (flagged for service team clarification)
 
 ---
 
 ## Personal Details
 
 **Contact Information:**
-- Name: Dr. Marcus Reed
-- Title/Role: Dentist/business owner
-- Phone: On file with referring broker (Tivoli)
-- Email: Preferred contact method
-- Availability: Typically available midday Pacific Time or after 6 PM Pacific
+- **Name:** Dr. Marcus Reed
+- **Title/Role:** Dentist / Business Owner
+- **Phone:** On file (specific number not re-confirmed in call)
+- **Email:** Preferred contact method
+- **Location/Timezone:** California (Pacific Time)
 
 **Communication Preferences:**
-- Prefers email communication
-- Available for phone calls during specific windows
+- **Preferred Contact Method:** Email
+- **Availability:** Midday Pacific Time or after 6 PM Pacific Time
+- **Personality Notes:** Professional, direct, minimal conversation – focused on specific need
 
 ---
 
 ## Conversation Context
 
-**Call Purpose:**
-- Inbound referral from Jamalia at Tivoli Insurance
-- Dr. Reed needs minimal workers' compensation coverage (officer-excluded policy) to meet a contracting requirement
+**Call Overview:**
+- **Direction:** Incoming (transferred from Tivoli insurance referral partner)
+- **Date/Time:** December 4, 2025 at 6:13 PM UTC
+- **Duration:** 10 minutes 22 seconds
+- **Agent:** Chris (Harper Insurance)
+- **Purpose:** Initial inquiry for workers' compensation policy quote/placement
 
-**Key Questions Asked & Answered:**
-- ✅ Confirmed applicant name: Dr. Marcus Reed
-- ✅ Confirmed EIN: 99-XX-9536
-- ✅ Confirmed this is first workers' comp policy
-- ✅ Confirmed no subcontractors
-- ✅ Confirmed no claims history
-- ✅ Confirmed need for immediate/ASAP start date
-- ❓ Clarification needed: Month-to-month cancellation options and early-cancellation fees
-
-**Decisions Made:**
-- Proceed with underwriting process
+**Main Topics Discussed:**
+1. Confirmation of business type (dental practice)
+2. Policy requirements (minimal coverage, officer exclusion)
+3. Claims

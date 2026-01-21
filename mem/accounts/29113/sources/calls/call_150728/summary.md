@@ -4,74 +4,65 @@
 **Duration:** 6m 8s
 **Direction:** Incoming
 
-# Call Summary: Riverbend Hauling Co. - Commercial Auto Insurance Intake
+# Call Summary: Riverbend Hauling Co. - New Commercial Auto Account
 
 ## Business Details
 
-**Company Information**
+**Company Information:**
 - Company Name: Riverbend Hauling Co.
-- Business Type: Local hauling operation
-- Industry: Sand/gravel hauling
-- Service Area: Approximately 50-mile radius (local operations)
-- Number of Employees: 1 (single-vehicle operator)
-- Cargo Type: Sand and gravel (no hazardous materials)
+- Business Type: Local hauling service
+- Industry: Transportation/Hauling
+- Service Area: ~50-mile radius (local operations)
+- Cargo Type: Sand and gravel only (no hazardous materials)
+- Number of Vehicles: 1 (single-vehicle operator)
+- Fleet Size: One vehicle operation
+- Prior Coverage: No prior commercial auto policy on file
 
-**Coverage & Policy Details**
-- Policy Type: Commercial auto insurance
-- Coverage Needs: State-minimum commercial auto coverage
-- Current Status: No prior commercial auto policy in place
-- Claims History: No recent accidents reported
+**Coverage & Policy Details:**
+- Policy Type Needed: Commercial auto
+- Coverage Level: State-minimum quote being prepared
+- Vehicle Details:
+  - Make/Model: 2018 Western Star
+  - Estimated Vehicle Value: ~$120,000
+  - Purchase Status: Not yet finalized (owner closing next week)
+  - VIN: To be verified upon purchase completion
+  - Ownership: To be verified upon purchase completion
 
-**Vehicle Information**
-- Vehicle Details: 2018 Western Star
-- Estimated Value: ~$120,000
-- Ownership Status: Purchase to be finalized next week (not yet owned)
-- VIN: To be verified upon purchase completion
-
-**Renewal/Effective Dates**
-- Policy Start Date: To be determined (pending vehicle purchase finalization)
-
-**Documents Required**
-- Vehicle title (to be uploaded via secure portal)
-- Motor Vehicle Record (MVR) (to be uploaded via secure portal)
-
----
+**Claims & Loss History:**
+- Recent Accidents: None reported
 
 ## Personal Details
 
-**Primary Contact**
+**Primary Contact:**
 - Name: Khalil Moreno
-- Title/Role: Owner
-- Business Structure: Single-vehicle operator (sole proprietor)
+- Title/Role: Owner/Operator
+- Business Structure: Single-vehicle operator (sole proprietor implied)
+- Contact Method: Email and text preferred for follow-up
 
-**Contact Method**
-- Preferred Communication: Email and text
-
-**Personal Notes**
-- First-time commercial auto policy applicant
-- Clean driving/claims history
-- Direct and straightforward communication style
-
----
+**Contact Information:**
+- Phone: Not explicitly provided in notes
+- Email: Not explicitly provided in notes
+- Preferred Contact Method: Email/text
 
 ## Conversation Context
 
-**Call Purpose**
-- New account intake for commercial auto insurance
-- Initial consultation and quote request
+**Call Information:**
+- Direction: Incoming call
+- Duration: 6 minutes 8 seconds
+- Date/Time Started: December 4, 2025 at 23:44 UTC
+- Date/Time Completed: December 4, 2025 at 23:50 UTC
+- Agent: Mia (Harper agent)
+- Call Type: New account intake
 
-**Key Information Exchanged**
-- Business operations and service area confirmed
-- Vehicle details documented
-- Coverage needs identified as state-minimum commercial auto
-- Client provided preliminary business information
+**Main Purpose:**
+- Initial intake call for new commercial auto insurance account
+- Gathering business and vehicle information for quote preparation
 
-**Decisions Made**
-- Proceed with state-minimum commercial auto quote
+**Key Information Gathered:**
+- Business operations scope and cargo type confirmed
+- Vehicle specifications documented
+- No hazardous cargo (simplifies underwriting)
+- No accidents or claims history
 
-**Action Items for Harper/Mia**
-- [ ] Generate state-minimum commercial auto insurance quote
-- [ ] Send quote via email
-- [ ] Follow up via email and text
-- [ ] Verify VIN once vehicle is purchased
-- [
+**Decisions Made:**
+- Will

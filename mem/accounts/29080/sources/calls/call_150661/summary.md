@@ -4,52 +4,69 @@
 **Duration:** 1m 35s
 **Direction:** Incoming
 
-# Call Summary - Ethan Property Insurance Quote Review
+# Call Summary for Harper Insurance Broker
 
 ## Contact Information
 - **Name:** Ethan
-- **Company/Role:** Not specified
-- **Contact Method:** Phone (incoming call)
-- **Preferred Contact:** Email (revised quote to be sent via email)
+- **Role/Title:** Not specified
+- **Contact Method:** Incoming phone call
+- **Phone:** Not provided
+- **Email:** Not provided
+- **Preferred Contact:** Email (quote will be sent via email)
+
+---
 
 ## Business Details
-- **Business Type:** Not explicitly stated (appears to be commercial property-based business)
-- **Coverage Type:** Commercial Property Insurance
-- **Property Details:**
-  - Contents limit: ~$100,000 (estimated)
-  - Building improvements: Coverage requested/to be included
-- **Documents Needed:**
-  - Signed application
-  - Prior policy declarations
-- **Policy Status:** Quote/Application stage (not yet bound)
+- **Company Name:** Not mentioned
+- **Industry/Type:** Property-based business (building with contents)
+- **Number of Employees:** Not mentioned
+- **Revenue:** Not mentioned
+- **Years in Operation:** Not mentioned
+
+### Coverage Details
+- **Policy Type:** Commercial Property Insurance
+- **Contents Limit:** ~$100,000 (estimated by customer)
+- **Building Improvements:** Requested coverage; increased limits offered
+- **Deductibles:** Discussed but specific amounts not finalized in call
+- **Premium Amount:** Not mentioned
+- **Effective Date:** Not mentioned
+- **Renewal Date:** Not mentioned
+
+### Claims History
+- Not discussed
+
+---
 
 ## Conversation Context
-- **Call Purpose:** Follow-up call to review preliminary quote and clarify coverage limits and deductibles
-- **Direction:** Incoming call
-- **Duration:** 1 minute 35 seconds
-- **Date/Time:** December 5, 2025 at 2:50 PM UTC
-- **Tone/Sentiment:** Positive and cooperative
 
-## Key Discussion Points
-- Ethan confirmed contents coverage estimate of approximately $100,000
-- Ethan requested confirmation that building improvements are covered
-- Brandon Hayes (Harper Agent) outlined available limit options for both contents and building improvements
-- Multiple limit options were discussed (specific amounts not detailed in transcript)
+### Purpose of Call
+- Follow-up call to review preliminary quote and clarify property limits and deductibles
 
-## Action Items - For Harper
-- [ ] Prepare revised quote email with property limit options for contents (~$100k) and building improvements
-- [ ] Send revised quote to Ethan this afternoon
-- [ ] Receive signed application from Ethan
-- [ ] Receive prior policy declarations from Ethan
-- [ ] Issue final binder once all documents are received and confirmed
+### Key Discussion Points
+- Customer estimates contents value at approximately $100,000
+- Customer wants assurance that building improvements are covered
+- Harper agent confirmed ability to quote contents limit at ~$100k
+- Harper agent offered increased limit options for building improvements
+- Multiple deductible/limit options available (to be presented in revised quote)
 
-## Action Items - For Ethan (Customer)
+### Decisions Made
+- Contents limit will be quoted at approximately $100,000
+- Building improvements coverage will be included with increased limit options
+- Revised quote will be provided this afternoon via email
+
+### Pending Decisions
+- Final limits and deductibles (customer to review revised quote)
+- Specific deductible amount selection
+
+---
+
+## Action Items for Harper (Brandon Hayes)
+- [ ] Add increased building improvement limit options to submission
+- [ ] Send revised quote email to Ethan this afternoon
+- [ ] Issue final binder once signed application and prior policy declarations are received
+- [ ] Retain contact information for Ethan for follow-up
+
+### Action Items for Customer (Ethan)
 - [ ] Upload signed application
 - [ ] Upload prior policy declarations
-- [ ] Confirm final limits based on revised quote options
-- [ ] Return signed documents to Harper to finalize binding
-
-## Follow-Up Timeline
-- **Immediate:** Brandon to send revised quote via email this afternoon
-- **Next Step:** Pending receipt of signed application and prior policy declarations
-- **Final Step:** Binding will be issued after document receipt and limit confirmation
+- [ ] Review revise

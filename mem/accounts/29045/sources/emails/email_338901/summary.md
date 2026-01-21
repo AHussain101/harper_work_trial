@@ -15,55 +15,56 @@
 - Industry: Agriculture/Orchards
 - Coverage type: Workers' Compensation
 
-**Coverage Details**
-- Policy type: Workers' Compensation
+**Policy Details**
 - Coverage limit: $1M
 - Estimated annual premium: ~$6,100 (final amount pending verification)
-- Status: Preliminary indication — non-final pending payroll verification and loss runs
+- Status: **Preliminary indication — non-final**
+- Carrier: Acadia Mutual
 
-**Carrier Information**
-- Carrier name: Acadia Mutual
-
-**Documents/Requirements**
-- Signed application (required)
-- Last 3 years of loss runs if available (required)
+**Subjectivities/Requirements**
+- Signed application required
+- Last 3 years of loss runs (if available) required
 - Payroll audit may be required
-- Payroll verification needed to finalize quote
 
 ## Personal Details
 
 **Contact Information**
-- Recipient: Mary (Harper Insurance employee/internal contact)
-- Email from: Acadia Mutual (automated submission system)
+- Primary contact name: Mary
+- Email: submissions@harperinsure.com
+- Source: Internal Harper Insurance communication
+
+**Communication**
+- Email received from: Harper Insurance employee (automatic/system notification)
+- Professional tone, straightforward
 
 ## Conversation Context
 
-**Purpose of Email**
-- Delivery of preliminary workers' compensation insurance quote for Green Valley Orchards
-- Non-binding indication requiring further documentation
+**Main Topic**
+- Preliminary workers' compensation quote received for Green Valley Orchards from Acadia Mutual
+
+**Current Status**
+- Quote is non-binding pending:
+  - Payroll verification
+  - Loss run review
 
 **Key Information**
-- This is a preliminary quote only — final premium may vary
-- Payroll verification is a condition for finalizing the indication
-- Loss runs (3 years) need to be obtained/verified
+- This is a CA (California) carrier option
+- Premium estimate: $6.1k annually
 
-**Pending Action Items for Harper**
-- Review the indication details
-- Confirm availability for discussion with client about options
-- Obtain signed application from client
-- Gather last 3 years of loss runs (if available)
-- Arrange payroll audit if required by carrier
+**Action Items for Harper**
+- [ ] Review the indication details
+- [ ] Contact Mary to confirm availability for options discussion
+- [ ] Schedule meeting to discuss proposal
 
-**Pending Action Items for Customer (Green Valley Orchards)**
-- Provide signed application
-- Submit last 3 years of loss runs (if available)
-- Participate in payroll audit if required
-
-**Tone/Sentiment**
-- Professional, straightforward
-- Non-urgent but requires follow-up action
-- Standard preliminary underwriting process
+**Action Items for Customer (Green Valley Orchards)**
+- [ ] Prepare signed application
+- [ ] Gather last 3 years of loss runs (if available)
+- [ ] Be prepared for potential payroll audit
+- [ ] Confirm availability to discuss options
 
 **Next Steps**
-- Harper to confirm good time to discuss options with client
-- Obtain required documentation before final approval
+- Pending Harper's confirmation of good time to discuss with customer
+- Waiting for payroll verification and loss run submission
+
+**Tone/Sentiment**
+- Professional, informational, routine preliminary quote notification

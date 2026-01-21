@@ -6,72 +6,50 @@
 **From:** avery.cole@harperinsure.com
 **To:** contact@harborshield.com
 
-# Email Summary for Harper Insurance
+# Email Summary: Harbor Shield Security General Liability Quote
 
 ## Business Details
-
-**Company Information:**
-- Company Name: Harbor Shield Security
-- Industry: Security (inferred from company name)
-- Business Type: Not explicitly stated
-
-**Coverage & Policy Details:**
-- Policy Type: General Liability
-- Estimated Premium: ~$1,200
-- Broker Service Fee: ~$75
-- Total Cost (Estimated): ~$1,300
-- Coverage Limits: Not specified in quote
-- Deductibles: Not specified in quote
-- Policy Effective Date: Upon binder confirmation from carrier
-- Renewal/Effective Status: New quote provided
-
-**Quote & Payment Information:**
-- Carrier: Not named in email
-- Quote Reference: HS-001 (inferred from payment links)
-- Payment Options Offered:
-  - Full payment option available
-  - Installment plan option available
-- Payment Portal: Secure online portal (https://payments.example-insure.com)
+- **Company Name:** Harbor Shield Security
+- **Coverage Type:** General Liability
+- **Premium Amount:** ~$1,200
+- **Broker Service Fee:** ~$75
+- **Total Cost (Approximate):** ~$1,300
+- **Payment Options:** Full payment or installment plan available
+- **Coverage Status:** Effective only after binder confirmation from carrier
 
 ## Personal Details
-
-**Contact Information:**
-- Contact Name: Steven (first name only)
-- Email: contact@harborshield.com
-- Preferred Contact Methods: Email reply, phone, or text to office
-
-**Communication Style:**
-- No personality notes provided; this is a formal quote delivery
+- **Contact Name:** Steven
+- **Company Email:** contact@harborshield.com
+- **Harper Producer:** Avery Cole
+- **Producer Email:** avery.cole@harperinsure.com
+- **Preferred Contact Methods:** Email reply, phone, or text to Harper office
 
 ## Conversation Context
 
-**Purpose:**
+### Main Topic
 - Delivery of personalized general liability insurance quote for Harbor Shield Security
 
-**Key Information Provided:**
-- Complete premium breakdown
-- Two payment flexibility options
-- Secure payment links (both full and installment)
-- Coverage activation contingent on carrier binder confirmation
+### Key Information Provided
+- Two payment options presented with secure portal links:
+  - Full payment: https://payments.example-insure.com/quote-hs-001
+  - Installment plan: https://payments.example-insure.com/plan-hs-001
+- All payments processed through secure portal
+- Coverage contingent on carrier binder confirmation
 
-**Action Items for Customer (Steven):**
-- Review quote details
-- Select payment method (full or installment)
-- Process payment through provided secure links
-- Await binder confirmation from carrier for coverage activation
+### Action Items for Customer (Steven)
+- [ ] Review quote details
+- [ ] Select payment method (full or installment)
+- [ ] Complete payment via provided links
+- [ ] Await binder confirmation from carrier for coverage activation
 
-**Action Items for Harper (Avery Cole):**
-- Follow up if Steven has questions
-- Prepare to adjust coverage limits if requested
-- Coordinate with carrier for binder confirmation once payment received
-- Await customer response/payment
+### Action Items for Harper (Avery Cole)
+- [ ] Monitor for customer payment/selection
+- [ ] Follow up if no response
+- [ ] Obtain carrier binder confirmation upon payment
+- [ ] Be available for quote adjustments or questions
 
-**Pending Decisions:**
-- Payment method selection (full vs. installment)
-- Coverage limit adjustments (if needed)
-- Final acceptance of quote
+### Tone/Sentiment
+Professional, helpful, clear. Straightforward transaction communication.
 
-**Follow-up Timeline:**
-- No specific deadline mentioned; awaiting customer response
-
-**
+### Follow-Up Timeline
+Open-ended; implies timely action expected for coverage activation.

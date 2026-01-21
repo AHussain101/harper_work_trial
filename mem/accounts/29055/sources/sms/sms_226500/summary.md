@@ -6,37 +6,29 @@
 # SMS Summary for Harper
 
 ## Conversation Context
+- **Main Topic:** Acknowledgment/Confirmation
+- **Message Type:** Brief confirmation response
+- **Tone/Sentiment:** Neutral, professional
+- **Content:** Customer is acknowledging receipt of previous information or instruction
 
-### Main Topic
-- Acknowledgment message with minimal content
-
-### Message Content
-- Customer sent a brief confirmation: "Got it — thanks."
-- **Tone/Sentiment:** Neutral, positive (polite acknowledgment)
-
-### Key Details
-- This appears to be a **reply to a previous message** sent by Harper
-- Customer is confirming receipt/understanding of information
-- No substantive new information provided in this message
-
----
+## Key Information
+- **What was confirmed:** The message itself does not specify what is being acknowledged
+- **Pending clarification:** Context from Harper's previous message to this customer is needed to understand what "got it" refers to
 
 ## Action Items
+### For Harper:
+- **Urgent:** Review previous message(s) sent to this customer to understand what instruction/information prompted this confirmation
+- Determine if this completes a discussion or if follow-up is needed
+- Note: This response is affirmative but vague without preceding context
 
-### For Harper
-- **Review context:** Refer back to the previous outbound message Harper sent to understand what the customer is acknowledging
-- **Determine next steps:** Based on what was communicated before this reply, proceed with appropriate follow-up actions
-- **Monitor response:** Customer's brief reply suggests they received and understood the information
+### For Customer:
+- No action items indicated in this message
 
-### For Customer
-- None apparent at this time
+## Required Context for Complete Understanding
+⚠️ **NOTE:** This message is very brief and requires the prior message thread to fully understand:
+- What specific details were being confirmed?
+- What documents, quotes, or information were shared?
+- What next steps were outlined?
+- What business/personal details were being discussed?
 
----
-
-## Important Notes
-⚠️ **This message lacks context** — To provide complete guidance, Harper should reference:
-- The preceding message Harper sent to this customer
-- Previous conversation history with this contact
-- Any pending action items or decisions from earlier in the thread
-
-**Recommendation:** Review the full SMS thread with this customer to understand the complete context.
+**Recommendation:** Review the full conversation thread with this customer to ensure proper follow-up and documentation.

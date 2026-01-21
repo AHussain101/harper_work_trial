@@ -5,46 +5,57 @@
 
 # SMS Summary for Harper Insurance
 
-## Business Details
-- **Coverage Type:** Quote options pending (specific coverage needs not yet detailed in this message)
-- **Status:** Awaiting receipt and review of quote options
-
-## Personal Details
-- **Contact Name:** Avery (not specified if this is the customer or Harper agent sending)
-- **Preferred Contact Method:** Phone call (agent will call to finalize) and SMS/text messaging (customer can reply with questions)
-
-## Conversation Context
-
-### Main Topic
-- Notification about incoming quote options and next steps in the quoting/coverage finalization process
-
-### Key Points
-- Quote options will be reviewed
-- An agent will initiate contact via phone call to finalize coverage
-- Customer has alternative communication option available via SMS for questions
-
-### Action Items
-
-**For Harper/Agent:**
-- Receive and review quote options (timing not specified)
-- Schedule and complete phone call with customer to finalize coverage
-
-**For Customer:**
-- Await phone call from Harper agent
-- Reply via SMS if any questions arise during the waiting period
-
-### Next Steps
-- Phone call from agent to finalize coverage (timeline: not specified - pending receipt of quotes)
-
-### Tone/Sentiment
-- **Tone:** Professional, helpful, reassuring
-- **Sentiment:** Neutral/positive - customer is being provided clear expectations and multiple communication options
+## Message Overview
+- **Direction:** Outgoing (from Harper to customer)
+- **Date & Time:** December 4, 2025 at 8:24 PM
+- **Sender:** Avery at Harper Insurance
 
 ---
 
-## ⚠️ Missing Information
+## Conversation Context
+
+### Main Topic/Purpose
+- Notification to customer regarding upcoming quote review and coverage finalization process
+- Setting expectations for next steps in the insurance quoting process
+
+### Key Information Provided
+- Customer will receive quote options for review
+- Harper Insurance agent will call to finalize coverage after quotes are reviewed
+- Customer is invited to ask questions via SMS reply
+
+### Decisions & Status
+- Pending: Quote options to be received by customer
+- Pending: Agent call to finalize coverage details
+
+---
+
+## Action Items
+
+### For Customer
+- Review quote options when received
+- Prepare questions about coverage options
+- Be available to receive call from Harper Insurance agent for coverage finalization
+- Can reply via SMS with any questions in the interim
+
+### For Harper/Avery
+- Send quote options to customer
+- Schedule and complete agent call with customer to finalize coverage
+- Be prepared to address any questions submitted via SMS
+
+---
+
+## Notes
+- **Tone/Sentiment:** Professional, helpful, customer-service oriented
+- **Communication Channel:** SMS (customer has option to reply with questions)
+- **Contact Method Established:** SMS is acceptable for questions/communication
+- **No specific names or business details mentioned in this message**
+
+---
+
+## Missing Information for Follow-up
+*The following details are not included in this SMS and may need to be confirmed in previous messages or follow-up:*
 - Customer name/company name
-- Specific coverage types or business details
-- Quote amounts or carriers
-- Timeline for quote receipt and agent callback
-- Specific questions or concerns from customer
+- Type of business/industry
+- Specific coverage types being quoted
+- Estimated timeline for quote delivery
+- Expected call timing from agent

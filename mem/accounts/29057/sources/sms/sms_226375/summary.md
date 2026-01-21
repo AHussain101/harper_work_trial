@@ -3,46 +3,43 @@
 **Date:** 2025-12-04T19:56:08.983000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# SMS Summary
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- Notification to client about next steps in the quote review process
-- Setting expectations for follow-up communication regarding coverage finalization
+### Main Topic
+- Follow-up communication regarding quote review process and next steps in coverage finalization
 
-### Key Message
-An agent will contact the client via phone call once quote options have been received and reviewed to finalize coverage details.
+### Message Purpose
+- Informing recipient that an agent will contact them via phone once quote options are received and reviewed
+- Providing alternative contact methods for any questions before agent call
 
-### Communication Method Offered
-- Reply via SMS with questions
-- Call Harper/agent directly with questions
+### Key Information Communicated
+- **Process Step**: Quote options will be received and reviewed before proceeding
+- **Next Action**: Agent will call to finalize coverage
+- **Timing**: Call will occur after quotes are reviewed (timeline not specified)
 
-### Action Items for Customer
-- Await phone call from agent after quotes are reviewed
-- Contact Harper with any questions before the call (via SMS or phone)
-- Be prepared to finalize coverage decisions when agent calls
+### Available Contact Methods
+- Reply via SMS for questions
+- Call Harper directly for questions
 
-### Action Items for Harper
-- Receive and review quote options (when they arrive)
-- Schedule and make phone call to client to finalize coverage
-- Be available to answer questions via SMS or phone before the call
+## Action Items
 
-## Important Observations
+### For Harper (Insurance Broker)
+- Monitor for incoming quotes to review
+- Prepare for outbound call to finalize coverage with client
+- Be ready to address any questions received via SMS before making finalization call
 
-### Tone/Sentiment
-- Professional, helpful, and clear
-- Proactive in setting expectations and offering support channels
+### For the Customer
+- Review received SMS and prepare any questions
+- Expect incoming call from agent to finalize coverage
+- Option to reply via SMS or call with any questions before agent contact
 
-### Next Steps Timeline
-- Next steps pending receipt of quote options
-- No specific deadline mentioned
-- Phone call timing dependent on when quotes are received and reviewed
-
-### Status
-- **Pending**: Receipt and review of quote options
-- **Pending**: Client finalization of coverage details
+## Tone/Sentiment
+- Professional, informative
+- Clear and organized communication
+- Friendly and accessible (multiple contact options offered)
 
 ---
 
-**Note**: No specific business details, client names, premium amounts, policy types, or other identifying information are provided in this message.
+**Note**: This SMS contains minimal personal or business-specific details. No company name, premium amounts, policy types, coverage limits, or client contact information is provided in this message. This appears to be a standard procedural update in an ongoing quote/enrollment process.

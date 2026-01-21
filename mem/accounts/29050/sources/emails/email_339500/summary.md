@@ -10,52 +10,54 @@
 
 ## Business Details
 
-### Company Information
-- **Business Name:** Lakefront Roadside Assistance
-- **Industry/Type:** Roadside Assistance
-- **Business Status:** Prospective client (quote stage)
+**Company Information:**
+- Business name: Lakefront Roadside Assistance
+- Industry: Roadside Assistance Services
+- Years in operation: Not specified
+- Number of employees: Not specified
+- Annual revenue: Not specified
 
-### Coverage & Policy Details
-- **Coverage Type:** General Liability
-- **Annual Premium (estimated):** ~$1,200
-- **Taxes & Fees (estimated):** ~$90
-- **Total Estimated Annual Cost:** ~$1,300
-- **Quote Reference Number:** QUOTE-LF-2025-001
-- **Quote Valid Through:** February 1, 2026
+**Coverage & Policy Details:**
+- Coverage type: General Liability
+- Annual premium (estimated): $1,200
+- Taxes & fees (approx): $90
+- **Total estimated annual cost: $1,290**
+- Deductibles: Not specified
+- Coverage limits: Not specified
+- Quote reference number: QUOTE-LF-2025-001
+- Quote valid through: February 1, 2026
 
-### Subjectivities & Requirements
-- Proof of personal auto insurance required for all vehicles used in business
-- Completed ACORD application required within 21 days of bind
+**Subjectivities (Conditions for Binding):**
+- Proof of personal auto insurance for all vehicles used in business operations
+- Completed ACORD application
+- Deadline: Within 21 days of bind date
 
 ## Carrier Information
-- **Insurance Carrier:** Blue River Insurance (sample)
-- **Quote Source:** quotes@blueriverins.com
-- **Underwriting Team:** Blue River Insurance
+
+- **Carrier:** Blue River Insurance
+- **Quote source:** quotes@blueriverins.com
+- **Underwriting team contact:** Blue River Insurance Underwriting Team
 
 ## Conversation Context
 
-### Main Purpose
-Preliminary quote submission for General Liability coverage for Lakefront Roadside Assistance
+**Purpose:**
+- Preliminary General Liability quote provided for roadside assistance company
 
-### Key Details
-- Quote is preliminary/estimated (amounts are rounded/synthetic)
-- Two conditions must be met before binding
-- Strict 21-day deadline for documentation submission
+**Status:**
+- Quote is preliminary and conditional
+- Awaiting required documentation to proceed to binding
 
-### Action Items for Harper
-- [ ] Present quote to Lakefront Roadside Assistance client
-- [ ] Request proof of personal auto insurance for all business vehicles
+**Action Items for Harper:**
+- [ ] Review quote with client (Lakefront Roadside Assistance)
+- [ ] Request proof of personal auto insurance from client for all vehicles used in operations
 - [ ] Obtain completed ACORD application from client
-- [ ] Ensure documentation is submitted within 21 days of bind decision
-- [ ] Follow up before quote expiration (February 1, 2026)
+- [ ] Submit required documents to Blue River Insurance within 21 days if client wants to proceed
+- [ ] Confirm client's acceptance and timeline for binding
+- [ ] Track quote expiration date (February 1, 2026)
 
-### Action Items for Customer (Lakefront Roadside Assistance)
-- [ ] Provide proof of personal auto insurance for vehicles used in business
-- [ ] Complete and return ACORD application within 21 days of binding
+**Action Items for Customer:**
+- Provide proof of personal auto insurance for vehicles used in business
+- Complete and submit ACORD application
+- Return documents within 21 days of binding decision
 
-### Tone/Sentiment
-Professional, formal quote submission from carrier underwriting team
-
----
-
-**Note:** This is a preliminary quote with conditions. Binding cannot occur until subjectivities are satisfied.
+**Tone/Sentiment:** Professional, routine quote submission

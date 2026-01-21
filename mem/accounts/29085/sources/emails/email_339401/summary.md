@@ -9,50 +9,62 @@
 # Email Summary: Summit Culinary Services, Inc. - Preliminary GL Quote
 
 ## Business Details
-- **Company Name:** Summit Culinary Services, Inc.
-- **Industry:** Culinary/Food Service
-- **Coverage Type:** General Liability (including premises and liquor exposure)
-- **Premium & Costs:**
-  - Annual premium: ~$6,200
-  - Estimated fees & taxes: ~$200–$300
-  - Total first-year cost estimate: ~$6,400–$6,600
-- **Payment Options:** Installment plan available with ~20% down payment (~$1,200–$1,400) and monthly payment options
-- **Quote Portal:** https://payments.example-insure.com/quote-4521
+
+**Company Information:**
+- Company name: Summit Culinary Services, Inc.
+- Industry: Culinary/Food Service
+- Coverage type: General Liability (including premises and liquor exposure)
+
+**Policy & Premium Information:**
+- Annual premium: ~$6,200
+- Estimated fees & taxes: ~$200–$300
+- Total estimated first-year cost: ~$6,400–$6,600
+- Payment options: Installment plan available
+  - Down payment: ~$1,200–$1,400 (approximately 20%)
+  - Monthly payment options available
+- Status: Preliminary quote stage (not yet bound)
+
+**Documentation:**
+- Quote portal link provided: https://payments.example-insure.com/quote-4521
+
+---
 
 ## Personal Details
-- **Primary Contact:** Liam Harris
-  - Email: liam.harris@summitculinaryservices.com
-  - Role: Appears to be decision-maker for Summit Culinary Services
 
-- **Harper Contact:** Jordan Kim (Insurance Broker)
+**Contact Information:**
+- Name: Liam Harris
+- Title: (not specified)
+- Company email: liam.harris@summitculinaryservices.com
+- Contact from: Jordan Kim, Harper Insurance
   - Email: jordan.kim@harperinsure.com
-  - Role: Account handler for this quote
+
+---
 
 ## Conversation Context
-- **Purpose:** Deliver preliminary General Liability insurance quote to prospect/client
-- **Main Topic:** Quote presentation for culinary business with liquor liability exposure
-- **Status:** Preliminary quote phase - ready for client review and approval
-- **Key Offering:** Installment payment plan with flexible monthly payments
 
-## Action Items
+**Main Purpose:**
+- Deliver preliminary General Liability insurance quote for review and approval
 
-### For Liam Harris (Customer):
+**Key Information Shared:**
+- High-level premium estimates provided
+- Carrier quote(s) received and compiled
+- Installment payment plan details outlined
+
+**Pending Actions for Customer (Liam Harris):**
 - Review quote documents in portal
-- Request any changes to coverage limits or deductibles (if desired)
-- Reply to Jordan with any modifications needed before binding
-- Decide on coverage and payment plan
+- Confirm or request modifications to policy limits and/or deductibles
+- Reply with any requested changes before binding
 
-### For Harper/Jordan Kim:
-- Await client response regarding quote acceptance or requested changes
-- Update submission if client requests modifications to limits/deductibles
-- Prepare to bind coverage once client approves
+**Pending Actions for Harper (Jordan Kim):**
+- Await Liam's response regarding quote acceptance or modifications
+- Update submission if limits/deductibles are changed
+- Bind policy once customer approval confirmed
 
-## Next Steps
-- Pending client review and approval
-- Client to confirm if any changes needed before binding
-- Timeline not specified; awaiting client response
+**Next Steps:**
+- Customer to review and respond with approval or requested changes
+- No specific timeline mentioned; implies timely response expected
 
-## Tone/Sentiment
-- Professional and helpful
-- Clear and straightforward communication
-- Casual but efficient tone
+**Tone/Sentiment:**
+- Professional and straightforward
+- Helpful/collaborative (offering flexibility with payment options and modifications)
+- No urgency or frustration indicated

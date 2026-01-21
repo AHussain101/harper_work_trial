@@ -6,42 +6,71 @@
 **From:** elena.park@harperinsure.com
 **To:** erin@lakesidehealth.com
 
-# Insurance Quote Update Summary for Harper
+# Insurance Application Summary - Lakeside Health Services, Inc.
 
 ## Business Details
-- **Company Name:** Lakeside Health Services, Inc.
-- **Industry:** Healthcare/Health Services
-- **Coverage Type:** Not explicitly specified in email
-- **Application Status:** Submitted to carrier network
-- **Expected Next Step:** Initial quote responses anticipated shortly
-- **Documents Needed:**
-  - Loss runs (prior claims history)
+
+**Company Information**
+- Company name: Lakeside Health Services, Inc.
+- Industry: Healthcare/Health Services
+- Type of business: Not specified beyond industry classification
+
+**Coverage & Policy Details**
+- Coverage needs: Not yet detailed in this email
+- Policy types: Not yet specified
+- Premium amounts: Not yet provided
+- Deductibles/Limits: Not yet provided
+- Quotes status: **Pending** - Application submitted to carrier network, initial responses expected shortly
+- Claims history: Loss runs to be provided by client
+
+**Documents Status**
+- **Requested documents:**
+  - Loss runs (prior years)
   - Certificates of insurance
   - Specific contract insurance requirements
-
-## Personal Details
-- **Primary Contact:** Erin
-  - Email: erin@lakesidehealth.com
-  - Role/Title: Not specified
-- **Harper Insurance Representative:** Elena Park
-  - Email: elena.park@harperinsure.com
-  - Handles this account
-
-## Conversation Context
-- **Purpose:** Follow-up on insurance application submission and quote process
-- **Main Topic:** Application has been submitted; requesting documentation needed to move underwriting forward
-- **Key Action Items for Customer (Erin):**
-  - Upload available documents via secure portal (URL: https://portal.harperinsure.com/upload/ABC123)
-  - Provide loss runs, certificates, and/or contract insurance requirements
-  - Contact Harper if assistance needed obtaining prior loss runs
-- **Key Action Items for Harper/Elena:**
-  - Monitor for carrier quote responses
-  - Support customer in obtaining loss runs if needed
-  - Review uploaded documents for underwriting
-- **Tone/Sentiment:** Professional, helpful, cooperative
-- **Next Steps:** Awaiting document submission and carrier quote responses
-- **Timeline:** Underwriting to progress upon document receipt; quotes expected "shortly"
+- **Submission method:** Secure portal (https://portal.harperinsure.com/upload/ABC123)
+- **Note:** Harper can assist if client needs help obtaining prior loss runs
 
 ---
 
-**Note:** No specific premium amounts, deductibles, limits, renewal dates, employee count, revenue, or years in operation were provided in this communication.
+## Personal Details
+
+**Primary Contact**
+- Name: Erin
+- Email: erin@lakesidehealth.com
+- Company email suggests healthcare organization context
+- Phone number: Not provided in this email
+
+**Harper Representative**
+- Name: Elena Park
+- Title: Harper Insurance Agent/Representative
+- Email: elena.park@harperinsure.com
+- Phone: Not provided in this email
+
+---
+
+## Conversation Context
+
+**Main Purpose**
+- Follow-up on insurance application submission for Lakeside Health Services, Inc.
+- Request for supporting documentation to expedite underwriting process
+
+**Status**
+- Application has been submitted to carrier network
+- Awaiting initial quote responses from carriers
+
+**Key Action Items for Customer (Erin)**
+1. Upload available documents via secure portal:
+   - Loss runs
+   - Certificates of insurance
+   - Any specific contract insurance requirements
+2. Contact Harper if assistance needed obtaining prior loss runs
+
+**Key Action Items for Harper (Elena)**
+1. Monitor carrier responses for incoming quotes
+2. Support client with loss run acquisition if requested
+3. Follow up once documents are received and underwriting progresses
+
+**Next Steps & Timeline**
+- Initial quote responses expected "shortly" (specific timeline not provided)
+- Document upload timing: **Immediate

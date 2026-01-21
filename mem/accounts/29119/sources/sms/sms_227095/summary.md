@@ -3,50 +3,52 @@
 **Date:** 2025-12-05T01:31:38.310000+00:00
 **Direction:** Outgoing
 
-# Insurance Application Follow-Up Summary
-
-## Business Details
-- **Coverage Type:** General application submitted (specific coverage needs not yet detailed in this message)
-- **Status:** Application under review
-- **Carriers:** Multiple carriers being contacted for quotes/responses (responses pending)
+# Insurance Application Follow-up Summary
 
 ## Personal Details
 - **Contact Name:** Maya
-- **Harper's Representative:** Jordan
-- **Company:** Harper Insurance
+- **Referring Agent:** Jordan
+- **Agency:** Harper Insurance
 - **Communication Method:** SMS
+
+## Business Details
+- **Coverage Status:** Application submitted
+- **Current Stage:** Under review with carriers
 
 ## Conversation Context
 
 ### Main Topic
-- Acknowledgment of received insurance application
-- Status update on application review process
+- Status update on submitted insurance application
+- Setting expectations for next steps
 
-### Key Information
-- Application has been successfully submitted by Maya
-- Harper's team is actively reviewing the application
-- Multiple carrier quotes/responses are pending and will be shared as they arrive
-
-### Decisions Made
-- Application accepted for review
-
-### Action Items for Harper
-- Continue reviewing Maya's application
-- Monitor for carrier responses
-- Share carrier responses with Maya as they arrive
-- Prepare to follow up with Maya regarding quote options
-
-### Action Items for Customer (Maya)
-- Await carrier responses and quote information from Harper
-- Be available to receive updates via SMS
-
-### Follow-Up Timeline
-- Timeline not specified; updates will be provided as carrier responses are received (ongoing/reactive)
+### Key Messages
+- Application has been received and is being reviewed
+- Carrier responses will be provided as they are received
+- Proactive communication about pending quotes/decisions
 
 ### Tone/Sentiment
-- **Tone:** Professional, reassuring, courteous
-- **Sentiment:** Positive; proactive communication to keep client informed
+- Professional and courteous
+- Reassuring/informative
+
+## Action Items
+
+### For Harper/Jordan
+- [ ] Monitor for carrier responses
+- [ ] Share responses with Maya as they arrive
+- [ ] Follow up if no responses received within expected timeframe
+
+### For Maya (Customer)
+- [ ] Await carrier responses from Harper
+- [ ] Expect further communication with quotes and options
+
+## Follow-up Timeline
+- **Next Steps:** Carrier responses TBD (dependent on carrier turnaround times)
+- **No specific deadline mentioned**
 
 ---
 
-**Note:** This appears to be an initial status update message. More detailed business and coverage information will likely emerge in subsequent communications.
+**Note:** Limited information in this message. May want to maintain records of:
+- Original application submission date
+- Types of coverage applied for
+- Expected timeline for carrier responses
+- Maya's preferred follow-up method

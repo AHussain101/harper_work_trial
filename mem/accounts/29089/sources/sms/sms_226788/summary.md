@@ -5,44 +5,35 @@
 
 # SMS Summary for Harper
 
+## Business Details
+- **EIN Document**: Customer will be providing their Employer Identification Number
+- **Payroll Information**: Customer will be uploading payroll documentation
+- **Status**: Documents pending from customer
+
 ## Personal Details
-- **Contact Name**: Unknown (not provided in message)
-- **Communication Method**: SMS
-- **Contact Date/Time**: December 4, 2025 at 10:23 PM
+- **Contact Method**: SMS
+- **Communication Style**: Brief, casual, cooperative
+- **Responsiveness**: Customer appears engaged and willing to follow through
 
 ## Conversation Context
 
 ### Main Topic
-- Customer is responding to a previous request for documentation
+- Document collection/submission process
+- Likely related to business insurance quote or policy application
 
-### Key Points
-- **Documents Promised**: 
-  - EIN (Employer Identification Number)
-  - Payroll documentation
-- **Timeline**: Customer will provide documents "later today" (same day as message)
-- **Tone/Sentiment**: Cooperative, casual, positive
+### Key Actions
+- **Customer Action Item**: Upload EIN and payroll documentation later today (by end of 2025-12-04)
+- **Harper Action Item**: Wait to receive uploaded documents from customer before next steps
 
-## Action Items
+### Tone/Sentiment
+- **Tone**: Friendly, compliant, casual
+- **Customer Sentiment**: Cooperative and agreeable
 
-### For Customer
-- ✅ Upload EIN document
-- ✅ Upload payroll documentation
-- **Timeline**: Same day (by end of business day on December 4, 2025)
-
-### For Harper
-- ⏳ **Pending**: Await receipt of EIN and payroll documents from customer
-- **Next Step**: Review uploaded documents once received
-- **Note**: No specific follow-up timeline mentioned; may need to follow up if documents not received by end of day
-
-## Missing Information
-- Business name, type, industry
-- Number of employees
-- Policy details or coverage needs
-- Premium/deductible information
-- Renewal or effective dates
-- Previous conversation context (what prompted this request)
-- Customer name/contact information
+### Next Steps
+- Expect document delivery from customer later same day
+- Review uploaded documents once received
+- Proceed with next phase of quote/application process after document verification
 
 ---
 
-**Recommendation**: Request customer contact name/details if not already on file for future reference.
+**Note**: This appears to be a follow-up to a previous conversation where Harper requested these specific documents. The customer is confirming they will submit them promptly.

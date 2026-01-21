@@ -6,65 +6,41 @@
 **From:** donotreply@onlinemga.com
 **To:** avery.collins@harperinsure.com
 
-# Email Summary for Harper
+# Email Summary for Harper - Application Approval
 
 ## Business Details
-
-**Company Information:**
-- Company Name: Summit Ridge Roofing & Exteriors
-- Industry: Roofing & Exteriors
-- Application Number: 48-1032
-
-**Coverage & Policy Information:**
-- Status: **APPROVED by underwriting**
-- Requested Effective Date: December 4, 2025
-- Specific policy types, coverage limits, deductibles, and premium amounts: *Not specified in email*
-
-**Documents & Next Steps:**
-- Signed documents need to be uploaded or faxed to carrier
-- Effective date requires verification/confirmation
-
----
+- **Company Name:** Summit Ridge Roofing & Exteriors
+- **Industry:** Roofing & Exteriors (construction/contracting)
+- **Application Number:** 48-1032
+- **Underwriting Status:** ✅ APPROVED
+- **Effective Date:** December 4, 2025
+- **Carrier/MGA:** Online MGA (onlinemga.com)
+- **Portal Access:** https://portal.example-mga.com/applications/48-1032
 
 ## Personal Details
-
-**Contact Information:**
-- Primary Contact: Avery Collins
-- Email: avery.collins@harperinsure.com
-- Role: Insurance Broker (Harper Insurance)
-
----
+- **Contact Name:** Avery Collins
+- **Email:** avery.collins@harperinsure.com
+- **Role:** Insurance Broker (Harper Insurance)
 
 ## Conversation Context
+- **Main Topic:** Underwriting approval notification for Summit Ridge Roofing & Exteriors
+- **Status:** Application has been approved and is ready for next steps
+- **Tone/Sentiment:** Professional, neutral, routine approval notification
 
-**Purpose:**
-- Notification of underwriting approval for Application 48-1032
+## Action Items for Harper
+1. ⚠️ **URGENT:** Upload or fax signed documents to the MGA
+2. Verify the requested effective date (currently listed as 2025-12-04)
+3. Access portal to view full application details if needed
+4. Communicate approval status to Summit Ridge Roofing & Exteriors client
+5. Ensure all documentation is submitted promptly to activate coverage
 
-**Key Information:**
-- Application has been successfully approved
-- Ready to move forward pending document submission
+## Action Items for Customer
+- None mentioned in this email (Harper is responsible for next steps)
 
-**Action Items for Harper:**
-- ✅ Upload or fax signed documents to the carrier
-- ✅ Verify/confirm the effective date (December 4, 2025)
-- ✅ Access full application details via portal link: https://portal.example-mga.com/applications/48-1032
-
-**Action Items for Customer (Summit Ridge Roofing & Exteriors):**
-- Awaiting Harper to submit signed documents
-- Awaiting confirmation of effective date
-
-**Next Steps:**
-- Immediate: Submit signed documents
-- Review full application details in MGA portal for any additional requirements
-
-**Tone/Sentiment:**
-- Professional, straightforward
-- Positive (approval notification)
-- Routine administrative communication
+## Follow-up Timeline
+- **Immediate action required** - Documents needed to finalize approval
+- No specific deadline mentioned, but effective date is 2025-12-04 (assume same day or very soon)
 
 ---
 
-## Additional Notes
-- Email is automated notification from MGA system (onlinemga.com)
-- No claims history, loss runs, or quote details provided in this notification
-- No specific carrier name mentioned in email content
+**Note:** This is an automated approval notification. Harper should check the portal for complete application details and any specific document requirements.

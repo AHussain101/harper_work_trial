@@ -3,44 +3,51 @@
 **Date:** 2025-12-05T12:05:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Document Upload Request
+# SMS Summary for Harper
+
+## Message Overview
+- **Direction:** Outgoing (Harper → Customer)
+- **Date & Time:** December 5, 2025 at 12:05 PM (UTC)
+- **Type:** Document request with portal link
+- **Tone/Sentiment:** Professional, instructional
+
+---
 
 ## Business Details
-- **Company Name:** Blue Sky (referenced in portal URL)
-- **Coverage Type:** Not specified in this message
-- **Carrier(s):** Example Insure (portal domain)
-- **Document Status:** Required documents pending upload
+- **Client Name:** Blue Sky (inferred from portal URL)
+- **Coverage Status:** Terms being finalized with carrier(s)
 
-## Personal Details
-- **Contact Name:** Not provided in this SMS
-- **Communication Method:** SMS (text message)
+---
 
-## Conversation Context
+## Document Request
+- **Action Required:** Customer upload of required documents
+- **Portal Link:** https://portal.example-insure.com/upload/blue-sky
+- **Purpose:** To help carriers finalize policy terms faster
+- **Method:** Online portal upload
 
-### Main Topic
-- Request for customer to upload required documentation to expedite carrier approval and finalization of insurance terms
+---
 
-### Key Information
-- **Portal Link Provided:** https://portal.example-insure.com/upload/blue-sky
-- **Purpose:** To help carriers finalize terms faster
-- **Documents Needed:** Unspecified - customer should know which documents are required
+## Action Items
 
-### Action Items
+### For Customer
+- [ ] Upload all required documents to the provided portal link
+- [ ] Ensure timely submission to expedite carrier approval
 
-#### For Customer
-- [ ] Upload required documents to the provided portal link
-- [ ] Complete upload process before carriers review
+### For Harper
+- [ ] Monitor portal for document uploads
+- [ ] Follow up with carriers once documents are received
+- [ ] Track timeline for policy finalization
 
-#### For Harper
-- [ ] Follow up if documents are not uploaded within reasonable timeframe (suggest 2-3 business days)
-- [ ] Confirm receipt of documents once uploaded
-- [ ] Monitor carrier progress on finalizing terms after upload completion
+---
 
-### Tone/Sentiment
-- Professional, helpful, solution-oriented
-- Emphasizes benefit to customer (faster finalization)
+## Follow-Up & Next Steps
+- **Next Step:** Await customer document submission
+- **Timeline:** Not explicitly stated (implied: ASAP to expedite terms finalization)
+- **Contact Method:** Portal-based communication implied
 
-### Outstanding Questions
-- **What specific documents are required?** (Should have been clarified in prior communication or portal instructions)
-- **Deadline for document submission?** (Not specified in this message)
-- **Expected timeline for carrier response?** (Not specified)
+---
+
+## Notes
+- No specific documents listed in this message (customer likely received list separately)
+- No premium amounts, deductibles, limits, or carrier names mentioned
+- No customer contact details in this message

@@ -4,54 +4,46 @@
 **Duration:** 1m 25s
 **Direction:** Outgoing
 
-# Call Summary - Ethan Follow-Up
+# Call Summary - Ethan
 
 ## Business Details
-- **Coverage needs**: To be discussed in detail on follow-up call
-- **Quote status**: Quote email sent and received this morning
-- **Next discussion**: Coverage review scheduled
+- **Coverage Discussion**: Pending - to be reviewed on follow-up call
+- **Quote Status**: Quote email sent this morning and received by client
 
 ## Personal Details
-- **Contact name**: Ethan
-- **Communication preference**: Prefers to discuss details via scheduled call rather than ad-hoc walkthrough
-- **Personality notes**: Direct communicator, wants to prioritize coverage discussion before payment options
+- **Contact Name**: Ethan
+- **Role/Title**: Not specified
+- **Communication Preference**: Phone call discussion preferred
+- **Availability**: Available for call tomorrow (date/time to be confirmed via calendar invite)
 
 ## Conversation Context
+- **Call Purpose**: Follow-up to confirm receipt of quote email and discuss next steps
+- **Call Type**: Outgoing
+- **Call Duration**: 1 minute 25 seconds
+- **Call Date/Time**: December 5, 2025 at 3:30 PM UTC
 
-### Call Purpose
-- Follow-up call to confirm receipt of quote email
-- Offer to walk through payment plan options
-
-### Key Details
-- Quote was successfully delivered this morning
-- Client has reviewed the quote
+### Key Conversation Points
+- Ethan confirmed receipt of quote email sent this morning ✓
+- Maya offered two discussion options: payment plan walkthrough OR coverage review
+- **Ethan's Preference**: Coverage review first (before discussing payment options)
 
 ### Decisions Made
-- Will discuss coverages in detail on next call
-- Payment plan options review deferred until after coverage review
+- Coverage review discussion scheduled for tomorrow (specific date/time pending)
+- Payment plan options discussion deferred until after coverage review
 
-### Action Items for Harper
-- [ ] Schedule follow-up call with Ethan for tomorrow
-- [ ] Send calendar invite to confirm scheduled call
-- [ ] Prepare for coverage review discussion (have quote details and coverage options ready)
-- [ ] Have payment plan options prepared for discussion after coverage review
+## Action Items for Harper (Maya)
+- [ ] Send calendar invite to Ethan for tomorrow's coverage review call
+- [ ] Prepare coverage details and documentation for tomorrow's discussion
+- [ ] Have payment plan options ready for discussion after coverage review is completed
 
-### Action Items for Customer
-- [ ] Review quote details before tomorrow's call
-- [ ] Prepare any coverage questions for tomorrow's discussion
+## Action Items for Client (Ethan)
+- [ ] Confirm calendar invite for tomorrow's call
+- [ ] Review quote details ahead of call (optional)
 
-### Follow-up Timeline
-- **Next call**: Tomorrow (2025-12-06)
-- **Topics for next call**: Coverage review, then payment options walkthrough
+## Follow-up Timeline
+- **Next Step**: Coverage review call scheduled for tomorrow
+- **Timeline**: Payment plan options discussion to follow coverage review
 
-### Call Sentiment
-- Professional and cooperative
-- No concerns or objections noted
-- Client engaged and ready to proceed with next steps
-
----
-**Call Metadata**
-- Duration: 1 minute 25 seconds
-- Date: December 5, 2025 at 3:30 PM
-- Harper Agent: Maya
-- Call Type: Outgoing follow-up
+## Tone/Sentiment
+- **Client Sentiment**: Neutral/cooperative
+- **Engagement Level**: Good - client is responsive and willing to move forward with next steps

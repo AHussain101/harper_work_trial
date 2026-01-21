@@ -6,64 +6,55 @@
 **From:** tnltssprovidercontracting@wellpoint.com
 **To:** maya@greenshieldcare.com
 
-# Email Summary: Wellpoint TN LTSS Application - Initial Review
+# Email Summary: Wellpoint TN LTSS Application Initial Review
 
 ## Business Details
 
-### Company Information
-- **Company Name:** Green Shield Care
-- **Business Type:** Healthcare provider (LTSS - Long-Term Services and Supports)
-- **Industry:** Long-term care services
-- **Contracting Status:** Applying to Wellpoint's TN LTSS network
+### Application & Coverage Information
+- **Program/Carrier:** Wellpoint (Tennessee Long-Term Services & Supports - TN LTSS)
+- **Application Status:** Initial review completed with deficiencies identified
+- **Services with Issues:** The following service selections are flagged as missing licensure or ineligible:
+  - Assistive technology
+  - Minor home modifications
+  - Respite inpatient care
+  - Adult day care
+  - Adult care home
+  - Assisted living
 
-### Coverage & Insurance Requirements
-**Required Insurance Policies:**
-- **Workers' Compensation & Employers Liability**
-  - Minimum limit: ~$750,000
-- **Automobile Liability**
-  - Minimum limit: ~$1,000,000
+### Insurance Requirements
+- **Workers' Compensation & Employers Liability:** Minimum limit of approximately $750,000
+- **Automobile Liability:** Minimum limit of approximately $1,000,000
 
-**Documentation Requested:**
-- Proof of Insurance (meeting above requirements)
-- Corrected W-9 form
+---
 
-### Application Issues Identified
-Wellpoint identified missing or ineligible service selections on the LTSS application requiring remediation:
+## Documents Requested by Wellpoint
 
-**Services Requiring Licensure Updates or Removal:**
-- Assistive technology
-- Minor home modifications
-- Respite care (inpatient)
-- Adult day care
-- Adult care home
-- Assisted living
+- [ ] Updated licensure documentation (for flagged service categories)
+- [ ] Proof of Insurance (meeting stated coverage limits)
+- [ ] Corrected W-9 form
+- [ ] Removal or clarification of ineligible service selections
 
-## Personal Details
+---
 
-### Contacts
-- **Green Shield Care Contact:** Maya (maya@greenshieldcare.com)
-- **Wellpoint Contact:** TN LTSS Provider Contracting Team
-  - Email: tnltssprovidercontracting@wellpoint.com
-  - Provider contact details redacted for privacy
+## Submission Instructions
 
-### Communication Method
-- Email communication
-- Document submission via secure portal
+- **Portal for Document Upload:** https://portal.example-mco.com/app/tn-ltss-xxxx
+- **Recipient:** Wellpoint Provider Contracting Team (tnltssprovidercontracting@wellpoint.com)
+- **Deadline:** As stated by Wellpoint (specific date not included in email summary)
 
-## Conversation Context
+---
 
-### Main Purpose
-Initial review feedback from Wellpoint on Green Shield Care's LTSS network application with deficiencies identified requiring correction
+## Action Items
 
-### Key Issues
-1. Missing or ineligible service selections on application
-2. Insufficient documentation of licensure for requested services
-3. Missing proof of required insurance coverage
-4. Incomplete/uncorrected W-9 form
+### For Harper (Insurance Broker)
+- [ ] Obtain updated proof of insurance from provider showing Workers' Comp limits (~$750k) and Auto Liability (~$1M)
+- [ ] Verify proof of insurance meets Wellpoint requirements
+- [ ] Coordinate with provider on which flagged services to remove or update licensure for
+- [ ] Ensure corrected W-9 is obtained from provider
+- [ ] Submit all documents to Wellpoint portal before deadline
 
-### Action Items for Green Shield Care (Customer)
-
-**Required Submissions:**
-- [ ] Update LTSS application with corrected service selections (add licensure proof or remove ineligible services listed above)
-- [ ] Provide proof of Workers' Compensation & Employers Liability insurance ($750k minimum)
-- [ ] Provide proof of
+### For Customer/Provider
+- [ ] Obtain updated licensure documentation or decide which services to remove
+- [ ] Provide corrected W-9 form
+- [ ] Provide proof of insurance meeting stated minimums
+- [ ] Submit materials to Wellpoint portal via

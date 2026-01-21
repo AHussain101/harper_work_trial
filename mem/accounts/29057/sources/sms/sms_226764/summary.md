@@ -5,45 +5,26 @@
 
 # SMS Summary for Harper
 
-## Message Details
+## Message Overview
+- **Direction:** Incoming
 - **Date & Time:** December 4, 2025 at 10:07 PM
-- **Direction:** Incoming message from customer
-- **Message Content:** "Ok thks"
+- **Message Content:** "Ok thks" (informal acknowledgment)
+
+## Conversation Context
+- **Tone/Sentiment:** Neutral/Brief acknowledgment
+- **Main Topic:** Unclear - appears to be a confirmation or thank you response to a previous message or action
+- **Key Details:** 
+  - Customer is confirming receipt or agreement with something
+  - Very brief response suggests time constraint or casual communication preference
+
+## Important Notes for Harper
+⚠️ **Context Missing:** This message appears to be a reply to a prior communication from Harper. The full context of what was being confirmed or thanked for is **not available** in this message alone.
+
+## Recommended Follow-Up
+- Review the **previous message(s)** sent to this contact to understand what "ok" and "thanks" are referencing
+- Confirm what action item or information this response pertains to
+- If awaiting any documents or next steps, verify those have been clearly communicated
 
 ---
 
-## Context & Analysis
-
-### Conversation Purpose
-- **Type:** Acknowledgment/confirmation message
-- **Tone/Sentiment:** Casual, brief, positive
-
-### Key Information
-- **Interpretation:** Customer is acknowledging a previous message or proposal from Harper and expressing thanks
-- **Message is:** Extremely brief and lacks specific details
-
----
-
-## Action Items
-
-### For Harper
-- **Pending:** Clarify what the customer is confirming "ok" to (previous proposal, quote, next steps, documents sent, etc.)
-- **Recommendation:** Send a follow-up message to confirm what agreement/understanding was reached
-- **Note:** Vague acknowledgment - may need explicit confirmation of next steps to avoid misunderstandings
-
-### For Customer
-- None identified at this time
-
----
-
-## Missing Information ⚠️
-- **No business details provided**
-- **No personal details provided**
-- **No contact information visible**
-- **No specific coverage, premium, or policy information mentioned**
-- **Context of previous message unknown**
-
----
-
-## Next Steps
-Harper should follow up with clarification on what the customer agreed to and confirm the next steps in the insurance process.
+**No specific business details, personal information, documents, or action items can be extracted from this message alone.**

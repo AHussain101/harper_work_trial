@@ -4,70 +4,65 @@
 **Duration:** 3m 21s
 **Direction:** Incoming
 
-# Call Summary – Regal Freight Logistics, Inc.
+# Call Summary: Regal Freight Logistics, Inc. – Workers' Compensation Quote
 
 ## Business Details
 
 **Company Information:**
-- Company Name: Regal Freight Logistics, Inc.
-- Industry: Long-haul dry-van trucking
-- Location: 242 Lake Havasu Blvd, Unit 201, Anytown, AZ 86403 *(to be confirmed)*
-- State of Operation: Arizona
+- **Company Name:** Regal Freight Logistics, Inc.
+- **Industry:** Long-haul trucking (dry-van operations)
+- **Location:** 242 Lake Havasu Blvd, Unit 201, Anytown, AZ 86403 *(to be confirmed)*
+- **State:** Arizona
 
 **Coverage Needs:**
 - **Policy Type:** Workers' Compensation
-- **Status:** Quote requested
+- **Status:** Quote request (intake stage)
 
-**Missing Information (Required for Intake):**
-- Federal EIN
+**Information Still Needed:**
+- Federal EIN (Employer Identification Number)
 - Payroll details
-- Number of employees
-- Annual payroll
-- Years in operation
-- Any claims history or loss runs
+- Employee count
+- Annual payroll amount
+- Loss history/claims experience
+- Specific coverage limits and deductible preferences
 
----
+## Personal/Contact Details
 
-## Personal Details
+**Contact Person:**
+- **Name:** Not provided by the client directly
+- **Referral Source:** Linda with Tivley (referral partner)
+- **Status:** Currently driving; unable to provide detailed information during call
+- **Preferred Contact Method:** Text message (contact number on file)
+- **Communication Style:** Professional, safety-conscious (declining to provide details while driving)
 
-**Primary Contact:**
-- **Name:** Not provided by trucking company representative
-- **Title/Role:** Business owner or decision-maker (not specified)
-- **Phone Number:** On file with Harper (to be used for text follow-up)
-- **Preferred Contact Method:** Text message (caller was driving and requested asynchronous communication)
-- **Current Status:** Driving — unable to provide detailed information during call
-
-**Referral Contact:**
-- **Name:** Linda
-- **Company:** Tivley
-- **Role:** Referred the lead; remains point of contact for referral relationship
-
----
+**Contact Information on File:**
+- Phone number exists in system (number not stated in transcript)
 
 ## Conversation Context
 
 **Call Purpose:**
-- Initial intake call for workers' compensation quote referral from Tivley
+- Incoming transfer from referral partner Linda (Tivley) with workers' compensation quote request
+- Client already in contact with referral source; transferred to Harper agent
 
-**Lead Source:**
-- Referral from Tivley (Linda)
-- Lead ID: 68-8XXX (referral code)
+**Key Details Discussed:**
+- Business name confirmed: Regal Freight Logistics, Inc.
+- Business address provided (pending confirmation)
+- Lead/Referral ID: 68-8XXX
 
-**Call Flow:**
-1. Linda from Tivley transferred client from Arizona (trucker) to Harper Agent Sam
-2. Sam confirmed business name and address
-3. Caller unable to provide complete details due to driving
-4. Sam offered to send text with intake information request
+**Questions Asked:**
+- Business name
+- Business address
+- Federal EIN request
+- Payroll details request
 
-**Key Decisions Made:**
-- Caller agreed to receive text follow-up rather than complete intake during call
-- Plan to gather EIN and payroll details via text/callback
-
----
+**Decisions Made:**
+- Client will be contacted via text rather than completing intake during call
+- Client will call back when safe/convenient (not while driving)
 
 ## Action Items
 
-**Harper (Sam) To-Do:**
-- ✅ Send text message to contact number on file
+**Harper's Responsibilities:**
+- Send text message to contact number on file with Regal Freight Logistics inquiry
 - Request Federal EIN
-- Request
+- Request payroll details
+- Confirm business address

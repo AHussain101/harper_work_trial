@@ -9,63 +9,35 @@
 # Insurance Quote Summary: Boardman Diner & Café
 
 ## Business Details
+- **Company Name:** Boardman Diner & Café
+- **Industry:** Food Service (Diner/Café)
+- **Coverage Type:** General Liability (GL)
+- **Estimated Premium:** $3,400 (inclusive of carrier fees and state taxes)
+- **Premium Status:** Preliminary indication only
 
-**Company Information:**
-- Business Name: Boardman Diner & Café
-- Industry: Food Service/Restaurant (Diner & Café)
-- Business Type: Food establishment with kitchen operations
+## Carrier Information
+- **Carrier:** MidState Indemnity
+- **Quote Valid Until:** February 2, 2026
+- **Quote Source:** quotes@midstateuw.com
 
-**Coverage & Policy Details:**
-- Coverage Type: General Liability (GL)
-- Estimated Premium (GL): ~$3,400 (inclusive of carrier fees and state taxes)
-- Quote Status: **Preliminary indication only** - not a final quote
-- Carrier: MidState Indemnity
-- Quote Valid Until: February 2, 2026
-
-**Subjectivities (Items Still Needed Before Final Quote):**
+## Outstanding Requirements & Subjectivities
+The following items must be obtained before formal quote can be issued:
 - Signed application
 - Current loss runs
 - Confirmation of kitchen suppression system details
+- Certificates of Insurance (COIs)
 
-## Documents & Information Status
+## Action Items for Harper
+- [ ] Confirm with client if they want to proceed with formal quote package from MidState
+- [ ] Obtain and submit current loss runs from Boardman Diner & Café
+- [ ] Request confirmation of kitchen suppression system details from client
+- [ ] Collect any existing Certificates of Insurance (COIs)
+- [ ] Submit confirmation + documentation to MidState Indemnity to move forward with formal quote
 
-**Documents Requested by Carrier:**
-- Loss runs (current)
-- Certificate(s) of Insurance (COIs)
-- Formal application (signed)
-- Kitchen suppression system verification/details
-
-**Documents Provided by Harper:**
-- Initial submission with exposures information
-
-## Conversation Context
-
-**Main Purpose:**
-- Initial quote request for restaurant GL coverage
-- Carrier response to submission
-
-**Key Details:**
-- This is a **preliminary quote only** - formal quote package not yet issued
-- Quote contingent on receiving additional documentation
-- Kitchen suppression details are a specific underwriting requirement (common for food service establishments)
-
-**Action Items for Harper:**
-- Confirm if Boardman Diner & Café wants to proceed with formal quote package
-- Obtain and provide current loss runs to MidState
-- Obtain and provide any existing Certificates of Insurance
-- Confirm kitchen suppression system details with applicant
-- Once documentation provided, route formally for final quote package
-
-**Action Items for Boardman Diner & Café:**
-- Provide signed application
-- Provide current loss runs
-- Provide kitchen suppression system information/documentation
-- Confirm intent to proceed with coverage
-
-**Timeline/Deadlines:**
+## Next Steps
+- Await Harper's confirmation on proceeding with formal quote package
+- Once confirmed, submit all required documentation to MidState
 - Quote valid through February 2, 2026
-- No stated urgency for next steps
 
-**Tone/Sentiment:**
-- Professional, routine communication
-- No urgency indicated
+## Tone/Sentiment
+Professional and procedural; quote is conditional pending receipt of standard underwriting documentation

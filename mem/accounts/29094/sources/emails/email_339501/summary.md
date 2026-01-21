@@ -9,56 +9,45 @@
 # Email Summary: USLI Quote for 3A Media Productions
 
 ## Business Details
-
-**Company Information**
-- Company name: 3A Media Productions
-- Industry: Media/Production
-- Business contact: Marcus Reed
-
-**Coverage & Quote Details**
-- Quote number: MCP-48-1032
-- Carrier: USLI (United States Liability Insurance Company)
-- Premium: ~$1,900
-- Taxes & fees: ~$130
-- **Estimated total annual cost: ~$2,000**
-- Quote valid until: February 2, 2026
-
-**Policy Information**
-- No specific policy types, deductibles, or coverage limits mentioned in this email
-- This is an initial/preliminary quote
+- **Company Name:** 3A Media Productions
+- **Industry:** Media Productions
+- **Owner/Contact:** Marcus Reed
+- **Coverage Type:** Not specified in email
+- **Quote Number:** MCP-48-1032
+- **Carrier:** USLI (United States Liability Insurance Company)
+- **Premium Breakdown:**
+  - Base Premium: ~$1,900
+  - Taxes & Fees: ~$130
+  - **Estimated Total:** ~$2,000
+- **Quote Valid Until:** February 2, 2026
+- **Policy Details:** None specified (deductibles, limits, effective date not mentioned)
 
 ## Personal Details
-
-**Contacts**
-- **USLI Underwriter/Quote Provider:** Lauren Smith
+- **Primary Contact:** Marcus Reed (Applicant/Business Owner)
+- **Insurance Broker:** Harper Insurance (submissions@harperinsure.com)
+- **USLI Contact:** Lauren Smith
   - Email: lauren.smith@usli.com
   - Phone: (888) 523-5545
-- **Recipient/Your Contact:** Harper Submissions (submissions@harperinsure.com)
-- **Applicant Representative:** Marcus Reed (3A Media Productions)
+  - Title: Underwriter
 
 ## Conversation Context
+- **Purpose:** Initial quote submission from USLI carrier for Harper to present to client
+- **Main Action:** Quote delivered for Harper to review and share with 3A Media Productions
+- **Documents Provided:** Quote attachment (referenced but not included in email text)
+- **Key Information Missing:** 
+  - No details on coverage types or limits
+  - No renewal date information
+  - No claims history mentioned
+  - No specific policy effective date
+- **Next Steps:** Harper should review quote and contact Lauren Smith (USLI) with any questions
+- **Tone:** Professional, straightforward quote delivery
 
-**Purpose**
-- Delivery of initial insurance quote for 3A Media Productions
-
-**Key Information Provided**
-- Quote attached to email (document not included in this message)
-- All premium and fee details are rounded estimates
-- Quote is valid for approximately 2 months
-
-**Action Items for Harper**
+## Action Items
+**For Harper:**
 - Review attached quote document
-- Present quote to 3A Media Productions/Marcus Reed
-- Contact Lauren Smith if questions arise about the quote
-- Determine if applicant wants to proceed or needs modifications before February 2, 2026 deadline
+- Present quote to Marcus Reed at 3A Media Productions
+- Contact Lauren Smith at USLI with any underwriting questions or clarifications needed
 
-**Action Items for Customer**
-- Review quote details
-- Provide feedback or questions to Harper
-
-**Follow-up Timeline**
-- Quote expires: February 2, 2026 (approximately 2 months from email date)
-
-**Tone/Sentiment**
-- Professional, routine quote submission
-- Straightforward presentation with clear invitation for questions
+**For Customer (3A Media Productions):**
+- Review quote before February 2, 2026 expiration date
+- Provide feedback/decision to Harper

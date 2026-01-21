@@ -6,45 +6,76 @@
 **From:** HARPER_EMPLOYEE <darian@harperinsure.com>
 **To:** dr.marcus@mapleavedental.com
 
-# Email Summary: Maple Avenue Dental Insurance Quote Follow-up
+# Email Summary for Harper Insurance Broker
 
 ## Business Details
-- **Company Name:** Maple Avenue Dental
-- **Industry:** Dental Practice
-- **Business Type:** Professional services (dental)
-- **Coverage Status:** Application submitted to carriers for quotes
-- **Documents Requested:**
-  - Loss runs from prior carrier
-  - Certificates of Insurance (COI)
-  - Contract-specific insurance requirements
-  - Documentation of any coverage gaps
-- **Next Step:** Awaiting initial quotes from carrier network
+
+**Company Information:**
+- Business Name: Maple Avenue Dental
+- Industry: Dental Practice
+- Contact: Dr. Reed (practice owner/operator)
+
+**Coverage & Quote Status:**
+- Application submitted to carrier network
+- Initial quotes expected shortly
+- Status: Pending quote responses from carriers
+
+**Documents Requested:**
+- Loss runs (from prior carrier if needed)
+- Certificates of Insurance (COI)
+- Contract-specific insurance requirements
+- Any additional coverage gap documentation
+
+**Delivery Method:**
+- Secure portal upload link provided to client
+
+---
 
 ## Personal Details
-- **Contact Name:** Dr. Reed
-- **Email:** dr.marcus@mapleavedental.com
-- **Harper Employee Contact:** Darian
-- **Harper Contact Methods:**
-  - Phone: +1 (470) 731-4971
-  - Email: team@harperinsure.com
-  - Website: www.harperinsure.com
+
+**Contact Information:**
+- Name: Dr. Marcus Reed (Dr. Reed)
+- Email: dr.marcus@mapleavedental.com
+- Company: Maple Avenue Dental
+
+**Harper Employee on Case:**
+- Name: Darian
+- Title: Harper Insurance Employee
+- Phone: +1 (470) 731-4971
+- Email: darian@harperinsure.com
+- Company Email: team@harperinsure.com
+- Website: www.harperinsure.com
+
+---
 
 ## Conversation Context
-- **Email Purpose:** Follow-up after initial consultation call; request for supporting documentation
-- **Main Topic:** Insurance application submission and quote process initiation
-- **Key Actions Completed:**
-  - Initial consultation call completed with Dr. Reed
-  - Insurance application submitted to carrier network
-- **Action Items for Dr. Reed (Customer):**
-  - Upload loss runs via secure portal
-  - Upload Certificates of Insurance (COI)
-  - Provide contract-specific coverage requirements
-  - Identify any coverage gaps for review
-  - **Timeline:** As soon as possible to expedite process
-- **Action Items for Harper:**
-  - Monitor for incoming quotes from carriers
-  - Assist with obtaining loss runs if Dr. Reed needs help
-  - Review uploaded documents and coverage gaps
-- **Tone/Sentiment:** Professional, helpful, collaborative
-- **Timeline:** Initial quotes expected "shortly"
-- **Follow-up Required:** Yes — pending document uploads and carrier quotes
+
+**Purpose of Email:**
+- Follow-up after initial consultation call with Dr. Reed
+- Notification that application has been submitted to carriers
+- Request for supporting documentation to expedite quote process
+
+**Key Points:**
+- Initial call/meeting with Dr. Reed completed
+- Application already submitted to carrier network
+- Action: Awaiting carrier quotes
+
+**Action Items for Customer (Dr. Reed):**
+- Upload loss runs, COIs, and contract requirements via secure portal
+- Contact Harper if assistance needed obtaining loss runs from prior carrier
+- Identify any additional coverage gaps to address
+
+**Action Items for Harper (Darian):**
+- Monitor for incoming carrier quotes
+- Be available to assist if Dr. Reed needs help obtaining loss runs from prior carrier
+- Follow up once quotes received
+
+**Tone/Sentiment:**
+- Professional and courteous
+- Appreciative of client's time
+- Action-oriented and helpful
+- Efficiency-focused
+
+**Next Steps Timeline:**
+- Initial quotes expected "shortly" (no specific deadline provided)
+- Follow-up timing: Dependent on quote receipt an

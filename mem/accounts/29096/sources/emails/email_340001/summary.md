@@ -6,7 +6,7 @@
 **From:** amelia.rivera@mapleridgehomecare.com
 **To:** jordan.kim@harperinsure.com
 
-# Email Summary: Maple Ridge Home Care LLC Document Receipt
+# Email Summary for Harper Insurance Broker
 
 ## Business Details
 - **Company Name:** Maple Ridge Home Care LLC
@@ -14,39 +14,31 @@
 - **Documents Submitted:**
   - Background checks
   - Motor Vehicle Records (MVRs)
-- **Status:** Documents uploaded and received by Harper Insurance intake team
-- **Next Phase:** Submission to carriers for quotes
+- **Current Status:** Documents uploaded and received by Harper Insurance intake team
+- **Next Step Timeline:** Initial carrier quotes expected within 24–48 hours
 
 ## Personal Details
 - **Contact Name:** Amelia Rivera
-- **Title/Role:** Not specified (appears to be representative of Maple Ridge Home Care LLC)
+- **Title/Role:** Not specified (appears to be primary contact for Maple Ridge Home Care LLC)
 - **Email:** amelia.rivera@mapleridgehomecare.com
-- **Harper Insurance Contact:** Jordan Kim
-- **Jordan's Email:** jordan.kim@harperinsure.com
-- **Harper Intake Line:** Available for questions (specific number not provided)
+- **Communication Method:** Email preferred (email thread), with option to call intake line
 
 ## Conversation Context
-- **Email Purpose:** Confirmation that required documents have been received and next steps in the quoting process
-- **Key Update:** Background checks and MVRs successfully received and logged into system
-- **Current Action:** Harper's intake team is reviewing submitted documents
-- **Documents Status:** Will be included with carrier submission package
-
-## Action Items
-
-### Harper Insurance
-- [ ] Complete intake team review of background checks and MVRs
-- [ ] Submit all documents with quote request to carriers
-- [ ] Arrange for agent to call Amelia when quotes arrive to review options and subjectivities
-
-### Customer (Amelia/Maple Ridge Home Care)
-- [ ] Await carrier quote responses (expected within 24–48 hours)
-- [ ] Be available for agent call to discuss quote options
-- [ ] Contact Harper intake line if any issues arise
-
-## Timeline & Next Steps
-- **Expected Carrier Response:** 24–48 hours from email date (approximately 12/6–12/7/2025)
-- **Follow-up:** Agent will call to review quotes and address any subjectivities
-- **Ongoing Communication:** Amelia can reply to email thread or call intake line if needed
-
-## Tone/Sentiment
-- **Professional, positive, and helpful** - Jordan confirms receipt and provides clear next steps with realistic timeline expectations
+- **Main Topic/Purpose:** Document submission confirmation for insurance quote submission
+- **Key Action Completed:**
+  - Background checks and MVRs were successfully uploaded by customer
+  - Documents received and logged by Harper intake team
+- **Pending Items:**
+  - Intake team review of submitted documents
+  - Carrier quote submissions in progress
+  - Initial carrier responses (ETA: 24–48 hours)
+- **Action Items for Harper:**
+  - Intake team to review background checks and MVRs
+  - Include documents with carrier submissions
+  - Agent to call Amelia when quotes arrive to review options and subjectivities
+- **Action Items for Customer (Amelia):**
+  - Await agent call to review quote options
+  - Contact Harper if additional information needed
+- **Follow-up Timeline:** Agent call expected after carrier quotes received (within 48 hours)
+- **Tone/Sentiment:** Professional, confirmatory, and reassuring
+- **Preferred Contact Methods:** Email thread or Harper's intake line phone number

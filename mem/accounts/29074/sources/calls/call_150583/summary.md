@@ -4,64 +4,67 @@
 **Duration:** 41m 58s
 **Direction:** Incoming
 
-# Call Summary: MapleBridge Staffing - Initial Insurance Intake
+# Call Summary: MapleBridge Staffing – Initial Insurance Intake
+
+---
 
 ## Business Details
 
 ### Company Information
 - **Company Name:** MapleBridge Staffing
-- **Industry:** Staffing & Temporary Placement Services
-- **Business Type:** Temporary clerical and professional placements
+- **Business Type:** Temporary staffing agency
+- **Industry:** Professional/clerical placements
+- **Scope:** Clerical and professional placements only
 - **Years in Operation:** Not specified
 - **Number of Employees:** Not specified
 - **Annual Revenue:** ~$500,000
-- **Payroll:** ~$300,000
+- **Annual Payroll:** ~$300,000
 - **EIN:** 33-410-XXXX (masked)
-- **Business Address:** Confirmed during call (specific address not detailed in summary)
+- **Multi-State Operations:** Yes – client indicated need for multi-state capabilities
 
-### Coverage Needs & Requirements
-**Coverage Types Requested:**
-- Cyber Liability
-- Professional Liability
-- Employer's Liability
-- Crime Coverage
-- General Liability (GL)
-- Umbrella Policy (high-limit)
+### Coverage Needs & Policy Requirements
+- **Cyber Insurance** – Required
+- **Professional Liability** – Required
+- **Employer's Liability** – Required
+- **Crime Coverage** – Required
+- **General Liability (GL)** – Required
+- **Umbrella Coverage** – High-limit umbrella needed for contract compliance
 
-**Special Requirements:**
-- Multi-state capabilities required
+### Additional Requirements
 - Rapid Certificate of Insurance (COI) issuance capability needed
-- Coverage needed for contract compliance purposes
+- Contract compliance requirements drive umbrella limits
 
-### Outstanding Documents & Next Steps
-- **Documents Requested:** Loss runs (to be provided by client)
-- **Underwriter Submissions Timeline:** 48-72 hours after loss runs are received
-- **Claims History/Loss Runs:** Pending receipt from client
+### Claims & Loss History
+- Loss runs requested but not yet provided
+- Loss runs status: Pending receipt from client
+
+### Carrier & Quote Status
+- No carriers quoted yet
+- Underwriter submissions pending receipt of loss runs
+- Estimated submission timeline: 48–72 hours after documents received
+
+---
 
 ## Personal Details
 
 ### Contact Information
-- **Contact Name/Role:** Identified caller/representative of MapleBridge Staffing (specific name not detailed in summary)
-- **Phone Numbers:** Redacted from summary
-- **Email:** Not specified in call details
+- **Contact Name:** Not fully documented in summary
+- **Contact Role/Title:** Caller introduced the client (implied intermediary or client representative)
+- **Phone Numbers:** Redacted/generalized in notes
+- **Email:** Not specified in summary
 - **Preferred Contact Method:** Not specified
 
-### Communication Style & Notes
-- No significant personality notes or communication style preferences mentioned
-- No personal or family details shared
-- Availability/scheduling preferences: Not discussed
+### Communication & Personality Notes
+- Client was responsive and communicative during intake call
+- Clearly articulated business needs and contract requirements
+- Proactive about multi-state capabilities and rapid COI turnaround
+- Tone: Professional and cooperative
+
+---
 
 ## Conversation Context
 
-### Call Purpose
-Initial intake call to gather business information, confirm coverage needs, and establish next steps for insurance quote development.
-
-### Key Discussion Points
-- Caller introduced the staffing business and clarified scope (temporary clerical/professional placements only)
-- Business address and basic financial information confirmed
-- Coverage requirements validated against business operations
-- Multi-state operational needs discussed
-- COI issuance speed requirements emphasized
-
-### Decisions Made
-- Client confirmed need for
+### Call Details
+- **Call Type:** Incoming
+- **Call Duration:** 41 minutes 58 seconds
+- **Date & Time Started:** December 4, 2025

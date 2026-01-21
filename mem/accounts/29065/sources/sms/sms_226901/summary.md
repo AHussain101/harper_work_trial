@@ -5,43 +5,46 @@
 
 # SMS Summary for Harper
 
+## Personal Details
+- **Contact Name:** Maya
+- **Communication Style:** Quick, efficient, action-oriented
+- **Tone:** Professional and cooperative
+
 ## Conversation Context
 
-**Main Topic/Purpose:**
-- Customer is responding affirmatively to a request for a summary document
+### Main Topic
+- Customer is responding to a request for a summary document
 - Customer is committing to uploading additional documentation
 
-**Key Points:**
-- Customer acknowledges receipt of request from "Maya" (likely Harper's team member)
-- Customer will provide/upload additional documents tonight
+### Key Points
+- Summary document has been requested by the customer
+- Additional documents are ready to be submitted by the customer
 
-## Action Items
+### Decisions Made
+- Customer will upload additional documents tonight (same day as message - December 4, 2025)
 
-### For Harper/Team:
-- [ ] Send the summary to customer (likely already in progress or pending Maya's action)
-- [ ] Monitor for document uploads tonight
-- [ ] Review uploaded documents once received
+### Action Items for Harper
+- **Prepare/send summary** to the customer (this was already requested in a prior message)
+- **Monitor for document uploads** tonight from this customer
+- **Be ready to review** the additional documentation once received
 
-### For Customer:
-- [x] Request summary (appears to be accepted)
-- [ ] Upload additional documents tonight (committed to this timeline)
+### Action Items for Customer
+- ✅ Upload additional docs tonight (December 4, 2025)
 
-## Personal Details
+### Next Steps
+- Customer will submit documents by end of day
+- Harper should expect to receive and process these documents shortly after
 
-**Contact Information:**
-- Communication method: SMS
-- Preferred contact style: Direct, action-oriented
-- Response time: Same-day/evening (messaged at 22:20)
-
-## Tone/Sentiment
-- **Positive/Cooperative** - Customer is responsive and committed to next steps
-- **Efficient** - Brief, direct communication style
-- **Reliable** - Customer providing specific timeline ("tonight") for deliverable
+### Tone/Sentiment
+- **Positive/Cooperative** - customer is responsive and committed to moving forward promptly
 
 ---
 
-## ⚠️ Missing Information (Note for Harper)
-- **No business name or customer name mentioned** - Confirm who this is from
-- **No specific details about which documents** are being uploaded
-- **No details about what "summary" contains** - Request from Maya should be clarified
-- **No indication of what coverage or policy** this relates to
+## ⚠️ Missing Context
+*Note: This appears to be a follow-up message in an ongoing conversation. The previous exchange likely contained:*
+- What summary was requested
+- What type of additional documents are being uploaded
+- What business/policy this relates to
+- Timeline or deadline for any decisions
+
+**Recommendation:** Review prior messages with this contact to get full context on the policy details and documentation requirements.

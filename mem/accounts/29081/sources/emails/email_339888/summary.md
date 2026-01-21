@@ -10,52 +10,54 @@
 
 ## Business Details
 
-### Company Information
+**Company Information**
 - **Company Name:** Harrison Automotive LLC
 - **Location:** Springfield, MS
-- **Industry:** Automotive (used-car dealer)
+- **Industry:** Automotive (Used-Car Dealer)
 - **Business Type:** Small used-car dealer
 - **Annual Sales:** Approximately $30,000
 
-### Coverage & Policy Information
-- **Coverage Types Needed:** 
-  - Garage liability
-  - General liability
-- **Status:** Submission under review
-- **Dealer License:** Currently pending renewal
+**Coverage & Policy Details**
+- **Coverage Types Needed:** Garage liability and general liability
+- **Prior Carrier:** Unknown (client needs to check old records)
+- **Dealer License Status:** Pending renewal
 
-### Outstanding Information
-- **Prior Carrier:** Unknown - client needs to check old records to identify previous insurance carrier
+**Additional Notes**
+- Submission includes attached documentation (not visible in email)
 
-## Personal Details
+## Personal/Contact Details
 
-### Contacts Involved
-- **Submission Source:** submissions@harperinsure.com
-- **Internal Recipients:** 
+**Internal Team Contacts**
+- **Submitted by:** Samir (Harper Submissions team)
+- **Email Recipients:** 
   - Holly_Wright@rpsins.com
   - Ronda_Henley@rpsins.com
-- **Submitted By:** Samir (Harper Submissions team)
+
+**Client Contact Information**
+- Not provided in this email
 
 ## Conversation Context
 
-### Purpose
-- New business submission for garage/general liability coverage review for a small automotive dealer
+**Purpose**
+- New submission requiring review for garage and general liability coverage for small automotive dealer
 
-### Key Information Status
-- **Known:** Company location, business type, approximate annual sales, coverage types needed, dealer license renewal status
-- **Unknown/Pending:** Prior carrier details, specific loss history, exact premium quotes, renewal/effective dates, full underwriting details
+**Key Information Gaps/Pending Items**
+- Prior carrier information (client must locate old records)
+- Details in attached submission document
+- Client contact details for direct communication
 
-### Action Items
+**Action Items for Harper Team (Holly & Ronda)**
+- Review attached submission documents
+- Determine appropriate coverage and carriers for garage liability
+- Obtain prior carrier information from client
+- Prepare quotes based on ~$30k annual sales
 
-**For Harper Team (Holly Wright & Ronda Henley):**
-- Review the attached submission document
-- Determine quoting approach based on available information
-- Assess underwriting requirements for pending dealer license
+**Action Items for Client (Harrison Automotive LLC)**
+- Locate and provide prior insurance carrier information
+- Verify/follow up on dealer license renewal status
 
-**For Client (Harrison Automotive LLC):**
-- Locate and provide information about prior insurance carrier
-- Provide old insurance records if available
+**Timeline**
+- Submission date: December 5, 2025
 
-### Tone/Sentiment
-- Professional and routine
-- Matter-of-fact submission request
+**Tone/Sentiment**
+- Professional, routine submission request; informational in nature

@@ -4,58 +4,57 @@
 **Duration:** 4m 0s
 **Direction:** Outgoing
 
-# Call Summary for Harper Insurance Broker
+# Call Summary: License Document Follow-Up
 
 ## Personal Details
 - **Contact Name:** Sonia
-- **Contact Role:** Not specified
 - **Harper Agent:** Jordan
-- **Preferred Contact Method:** Secure portal / secure form
-- **Communication Style:** Cooperative, responsive, efficient
+- **Contact Method:** Phone (outgoing call)
+- **Personality Notes:** Responsive and cooperative; promptly completed requested tasks
 
-## Call Overview
-- **Call Type:** Outgoing follow-up call
-- **Date & Time:** December 5, 2025 at 01:05 UTC
+## Call Details
+- **Call Direction:** Outgoing
+- **Date:** December 5, 2025
+- **Time Started:** 01:05:00 UTC
 - **Duration:** 4 minutes
-- **Purpose:** Confirm receipt of licensing documents and program requirements; coordinate next steps for vehicle information submission
+- **Call Status:** Completed
 
 ## Business Details
-- **Documents Submitted by Customer:**
-  - Licensing documents ✓
-  - Program requirements letter ✓
-  - Uploaded to secure portal
-  
-- **Documents/Information Still Needed:**
-  - Vehicle year/make/model
-  - Partial VIN (last 4 digits only) for initial submission
-  - Prior policy declaration pages (mentioned in summary but not discussed in transcript)
+### Coverage Needs
+- Vehicle insurance (type not specified)
+- Policy is undergoing quoting/submission process
 
-- **Submission Status:**
-  - Initial documents received and confirmed
-  - Ready to move forward with carrier submissions once vehicle details provided
+### Documents Status
+| Document | Status |
+|----------|--------|
+| Licensing documents | ✅ Uploaded to secure portal |
+| Program requirements letter | ✅ Uploaded to secure portal |
+| Vehicle details (year/make/model) | 🔄 Pending upload via secure form |
+| Prior policy declaration pages | 🔄 Pending |
+| Masked VIN (last 4 digits) | 🔄 Pending with vehicle details |
+
+## Key Discussion Points
+- Sonia successfully uploaded licensing documents and requirement letter to secure portal prior to call
+- Jordan confirmed receipt of documentation
+- Vehicle identification details needed: year, make, model, and last 4 digits of VIN
+- Sonia agreed to submit vehicle details via secure form
+- VIN will be recorded in masked format (last 4 digits only) for initial submission
 
 ## Action Items
 
-### Harper (Jordan)
-- [ ] Review uploaded licensing documents and program requirements
-- [ ] Process vehicle information once received via secure form
-- [ ] Record masked VIN (last 4 digits only) for quoting
-- [ ] Submit to carrier(s) for quotes
-- [ ] Call Sonia back with any clarifying questions that arise during submissions
-- [ ] Request prior policy declaration pages (if not yet received)
-
-### Customer (Sonia)
-- [x] Upload licensing documents and requirement letter ✓ **COMPLETED**
+### For Sonia
 - [ ] Submit vehicle year/make/model via secure form
-- [ ] Provide last 4 digits of VIN
-- [ ] (Potentially) Submit prior policy declaration pages
+- [ ] Provide last 4 digits of VIN via secure form
+- [ ] Send prior policy declaration pages (implied requirement)
 
-## Tone & Sentiment
-- **Overall Tone:** Professional, positive, cooperative
-- **Customer Sentiment:** Responsive and accommodating
-- **Urgency Level:** Standard/routine follow-up
+### For Harper (Jordan)
+- [ ] Monitor secure portal for vehicle details submission
+- [ ] Process vehicle information once received
+- [ ] Move forward with carrier submissions
+- [ ] Follow up with clarifying questions if needed during submission process
+- [ ] Call Sonia back after submissions with any questions
 
 ## Next Steps
-- Sonia will submit vehicle details through secure form
-- Jordan will process information and move forward with carrier submissions
-- Jordan will follow up
+- Sonia to upload vehicle details to secure portal
+- Harper to proceed with carrier submissions upon receipt of vehicle information
+- Follow-up call from Harper pending (timeline

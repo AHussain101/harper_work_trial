@@ -10,47 +10,50 @@
 
 ## Business Details
 - **Company Name:** 3A Media Productions
-- **Industry:** Media Productions
-- **Coverage Status:** Application submitted to carrier network for quotes
-- **Documents Requested:**
-  - Loss runs (last 3 years, if available)
+- **Industry:** Media Production
+- **Coverage Status:** Application submitted to carrier network
+- **Documents Needed:**
+  - Loss runs (last 3 years preferred)
   - Certificates of insurance
-  - Contract-specific insurance requirements
-  - Any coverage gaps or additional limits needed
-- **Document Upload Portal:** https://portal.harperinsure.com/uploads/3a-media
-- **Next Step Timeline:** Initial quotes expected shortly after document submission
+  - Contract-specific coverage requirements
+  - Any identified coverage gaps or additional limits requested
 
 ## Personal Details
 - **Contact Name:** Marcus Reed
 - **Email:** marcus.reed@3amediaproductions.com
-- **Communication Method:** Email
-- **Internal Contact at Harper:** Dakotah (dakotah@harper-insurance.com)
+- **Company Email Domain:** 3amediaproductions.com
+- **Contact Method:** Email preferred (based on communication channel)
 
 ## Conversation Context
-- **Main Topic:** Follow-up to insurance application quote process
-- **Purpose:** Request documentation to expedite quote generation
-- **Previous Action:** Marcus and Harper team had a phone/meeting conversation today (2025-12-04)
-- **Key Request:** Marcus to provide supporting documents to speed up the quoting process
+- **Main Topic:** Insurance application follow-up and quote request for 3A Media Productions
+- **Previous Interaction:** Marcus and the Harper team had a recent conversation (phone call or meeting) regarding insurance needs
+- **Current Status:** Application has been submitted to carrier network; initial quotes expected soon
+- **Timeline:** Short timeframe expected ("move faster")
 
-### Action Items for Customer (Marcus Reed)
-- [ ] Upload loss runs from last 3 years (if available)
-- [ ] Upload certificates of insurance (if applicable)
-- [ ] Submit any contract-specific insurance requirements
-- [ ] Specify any coverage gaps or additional limits needed
-- [ ] Use secure upload portal provided
+## Action Items for Marcus (Customer)
+- [ ] Upload loss runs (last 3 years if available)
+- [ ] Upload certificates of insurance
+- [ ] Provide any contract-specific requirements
+- [ ] Identify and communicate any coverage gaps
+- [ ] Specify any additional limits needed
+- **Upload Portal:** https://portal.harperinsure.com/uploads/3a-media
 
-### Action Items for Harper (Dakotah)
-- [ ] Monitor carrier network for initial quotes
-- [ ] Review documents once Marcus uploads them
-- [ ] Compile and present quotes to Marcus
-- [ ] Follow up if documents aren't received
+## Action Items for Harper (Dakotah)
+- [ ] Monitor carrier responses for initial quotes
+- [ ] Review documents once uploaded by Marcus
+- [ ] Follow up with Marcus when quotes received
 
-## Tone & Sentiment
-- **Tone:** Professional, friendly, efficient
-- **Sentiment:** Positive and helpful
-- **Urgency Level:** Moderate (expects quotes "shortly")
+## Follow-up Timeline
+- Initial quotes expected shortly (no specific date mentioned)
+- Awaiting customer document uploads
 
-## Contact Information
-- **Harper Insurance Phone:** +1 (470) 731-4971
-- **Harper Insurance Email:** help@harperinsurance.com
-- **Harper Insurance Website:** www.harperinsurance.com
+## Tone/Sentiment
+- **Professional and positive**
+- **Collaborative and helpful**
+- **Efficient/action-oriented** (emphasis on moving quickly)
+
+## Harper Contact Information
+- **Insurance Broker:** Dakotah (harper-insurance.com)
+- **Phone:** +1 (470) 731-4971
+- **Email:** help@harperinsurance.com
+- **Website:** www.harperinsurance.com

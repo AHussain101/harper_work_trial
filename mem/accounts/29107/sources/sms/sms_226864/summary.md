@@ -7,35 +7,33 @@
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- Follow-up message regarding quote review process and next steps
-- Setting expectations for upcoming agent contact
+### Main Topic
+- Follow-up message regarding quote review process and next steps in the insurance procurement workflow
 
-### Key Information Communicated
-- Quotes have been submitted and are pending receipt/review
-- An agent will contact the customer by phone to finalize coverage once quotes are reviewed
-- Customer is invited to reach out with any questions in the interim
+### Key Message Points
+- Quotes have been submitted and are awaiting receipt and review
+- An agent will contact the client via phone call to finalize coverage details once quotes are reviewed
+- Client is invited to reach out with any questions before the agent's call
 
 ### Action Items for Customer
-- **Pending**: Await phone call from agent after quote review
-- **Optional**: Reach out via text or call with any questions before agent contact
+- Wait to receive contact from agent for coverage finalization call
+- Reach out via text or phone if questions arise before agent contact
 
-### Action Items for Harper/Team
-- **Pending**: Receive and review quote options
-- **Pending**: Schedule and complete agent call with customer to finalize coverage
-- **Follow-up**: Coordinate with agent to ensure timely contact after quote review
+### Action Items for Harper / Team
+- Review quote options when received
+- Schedule and conduct phone call with client to finalize coverage
+- Be prepared to answer any pre-call questions via text or phone
 
-## Next Steps & Timeline
-- **Timeline**: Unspecified - agent will call "when we receive and review quote options"
-- **Contact Method for Follow-up**: Phone call (primary), text or call for interim questions (secondary)
+### Follow-up Timeline
+- Next step: Agent phone call (timing not specified - likely within standard business processing timeframe)
+- Intended as a holding/reassurance message while quotes are being processed
 
-## Tone/Sentiment
-- Professional and reassuring
-- Clear communication of process
-- Open and responsive (inviting questions)
-- Proactive in setting expectations
+## Important Notes
+- **Tone/Sentiment:** Professional, reassuring, straightforward
+- **No specific business, personal, or policy details mentioned in this particular SMS** - this appears to be a template or standard follow-up message
+- **Contact Method:** Client prefers text or phone for pre-call questions
+- **No urgency indicated** - standard process communication
 
 ---
 
-## Notes
-⚠️ **Missing Information**: No specific customer name, business details, quote amounts, coverage types, or carrier information included in this message. This appears to be a standard process message rather than customer-specific details.
+**Note for Harper:** This SMS lacks specific details about the client, business, or policies. Additional context from prior conversations or the quote submission would be needed to fully understand the coverage being discussed.

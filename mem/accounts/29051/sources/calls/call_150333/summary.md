@@ -4,53 +4,53 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Insurance Call Summary – Follow-Up Review
+# Call Summary: Preliminary Carrier Quote Review
 
 ## Business Details
-- **Coverage Type:** General Liability
-- **Coverage Limit:** $500,000 per occurrence
-- **Preliminary Premium:** $3,600 annually
-- **Carrier:** One preliminary quote received (specific carrier name not mentioned)
-- **Status:** Underwriting in progress – awaiting documentation for finalization
-
-### Outstanding Documents/Requirements
-- Recent payroll records
-- Enrollment documentation
-- Licensing documents (confirmation needed)
+- **Coverage Requested:** $500k per occurrence limit
+- **Estimated Annual Premium:** $3,600
+- **Underwriting Status:** Pending finalization pending documentation
+- **Outstanding Subjectivities:**
+  - Recent payroll/enrollment records
+  - Confirmation of licensing documents
 
 ## Personal Details
-- **Contact Name:** Ethel (appears to be owner/decision-maker)
-- **Contact Method:** Email (saw preliminary quote via email), text/phone preferred for updates
-- **Title/Role:** Owner or Principal (implied)
-- **Communication Style:** Direct, responsive, appreciative; quick turnaround on action items
+- **Contact Name:** Ethel
+- **Contact Role/Title:** Owner
+- **Preferred Contact Methods:** Email and text messaging
 
 ## Conversation Context
-- **Call Type:** Outgoing follow-up call
-- **Purpose:** Review preliminary carrier estimate and outline next steps for policy finalization
-- **Duration:** 1 minute 35 seconds
-- **Date/Time:** December 5, 2025, 2:30 PM UTC
+- **Call Purpose:** Follow-up to review preliminary carrier estimate and next steps
+- **Call Type:** Outgoing
+- **Call Duration:** 1 minute 35 seconds
+- **Date/Time:** December 5, 2025 at 2:30 PM UTC
 
-### Key Points Discussed
-- Preliminary quote of $3,600/year for $500k per occurrence limit received from carrier
-- Two subjectivities identified requiring documentation before final underwriting approval
-- Customer confirmed receipt of email with quote details
+## Key Discussion Points
+- Carrier provided preliminary quote with estimated $3.6k annual premium
+- Ethel confirmed receipt of email with quote information
+- Harper Agent explained two required items needed for underwriting finalization
 
-### Action Items – Customer (Ethel)
-- [ ] Upload recent payroll records today
-- [ ] Upload enrollment documentation
-- [ ] Upload licensing confirmation documents
-- *Deadline: Implied "today" (12/5/2025)*
+## Action Items
 
-### Action Items – Harper (Agent)
-- [ ] Monitor for receipt of payroll, enrollment, and licensing documents
-- [ ] Submit documents to carrier for final underwriting approval
-- [ ] Prepare final policy package once documents are received and approved
-- [ ] Send notification (text/email) to Ethel when final package is ready
-- [ ] Be prepared to bind policy if customer confirms readiness
+### Customer (Ethel)
+- [ ] Upload recent payroll/enrollment records **TODAY**
+- [ ] Upload confirmation of licensing documents **TODAY**
 
-### Next Steps & Timeline
-1. Customer uploads documentation today (12/5)
-2. Harper forwards to underwriting
-3. Underwriting finalizes review
-4. Harper sends final package notification via text/email
-5.
+### Harper Agent
+- [ ] Receive and process payroll/enrollment documents
+- [ ] Receive and process licensing confirmation documents
+- [ ] Coordinate with underwriting to finalize quote
+- [ ] Send text/email notification to Ethel when final package is ready
+- [ ] Prepare to bind policy if customer is ready to proceed
+
+## Next Steps
+- Customer to submit required documentation today
+- Once documents received, underwriting will finalize quote
+- Final package will be communicated to customer via text/email
+- Policy binding can proceed upon customer approval
+
+## Tone/Sentiment
+- Professional and cooperative
+- Customer receptive and willing to provide documents promptly
+- No concerns or objections raised
+- Both parties expressed appreciation

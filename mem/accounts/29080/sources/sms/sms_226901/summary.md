@@ -5,40 +5,51 @@
 
 # SMS Summary for Harper
 
-## Business Details
-- **No business details mentioned**
+## Message Overview
+- **Direction:** Incoming message from customer
+- **Date & Time:** December 5, 2025 at 2:22 PM (UTC)
+- **Tone/Sentiment:** Positive, professional, neutral
 
-## Personal Details
-- **Contact Name:** Unknown
-- **Contact Method:** SMS
-- **Personality Notes:** 
-  - Appears responsive and engaged
-  - Brief, direct communication style
-  - Appreciative tone ("Thanks")
+---
 
 ## Conversation Context
 
 ### Main Topic
-- Customer received an insurance estimate and is currently reviewing it
+- Customer has received an insurance estimate from Harper
+- Customer is in the review phase of the estimate
 
-### Key Actions & Status
-- **Customer Action:** Actively reviewing the estimate provided
-- **Harper Action Item:** Await feedback from customer after review
+### Key Status Updates
+- Customer acknowledges receipt of estimate ("got the estimate")
+- Customer is actively reviewing the materials ("reviewing now")
 
-### Follow-up Timeline
-- **Next Steps:** Pending - Customer will likely follow up after completing review
-- **Timeline:** Unknown - no specific timeframe mentioned
+### Action Items for Harper
+- **Pending:** Await customer feedback on estimate review
+- **Note:** Customer may follow up with questions, feedback, or approval once review is complete
+- **Preparation:** Be ready to address any concerns or clarifications needed about the estimate
 
-### Tone/Sentiment
-- **Positive/Neutral** - Appreciative and cooperative tone
+### Action Items for Customer
+- Complete review of the estimate provided
+- Follow up with Harper once review is finished (implied next step)
+
+### Follow-Up Timeline
+- Timeline unclear - customer did not specify when they will complete review
+- Recommend Harper follow up within 3-5 business days if no response received
 
 ---
 
-## ⚠️ Missing Information Needed for Complete Context
-- Which estimate was sent? (specific policy type, carrier, effective date)
-- What was the estimate amount/premium?
-- What type of coverage is being reviewed?
-- When should Harper expect feedback?
-- Any outstanding documents or information needed from customer?
+## Business Details
+- **Status:** Estimate provided and under customer review
+- **Documents Exchanged:** Insurance estimate provided to customer
 
-**Note:** This is a very brief acknowledgment message. Recommend following up with customer within 24-48 hours if no response received to check on review status and answer any questions.
+---
+
+## Personal Details
+- **Contact Name/Role:** Not specified in this message
+- **Communication Method:** SMS text messaging
+
+---
+
+## Notes
+- This is a brief acknowledgment message with minimal detail
+- Relationship appears to be progressing positively based on tone
+- No urgent issues or concerns flagged at this time

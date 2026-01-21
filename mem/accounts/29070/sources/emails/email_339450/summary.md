@@ -6,47 +6,50 @@
 **From:** harper_employee@harperinsure.com
 **To:** Marcus Bell <owner@smithfreight.example>
 
-# Email Summary: Smith Freight Lines - Follow-up & Quote Finalization
+# Email Summary: Smith Freight Lines Follow-up
 
 ## Business Details
 - **Company Name:** Smith Freight Lines
-- **Industry:** Freight/Transportation (long-haul)
-- **Coverage Type Discussed:** Long-haul coverage with cargo limits
-- **Carrier Status:** Initial carrier response received; quotes pending finalization
+- **Industry:** Freight/Transportation
+- **Coverage Type:** Long-haul commercial coverage with cargo limits
+- **Status:** Quote finalization in progress
+- **Carrier Status:** Initial carrier response received; awaiting clarification before final quotes
 
 ## Personal Details
 - **Contact Name:** Marcus Bell
-- **Role/Title:** Owner
+- **Title:** Owner
 - **Email:** owner@smithfreight.example
-- **Preferred Contact Method:** Email (inferred from this communication)
+- **Contact Method:** Email
 
 ## Conversation Context
 
 ### Main Topic
-Follow-up communication to complete the quote process for commercial freight insurance coverage after receiving initial carrier response.
+Follow-up on insurance quotes for Smith Freight Lines to move toward finalization
 
-### Key Questions/Information Needed from Customer
+### Key Outstanding Items (Customer Action Required)
 1. **Vehicle Ownership Confirmation** - Clarify whether vehicles are personally or business-owned
-2. **Prior Insurance Documentation** - Request proof of prior insurance and/or loss runs (if available)
+2. **Prior Insurance Documentation** - Upload proof of prior insurance and/or loss runs (if available)
 3. **Additional Drivers** - Confirm whether any additional drivers need to be added to the policy
 
-### Pending Decisions
-- **Carrier Selection** - Best carrier option for long-haul coverage and cargo limits still being determined
-- **Quote Finalization** - Awaiting customer responses before finalizing quotes
+### Decision Status
+- **Pending:** Final carrier selection and quote finalization
+- **In Progress:** Carrier evaluation for long-haul coverage and cargo limits
 
-### Action Items for Harper
-- Wait for Marcus Bell's responses to the three questions above
-- Finalize carrier quotes once documentation is received
-- Present best carrier option recommendations for long-haul and cargo coverage
+### Action Items
+**For Customer (Marcus Bell):**
+- Confirm vehicle ownership structure (personal vs. business)
+- Provide proof of prior insurance/loss runs
+- Identify and confirm any additional drivers to be covered
 
-### Action Items for Customer (Marcus Bell)
-- [ ] Confirm vehicle ownership structure (personal vs. business)
-- [ ] Upload proof of prior insurance and/or loss runs
-- [ ] Confirm list of any additional drivers needed on policy
+**For Harper:**
+- Await customer responses
+- Finalize carrier selection once information is received
+- Generate final quotes for long-haul coverage with appropriate cargo limits
 
-### Next Steps Timeline
-- Upon receipt of requested information → Harper will finalize quotes
-- No specific deadline provided; appears to be a standard next-business-day process
+### Follow-up Timeline
+- Immediate/as soon as possible (no specific deadline stated, but implies next step before finalization)
 
 ### Tone/Sentiment
-Professional, cooperative, and straightforward. Routine follow-up without urgency or concerns.
+- Professional and collaborative
+- Efficient and organized
+- Neutral/positive (moving process forward)

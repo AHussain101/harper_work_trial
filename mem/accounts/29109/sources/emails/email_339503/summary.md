@@ -6,57 +6,52 @@
 **From:** harper_employee@harperinsure.com
 **To:** wei.liu@boardmandiner.com
 
-# Email Summary: Kitchen Suppression System & COI Documentation Request
+# Email Summary for Harper Insurance
 
 ## Business Details
 - **Company Name:** Boardman Diner
-- **Business Type:** Diner/Food Service
-- **Coverage Needs:** 
+- **Industry:** Food Service/Dining
+- **Coverage Type:** Commercial General Liability (implied)
+- **Specific Coverage Needs Discussed:**
   - Kitchen suppression system coverage
   - Certificates of Insurance (COIs) for catering contracts
-- **Status:** Quote finalization pending
+- **Quote Status:** Formal quote pending finalization
+- **Underwriting Stage:** Information gathering phase
 
 ## Personal Details
 - **Contact Name:** Wei Liu
 - **Contact Email:** wei.liu@boardmandiner.com
-- **Contact Role:** Unclear (likely owner, manager, or decision-maker at Boardman Diner)
+- **Contact Role:** Not specified (likely owner or manager)
 
 ## Conversation Context
-
-### Main Purpose
-Follow-up inquiry to gather specific underwriting information needed to finalize a formal insurance quote
+- **Email Purpose:** Follow-up inquiry to gather critical underwriting information
+- **Main Topic:** Kitchen fire suppression system details and catering contract requirements
 
 ### Key Questions Asked
-1. **Kitchen Suppression System:** 
-   - Does the kitchen have an automatic suppression system? (yes/no confirmation needed)
-   - When was it last inspected? (specific date/year required)
+1. Does the kitchen have an automatic suppression system?
+2. When was the suppression system last inspected?
+3. Are there any ongoing catering contracts that require COIs?
 
-2. **Catering Operations:**
-   - Are there any ongoing catering contracts that require Certificates of Insurance (COIs)?
+### Pending Information Needed from Wei Liu
+- Confirmation of automatic kitchen suppression system (yes/no)
+- Date of last suppression system inspection
+- Details of any ongoing catering contracts requiring COIs (contract names, dates, client names if applicable)
 
-### Dependencies for Quote Finalization
-- Underwriters need suppression system details to proceed
-- COI requirements related to catering contracts must be clarified
+### Action Items
+**For Harper:**
+- Await Wei Liu's response on suppression system and catering contracts
+- Finalize formal quote once information is received
+- Coordinate with underwriters on quote completion
 
-## Action Items
+**For Wei Liu (Customer):**
+- Provide kitchen suppression system details and last inspection date
+- Provide information on catering contracts requiring COIs
 
-### For Customer (Wei Liu)
-- [ ] Confirm whether kitchen has automatic suppression system
-- [ ] Provide last inspection date for suppression system
-- [ ] Clarify if any ongoing catering contracts require COIs
-- [ ] Reply to Harper with this information
-
-### For Harper
-- [ ] Follow up if Wei does not respond within reasonable timeframe
-- [ ] Once information is received, submit to underwriters
-- [ ] Finalize formal quote based on response
-
-## Follow-up Timeline
-- **Sent Date:** December 5, 2025
-- **Next Steps:** Awaiting Wei's response to proceed with quote finalization
-- **Urgency:** Moderate (needed to finalize quote, but not marked as urgent)
-
-## Tone/Sentiment
+### Tone/Sentiment
 - Professional and straightforward
-- Collaborative (explaining why information is needed)
-- Efficient (marked as "quick question")
+- Collaborative (positioning information as helpful to underwriters)
+- Efficient (brief, clear questions)
+
+### Follow-up Timeline
+- Implicit: awaiting response to move forward with quote finalization
+- No specific deadline mentioned

@@ -5,44 +5,46 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Incoming SMS
-- **Date & Time:** December 4, 2025 at 8:51 PM
-- **Tone/Sentiment:** Professional, cooperative, positive
+## Business Details
+- **No business details mentioned**
 
----
+## Personal Details
+- **Contact name/role:** Unknown
+- **Contact method:** SMS
+- **Personality notes:** Professional, responsive, organized approach to review process
 
 ## Conversation Context
 
-### Main Topic
+### Main Topic/Purpose
 - Customer acknowledging receipt of materials/information and committing to review
 
 ### Key Points
-- Customer will review provided information
-- Customer will provide feedback/response tomorrow
+- Customer will review materials provided by Harper
+- Customer will follow up with feedback/response
+
+### Decisions Made
+- None explicitly stated
+
+### Pending Decisions
+- Customer's feedback/response pending after review
+
+### Action Items for Harper
+- **Await customer response** - expect follow-up by end of business day tomorrow (2025-12-05)
+- **Be available** for potential questions or next discussion steps
+
+### Action Items for Customer
+- Review materials Harper provided
+- Follow up with Harper tomorrow with feedback/questions/decisions
+
+### Follow-Up Timeline
+- **Expected response:** Tomorrow (2025-12-05)
+- **Urgency level:** Low to moderate
+
+### Tone/Sentiment
+- **Positive and professional** - customer is engaged and committed to timely follow-up
+- Collaborative approach indicated
 
 ---
 
-## Action Items
-
-### For Harper
-- **Pending:** Await customer response by end of business tomorrow (December 5, 2025)
-- **Note:** Be prepared to follow up if no response is received by next business day
-
-### For Customer
-- ✅ Review materials provided by Harper
-- ✅ Contact Harper with feedback/decisions tomorrow
-
----
-
-## Follow-up Timeline
-- **Expected Response:** Tomorrow (December 5, 2025)
-- **Recommended Follow-up:** If no response by end of December 5, consider reaching out on December 6
-
----
-
-## Missing Context
-⚠️ **Note:** This SMS appears to be a reply to a previous message. The original message content is not included, so context about what was "reviewed" or what specific insurance matter is being discussed is unclear. Consider reviewing the preceding message thread for complete picture of:
-- What documents/quotes were sent
-- What coverage or renewal is being discussed
-- Business/personal details about the customer
+## Notes for Harper
+*This appears to be a closing message to a previous conversation where materials or a proposal were shared. The customer is signaling they will respond promptly. Ensure you have clear documentation of what was sent for reference when they follow up.*

@@ -6,51 +6,58 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** contact@blueskyservices.com
 
-# Email Summary: Blue Sky Services Underwriting Documents
+# Email Summary for Harper Insurance Records
 
 ## Business Details
+
+### Company Information
 - **Company Name:** Blue Sky Services
-- **Coverage Type:** Professional Liability Insurance (contractors required to carry)
-- **Contractor COI Requirements:** $1,000,000 minimum per occurrence (client preference noted)
-- **Status:** Active underwriting phase
+- **Industry/Type:** Service-based business (uses contractors)
+- **Employees/Structure:** Employs staff and uses contractors
+
+### Coverage Needs & Policy Discussion
+- **Coverage Types Mentioned:**
+  - Professional Liability Insurance (for contractors)
+- **Contractor Requirements:**
+  - Contractors required to carry professional liability
+  - Minimum COI (Certificate of Insurance) limits: **$1,000,000 per occurrence**
+  - Client preference noted for this limit amount
+
+### Claims/Underwriting Status
+- **Current Stage:** Active underwriting process
+- **Status:** Awaiting documentation to finalize carrier terms
+- **Expected Timeline for Next Update:** 24-48 business hours after document upload
+
+---
 
 ## Personal Details
-- **Contact Name:** Alex
-- **Contact Email:** contact@blueskyservices.com
-- **Harper Representative:** Jordan Kim (jordan.kim@harperinsure.com)
+
+### Contact Information
+- **Name:** Alex
+- **Email:** contact@blueskyservices.com
+- **Communication Channel:** Email (this outbound message)
+- **Sender:** Jordan Kim (Harper Insurance representative)
+- **Sender Email:** jordan.kim@harperinsure.com
+
+---
 
 ## Conversation Context
 
-### Main Topic
-Request for outstanding documentation needed to complete underwriting process for Blue Sky Services insurance coverage.
+### Main Purpose
+Outbound follow-up email outlining specific documentation requirements to move the underwriting process forward
 
-### Key Documents Requested
-1. **ACORD Application**
-   - Must be completed and signed
-   - Upload location: https://portal.example-insure.com/upload/blue-sky
-   - Status: Conditional (if not already provided)
+### Documents Requested (3 items)
+1. **ACORD Application** - completed and signed form (conditional: "if not already provided")
+   - Upload portal: https://portal.example-insure.com/upload/blue-sky
+2. **Background Check & Drug Screening Policy Documentation** - proof of staff/contractor screening policies
+3. **Contractor COI Limits** - confirmation of minimum professional liability limits ($1,000,000 per occurrence)
 
-2. **Staff/Contractor Background Checks & Drug Screening Policy**
-   - Documentation of existing policies required
-   - Nature: Proof of current procedures
+### Action Items for Customer (Alex/Blue Sky Services)
+- [ ] Upload signed ACORD application to portal (if not already submitted)
+- [ ] Provide documentation of background checks and drug screening policies
+- [ ] Confirm/provide contractor professional liability COI minimum limits
 
-3. **Contractor Professional Liability Requirements**
-   - Minimum COI (Certificate of Insurance) limits: $1,000,000 per occurrence
-   - Action: Provide minimum limits documentation
-
-### Action Items for Customer (Alex)
-- [ ] Upload signed ACORD application (if not previously submitted)
-- [ ] Submit proof of background check and drug screening policies
-- [ ] Provide confirmation of contractor COI minimum limits ($1M per occurrence)
-
-### Action Items for Harper
-- [ ] Wait for document uploads
-- [ ] Finalize carrier terms upon document receipt
-- [ ] Send update to client within 24-48 business hours after documents uploaded
-
-### Timeline
-- **Next Steps Timeline:** 24-48 business hours after documents are uploaded
-- **Expected Update:** Carriers will finalize terms once all documentation received
-
-### Tone/Sentiment
-Professional, efficient, collaborative — email maintains forward momentum and clear expectations.
+### Action Items for Harper (Jordan Kim)
+- [ ] Monitor document uploads to portal
+- [ ] Follow up with carriers once documentation received
+- [ ] Provide underwriting update within 24-48 business hours of

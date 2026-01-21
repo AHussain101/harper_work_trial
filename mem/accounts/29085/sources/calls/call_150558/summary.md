@@ -6,46 +6,60 @@
 
 # Call Summary for Harper
 
-## Business Details
-- **Contact Method**: Business line
-- **Current Status**: Owner unavailable at time of call
-
-## Personal Details
-- **Contact Name**: Business owner (name not provided)
-- **Current Status**: In a meeting
-- **Preferred Contact Method**: Phone callback
-- **Preferred Callback Time**: 5:30 PM local time
-
-## Conversation Context
-
-### Call Purpose
-- Initial outreach/contact attempt by Harper agent
-
-### Key Details
-- **Harper Agent**: Samir
-- **Call Type**: Outgoing
-- **Call Duration**: 12 seconds
-- **Call Date/Time**: December 4, 2025 at 9:36 PM UTC
-- **Outcome**: Owner unavailable; callback requested
-
-### Tone/Sentiment
-- Professional, brief interaction
-- Owner cooperative (provided specific callback time)
-
-## Action Items
-
-### For Harper (Samir)
-- **PRIORITY**: Call back at 5:30 PM local time (owner's requested time)
-- Prepare for initial conversation with business owner
-- Be ready to discuss coverage needs upon callback
-
-### For Customer
-- *(No action items - awaiting Harper's callback)*
-
-## Follow-up Timeline
-- **Next Contact**: 5:30 PM local time (same day - December 4, 2025)
-- **Timeline Status**: Same-day follow-up required
+## Call Details
+- **Direction:** Outgoing
+- **Duration:** 12 seconds
+- **Date:** December 4, 2025
+- **Time Started:** 9:36 PM UTC
+- **Time Completed:** 9:36 PM UTC
 
 ---
 
-**Note**: Limited information available from this brief call. Additional business and coverage details should be captured during the 5:30 PM callback.
+## Business Details
+- **Contact Method:** Business line (phone)
+- **Business Status:** Currently operating (owner available but in meeting)
+
+---
+
+## Personal Details
+- **Contact Person:** Business owner
+- **Current Status:** In a meeting during call attempt
+- **Preferred Callback Time:** 5:30 PM local time (same day)
+- **Contact Method Preference:** Callback to business line
+
+---
+
+## Conversation Context
+
+### Purpose
+- Initial outreach call from Harper insurance broker
+
+### What Happened
+- Samir (Harper agent) called the business line
+- Owner was unavailable (in meeting)
+- Owner requested callback at specific time rather than continuing conversation
+
+### Key Decisions
+- None made during this call (too brief)
+
+### Action Items
+
+**For Harper:**
+- ⚠️ **PRIORITY:** Call back at 5:30 PM local time on December 4, 2025
+- Prepare for initial insurance consultation when owner is available
+
+**For Customer:**
+- Await callback from Harper at requested time
+
+### Next Steps
+- Scheduled callback: 5:30 PM local time (same day)
+
+### Tone/Sentiment
+- Professional and cooperative
+- Owner was polite in requesting callback
+- No urgency or frustration detected
+
+---
+
+## Outstanding Information
+⚠️ **Note:** No substantive business information gathered yet. Full details (company type, coverage needs, current policies, etc.) to be collected during the 5:30 PM callback.

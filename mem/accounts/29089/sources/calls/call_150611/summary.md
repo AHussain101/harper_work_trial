@@ -4,49 +4,62 @@
 **Duration:** 2m 4s
 **Direction:** Outgoing
 
-# Call Summary: Workers' Comp Intake Follow-Up
+# Call Summary: Workers' Compensation Intake Follow-up
 
 ## Contact Information
 - **Name:** Marisol
-- **Role/Title:** Business owner/decision-maker
-- **Contact Method:** Phone (outgoing call)
-- **Preferred Contact Method:** Not explicitly stated; appears responsive to calls
+- **Role/Title:** Not specified (business owner/decision-maker)
+- **Contact Method Used:** Phone (outgoing call)
+- **Preferred Communication:** Email and upload portal
+- **Current Status:** Available for brief calls during business hours (noted being pulled over during call)
+
+---
 
 ## Business Details
-- **Industry:** Transportation/Driving services (driver-based payroll mentioned)
-- **Employees:** Driver-focused payroll structure; owner(s) present
-- **Annual Payroll - Drivers:** ~$30,000 total
-- **Coverage Type:** Workers' Compensation
-- **Policy Configuration:** Owners excluded from workers' comp coverage
+- **Business Type:** Transportation/Fleet operation (drivers mentioned)
+- **Number of Employees:** Not specified (has multiple drivers)
+- **Annual Payroll (Drivers):** ~$30,000 total
 - **EIN:** Requested but not yet provided
-- **Missing Documentation:** 
-  - Employer Identification Number (EIN)
-  - Driver roster
+- **Years in Operation:** Not discussed
+- **Revenue:** Not discussed
 
-## Call Context
-- **Call Type:** Follow-up on workers' compensation intake
+---
+
+## Coverage & Policy Details
+- **Policy Type:** Workers' Compensation
+- **Coverage Preference:** Owners excluded from workers' comp coverage
+- **Additional Information Needed:**
+  - EIN (Employment Identification Number)
+  - Driver roster (short version)
+- **Premium/Limits:** Not discussed
+- **Deductibles:** Not discussed
+- **Renewal/Effective Date:** Not discussed
+- **Claims History:** Not discussed
+
+---
+
+## Conversation Context
+- **Call Purpose:** Follow-up on workers' compensation intake questionnaire
 - **Call Duration:** 2 minutes 4 seconds
-- **Date/Time:** December 4, 2025 at 10:30 PM UTC
-- **Purpose:** Confirm workers' comp coverage preferences and gather payroll/business information
-- **Tone/Sentiment:** Professional, cooperative, time-constrained (contact was just pulled over)
+- **Call Date/Time:** December 4, 2025 at 10:30 PM UTC
 
-## Key Details Confirmed
-- ✅ Owners excluded from workers' comp coverage
-- ✅ Driver payroll estimate: $30,000 annually
-- ❌ EIN - Not provided (pending)
-- ❌ Driver roster - Not provided (pending)
+### Key Points Discussed
+1. Confirmed workers' comp owners exclusion preference
+2. Collected estimated annual driver payroll ($30k)
+3. Requested EIN and driver roster documentation
 
-## Action Items for Customer (Marisol)
-- [ ] Upload EIN to Harper Insurance portal
-- [ ] Upload driver roster to Harper Insurance portal
-- [ ] **Timeline:** This afternoon (December 4, 2025)
-- [ ] Reply with available times for full review follow-up call
+### Decisions Made
+- ✅ Owners to be excluded from workers' comp coverage
+- ✅ Payroll estimate confirmed at $30k annually
 
-## Action Items for Harper (Daniel)
-- [ ] Watch for EIN and driver roster upload in portal
-- [ ] Schedule full review meeting once documents received
-- [ ] Follow back with Marisol regarding any carrier-specific questions after document review
-- [ ] Do not schedule full policy review until EIN and driver roster are received
+---
 
-## Follow-Up Timeline
-- **Next Step:**
+## Action Items
+
+### For Marisol (Customer)
+- [ ] **Upload EIN** to Harper upload portal (promised: "this afternoon")
+- [ ] **Upload driver roster** to Harper upload portal
+- [ ] **Reply with available times** for scheduling full review follow-up call
+
+### For Harper/Daniel
+- [ ] **Monitor upload portal** for EIN and driver roster

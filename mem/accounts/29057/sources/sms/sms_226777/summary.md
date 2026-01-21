@@ -5,40 +5,44 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Incoming from customer
-- **Date & Time:** December 4, 2025 at 10:12 PM
-- **Message Content:** "Okay"
+## Conversation Context
+
+### Main Topic
+- **Purpose**: Response/acknowledgment message
+- **Message Content**: Single-word affirmative response ("Okay")
+- **Tone/Sentiment**: Neutral, brief acknowledgment
+
+### Key Details
+- **Direction**: Incoming message from customer
+- **Date/Time**: December 4, 2025 at 10:12 PM
 
 ---
 
-## Analysis
+## Important Notes
 
-### Conversation Context
-- **Main Topic:** Unable to determine - this appears to be a response message
-- **Tone/Sentiment:** Neutral/Affirmative
-- **Message Type:** Brief acknowledgment or agreement
+⚠️ **LIMITED INFORMATION**: This message contains minimal content and provides no actionable business or personal details.
 
-### Important Notes
-- **Very Limited Information:** This is a single-word confirmation with no substantive details
-- **Likely Response:** This message appears to be a reply to a previous communication (likely from Harper)
-  - Could be confirming receipt of information
-  - Could be agreement to proposed action/timeline
-  - Could be acknowledgment of coverage details or quote
-
-### Action Items for Harper
-- **Clarification Needed:** Follow up with customer to understand what they are confirming with "Okay"
-  - Was this in response to a quote?
-  - Was this confirming a meeting time?
-  - Was this acknowledging receipt of documents?
-  - Was this agreeing to move forward with a policy?
-
-### Pending Information
-- **Customer Details:** No name, business info, or contact details provided in this message
-- **Business Details:** None mentioned
-- **Coverage Information:** None mentioned
+### What This Likely Indicates
+- Customer is acknowledging a previous message from Harper
+- Could indicate agreement, understanding, or readiness to proceed
+- Requires context from prior communications to understand full meaning
 
 ---
 
-## Recommendation
-Maintain context of your previous message to Harper to clarify what "Okay" specifically confirms.
+## Recommended Actions for Harper
+
+- **Follow-up**: Review previous SMS/email exchanges with this customer to understand what they are confirming
+- **Clarification**: Consider sending a follow-up message to confirm next steps or required actions
+- **Documentation**: Note the time-of-day (10:12 PM) - customer may prefer evening communications
+
+---
+
+## Missing Information
+
+The following details are **NOT provided** in this message:
+- Business details
+- Personal/contact details
+- Specific coverage needs
+- Premium or policy information
+- Documents or quotes
+- Clear action items or next steps

@@ -4,77 +4,71 @@
 **Duration:** 6m 56s
 **Direction:** Incoming
 
-# Call Summary - December 4, 2025
+# Call Summary - Insurance Quote Status Follow-Up
 
 ## Call Details
-- **Direction:** Incoming
+- **Date/Time:** December 4, 2025 at 9:45 PM
 - **Duration:** 6 minutes 56 seconds
-- **Date & Time:** December 4, 2025 at 9:45 PM (UTC)
-- **Completed:** 9:53 PM (UTC)
+- **Direction:** Incoming call
+- **Call Status:** Completed
 
 ---
 
-## Contact Information
+## Personal Details
+
+### Contact Information
 - **Contact Name:** Not specified in transcript
-- **Role/Title:** Not specified
-- **Phone Number:** Not provided
-- **Email:** Not provided
-- **Preferred Contact Method:** Email (as per agreed next steps)
+- **Role/Title:** Not specified in transcript
+- **Phone Number:** Not captured
+- **Email:** Not captured
+- **Preferred Contact Method:** Email (customer agreed to receive action list via email)
+
+### Personality/Communication Notes
+- Customer was proactive in following up on quote status
+- Receptive to Harper's explanations and requests
+- Willing to cooperate with document submission process
+- Agreeable tone - accepted next steps without objection
 
 ---
 
 ## Business Details
-- **Company Name:** Not mentioned
-- **Industry/Business Type:** Not specified
-- **Number of Employees:** Unknown
-- **Revenue:** Unknown
-- **Years in Operation:** Unknown
-- **Policy Type(s):** Not specified in call summary
+
+### Company Information
+- **Company Name:** Not specified in transcript
+- **Industry/Business Type:** Not specified in transcript
+- **Number of Employees:** Not mentioned
+- **Revenue:** Not mentioned
+- **Years in Operation:** Not mentioned
+
+### Coverage & Policy Information
+- **Coverage Type(s):** Not specified in transcript
+- **Policy Type(s):** Not specified in transcript
+- **Quote Status:** Currently in underwriting process
+- **Premium Amount:** Not quoted yet
+- **Deductible:** Not mentioned
+- **Coverage Limits:** Not mentioned
+- **Effective Date:** Not mentioned
+- **Renewal Date:** Not mentioned
+
+### Documents & Carriers
+- **Documents Requested:**
+  - Loss runs (required to expedite quoting)
+  - Certificates of Insurance (COIs) (required to expedite quoting)
+- **Carriers Involved:** Not specified
+- **Quotes Provided:** Quote is pending underwriter response
 
 ---
 
-## Coverage & Policy Information
-- **Premium Amount:** Not discussed
-- **Deductible(s):** Not mentioned
-- **Policy Limits:** Not mentioned
-- **Renewal Date:** Unknown
-- **Effective Date:** Unknown
-- **Carrier(s):** Not specified
+## Conversation Context
 
----
+### Main Topic
+- Customer called to inquire about quote status and next steps in the quoting process
 
-## Main Topics Discussed
-- **Purpose:** Customer inquiry regarding quote status and next steps in underwriting process
-- **Key Points:**
-  - Customer requested update on quote status
-  - Harper representative explained underwriting timeline
-  - Documents requested to expedite quoting process:
-    - Loss runs
-    - Certificates of Insurance (COIs)
+### Key Points Discussed
+- Harper explained the underwriting timeline to set expectations
+- Loss runs and COIs were identified as necessary documents to expedite the quoting process
+- Harper offered to email customer a concise, organized action list
 
----
-
-## Documents
-- **Requested:** Loss runs, Certificates of Insurance (COIs)
-- **Status:** Awaiting customer submission
-- **Provided:** None mentioned
-
----
-
-## Decisions & Action Items
-
-### Harper's Action Items
-- [ ] Email customer a summary of required documents and specific actions needed
-- [ ] Provide concise action list in email format
-- [ ] Await customer document uploads
-- [ ] Await underwriter response on quote
-
-### Customer's Action Items
-- [ ] Upload required documents (loss runs and COIs)
-- [ ] Await follow-up communication from Harper
-
----
-
-## Next Steps & Timeline
-- **Immediate:** Harper to send email with required documents list and action items
-- **Pending:**
+### Decisions Made
+- Customer agreed to upload required documents
+- Customer agreed to wait for

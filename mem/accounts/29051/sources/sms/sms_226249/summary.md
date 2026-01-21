@@ -6,42 +6,49 @@
 # SMS Summary for Harper Insurance
 
 ## Business Details
-- **Status**: Application submitted and under review
+- **Status**: Application under review
 - No specific business details mentioned in this message
 
 ## Personal Details
 - **Contact Name**: Ethel
-- **Communication Method**: SMS
-- **Company Representative**: Harper Employee at Harper Insurance
+- **Contact Method**: SMS
+- **Preferred Contact**: Will be contacted by Harper team (method not specified)
 
 ## Conversation Context
 
 ### Main Topic
-- Confirmation of application receipt and acknowledgment of submission
+- Confirmation of application receipt and status update
 
-### Key Messages
-- Application has been received by Harper Insurance
-- Application is currently under internal team review
-- Follow-up communication will be provided once review is complete
+### Key Information
+- Ethel has submitted an application
+- Harper's team is actively reviewing the submission
+- Customer will receive follow-up communication from the team
 
 ### Action Items
-
-**For Harper/Team:**
-- Review Ethel's submitted application
-- Contact Ethel with next steps/decision once review is complete
+**For Harper Team:**
+- [ ] Complete review of Ethel's application
+- [ ] Contact Ethel with next steps/results
+- [ ] Determine specific coverage needs and policy details during follow-up
 
 **For Customer (Ethel):**
-- Await contact from Harper team regarding application status
+- [ ] Await contact from Harper team regarding application status
 
 ### Follow-up Timeline
-- Timeline not specified; customer will be contacted when review is complete
+- No specific timeline mentioned
+- Follow-up contact expected from Harper team (timeline TBD)
 
 ### Tone/Sentiment
-- **Professional, friendly, and reassuring**
-- Acknowledgment and appreciation for customer action
-- Sets expectation of future communication
+- **Professional and courteous**
+- Reassuring (acknowledging receipt and active review)
+- Standard confirmation message
 
 ---
 
-## Notes for Harper
-This appears to be an automated or standard acknowledgment message. No coverage details, premium amounts, policy types, or specific business information have been provided yet. This is likely the initial response to a new customer application submission.
+## ⚠️ Missing Information for Complete File
+To build a comprehensive customer record, the following details should be gathered during next contact:
+- Business type and details
+- Coverage needs and policy types
+- Premium estimates
+- Renewal/effective dates
+- Complete contact information (email, phone)
+- Communication preferences

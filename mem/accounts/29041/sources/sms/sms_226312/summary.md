@@ -6,42 +6,41 @@
 # SMS Summary for Harper
 
 ## Message Overview
-- **Direction:** Incoming
-- **Date/Time:** December 4, 2025 at 7:32 PM
-- **Message Content:** "Yes please"
+- **Date:** December 4, 2025 at 7:32 PM
+- **Direction:** Incoming message
+- **Content:** "Yes please"
 
 ---
 
-## Conversation Context
+## Context Assessment
 
-### Main Topic
-- **Purpose:** Affirmative response to a previous request or proposal
-- **Tone/Sentiment:** Positive, agreeable
+⚠️ **INSUFFICIENT INFORMATION**
 
-### Key Information
-- **Pending Action:** This message appears to be a "yes" confirmation, but the original request or proposal is **not included in this SMS thread**
-- **Context Missing:** Unable to determine what specifically the customer is agreeing to without previous message history
-
----
-
-## Critical Notes for Harper
-
-⚠️ **ACTION REQUIRED:**
-- **Review previous SMS/email thread** with this contact to identify what they are confirming
-- Possible scenarios this could reference:
-  - Approval to proceed with a quote
-  - Agreement to provide documents (loss runs, financial statements, etc.)
-  - Acceptance of a policy renewal
-  - Confirmation of a meeting/call time
-  - Authorization to submit an application
+This message is extremely brief and provides **no specific details** about:
+- Business or personal information
+- Insurance coverage types or needs
+- Policy details, premiums, or claims
+- Documents or quotes
+- What the customer is agreeing to
 
 ---
 
-## Follow-Up Needed
+## Action Items for Harper
 
-- **Next Steps:** Clarify with customer what they are confirming
-- **Recommendation:** Send confirmation message specifying the approved action and any next steps in the process
+### Immediate Follow-up Required
+- **Clarify what the customer is confirming:** This message is ambiguous without prior context
+- **Review previous communication:** Check email threads, previous SMS exchanges, or notes to understand what question/offer prompted this "yes"
+- **Send clarifying message:** Confirm the specific action/document/quote the customer is approving
+
+### Possible Context Scenarios to Investigate
+- Approval of a quote
+- Confirmation of meeting/call time
+- Agreement to provide documents
+- Acceptance of policy terms
+- Permission to proceed with application
 
 ---
 
-**⚠️ NOTE:** This message lacks sufficient context. Please locate the preceding communication to understand the full scope of this agreement.
+## Notes
+- **Tone:** Neutral/brief - customer appears willing/cooperative
+- **Next step depends entirely on prior context** - cannot proceed without knowing what was asked

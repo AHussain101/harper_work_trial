@@ -3,42 +3,38 @@
 **Date:** 2025-12-04T23:32:02.221000+00:00
 **Direction:** Outgoing
 
-# SMS Summary
-
-## Message Details
-- **Date & Time:** December 4, 2025 at 11:32 PM
-- **Direction:** Outgoing (from Harper to customer)
-- **Type:** Informational/Support notification
+# SMS Summary for Harper
 
 ## Business Details
-- **No specific business details mentioned in this message**
+- No specific business details mentioned in this message
 
 ## Personal Details
-- **No personal contact details mentioned in this message**
+- **Contact Method**: Email preferred option offered
+- **Email Address**: support@harperinsure.com
+- **Communication Preference**: Customer given option to use email for document uploads or questions
 
 ## Conversation Context
 
-### Main Topic
-- Providing customer with support contact information for document uploads and general inquiries
+### Main Topic/Purpose
+- Providing customer with alternative contact method for document submission and inquiries
 
-### Key Information Shared
-- **Support Email:** support@harperinsure.com
-- **Preferred Methods:** Email communication option available for:
+### Key Information
+- Email address specifically designated for:
   - Document uploads
-  - Questions or follow-up inquiries
-
+  - General questions
+  
 ### Tone/Sentiment
-- Professional and helpful
-- Supportive and customer-service oriented
+- Professional, helpful, accommodating
+- Offering flexibility in communication channels
 
-### Action Items
-**For Customer:**
+### Action Items for Customer
 - Use support@harperinsure.com for any document uploads
-- Use support@harperinsure.com for follow-up questions (if email preferred over SMS)
+- Use support@harperinsure.com for follow-up questions if email is preferred
 
-**For Harper:**
-- Monitor support@harperinsure.com for incoming documents or questions from this customer
+### Action Items for Harper
+- Monitor support@harperinsure.com inbox for incoming documents or questions from this customer
+- Ensure timely responses to documents and inquiries sent to that email address
 
 ---
 
-**Note:** This is a brief, transactional message providing contact information. Limited context available without previous conversation history.
+**Note**: This appears to be a transactional/closing message in a conversation. Limited context is available in this single message. Previous messages would provide fuller picture of the business/coverage discussion and specific documents being requested.

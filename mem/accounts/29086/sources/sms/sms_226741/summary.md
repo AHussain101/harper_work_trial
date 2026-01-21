@@ -5,33 +5,35 @@
 
 # SMS Summary for Harper
 
-## Business Details
-- **No business details mentioned**
-
 ## Personal Details
-- **Contact:** Unknown sender
-- **Communication preference:** Text/SMS
-- **Tone/Sentiment:** Friendly, cooperative, appreciative
+- **Contact Name:** Unknown (not provided in message)
+- **Communication Method:** SMS
+- **Tone/Sentiment:** Positive, cooperative, appreciative
 
 ## Conversation Context
 
 ### Main Topic
-- Customer is confirming they will submit requested documents
+- Document upload for insurance matter
 
-### Key Actions
-- **Customer action item (PENDING):** Upload documents tonight (as of message date: December 5, 2025)
-- **Timeline:** Expected completion same day/evening
+### Key Message
+- Customer confirming they will upload required documents
+- Customer expressing gratitude to Harper
 
-### Notes
-- Customer expressed gratitude ("Thanks!"), indicating positive rapport
-- No specific document types mentioned
-- No urgency indicators, but time-sensitive action is pending
+### Action Items
 
----
+#### For Customer
+- ✅ Upload documents tonight (promised action)
 
-## ⚠️ Information Gap
-**This message lacks context.** To fully understand what documents are needed and why, you may need to:
-- Check previous messages with this contact
-- Review recent email correspondence
-- Check case notes for what was requested
-- Confirm sender identity if not clearly identified in your phone/system
+#### For Harper
+- ⏳ **Pending:** Monitor for document receipt tonight
+- ⏳ **Pending:** Review uploaded documents once received
+- ⏳ **Pending:** Follow up with next steps based on document contents
+
+### Follow-up Timeline
+- **Expected:** Documents to arrive tonight (within same business day as of SMS timestamp: Dec 5, 2025, 12:18 AM)
+- **Next Action:** Determine timing for review and next communication based on document receipt
+
+## Notes
+- **⚠️ Incomplete Context:** This appears to be a continuation of a previous conversation
+- **Missing Information:** Type of documents being uploaded, insurance policy details, customer name, prior discussion context
+- **Recommendation:** Review prior SMS/email history with this contact to understand full context and document requirements

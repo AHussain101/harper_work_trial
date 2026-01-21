@@ -6,66 +6,60 @@
 **From:** jordan.kim@harperinsure.com
 **To:** contact@harborshield.com
 
-# Email Summary: Harbor Shield Security LLC Insurance Quote Update
+# Email Summary: Harbor Shield Security LLC Insurance Quote
 
 ## Business Details
+- **Company Name:** Harbor Shield Security LLC
+- **Industry:** Security Services
+- **Business Type:** Security/Protection Services
+- **Coverage Status:** Application submitted; quotes being developed
+- **Quote Stage:** Initial pricing expected shortly
+- **Carriers:** Application distributed across Harper Insurance's carrier network
 
-**Company Information:**
-- Company name: Harbor Shield Security LLC
-- Industry: Security services
-- Contact email: contact@harborshield.com
-
-**Coverage & Policy Details:**
-- Application status: Distributed across carrier network
-- Premium/pricing: Initial pricing expected shortly
-- Coverage considerations mentioned:
-  - Contractual insurance requirements (to be identified)
-  - Enhanced coverage options (customer interest to be determined)
-
-**Documents Requested:**
+### Documents Requested
+The following documentation needed to optimize rates and expedite underwriting:
 - Loss runs (claims history for last 3–5 years)
 - Post orders (current assignment protocols)
 - Service agreement template (standard contract with liability provisions)
 - Experience profile (background documentation)
+- Any contractual insurance requirements documentation
+- Information on interest in enhanced coverage options
 
-**Document Submission Methods:**
-- Secure portal: https://portal.example-insure.com/upload/harbor-shield
-- Alternative: Direct email to jordan.kim@harperinsure.com
+### Document Submission
+- **Secure Portal:** https://portal.example-insure.com/upload/harbor-shield
+- **Alternative:** Direct email to Jordan Kim (jordan.kim@harperinsure.com)
+- **Timeline:** Documents can be collected as needed; underwriting can proceed without all items upfront
+
+---
 
 ## Personal Details
+- **Contact Name:** Steven (last name not provided)
+- **Company Email:** contact@harborshield.com
+- **Harper Insurance Agent:** Jordan Kim
+  - **Title:** Client Success Lead
+  - **Phone:** (470) 731-XXXX
+  - **Email:** jordan.kim@harperinsure.com
+  - **Website:** www.harperinsure.com
 
-**Primary Contact:**
-- Name: Steven (last name not provided in email)
-- Title/Role: Decision-maker for Harbor Shield Security LLC
-- Company email: contact@harborshield.com
-
-**Harper Insurance Contact:**
-- Name: Jordan Kim
-- Title: Client Success Lead
-- Phone: (470) 731-XXXX
-- Email: jordan.kim@harperinsure.com
-- Website: www.harperinsure.com
+---
 
 ## Conversation Context
+- **Purpose:** Follow-up to a recent productive conversation regarding insurance quote
+- **Main Topic:** Requesting supporting documentation to finalize rate optimization and underwriting process
+- **Tone:** Professional, collaborative, friendly
+- **Sentiment:** Positive - describes conversation as "productive"
 
-**Purpose:** Follow-up on insurance application and quote for Harbor Shield Security LLC
+### Key Points
+- Initial underwriting discussion completed
+- Application already distributed to carriers
+- Emphasis on flexibility (items can be collected as needed)
+- Multiple submission options offered (portal or direct email)
 
-**Key Points:**
-- Harper and Steven had a productive conversation (date: 2025-12-04)
-- Application successfully distributed to carrier network
-- Initial pricing quotes are imminent
+### Action Items for Harper/Jordan
+- Monitor for carrier pricing responses
+- Review submitted documents upon receipt
+- Process underwriting as documents arrive
+- Follow up on any missing items
 
-**Action Items for Customer (Steven/Harbor Shield):**
-- Provide loss runs (3–5 year claims history)
-- Provide post orders/current assignment protocols
-- Provide service agreement template
-- Provide experience profile/background documentation
-- Clarify any contractual insurance requirements
-- Indicate interest level in enhanced coverage options
-- Upload documents via portal or email to Jordan Kim
-
-**Action Items for Harper (Jordan Kim):**
-- Await customer document submissions
-- Monitor carrier responses for initial pricing
-- Proceed with underwriting process
-- Be prepared to collect items
+### Action Items for Steven/Harbor Shield
+- **Priority:** Provide loss runs for last 3–5

@@ -10,69 +10,68 @@
 
 ## Business Details
 
-### Client Information
+### Company Information
 - **Company Name:** Meadowbank Financial Group
 - **Industry:** Financial Services
-- **Business Type:** Not specified in email
+- **Policy Reference:** MGL025D60X9 (appears to be a Management Liability policy)
 
-### Coverage & Policy Details
-- **Policy Type:** MGL (Management Liability)
-- **Policy Number/Reference:** MGL025D60X9
-- **Carrier Status:** USLI - **DECLINED**
-- **Current Status:** Seeking alternate carriers or appetite exceptions
+### Coverage & Underwriting Status
+- **Coverage Type:** Management General Liability (MGL)
+- **Current Status:** **DECLINED by USLI**
+- **Carrier:** USLI (United States Liability Insurance Company)
+- **Premium/Deductible/Limits:** Not specified in email
+- **Claims History:** Not provided in email
 
-### Additional Business Details
-- Company size, revenue, years in operation: *Not mentioned*
-- Specific coverage limits/deductibles: *Not provided*
-- Claims history/loss runs: *Not provided*
-- Renewal date/effective date: *Not provided*
+### Documents
+- Memo from USLI regarding declination attached (content not provided in email body)
 
 ---
 
 ## Personal Details
 
-### Contact Information
-- **Primary Contact Name:** Not specified in forwarded message
-- **Email/Phone:** Not provided
-- **Contact Method Preference:** Unknown
+### Contacts Involved
+- **Recipient:** Harper employee (operations/underwriting team)
+- **Forwarding Party:** Harper Operations
+- **Originating Party:** USLI underwriting team
+- **Primary Contact for Client:** Not specified
 
-### Internal Harper Contact
-- **Email:** harper_employee@harperinsure.com (forwarded from another Harper employee)
-- **Department:** Harper Operations
+### Communication Details
+- **Communication Method:** Email with forwarded attachment
+- **Contact Method Preferences:** Not specified
 
 ---
 
 ## Conversation Context
 
 ### Main Purpose
-- Forward USLI declination notice for Meadowbank Financial Group's management liability policy
-- Request guidance on next steps
+- Forward USLI declination notice for management liability coverage
+- Request guidance on next steps for Meadowbank Financial Group
 
-### Key Details
-- USLI has declined coverage for policy MGL025D60X9
-- A memo from USLI is referenced as attached
+### Key Issues
+- **Primary Problem:** USLI has declined coverage for this prospect
+- **Policy Status:** Application unsuccessful with primary carrier
 
 ### Action Items for Harper
-- **Review** the attached USLI declination memo
-- **Advise** on next steps, specifically:
-  - Identify alternate carriers
-  - Determine if appetite exceptions are possible
-  - Determine best path forward for client
+- **Urgent:** Review attached USLI declination memo
+- Identify alternate carriers with appetite for Meadowbank Financial Group
+- Evaluate options for underwriting exceptions
+- Determine next steps in placement strategy
+- Advise on recommended course of action
 
-### Action Items for Customer
-- *None explicitly stated; pending Harper's recommendation*
+### Action Items for Customer (Meadowbank)
+- None explicitly stated; pending Harper's decision on alternatives
 
-### Tone/Sentiment
-- **Neutral/Professional** - administrative in nature
-- **Urgency Level:** Moderate (declination requires prompt action to find alternative coverage)
+### Next Steps
+- Awaiting Harper review and recommendations
+- Timeline for alternative carrier placement: Not specified
+- Follow-up timeline: Not specified
 
-### Follow-up Timeline
-- *No specific timeline mentioned; awaiting Harper's review and recommendation*
+### Tone & Sentiment
+- **Tone:** Professional, matter-of-fact
+- **Urgency Level:** Moderate (declination requires prompt action)
+- **Sentiment:** Neutral/factual reporting of underwriting decision
 
 ---
 
-## Missing Information to Obtain
-- Full details of USLI declination reasons
-- Meadowbank Financial Group contact person and contact information
-- Specific coverage needs and limits requested
-- Any prior claims or loss history
+## Missing Information
+- ⚠️

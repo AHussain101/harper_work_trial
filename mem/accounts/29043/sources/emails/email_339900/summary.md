@@ -6,76 +6,52 @@
 **From:** Alex Moreno <alex.moreno@harperinsure.com>
 **To:** marco@elmstreettint.com
 
-# Email Summary: Quote Available - Elm Street Tint Co.
+# Email Summary: Elm Street Tint Co. Quote
 
 ## Business Details
 
-**Company Information:**
-- Company name: Elm Street Tint Co.
-- Industry: Tinting (automotive or architectural)
-- Business type: Service-based
-
-**Coverage Details:**
-- Policy type: General Liability
-- Coverage limit: $1,000,000 per occurrence
-- Status: Preliminary quote received
-
-**Premium & Costs:**
-- Estimated annual premium: ~$1,200 (includes carrier fees and state taxes)
-- Broker service fee: ~$45
-- Estimated total due if bound: ~$1,250
-
-**Next Steps - Documents/Actions:**
-- Itemized quote available upon request
-- Quote accessible via: https://payments.example-insure.com/quotes/elm-2025
-- Policy not yet bound (pending client approval)
-
----
+- **Company Name:** Elm Street Tint Co.
+- **Industry:** Tinting (automotive/window tinting services)
+- **Coverage Type:** General Liability
+- **Policy Details:**
+  - Limit: $1,000,000 per occurrence
+  - Estimated Annual Premium: ~$1,200
+  - Broker Service Fee: ~$45
+  - **Estimated Total Due (if bound): ~$1,250**
+- **Status:** Preliminary quotes received; ready for review
 
 ## Personal Details
 
-**Contact Information:**
-- Contact name: Marco
-- Email: marco@elmstreettint.com
-- Company email domain: @elmstreettint.com
-- Sender/Harper's Agent: Alex Moreno (alex.moreno@harperinsure.com)
-
----
+- **Contact Name:** Marco
+- **Email:** marco@elmstreettint.com
+- **Contact Method:** Email or online portal
+- **Role/Title:** Not specified (likely owner or decision-maker at Elm Street Tint Co.)
 
 ## Conversation Context
 
-**Main Purpose:**
-- Presenting preliminary general liability insurance quote to Marco at Elm Street Tint Co.
+### Purpose
+Delivery of preliminary general liability insurance quotes for Marco's tinting business
 
-**Key Information Provided:**
-- Carrier-preferred option with $1M per occurrence limit
-- Full cost breakdown (premium, fees, taxes)
-- Online quote review portal access
+### Key Information Provided
+- Quote details with breakdown of premium, fees, and taxes
+- Online portal link for payment options and itemized quote review: https://payments.example-insure.com/quotes/elm-2025
+- Flexibility to modify coverage limits or deductibles before binding
 
-**Pending Client Actions:**
-- Review quote and cost breakdown
-- Decide whether to bind coverage
-- Request any modifications to limits or deductibles if needed
-- Select payment option
-- Reply to confirm or request itemized quote
+### Pending Items
+- Marco's review and approval of quote
+- Marco's decision whether to bind or request modifications
+- Selection of payment method
 
-**Pending Harper Actions:**
-- Wait for client response
-- Update submission if limit/deductible changes requested
+### Action Items for Harper
+- Await Marco's response regarding quote acceptance or requested changes
+- Be ready to update submission if Marco requests different limits/deductibles
 - Process binding once approved
 
-**Follow-up Timeline:**
-- No specific deadline mentioned
-- Open for client to reply at any time
+### Action Items for Customer (Marco)
+- Review preliminary quote
+- Contact Alex or visit online portal to finalize payment options
+- Request itemized quote if desired
+- Notify of any changes to limits/deductibles before binding
 
-**Tone/Sentiment:**
-- Professional, straightforward, and helpful
-- Flexible (offering to adjust terms before binding)
-- No urgency indicated
-
----
-
-## Notes for Harper
-
-- This appears to be an initial outbound quote presentation
-- Client has flexibility to
+### Tone/Sentiment
+Professional, helpful, straightforward; providing clear next steps and flexible options

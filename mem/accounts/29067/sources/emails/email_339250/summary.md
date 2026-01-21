@@ -10,59 +10,58 @@
 
 ## Business Details
 
-### Company Information
-- **Client Company Name:** Lincoln Auto Traders
-- **Industry:** Automotive Dealership
-- **Business Type:** Auto dealer (implied by coverage type and dealer plate endorsement)
+**Company Information:**
+- Business Name: Lincoln Auto Traders
+- Industry: Auto Dealership
+- Business Type: Automotive dealer
 
-### Coverage & Policy Details
-- **Coverage Type:** Garage Liability with dealer plate endorsement
-- **Carrier/MGA:** AutoGuard MGA
-- **Quote Number:** AG-4821
-- **Quote Valid Until:** February 2, 2026
+**Coverage & Policy Details:**
+- Coverage Type: Garage Liability with dealer plate endorsement
+- Quote Number: AG-4821
+- Carrier: AutoGuard MGA
 
-### Premium & Cost Information
-- **Annual Premium (Proposed):** ~$1,250
-- **State Taxes & Filing Fees:** ~$80
-- **Estimated Total Annual Cost:** ~$1,330
+**Premium & Cost Information:**
+- Proposed Annual Premium: ~$1,250
+- State Taxes & Filing Fees: ~$80
+- Estimated Total Cost: ~$1,330
+- Quote Valid Until: February 2, 2026
 
-### Required Documentation & Conditions (Subjectivities)
+**Documentation & Requirements:**
+The following items are required (subjectivities) to bind coverage:
 - Completed and signed ACORD application
 - Confirmation of dealer plates (6 or fewer)
 - Current loss runs (if available)
 - Payment of initial premium to bind coverage
 
-### Additional Resources
-- **Full Quote Portal Link:** https://portal.example-mga.com/quotes/AG-4821
-
----
+**Quote Access:**
+- Full quote details available at: https://portal.example-mga.com/quotes/AG-4821
 
 ## Personal Details
 
-### Contact Information
-- **Recipient:** Samira (at Harper Insurance)
-- **Sender:** AutoGuard MGA Underwriting
-- **Sender Email:** quotes@autoguardmga.com
-- **Harper's Submission Email:** submissions@harperinsure.com
-
----
+**Contact Information:**
+- Recipient: Samira (Harper's representative at submissions@harperinsure.com)
+- Sender: AutoGuard MGA Underwriting
+- Sender Email: quotes@autoguardmga.com
 
 ## Conversation Context
 
-### Purpose
-Quote submission from AutoGuard MGA for a prospective/existing client's garage liability coverage
+**Purpose:**
+Quote submission from carrier for garage liability coverage with dealer plate endorsement for Lincoln Auto Traders
 
-### Key Information Provided
-- Terms and premium options available for Lincoln Auto Traders
-- Specific quote details with itemized costs
-- Clear list of documentation/conditions needed to finalize coverage
+**Status:**
+- Quote provided and ready for review
+- Pending client acceptance and submission of required documentation
 
-### Pending Action Items for Harper
-- [ ] Review quote terms with Lincoln Auto Traders client
-- [ ] Collect completed ACORD application from client
-- [ ] Obtain confirmation of number and details of dealer plates (limit: 6)
-- [ ] Request current loss runs from client (if applicable)
-- [ ] Facilitate premium payment to bind coverage
-- [ ] Access full quote details via portal link if additional information needed
+**Action Items for Harper:**
+1. Review quote AG-4821 with Lincoln Auto Traders client
+2. Obtain completed and signed ACORD application from client
+3. Confirm number of dealer plates (must be ≤6)
+4. Request current loss runs from client (if available)
+5. Coordinate premium payment to bind coverage
+6. Submit all required documents to AutoGuard MGA
 
-### Pending Action Items for Client (Lincoln
+**Timeline:**
+- Quote expires: February 2, 2026 (approximately 2 months from quote date)
+
+**Tone/Sentiment:**
+Professional, standard carrier quote submission

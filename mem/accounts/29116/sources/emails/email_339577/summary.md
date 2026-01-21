@@ -6,64 +6,68 @@
 **From:** Marcus Lee <owner@safeguardsolutions.co>
 **To:** submissions@harperinsure.com
 
-# Email Summary: SafeGuard Solutions Workers' Comp Intake
+# SafeGuard Solutions — Workers' Comp Intake Summary
 
 ## Business Details
 
-**Company Information:**
+### Company Information
 - **Company Name:** SafeGuard Solutions LLC
-- **Industry/Type:** Not specified in email
-- **Contact:** Marcus Lee (Owner)
-- **Contact Email:** owner@safeguardsolutions.co
+- **Business Type:** Not specified
+- **Industry:** Not specified
+- **Years in Operation:** Not specified
+- **Number of Employees:** Included in attached intake form (specific count not provided in email)
+- **Revenue/Payroll:** Estimated payroll included in attached intake form (specific amount not provided in email)
 
-**Coverage & Policy Details:**
+### Coverage & Policy Details
 - **Coverage Type:** Workers' Compensation
-- **Documents Provided:** Completed workers' comp intake form (attached)
-- **Key Information Included in Attachment:** Estimated payroll and employee counts
+- **Policy Documents:** Completed workers' comp intake form attached
+- **Premium Amounts:** Not specified
+- **Deductibles:** Not specified
+- **Policy Limits:** Not specified
+- **Renewal Date:** Not specified
+- **Effective Date:** Not specified
+- **Claims History/Loss Runs:** Not mentioned
 
-**Missing/Unknown Details:**
-- Number of employees (in attachment, not stated in email body)
-- Estimated payroll amount (in attachment, not stated in email body)
-- Current carriers or existing policies
-- Claims history or loss runs
-- Renewal date or effective date needed
-- Premium quotes or rate information
+### Carrier Information
+- **Carriers Quoted:** None mentioned
+- **Carrier Recommendations:** None provided
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Marcus Lee
-- **Title:** Owner
+### Contact Information
+- **Contact Name:** Marcus Lee
+- **Title/Role:** Owner, SafeGuard Solutions LLC
 - **Email:** owner@safeguardsolutions.co
 - **Phone:** Not provided
-- **Preferred Contact Method:** Email (assumed based on submission method)
+- **Preferred Contact Method:** Not specified
 
-**Communication Style Notes:**
-- Professional and concise
-- Straightforward; minimal elaboration
-- Proactive in providing requested documentation
+### Personality/Communication Notes
+- Professional, concise communication style
+- Responsive and organized (completed intake form promptly)
 
 ## Conversation Context
 
-**Email Purpose:** Workers' compensation intake submission for new business quote/policy
+### Main Topic
+- Initial workers' compensation insurance intake for SafeGuard Solutions LLC
 
-**Key Points:**
-- Intake form completed and attached
-- Payroll and employee count estimates included
+### Key Details
+- Marcus has completed and submitted the required workers' comp intake form
+- Form includes estimated payroll and employee counts
+- Email sent to general submissions email rather than direct contact
 
-**Action Items for Harper:**
-- ✓ Receive and review attached workers' comp intake form
-- Review estimated payroll and employee counts
-- Determine if additional information is needed
-- Contact Marcus if clarifications required
-- Prepare quote or next steps for workers' comp coverage
+### Action Items for Harper
+- Review the attached workers' comp intake form
+- Verify all information is complete and accurate
+- Determine if any additional details or documentation are needed
+- Prepare quote(s) from appropriate carrier(s)
+- Contact Marcus if clarification is needed on any submitted information
 
-**Action Items for Customer (SafeGuard Solutions):**
-- Await Harper's follow-up
-- Provide additional details if Harper requests them
+### Action Items for Customer
+- Stand by for Harper's follow-up requests (if any)
+- Provide additional details if requested by Harper
 
-**Next Steps/Follow-up Timeline:**
-- Pending — Harper should review attachment and respond to Marcus
-- No specific deadline mentioned
+### Pending Decisions
+- Coverage details and quote approval pending review of intake form
+- Carrier selection pending
 
-**Tone/Sentiment:** Professional, cooperative, neutral
+### Follow-up Timeline

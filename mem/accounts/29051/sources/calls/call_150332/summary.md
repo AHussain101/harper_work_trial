@@ -4,7 +4,7 @@
 **Duration:** 11m 17s
 **Direction:** Incoming
 
-# Call Summary: Bright Futures Childcare Center, Inc.
+# Call Summary: Bright Futures Childcare Center, Inc. — General Liability Quote
 
 ## Business Details
 
@@ -12,57 +12,58 @@
 - Company Name: Bright Futures Childcare Center, Inc.
 - Business Type: Childcare/Daycare facility
 - Location: 789 South Oak Lane, Springfield, AR
-- State Licensed: Yes (Arkansas)
-- Years in Operation: Not mentioned
-- Number of Employees: 4
+- Industry: Childcare services
+- Licensing: State licensed in Arkansas
 
-**Operations**
-- Operating Hours: 7:00 AM – 5:30 PM
+**Operational Details**
+- Operating Hours: 7:00 AM to 5:30 PM
 - Facility Capacity: ~47 children
 - Average Daily Attendance: ~22 children
-- Special Programs/Services: None currently
-- Transport Services: No
-- Animals on Premises: No
-- Special Medical Care Programs: No
+- Number of Employees: 4
 
-**Coverage Details**
+**Coverage Requirements**
 - Policy Type: General Liability
-- Coverage Limit Requested: $500,000 per occurrence
-- Premium Amount: Not yet quoted
-- Deductible: Not discussed
-- Policy Effective Date Needed: As soon as possible (current policy renews mid-month)
-- Renewal Date: Mid-month (specific date not provided)
+- Requested Limit: $500,000 per occurrence
+- Current Coverage: Existing policy (renewal mid-month)
+- Effective Date Needed: As soon as possible (urgent)
 
-**Underwriting Status**
-- Application Status: Submitted to underwriting, marked URGENT
-- Expected Carrier Response Timeline: 24–48 hours
-- Quote Delivery Method: Email
+**Special Considerations**
+- No transportation services
+- No animals on premises
+- No special medical/care programs
+- Standard daycare operations
 
 ## Personal Details
 
 **Primary Contact**
-- Name: Not provided (owner speaking)
-- Title: Owner/Decision Maker
-- Business/Referring Agent: Marcus Lee at Sunrise Agency
+- Name: [Business Owner — not explicitly named in call]
+- Title: Owner/Decision-maker
 - Preferred Contact Method: Email
-- Phone Number: Not provided
-- Email: Not provided
+- Phone: Not provided
+
+**Referrer Information**
+- Referrer Name: Marcus Lee
+- Referrer Company: Sunrise Agency
+- Referrer Role: Insurance agent/broker (referred client to Harper)
 
 ## Conversation Context
 
 **Call Purpose**
-- Incoming call transferred from Marcus Lee (Sunrise Agency referral)
-- Primary objective: Obtain general liability quote for daycare facility
+- Incoming call from referral partner to obtain general liability insurance quote for childcare facility
 
-**Key Information Exchanged**
-- Business name, address, and operational details confirmed
-- Coverage limits, timeline, and contact preferences established
-- No special risk factors identified (no transport, animals, or medical programs)
+**Key Details Discussed**
+- Confirmed business name, address, operational hours, and licensing status
+- Clarified facility capacity and daily attendance
+- Ruled out transport, animals, and special care programs
+- Confirmed $500k per occurrence limit matches previous coverage
+- Identified urgent timeline due to mid-month renewal
 
 **Decisions Made**
-- Proceeding with $500k per occurrence general liability quote
-- Application marked URGENT for expedited underwriting review
-- Quote will be delivered via email
+- ✅ Application submitted to underwriting with urgent priority flag
+- ✅ Quote delivery via email confirmed as preferred method
 
 **Action Items for Harper**
-- ✓ Submit application to under
+- Mark application as **URGENT** for expedited underwriting review
+- Submit application to underwriting department
+- Monitor for carrier responses within 24–48 hours
+- Sen

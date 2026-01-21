@@ -5,36 +5,34 @@
 
 # SMS Summary
 
-## Business Details
-- **Company Name:** Harper Insurance
-- **Contact Person:** Jordan Kim
-- **Role:** Insurance Broker (implied)
-
-## Personal Details
-- **Contact Name:** Jordan Kim
-- **Company:** Harper Insurance
-- **Communication Method:** SMS
-- **Phone Number:** [Number used to send this message]
-
-## Conversation Context
-- **Main Topic/Purpose:** Initial contact establishment and number save request
-- **Message Type:** Introductory/Administrative notification
-- **Key Message:** Customer is being asked to save Jordan Kim's phone number for future policy updates
-- **Tone/Sentiment:** Professional, straightforward, service-oriented
-
-## Action Items
-### For Customer (implied)
-- Save Jordan Kim's phone number from Harper Insurance to contacts for future policy update communications
-
-### For Harper
-- No immediate action items indicated in this message
-
-## Important Notes
-- **This is an introductory message** - No substantive policy information, quotes, or specific business details are included
-- This appears to be an initial contact or re-establishment of communication
-- Customer has not yet provided detailed information about their insurance needs or existing coverage
-- **Follow-up needed** to discuss coverage needs, business details, and any policy requirements
+## Message Overview
+- **Direction:** Outgoing (Harper → Customer)
+- **Date & Time:** December 4, 2025 at 7:45 PM
+- **Tone/Sentiment:** Professional, informational
 
 ---
 
-**Status:** Initial contact phase - awaiting customer response or next communication step
+## Business Details
+- **Company Name:** Harper Insurance
+- **Purpose:** Policy updates notification service
+
+---
+
+## Personal Details
+- **Contact Name:** Jordan Kim
+- **Role/Title:** Insurance broker/representative at Harper Insurance
+- **Communication Method:** SMS (phone number being provided for customer to save)
+
+---
+
+## Conversation Context
+- **Main Topic:** Introduction and request for customer to save contact number for future policy updates
+- **Purpose:** Establishing communication channel for policy-related notifications
+- **Action Items for Customer:**
+  - Save the provided phone number in contacts for easy reference
+  - Expect future policy update communications via this number
+
+---
+
+## Missing Information
+⚠️ **Note:** No specific policy details, business information, coverage needs, or customer details were discussed in this message. This appears to be an initial outreach or a standard notification message.

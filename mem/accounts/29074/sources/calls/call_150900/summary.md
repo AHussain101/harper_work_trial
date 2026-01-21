@@ -7,56 +7,69 @@
 # Call Summary: MapleBridge Staffing Follow-Up
 
 ## Business Details
-- **Company Name:** MapleBridge Staffing
-- **Industry:** Staffing/Temporary Staffing Services
-- **Coverage Type Discussed:** Certificate of Insurance (COI)
-- **Urgent Deadline:** Client contract deadline next week
+
+**Company Information**
+- Company Name: MapleBridge Staffing
+- Industry: Staffing/Temporary Staffing Services
+- Business Type: Staffing Agency
+
+**Coverage & Documentation Needs**
+- Certificate of Insurance (COI) requirements discussed
+- Loss runs requested
+- Client contract language to be provided
+- Upload location: https://portal.example-insure.com/upload
+
+**Timeline & Deadlines**
+- **Urgent Contract Deadline:** Next week (week of 2025-12-12)
+- Call Date: December 5, 2025
 
 ## Personal Details
-- **Contact Person:** Not specified in call notes
-- **Contact Method:** Phone (outgoing call from Harper)
-- **Availability Note:** Urgent timeline - contract deadline next week
+
+**Contact Information**
+- Contact Name: Not specified
+- Contact Title/Role: Not specified
+- Phone Number: Not provided
+- Email: Not provided
+- Preferred Contact Method: Secure portal upload indicated as preferred method
 
 ## Conversation Context
 
-### Purpose of Call
-- Follow-up call to confirm receipt of Certificate of Insurance (COI) requirements
-- Request loss runs documentation from client
+**Call Purpose**
+- Follow-up call to confirm receipt of COI requirements
+- Request submission of loss runs and supporting documentation
 
-### Key Points Discussed
-- Client confirmed they would upload required documents
-- Documents to be uploaded to secure portal
-- Urgent contract deadline mentioned for next week
+**Key Points Discussed**
+- Client confirmed willingness to upload required documents
+- Urgent contract deadline coming next week creates time-sensitive situation
+- Documents need to be uploaded to secure portal
 
-### Documents/Requirements
-- **Required Documents:**
-  - Loss runs
-  - Client contract language (if applicable)
-- **Upload Location:** https://portal.example-insure.com/upload
+**Documents Required**
+- Loss runs
+- Client contract language
+- COI documentation (confirmation of receipt)
 
-### Decisions Made
-- Client agreed to upload documents to secure portal
-- Harper will escalate to underwriting once documents are received
+**Decisions & Next Steps**
 
-## Action Items
+*Harper's Action Items:*
+- Escalate to underwriting once documents are received
+- Monitor portal for document uploads given urgent deadline
 
-### For Harper
-- ✓ Escalate to underwriting department upon receipt of documents from client
-- Monitor for document upload to secure portal
-- Follow up if documents not received before client's contract deadline next week
-
-### For MapleBridge Staffing (Client)
+*Client's Action Items:*
 - Upload loss runs to secure portal
-- Upload client contract language to secure portal (if applicable)
-- Upload via: https://portal.example-insure.com/upload
+- Upload client contract language to secure portal
+- Submit documents before next week's contract deadline
 
-## Timeline
-- **Call Date/Time:** December 5, 2025 at 8:15 AM UTC
-- **Call Duration:** 1 minute 18 seconds
-- **Client Deadline:** Next week (urgent)
-- **Next Steps Timeline:** Documents should be uploaded ASAP due to urgent contract deadline
+**Follow-Up Timeline**
+- Documents should be submitted ASAP (urgent deadline next week)
+- Harper will escalate to underwriting upon receipt
+- Specific follow-up date not established
 
-## Tone/Sentiment
-- **Tone:** Professional, urgent
-- **Client Responsiveness:** Cooperative - confirmed they would upload documents
-- **Urgency Level:** HIGH - client has urgent contract deadline next week
+**Tone/Sentiment**
+- Professional and cooperative
+- Urgent (contract deadline mentioned)
+- Client appears responsive and willing to comply
+
+---
+**Call Duration:** 1 minute 18 seconds  
+**Call Type:** Outgoing from Harper  
+**Call Date/Time:** December 5, 2025 at 8:15 AM UTC

@@ -4,59 +4,76 @@
 **Duration:** 7m 0s
 **Direction:** Incoming
 
-# Call Summary for Harper Insurance
-
-## Contact Information
-- **Name:** Ethan Marshall
-- **Role/Title:** Not specified (appears to be owner/decision-maker)
-- **Call Type:** Incoming follow-up call
-- **Agent:** Jordan (Harper Insurance)
-- **Call Duration:** 7 minutes
-- **Date/Time:** December 5, 2025 at 1:05 AM UTC
-- **Status:** Completed
-
----
+# Insurance Call Summary - Ethan Marshall
 
 ## Business Details
 
-### Company Information
-- **Company Name:** Not provided
-- **Industry:** Service-based (appears to be contracting/field services based on context clues - uses subcontractors, client waivers, job-based work)
-- **Years in Operation:** Not mentioned
-- **Revenue:** Not mentioned
-
-### Staffing & Operations
-- **Full-time Employees:** 10
-- **Subcontractors:** 2 seasonal subcontract crews used occasionally for larger jobs
-- **Safety Practices:**
+**Company Information:**
+- Type of Business: Service-based company (appears to be contracting/service industry based on context of subcontractors, client waivers, and background checks)
+- Number of Employees: 10 full-time staff
+- Subcontractors: 2 seasonal crews used occasionally for larger jobs
+- Safety/Compliance Measures:
   - Uses standard service agreements with clients
-  - Requires ID checks/background checks for all contractors
+  - Requires ID checks for all contractors
   - Maintains basic client waivers
 
-### Coverage & Claims Information
-- **Prior Claims History:** None (confirmed - no prior claims)
-- **Coverage Type:** Not specifically named, but appears to be general liability/contractor coverage
-- **Premium Amounts:** Not discussed
-- **Deductibles:** Not discussed
-- **Policy Limits:** Not discussed
-- **Renewal/Effective Date:** Not mentioned
+**Coverage & Underwriting Status:**
+- Application stage: Underwriting in progress
+- Claims History: No prior claims confirmed
+- Expected Timeline: Quotes anticipated within 24-48 hours
+- Documents: Supplemental documentation to be uploaded by Harper agent
+
+**Pending Items:**
+- Quote review meeting to be scheduled
+- Policy options to be presented upon quote receipt
+
+---
+
+## Personal Details
+
+**Contact Information:**
+- Name: Ethan Marshall
+- Role: Business owner/decision-maker (presumed)
+- Phone: Not mentioned
+- Email: Not mentioned
+- Preferred Contact: Not specified
+
+**Communication Style:**
+- Professional and cooperative
+- Responsive to questions
+- Brief, efficient communicator
+- Satisfied with service
 
 ---
 
 ## Conversation Context
 
-### Purpose of Call
-- Follow-up on application to collect additional underwriting information
-- Clarify employee count and operational details
-- Verify safety/compliance procedures before issuing quotes
+**Call Purpose:**
+- Follow-up underwriting call to clarify application details before issuing quotes
 
-### Key Information Confirmed
-1. ✅ Employee count: 10 full-time staff confirmed
-2. ✅ Subcontractor usage: Yes, 2 seasonal crews for larger jobs
-3. ✅ Client agreements: Uses standard service agreements
-4. ✅ Contractor vetting: Background checks/ID verification required
-5. ✅ Claims history: No prior claims
+**Key Information Clarified:**
+1. Confirmed 10 full-time employees + 2 seasonal subcontractor crews
+2. Verified use of client waivers and background-check procedures
+3. Confirmed no prior claims history
 
-### Tone & Sentiment
-- **Tone:** Cooperative and positive
-- **Client Sentiment:** Satisfied, responsive ("
+**Tone/Sentiment:**
+- Positive and cooperative
+- No concerns or urgency expressed
+
+---
+
+## Action Items
+
+**Harper Agent (Jordan):**
+- [ ] Upload supplemental underwriting documents
+- [ ] Prepare and issue quotes within 24-48 hours
+- [ ] Schedule follow-up call with Ethan to review quote options
+
+**Ethan Marshall:**
+- [ ] Await quote receipt and Harper's follow-up call
+- [ ] Be available to review policy options
+
+---
+
+## Call Metadata
+- **Date:** December 5, 2

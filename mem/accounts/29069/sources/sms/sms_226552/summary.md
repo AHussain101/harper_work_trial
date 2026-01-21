@@ -3,61 +3,49 @@
 **Date:** 2025-12-04T20:48:58.928000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance Broker
-
-## Message Type
-- **Direction:** Outgoing (from Harper/agent to customer)
-- **Date/Time:** December 4, 2025 at 8:48 PM
-- **Channel:** SMS
-
----
+# SMS Summary for Harper Insurance
 
 ## Business Details
-- No specific business details mentioned in this message
-
----
+- **Coverage Status**: Quote options pending
+- **Policy Stage**: Pre-finalization phase
+- **Next Step**: Agent callback required to finalize coverage details
 
 ## Personal Details
-- **Contact Name:** Jordan Kim
-- **Email:** jordan.kim@harperinsure.com
-- **Role/Title:** Agent (implied - handling quote finalization)
-
----
+- **Contact Name**: Jordan Kim
+- **Contact Title/Role**: Insurance agent/representative at Harper Insurance
+- **Contact Method**: 
+  - Email: jordan.kim@harperinsure.com
+  - SMS (text reply option available)
+- **Communication Preference**: Open to both SMS and email communication
 
 ## Conversation Context
 
 ### Main Topic/Purpose
-- Confirmation message regarding upcoming quote options and next steps in the insurance process
+- Notification to customer that quote options are being prepared
+- Setting expectations for next steps in the insurance process
 
 ### Key Information
-- Customer is awaiting insurance quote options
-- Process involves two stages:
-  1. Receipt of quote options (pending)
-  2. Agent phone call to finalize coverage (next step)
+- Quotes are in development/preparation stage
+- Final coverage details will be confirmed via phone call with an agent
 
 ### Action Items for Customer
-- Wait for quote options to be sent
-- Be available to receive agent call for coverage finalization
-- Submit any questions before receiving quotes via SMS reply or email to jordan.kim@harperinsure.com
+- Wait for quote options to be provided
+- Prepare for upcoming agent callback
+- Reach out with any questions before receiving quotes (via SMS reply or email)
 
-### Action Items for Harper/Agent
-- Generate and send quote options to customer
-- Schedule call with customer to finalize coverage once quotes are ready
-- Monitor SMS and email (jordan.kim@harperinsure.com) for customer questions
+### Action Items for Harper
+- Generate quote options for this customer
+- Schedule agent callback to finalize coverage once quotes are ready
+- Monitor for customer questions via SMS or email at jordan.kim@harperinsure.com
 
 ### Follow-up Timeline
-- No specific timeline provided
-- Implies quotes will be generated "soon" but timeline is not defined
+- **Next Steps**: Pending quote preparation; callback to occur after quotes are ready
+- **Customer Contact Options**: SMS reply or email jordan.kim@harperinsure.com
 
 ### Tone/Sentiment
-- Professional, helpful, organized
-- Proactive customer service approach
-- Clear communication of next steps
+- **Tone**: Professional, helpful, courteous
+- **Sentiment**: Neutral/positive; providing clear next steps and reassurance
 
 ---
 
-## Outstanding Information Needed
-- No quote options sent yet
-- No specific coverage details, policy types, or carriers mentioned in this message
-- No premium amounts or policy details specified
-- Customer's name not mentioned in this SMS
+**Note**: This appears to be an outgoing message FROM Harper/Jordan TO a customer. Limited customer-specific business details are visible in this message alone.

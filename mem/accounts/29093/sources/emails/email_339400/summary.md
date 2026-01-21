@@ -10,34 +10,49 @@
 
 ## Business Details
 - **Company Name:** Sunny Days Childcare
-- **Industry:** Childcare/Early Childhood Education
-- **Coverage Status:** Application in progress
-- **Documents Requested:**
-  - State childcare license (copy)
-  - Sample parent agreement
-  - Incident reporting policy
-- **Application Reference:** SD-790
-- **Expected Timeline:** Quote finalization within 24-48 hours of document receipt
+- **Industry:** Childcare Services
+- **Coverage Type:** Childcare insurance (application in progress)
+- **Application ID/Reference:** SD-790
+- **Status:** Application under review; awaiting documentation before underwriting
 
 ## Personal Details
 - **Contact Name:** Isabella
-- **Contact Email:** info@sunnydayschildcare.com
-- **Documents Needed from Client:**
-  - Emergency contacts (2 contacts with names + phone numbers)
-  - List of any alternate caregivers (names + phone numbers)
+- **Email:** info@sunnydayschildcare.com
+- **Role/Title:** Not explicitly stated (likely owner/manager based on context)
+- **Contact Method:** Email
 
 ## Conversation Context
-- **Email Purpose:** Follow-up request for missing documentation needed to complete insurance application
-- **Main Topic:** Application checklist and document submission instructions
-- **Tone/Sentiment:** Professional, helpful, organized
-- **Key Action Items for Customer:**
-  1. Upload state childcare license via secure portal
-  2. Provide 2 emergency contacts with names and phone numbers
-  3. Provide alternate caregiver information (if applicable)
-  4. Optionally submit sample parent agreement and incident reporting policy
-- **Key Action Items for Harper:** 
-  1. Receive and review submitted documents
-  2. Finalize quote options upon document completion
-- **Next Steps:** Customer submits documents → Underwriting reviews → Quotes provided within 24-48 hours
-- **Upload Portal:** https://portal.harperinsure.com/upload/SD-790
-- **Sent By:** Ethan Park, Producer at Harper Insurance
+- **Purpose:** Request for documentation needed to complete insurance application and move to underwriting phase
+- **Main Topic:** Next steps in the application process
+
+## Documents Requested (Action Items for Customer)
+1. **State childcare license** - copy required
+2. **Emergency contacts list** - 2 contacts minimum with names and phone numbers
+3. **Alternate caregiver information** - names and contact details
+4. **Optional documents:**
+   - Sample parent agreement
+   - Incident reporting policy
+   - (These items noted as helpful for underwriting but not mandatory)
+
+## Action Items for Customer
+- Upload all requested documents to secure portal: https://portal.harperinsure.com/upload/SD-790
+- Provide emergency contacts (2 minimum) with names and phone numbers
+- Provide alternate caregiver information if applicable
+- Consider including parent agreement and incident reporting policy samples
+
+## Action Items for Harper (Ethan Park)
+- Monitor portal uploads at SD-790
+- Process received documents through underwriting
+- Generate and finalize quote options once documentation complete
+- Follow up if documents not received within reasonable timeframe
+
+## Timeline & Next Steps
+- **Expected Turnaround:** 24-48 hours after document receipt
+- **Next Phase:** Underwriting finalization and quote options
+- **Sender:** Ethan Park (Producer)
+- **Sender Contact:** ethan.park@harperinsure.com
+
+## Tone/Sentiment
+- **Tone:** Professional, helpful, and organized
+- **Urgency:** Routine/moderate (process-moving communication)
+- **Sentiment:** Positive and collaborative

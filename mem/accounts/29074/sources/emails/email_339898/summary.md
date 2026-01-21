@@ -10,64 +10,61 @@
 
 ## Business Details
 
-**Company Information**
+### Company Information
 - **Company Name:** MapleBridge Staffing
 - **Business Type:** Staffing firm (first-year operation)
-- **Industry Focus:** Clerical and professional placements (excludes medical/IT staffing)
-- **Years in Operation:** 1 year (new business)
+- **Industry:** Clerical and professional placements (excludes medical/IT staffing)
+- **Years in Operation:** First year
 - **Number of Employees:** 10 internal employees
-- **Revenue:** ~$500,000 (first-year)
-- **Payroll:** ~$300,000
-- **Geographic Scope:** Multi-state placement capability
+- **Revenue:** ~$500k (first-year)
+- **Payroll:** ~$300k
 
-**Coverage Needs & Policy Types**
+### Geographic Operations
+- Multi-state placement capability
+- Clients require rapid Certificate of Insurance (COI) issuance
+
+### Coverage Needs & Policies Discussed
 - Cyber Liability
 - E&O/Professional Liability
 - General Liability (GL)
 - Employer's Liability (EL)
-- Crime
-- Umbrella (high-limit)
+- Crime coverage
+- Umbrella/Excess Liability (high-limit)
 
-**Policy Limits & Requirements**
-- Umbrella/Aggregate Limit: ~$10M (client-mandated requirement)
+### Coverage Limits
+- High umbrella/aggregate limits requested (~$10M aggregate)
+- Client contracts require these elevated limits
 
-**Insurance History**
-- No prior insurance history on file
-- No loss runs available from previous carriers
-- First-time insurance buyer
-
-**Business Requirements**
-- Rapid Certificate of Insurance (COI) issuance needed to meet client contracts
-- Client contracts require specific COI language/requirements (details to be obtained)
-
----
+### Insurance History
+- **New business** - no prior insurance history on file
+- No prior loss runs available yet
 
 ## Personal Details
 
-**Key Contact**
+### Primary Contact
 - **Name:** Rachel Manning
-- **Title/Role:** Owner
+- **Role:** Owner
 - **Background:** Extensive staffing industry experience
-- **Specific Needs:** Requires quick COI turnaround to meet client contract deadlines
-
-**Contact Method**
-- Email: thomas.anselmo@amwins.com (submission contact)
-- Submitted by: harper_employee@harperinsure.com (Harper representative)
-
----
+- **Key Concern:** Needs quick COI turnaround to meet client contract requirements
 
 ## Conversation Context
 
-**Main Purpose**
-- Insurance submission for new staffing firm seeking comprehensive coverage package
-- Goal: Obtain quotes from carriers and facilitate rapid policy binding
+### Email Purpose
+- Internal Harper team submission summary for a new staffing firm client
+- Documentation of comprehensive insurance package request and underwriting approach
 
-**Key Questions/Information Needed**
-- Loss runs from any prior carrier (required before binding)
-- Specific contract COI language requirements from client contracts
+### Key Information Exchange
+- Client requires rapid COI issuance to fulfill existing contracts
+- High umbrella limits are non-negotiable (client-mandated requirement of ~$10M)
 
-**Documents Requested**
-- Loss runs (prior carrier documentation)
-- Client contract COI language specifications
+### Critical Pending Items
+- **Required Documents:** Loss runs from any prior carrier
+- **Needed Information:** Contract COI language requirements from client contracts
 
-**Next Steps &
+### Action Items for Harper
+1. Obtain loss runs from any prior insurance carriers
+2. Obtain/clarify contract COI language requirements from client
+3. Activate carrier submissions once above items are received
+4. Monitor carrier responses (expected within 24–72 hours of loss run submission)
+
+### Action Items for Customer (MapleBridge Staff

@@ -6,69 +6,71 @@
 **From:** HARPER EMPLOYEE <harper_employee@harperinsure.com>
 **To:** owner@lakeviewjunction.com
 
-# Email Summary: Lakeview Junction Bar & Grill Insurance Quote Follow-up
+# Email Summary: Lakeview Junction Bar & Grill Insurance Quote Update
 
 ## Business Details
 
 **Company Information:**
-- **Business Name:** Lakeview Junction Bar & Grill
-- **Industry:** Food & Beverage (Bar & Restaurant)
-- **Business Type:** Bar/Grill establishment
+- Business Name: Lakeview Junction Bar & Grill
+- Industry: Food & Beverage / Hospitality (Bar & Restaurant)
+- Business Type: Bar & Grill establishment
 
-**Coverage & Documents:**
-- Application submitted to carrier network
-- Initial quotes expected shortly
-- Requesting loss runs (3 years preferred, or as long as coverage has been carried)
-- Requesting Certificates of Insurance (COIs)
-- Contract-specific insurance requirements to be addressed
-- General coverage needs to be discussed
-
-**No specific information provided:**
-- Number of employees
-- Annual revenue
-- Years in operation
-- Specific policy types being quoted
-- Premium amounts
-- Deductibles or coverage limits
-- Renewal/effective dates
-
----
+**Coverage & Policy Information:**
+- Application submitted to Harper Insurance carrier network
+- Initial quotes expected to arrive shortly
+- Specific policy types/coverage limits: Not yet specified in email
+- Documents needed:
+  - Loss runs (3 years preferred)
+  - Certificates of Insurance (COIs)
+  - Contract-specific insurance requirements
+  - Any other coverage-specific documents
 
 ## Personal Details
 
 **Primary Contact:**
-- **Name:** Marcus
-- **Title:** Owner
-- **Email:** owner@lakeviewjunction.com
-- **Preferred Contact Method:** Email (implied)
-- **Communication Style:** Responsive, willing to participate in process
+- Name: Marcus
+- Role/Title: Owner
+- Email: owner@lakeviewjunction.com
+- Communication Method: Email preferred (based on email communication)
 
 **Harper Representative:**
-- **Name:** Not explicitly stated in signature (Harper Employee)
-- **Title:** CEO & Co-founder, Harper Insurance
-- **Phone:** +1 (470) 731-4971
-- **Email:** harper_employee@harperinsure.com
-
----
+- Role: CEO & Co-founder, Harper Insurance
+- Phone: +1 (470) 731-4971
+- Email: harper_employee@harperinsure.com
 
 ## Conversation Context
 
-**Purpose:** Follow-up to phone conversation; request for documentation to expedite quote process
+**Email Purpose:**
+- Follow-up after phone conversation with Marcus
+- Request for supporting documentation to expedite quote process
+- Provide secure upload portal information
 
-**Main Topics:**
-- Application submitted to multiple carriers
-- Requesting supporting documentation from client to speed processing
-- Explaining importance of loss runs for pricing and turnaround time
+**Key Messages:**
+- Application successfully submitted to carrier network
+- Initial quotes arriving soon
+- Loss runs help carriers assess claims history and improve pricing/turnaround time
+- Portal link provided for document upload
 
-**Key Actions:**
+**Action Items for Customer (Marcus):**
+- Upload loss runs for past 3 years (or full coverage history)
+- Upload any contract-specific insurance requirements or COIs
+- Submit any additional coverage needs
+- Use secure portal: https://portal.example-insure.com/upload/abcd123
 
-*For Marcus (Customer):*
-- [ ] Upload documents to secure portal: https://portal.example-insure.com/upload/abcd123
-- [ ] Provide loss runs for past 3 years (minimum)
-- [ ] Provide Certificates of Insurance (COIs)
-- [ ] Communicate any contract-specific insurance requirements
-- [ ] Clarify any additional coverage needs
+**Action Items for Harper:**
+- Monitor for quote arrivals from carrier network
+- Follow up with Marcus if documents not received within reasonable timeframe
 
-*For Harper:*
-- [ ] Monitor for carrier quote responses
-- [ ] Follow up if Marcus doesn't upload documents
+**Next Steps:**
+- Awaiting customer document submission
+- Quotes expected shortly (timeline not specified)
+
+**Tone/Sentiment:**
+- Professional and helpful
+- Appreciative of customer's time
+- Collaborative and service-oriented
+- Urgent (encouraging swift document submission to expedite process)
+
+---
+
+**

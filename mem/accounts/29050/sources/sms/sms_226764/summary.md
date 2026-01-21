@@ -5,42 +5,42 @@
 
 # SMS Summary for Harper
 
-## Business Details
-- **No business information provided**
-
-## Personal Details
-- **Contact Name:** Unknown
-- **Communication:** Via SMS
-- **Tone/Sentiment:** Casual, brief acknowledgment
-
 ## Conversation Context
 
 ### Main Topic
-- Brief acknowledgment message with no specific context
+- Brief acknowledgment message with minimal substantive content
 
-### Key Information
-- Message appears to be a reply/confirmation
-- No substantive details about insurance needs, quotes, or next steps
-
-### Action Items
-- **For Harper:** 
-  - Requires clarification on what this message is acknowledging
-  - May need to follow up with fuller context or details
-  - Consider reviewing recent communications with this contact to understand the conversation thread
-
-- **For Customer:** 
-  - None indicated in this message
-
-### Follow-up Recommendations
-- **⚠️ IMPORTANT:** This message is vague and lacks context. Harper should:
-  - Review previous communications with this contact
-  - Confirm what specific topic/action item was being acknowledged
-  - Send a follow-up message to clarify next steps or required information
-  - Ensure no critical details or deadlines are being missed
-
-### Sentiment
-- Neutral/Positive (brief acknowledgment suggests agreement or acceptance)
+### Message Content
+- Customer sent: "Ok thanks"
+- **Tone/Sentiment:** Neutral, polite acknowledgment
+- **Interpretation:** Customer is confirming receipt of information or agreement with previous discussion point
 
 ---
 
-**Note:** This message alone provides minimal actionable information. Recommend reviewing the full message thread with this contact for complete context.
+## Important Notes
+
+⚠️ **Limited Information Available**
+- This is a very brief response message with no specific details
+- Likely a reply to something Harper previously sent (review prior messages for context)
+- Does not contain actionable information on its own
+
+---
+
+## Recommended Action Items for Harper
+
+- **Review previous message(s)** sent to this customer to understand what "Ok thanks" is responding to
+- **Determine if follow-up needed** - assess whether this closes the conversation or if next steps remain pending
+- **Check for outstanding items** - confirm any documents, quotes, or information that were requested
+
+---
+
+## Missing Context
+
+The following information could not be extracted from this message:
+- Business details
+- Personal/contact details
+- Specific coverage or policy information
+- Dates, amounts, or carrier information
+- Clear next steps or action items
+
+**Recommendation:** Cross-reference with previous SMS thread or communications to establish full context.

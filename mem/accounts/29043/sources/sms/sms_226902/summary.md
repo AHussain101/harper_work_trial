@@ -5,45 +5,45 @@
 
 # SMS Summary for Harper
 
-## Message Type
+## Message Details
 - **Direction:** Outgoing (Harper → Customer)
-- **Date & Time:** December 5, 2025 at 8:00 AM UTC
-- **Message Category:** Request for Documentation
+- **Date/Time:** December 5, 2025 at 8:00 AM UTC
+- **Message Type:** Reminder/Request for Documentation
 
 ---
 
-## Main Purpose
-Reminder to customer to upload loss history and supporting documents to facilitate insurance quote/application process.
-
----
-
-## Key Details
-
-### Documents Requested
-- Loss history
-- Supporting documents (unspecified types)
-
-### Action Items for Customer
-- Upload requested documents to the provided portal link
-- Visit: `https://files.example-insure.com/upload/elm-123`
-- Timeline: Not specified (implied as soon as possible)
-
-### Action Items for Harper
-- Monitor file upload portal (elm-123) for document submissions
-- Follow up if documents are not received by a reasonable deadline
-- Review uploaded documents once received to assess claims history and coverage needs
+## Business Details
+- **Documents Requested:**
+  - Loss history
+  - Supporting documents (unspecified types)
+- **Upload Portal Provided:** https://files.example-insure.com/upload/elm-123
 
 ---
 
 ## Conversation Context
-- **Tone/Sentiment:** Professional, neutral, informative
-- **Urgency Level:** Moderate (reminder suggests customer may have been requested to provide docs earlier)
-- **Next Steps:** Waiting for customer to upload documentation before proceeding with quote or application
+
+### Main Topic
+- Request for customer to provide loss history and supporting documentation via secure file upload portal
+
+### Key Actions
+**Action Items for Customer:**
+- Upload loss history to the provided portal
+- Upload any supporting documents to the provided portal
+- Reference code/ID: elm-123
+
+**Action Items for Harper:**
+- Monitor for document uploads from customer
+- Review submitted documents once received
+- Follow up if documents are not uploaded within a reasonable timeframe
+
+### Tone/Sentiment
+- **Tone:** Professional, helpful reminder
+- **Urgency:** Standard (reminder format suggests this is part of normal process)
 
 ---
 
-## Notes
-- This appears to be a follow-up/reminder message, suggesting previous communication about document requirements
-- The portal link references "elm-123" which may be the customer/application ID
-- No specific business details, personal information, or policy details are mentioned in this message
-- No carrier names, premium amounts, or coverage specifics are discussed
+## Notes for Future Reference
+- This appears to be an automated or templated reminder message
+- Customer has been provided with a straightforward method to submit required documentation
+- File upload portal is ready and accessible
+- No specific deadline mentioned in the SMS itself

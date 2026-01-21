@@ -6,56 +6,70 @@
 **From:** harper_employee@harperinsure.com
 **To:** ethel.grant@brightfutureschildcare.com
 
-# Insurance Application Summary: Bright Futures Childcare Center
+# Insurance Application Summary for Harper
 
 ## Business Details
 
-- **Company Name:** Bright Futures Childcare Center
-- **Industry:** Childcare Services
-- **Coverage Status:** Application submitted to carrier network
-- **Documents Requested:**
-  - Loss run statements (prior 3 years, or full coverage history if available)
-  - Certificates of Insurance (COIs)
-  - Signed applications
-- **Special Coverage Considerations:**
-  - Contract-specific insurance requirements
-  - Additional insureds (if applicable)
-  - Liquor exposures (if applicable)
-  - Transportation exposures (if applicable)
+**Company Information**
+- Company name: Bright Futures Childcare Center
+- Industry: Childcare/Early Childhood Education
+- Business type: Childcare center
+
+**Coverage & Policy Details**
+- Application status: Submitted to carrier network
+- Expected timeline: Initial carrier responses pending
+- Special coverage considerations mentioned:
+  - Contract-specific insurance requirements (COIs, additional insureds)
+  - Potential exposures: liquor or transportation (if applicable)
+
+**Documents Requested**
+- Loss run statements (prior 3 years or full coverage history available)
+- Certificates of Insurance (COIs)
+- Signed applications
+- Additional insureds documentation (if contract-required)
+
+**Document Upload Portal**
+- Secure portal: https://portal.example-insure.com/upload/brightfutures-01
+
+---
 
 ## Personal Details
 
-- **Primary Contact:** Ethel Grant
-  - Email: ethel.grant@brightfutureschildcare.com
-  - Role/Title: Not specified
-  - Preferred Contact Method: Email (via secure portal and direct communication)
+**Primary Contact**
+- Name: Ethel Grant
+- Email: ethel.grant@brightfutureschildcare.com
+- Role: Primary contact for application
+
+**Communication Method**
+- Email (primary contact method used)
+
+---
 
 ## Conversation Context
 
-### Main Topic
-- Follow-up on insurance application submission for Bright Futures Childcare Center
+**Main Purpose**
+- Insurance application follow-up after team conversation
+- Request for documentation to expedite underwriting process
 
-### Key Actions Taken
-- Application successfully submitted to Harper Insurance's carrier network
+**Key Actions Completed**
+- Application submitted to carrier network
+
+**Action Items for Ethel Grant (Customer)**
+- Upload all requested documents to secure portal
+- Provide loss run statements (3-year history or available coverage history)
+- Include COI requirements and additional insured details if contract-mandated
+- Clarify any liquor or transportation coverage exposures (if applicable)
+
+**Action Items for Harper**
+- Monitor carrier responses from network
+- Follow up on document submissions once received
+- Prepare quotes/recommendations once carrier responses arrive
+
+**Timeline/Next Steps**
 - Initial carrier responses expected shortly
+- Documents should be uploaded promptly to avoid delays
 
-### Outstanding Action Items for Customer (Ethel Grant)
-- Upload all requested documents via secure portal: https://portal.example-insure.com/upload/brightfutures-01
-- Provide loss run statements covering prior 3 years (or full available history)
-- Submit any contract-specific insurance requirements
-- Clarify any special coverage needs (liquor, transportation, additional insureds)
-
-### Action Items for Harper
-- Monitor carrier responses to application
-- Follow up if documents are not submitted within reasonable timeframe
-- Review uploaded documents upon receipt
-- Process application once all documentation is complete
-
-### Tone/Sentiment
-- Professional, helpful, and efficient
-- Collaborative approach requesting customer participation
-
-### Next Steps/Timeline
-- Awaiting customer document submission
-- Expecting initial carrier responses "shortly" (timeframe not specified)
-- No specific deadline mentioned for document upload
+**Tone/Sentiment**
+- Professional and helpful
+- Collaborative approach
+- Sense of urgency (expediting language: "help speed the process")

@@ -3,55 +3,41 @@
 **Date:** 2025-12-04T22:03:30.137000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Insurance Submission Update
+# SMS Summary for Harper
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- Notification to client regarding submission of their insurance file to carriers
-- Status update on application processing
+### Main Topic
+- Status update on carrier submission for a client's insurance file
 
 ### Key Actions Taken
 - File has been **submitted to carriers**
-- Marked as **urgent priority**
+- File marked as **urgent priority**
 
 ### Timeline & Next Steps
-- Client should **expect email updates within 24–48 hours**
-- Follow-up communication will be via email
+- **Expected communication**: Email updates within 24–48 hours
+- Client should anticipate carrier responses in this timeframe
 
 ### Tone/Sentiment
-- Professional and reassuring
-- Proactive communication style
-- Conveys urgency and prompt handling
+- Professional, reassuring
+- Proactive communication to set expectations
 
 ---
 
-## Missing Information / Data Gaps
+## Missing Information to Note
 
-⚠️ **Note for Harper:** This SMS lacks specific business and personal details. The following information is **NOT provided** and may need to be documented separately:
-
-### Unknown Business Details
-- Company name
-- Industry/type of business
-- Employee count
-- Coverage type(s) requested
-- Premium amounts or deductibles
-- Policy limits
-- Claims history
-- Renewal/effective dates
-- Specific carriers contacted
-- Quote amounts
-
-### Unknown Personal Details
-- Client's name
-- Contact's title/role
-- Phone number or email (if different from SMS sender)
-- Client communication preferences
+⚠️ **The SMS lacks specific details that Harper may need to track:**
+- **Client/Contact Name**: Not identified
+- **Business Name**: Not mentioned
+- **Specific Policy Type(s)**: Not specified
+- **Carrier Names**: Not listed
+- **Premium/Quote Amounts**: Not provided
+- **Submission Date/Details**: Not explicitly stated
+- **Reason for Urgent Status**: Not explained
 
 ---
 
-## Recommended Follow-up Actions for Harper
-- [ ] Document which specific carriers received the submission
-- [ ] Set reminder to follow up if no email updates arrive within 48 hours
-- [ ] Prepare quote comparison or policy recommendations for next communication
-- [ ] Confirm client's preferred contact method and email address on file
+## Recommended Follow-up
+- Reference the full client file to identify who this submission is for
+- Prepare for incoming carrier quotes/responses within 48 hours
+- Flag calendar for follow-up if no communication received by deadline

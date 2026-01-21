@@ -7,57 +7,64 @@
 # Call Summary: Maple Home Care Services
 
 ## Business Details
-- **Company Name:** Maple Home Care Services
-- **Industry:** Home Care Services
-- **Workforce:**
-  - 3 regular caregivers on active schedules
-  - 2 substitute/rotating pool caregivers
-  - Total: 5 caregivers
-- **Coverage Type:** Caregiver coverage
-- **Claims History:** No prior claims on record
-- **Safety/Compliance:** Background checks performed for all caregivers
-- **Quote Status:** Pending (expected 24-48 hours)
-- **Delivery Method:** Email summary of quote components requested
-- **Outstanding Items:** Loss history to be requested
+
+**Company Information:**
+- Company Name: Maple Home Care Services
+- Industry: Home Care / Caregiver Services
+- Business Type: In-home care services
+
+**Staffing & Operations:**
+- Active Caregivers: 3 regular caregivers
+- Additional Staff: 2 rotating substitute caregivers
+- Total Personnel: 5 caregivers on active schedule
+- Background Checks: Performed for all caregivers (confirmed)
+
+**Coverage & Claims:**
+- Coverage Type: Caregiver/Home Care liability coverage
+- Claims History: None on record (no prior claims confirmed)
+- Loss Runs: Requested by Harper Agent Jackson
+
+**Premium & Quote Details:**
+- Quote Status: Pending (24-48 hour turnaround)
+- Delivery Method: Email summary with estimated premium ranges
+- Additional Information Requested: Retroactive date options clarification needed
 
 ## Personal Details
-- **Contact Name:** Not explicitly mentioned in transcript
-- **Harper Agent:** Jackson
-- **Preferred Contact Method:** Email (for quote summary)
-- **Communication Style:** Professional, cooperative
+
+**Contact Information:**
+- Primary Contact: Client name not provided in transcript
+- Company: Maple Home Care Services
+- Communication Preference: Email (preferred method for quote summary)
+- Phone: Not provided
+- Email: Not provided
+
+**Personality/Communication Style:**
+- Tone: Cooperative, professional, appreciative
+- Sentiment: Positive/satisfied
+- Communication Style: Direct and concise
 
 ## Conversation Context
-- **Call Purpose:** Clarify caregiver coverage details and insurance options for part-time workers
-- **Main Topics Discussed:**
-  - Active caregiver headcount confirmation
-  - Retroactive date options (client requested clarification)
-  - Loss history and claims background
-  - Background check confirmation
-  
-- **Key Questions Asked:**
-  - How many caregivers are on active schedules?
 
-- **Key Information Confirmed:**
-  - No prior claims history
-  - Background checks are standard practice for all caregivers
-  - Client interested in retroactive date options
+**Call Purpose:**
+- Primary: Clarify coverage options for part-time caregivers
+- Secondary: Discuss retroactive date options for policy
 
-- **Decisions Made:**
-  - Submit updated headcount to carriers
-  - Request loss history from client/carrier
-  - Prepare email summary with estimated premium ranges
+**Key Topics Discussed:**
+1. Number of active caregivers on staff
+2. Background check procedures confirmation
+3. Loss history review
+4. Retroactive date options (client inquiry)
 
-## Action Items
+**Decisions Made:**
+- Proceed with submission to carriers
+- Provide quote summary via email
 
-### For Harper:
-- [ ] Request updated loss history/loss runs from client
-- [ ] Obtain updated quotes from carriers (24-48 hour turnaround)
-- [ ] Prepare email summary with quote components and estimated premium ranges
-- [ ] Include retroactive date options in email summary
-
-### For Client:
-- [ ] Await email summary from Harper within 24-48 hours
-- [ ] Review quote options upon receipt
-
-## Timeline & Follow-up
-- **Call Date:** December 5, 2025 at 3:10 PM UTC
+**Action Items for Harper:**
+- [ ] Request updated loss runs/claims history from client
+- [ ] Generate quotes from carriers (24-48 hour timeline)
+- [ ] Prepare email summary with:
+  - Estimated premium ranges
+  - Quote components breakdown
+  - Retroactive date options
+- [ ] Send email summary to client
+- [ ] Include client contact information (email address needed for follow-

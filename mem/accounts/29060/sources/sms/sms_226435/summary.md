@@ -5,39 +5,35 @@
 
 # SMS Summary for Harper
 
-## Business Details
-- **Coverage Type:** Application submitted (specific policy type not mentioned)
-- **Carrier Status:** Submitted to carrier partners (multiple carriers involved)
-- **Quote Timeline:** Initial quotes expected within ~48 hours
-- **Documents:** Application has been submitted
+## Conversation Context
+- **Direction:** Outgoing message from Harper to client
+- **Date & Time:** December 5, 2025 at 1:15 AM
+- **Main Topic:** Application submission and quote timeline notification
+- **Tone/Sentiment:** Professional, informative
 
 ## Personal Details
 - **Contact Name:** Karen
 - **Preferred Contact Method:** SMS
-- **Communication Style:** Direct, brief messaging
 
-## Conversation Context
-- **Main Topic/Purpose:** Notification that Karen's insurance application has been submitted to carrier partners; confirmation of message receipt requested
-- **Current Status:** Application in submission phase; awaiting carrier quotes
-- **Next Steps:** 
-  - Quotes expected to arrive within approximately 48 hours
-  - Awaiting confirmation from Karen that she received this message
-- **Timeline:** 
-  - Message sent: December 5, 2025 at 1:15 AM
-  - Expected quote arrival: Within 48 hours (by approximately December 7, 2025)
-- **Tone/Sentiment:** Professional, helpful, forward-moving
+## Business Details
+- **Coverage Status:** Application submitted to carrier partners
+- **Expected Timeline:** Initial quotes within approximately 48 hours from submission date
+- **Carriers Involved:** Multiple carrier partners (unspecified)
 
 ## Action Items
 ### For Harper
-- Monitor for carrier quotes arriving within 48 hours
-- Follow up with Karen if quotes don't arrive on schedule
-- Review quotes from carrier partners when received
+- Monitor for quotes from carrier partners over next 48 hours
+- Follow up with Karen if quotes don't arrive within expected timeframe
+- Be prepared to review and present quotes to Karen
 
-### For Karen
-- Reply "OK" to confirm receipt of this message
+### For Customer (Karen)
+- **Pending:** Confirmation of message receipt (requested reply "OK")
+- **Next Step:** Await initial quotes from carrier partners
 
-## Missing Information
-- Specific policy type/coverage (auto, general liability, workers' comp, etc.)
-- Business details (company name, industry, size)
-- Premium range or coverage limits
-- Any specific requirements or concerns from Karen
+## Follow-up Timeline
+- **Quote Expected By:** Approximately December 7, 2025 (48 hours from submission)
+- **Awaiting:** Karen's confirmation that message was received
+
+---
+
+**Note:** This appears to be a notification message sent after an application was already discussed/prepared. No specific coverage details, premium amounts, policy types, or industry information are included in this message.

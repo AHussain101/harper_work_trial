@@ -5,34 +5,48 @@
 
 # SMS Summary for Harper
 
-## Message Type
-- **Direction:** Outgoing (from Harper/insurance broker to customer)
+## Message Details
+- **Direction:** Outgoing (from Harper/broker to client)
 - **Date/Time:** December 4, 2025 at 9:12 PM
-- **Message Type:** Unsubscribe disclaimer/legal notice
-
-## Message Content
-- **Primary Content:** Standard opt-out/unsubscribe notification
-- **Full Text:** "Reply STOP to unsubscribe. Unsubscribing will stop all messages from this number."
-
-## Context Notes
-- This appears to be a **footer or closing message** of an SMS communication
-- Likely part of a compliance requirement (TCPA/regulatory)
-- Does not contain substantive insurance or business discussion content
-
-## Missing Information
-⚠️ **No actionable business details present in this message:**
-- No customer/contact information
-- No business details or coverage information
-- No premium, deductible, or policy details
-- No claims or renewal information
-- No follow-up actions or decisions documented
-
-## Recommendation for Harper
-This message fragment alone provides minimal context. To understand the full conversation:
-- **Review the preceding messages** in this SMS thread for actual business content
-- **Check related emails or documents** from this customer/date
-- **Verify customer contact details** and policy information from CRM system
+- **Message Type:** Standard SMS footer/disclaimer
 
 ---
 
-*Note: This appears to be an incomplete extraction. If you have the full SMS body/content, please provide it for a comprehensive summary.*
+## Content Analysis
+
+### Message Body
+- **Primary Content:** Generic unsubscribe notice/SMS footer
+- **Full Text:** "Reply STOP to unsubscribe. Unsubscribing will stop all messages from this number."
+
+---
+
+## Important Notes for Harper
+
+### Information Extracted
+- ⚠️ **No business details provided**
+- ⚠️ **No personal details provided**
+- ⚠️ **No conversation context**
+- ⚠️ **No coverage information**
+- ⚠️ **No policy details**
+- ⚠️ **No action items identified**
+
+### What This Message Represents
+- This appears to be a **standard SMS compliance footer** or an automated message template
+- Likely sent as part of a bulk communication or automated message system
+- Contains only legal/regulatory language for SMS recipients
+
+---
+
+## Action Items
+- **For Harper:** None identified from this message alone
+- **For Client:** None required
+
+---
+
+## Follow-Up Needed
+🔍 **This SMS alone contains insufficient information for business purposes.** 
+
+If this was intended as a client communication, Harper may want to review:
+- The original message that preceded this footer
+- The full conversation thread
+- The intended purpose of the outgoing message

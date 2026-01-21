@@ -8,66 +8,68 @@
 
 ## Business Details
 
-- **Business Type:** Non-medical personal care services for older adults
+**Company Information**
+- **Business Type:** Non-medical personal care service provider
+- **Industry:** Senior care/home care services
 - **Primary Services Offered:**
   - Non-medical personal care
-  - Transportation
-  - Wellness checks
-- **Staffing:**
-  - 3 caregivers (initial)
-  - 1 owner (oversight)
-- **Total headcount:** 4 people
-- **Years in operation:** Not specified
-- **Revenue:** Not specified
-- **Coverage needs:** Not yet determined (pending underwriting)
-- **Policy type:** Likely general liability and/or professional liability (typical for elder care)
-- **Premium amounts:** Not yet quoted
-- **Deductibles/Limits:** Not yet discussed
-- **Underwriting timeline:** Preliminary pricing within 48 hours of document receipt
-- **Carriers:** Not specified
+  - Transportation services
+  - Wellness checks for older adults
+- **Staffing:** 3 caregivers + owner oversight (4 total staff initially)
+- **Years in Operation / Revenue:** Not discussed
 
-## Documents Needed
+**Coverage & Policy Information**
+- **Policy Type:** Not explicitly stated (likely general liability, workers' comp, or professional liability based on services)
+- **Premium Amount:** Not discussed
+- **Deductibles/Limits:** Not discussed
+- **Renewal/Effective Date:** Not discussed
+- **Carriers/Quotes:** Not discussed
 
+**Documents Requested**
 - Staff training records/summaries
-- Existing policy documents (if any)
 - Client agreements documentation
+- Any existing policy documents
+- **Status:** Client confirmed ability to upload today via secure link
+
+---
 
 ## Personal Details
 
-**Primary Contact:**
+**Contact Information**
 - **Name:** Naomi Brooks
-- **Role/Title:** Owner/Operator
+- **Role/Title:** Business owner (non-medical personal care company)
 - **Phone:** Not provided
 - **Email:** Not provided
-- **Preferred contact method:** Not specified
+- **Preferred Contact Method:** Not discussed
 
-**Communication Style/Notes:**
+**Communication Style/Personality Notes**
 - Responsive and cooperative
-- Willing to provide documentation same day
-- Professional and organized demeanor
+- Quick to confirm services and staffing details
+- Proactive (offered to upload documents same day)
+- Professional tone
+
+---
 
 ## Conversation Context
 
-**Call Type:** Intake call
+**Call Purpose**
+- Intake call to establish new insurance coverage for senior care services business
 
-**Date/Time:** December 4, 2025 at 9:30 PM UTC
+**Call Participants**
+- **Harper Agent:** Jordan Kim
+- **Client:** Naomi Brooks (business owner)
 
-**Duration:** 7 minutes
+**Key Information Confirmed**
+- Exact service offerings (non-medical personal care, transportation, wellness checks)
+- Staffing plan (3 caregivers + owner)
 
-**Purpose:** Confirm business services, staffing structure, and client profile to initiate underwriting process
+**Documents & Next Steps**
+- Client to upload training records and client agreements today
+- Harper to send secure upload link to Naomi
+- Underwriting will provide preliminary pricing within 48 hours of document receipt
 
-**Key Questions Addressed:**
-- Primary services offered? ✓ Confirmed
-- Number of caregivers/staffing? ✓ Confirmed (3 caregivers + owner)
+**Pending Actions**
 
-**Decisions Made:**
-- Moving forward with underwriting process
-- Documents to be uploaded by client
-
-## Action Items
-
-**For Harper (Jordan Kim):**
-- [ ] Send secure upload link to Naomi Brooks
-- [ ] Collect staff training records/summaries
-- [ ] Collect existing policy documents (if applicable)
-- [ ] Collect client agreements documentation
+*For Harper/Jordan Kim:*
+- Send secure upload link to Naomi Brooks for document submission
+- Monitor for

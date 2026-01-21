@@ -6,50 +6,73 @@
 **From:** Anthony Morales <anthony@harborwatchsecurity.com>
 **To:** Jordan Kim <jordan.kim@harperinsure.com>
 
-# Email Summary for Harper
+# Email Summary: Document Submission from Anthony Morales
 
 ## Business Details
 
 **Company Information:**
-- Company name: Harborwatch Security Solutions LLC
-- Industry: Security services
-- Document status: Loss runs and Certificate of Insurance (COI) uploaded
+- **Company Name:** Harborwatch Security Solutions LLC
+- **Industry:** Security Services
+- **Contact at Company:** Anthony Morales (anthony@harborwatchsecurity.com)
+
+**Documents Provided:**
+- Loss runs (uploaded)
+- Certificate of Insurance (COI) (uploaded)
+- **Location:** Available in secure intake portal for underwriting review
+
+**Coverage Status:**
+- Documents submitted for underwriting review
+- Policy renewal or new coverage underway
+
+---
 
 ## Personal Details
 
-**Contact Information:**
-- Name: Anthony Morales
-- Email: anthony@harborwatchsecurity.com
-- Role/Title: Not specified (appears to be point of contact for Harborwatch Security Solutions)
+**Primary Contact:**
+- **Name:** Anthony Morales
+- **Email:** anthony@harborwatchsecurity.com
+- **Role:** Appears to be business owner or authorized representative for Harborwatch Security Solutions LLC
 
-**Contact Method:**
-- Primary contact: Email (jordan.kim@harperinsure.com)
+**Communication Preferences:**
+- Communicates via email
+- Proactive in submitting requested documentation
+
+---
 
 ## Conversation Context
 
-**Main Topic/Purpose:**
-- Submission of requested underwriting documents for policy review/renewal
+**Purpose of Email:**
+- Notification that requested underwriting documents have been uploaded to the secure portal
 
-**Documents Provided:**
-- Loss runs
-- Certificate of Insurance (COI)
-- Location: Available in secure intake portal for underwriting review
+**Documents Submitted:**
+- Loss runs (claims history)
+- Certificate of Insurance (current coverage documentation)
 
-**Key Details:**
-- Documents have been uploaded and are ready for Harper's review
-- Submission appears to be responsive to a prior request from Harper
+**Key Information:**
+- Documents are ready for Harper's (or underwriting team's) review
+- All requested materials have been provided by the customer
 
 **Action Items for Harper:**
-- Review uploaded loss runs and COI documents in the secure intake portal
-- Proceed with underwriting review
-- Contact Anthony with any follow-up questions or additional documentation needs
+- [ ] Access secure intake portal
+- [ ] Review loss runs and COI documents
+- [ ] Proceed with underwriting review
+- [ ] Follow up with Anthony regarding next steps or any additional information needed
 
 **Action Items for Customer:**
-- ✅ Completed: Upload loss runs and COI
+- ✅ Loss runs and COI uploaded (completed)
 
 **Tone/Sentiment:**
-- Professional and cooperative
-- Responsive to requests
+- Cooperative and responsive
+- Efficient (quick turnaround on document submission)
 
-**Follow-up Timeline:**
-- No specific follow-up timeline mentioned; Harper should determine next steps based on underwriting requirements
+---
+
+## Missing Information to Follow Up On
+- Number of employees at Harborwatch
+- Annual revenue
+- Years in operation
+- Specific coverage types needed or currently carried
+- Premium amounts
+- Deductibles and policy limits
+- Renewal date or effective date needed
+- Any claims history details (specific to review)

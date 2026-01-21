@@ -6,57 +6,65 @@
 **From:** risingtransportllc@gmail.com
 **To:** Jamie Park <jamie.park@harperinsure.com>
 
-# Email Summary: Rising Transport LLC — Document Receipt & Underwriting Submission
+# Insurance Case Summary: Rising Transport LLC
 
 ## Business Details
 - **Company Name:** Rising Transport LLC
-- **Industry:** Transportation (based on company name)
-- **Documents Submitted:**
-  - MCS-150 (Motor Carrier Safety form — required for commercial trucking)
+- **Industry:** Transportation
+- **EIN:** Ending in 6182 (full EIN on file for security purposes)
+
+### Coverage & Documentation
+- **Documents Received & Processed:**
+  - MCS-150 form (Motor Carrier Safety Assistance Program form - standard for commercial trucking)
   - Correspondence from attorney
-  - Both documents uploaded to file and forwarded to underwriting
-- **EIN:** Ending in 6182 (partial number on file for security purposes)
-  - Full EIN copy may be requested by underwriting for verification
+  - Both documents uploaded to client file and forwarded to underwriting for review
 
-## Personal Details
-- **Contact Name:** Marco (first name only — sender's identity)
-- **Email:** risingtransportllc@gmail.com
-- **Harper Insurance Contact:** Jamie Park
-  - Email: jamie.park@harperinsure.com
-  - Role: Insurance broker/representative handling account
-
-## Conversation Context
-
-### Main Purpose
-Confirmation that Rising Transport LLC's required documentation has been received and forwarded to underwriting for review.
-
-### Key Details
-- Documents received and processed successfully
-- Materials uploaded to client file
-- Underwriting review has begun
-
-### Documents Status
-- ✅ MCS-150 — Received & uploaded
-- ✅ Attorney correspondence — Received & uploaded
-- ⏳ Full EIN documentation — May be requested by underwriting
-
-### Action Items for Customer (Marco)
-- **If requested:** Upload image of full EIN confirmation or business tax letter to file for underwriting verification
-
-### Action Items for Harper (Jamie Park)
-- Monitor underwriting review
-- Prepare to communicate any carrier requests or next steps
-- Have procedure ready if full EIN verification needed
-
-### Timeline & Next Steps
-- **Expected Update:** Within 24–48 hours
-- Will contact with carrier requests or additional next steps
-
-### Tone/Sentiment
-- ✅ Professional and helpful
-- Efficient process confirmation
-- Clear communication of security protocols
+### Outstanding Items
+- **Potential Additional Documentation Needed:**
+  - Full EIN confirmation image or business tax letter (for underwriting verification, if requested)
 
 ---
 
-**Status:** Awaiting underwriting review and carrier feedback
+## Personal Details
+- **Contact Name:** Marco (first name only provided in email)
+- **Email:** risingtransportllc@gmail.com
+- **Harper Insurance Agent/Broker:** Jamie Park
+- **Agent Email:** jamie.park@harperinsure.com
+
+---
+
+## Conversation Context
+
+### Main Topic
+- Document submission and processing for Rising Transport LLC insurance application/renewal
+
+### Key Points
+- Client (Marco) previously submitted MCS-150 and attorney correspondence
+- Harper has successfully received and uploaded all documents
+- Underwriting review is now in progress
+
+### Pending Actions
+**For Harper/Underwriting:**
+- Complete underwriting review of submitted documents
+- Determine if full EIN documentation is needed for verification
+- Provide update to client on carrier requests or next steps
+
+**For Client (Marco):**
+- Be prepared to upload EIN confirmation image or business tax letter if underwriting requests it
+
+### Timeline
+- **Expected Update:** Within 24–48 hours from email date (2025-12-05)
+- **Next communication expected around:** 2025-12-06 to 2025-12-07
+
+### Tone/Sentiment
+- Professional and positive
+- Efficient/organized process
+- Responsive and helpful
+
+---
+
+## Notes for Harper
+- This appears to be a follow-up confirmation email from Jamie Park to client Marco
+- Security protocol in place: only last 4 digits of EIN noted in file
+- Underwriting stage indicates application/renewal is progressing normally
+- No urgent issues or concerns mentioned

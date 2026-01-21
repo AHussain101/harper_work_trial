@@ -6,53 +6,53 @@
 **From:** Harper Submissions <submissions@harperinsure.com>
 **To:** ari.novak@sentinelfield.com
 
-# Insurance Inquiry Summary: Sentinel Field Security LLC
+# Email Summary: Sentinel Field Security LLC - Preliminary GL Coverage Estimate
 
 ## Business Details
-
 - **Company Name:** Sentinel Field Security LLC
-- **Industry:** Security Services (Field Security)
+- **Industry:** Security Services (field security)
 - **Coverage Type:** General Liability
 - **Coverage Limit:** $1M
-- **Estimated Annual Premium:** $1,200 (~$100/month)
-- **Policy Status:** Preliminary estimate, subject to underwriting review and subjectivities
-- **Payment Portal:** https://payments.example-insure.com/quote-xyz
+- **Estimated Annual Premium:** $1,200 (approximately $100/month)
+- **Policy Status:** Preliminary estimate - subject to underwriting review and subjectivities
 
 ## Personal Details
-
-- **Primary Contact:** Ari Novak
+- **Contact Name:** Ari Novak
 - **Email:** ari.novak@sentinelfield.com
-- **Title/Role:** Not specified (likely owner, manager, or decision-maker at Sentinel Field Security)
+- **Role:** Not specified (likely principal/decision-maker at Sentinel Field Security LLC)
 
 ## Conversation Context
 
-### Main Topic
-- Preliminary general liability insurance estimate provided for Sentinel Field Security LLC
+### Purpose
+- Providing preliminary general liability insurance estimate for business operations
 
-### Key Information Communicated
-- Estimate is based on initial intake information only
-- Quote is not final and requires underwriting review
-- Additional requirements or adjustments (subjectivities) may apply during underwriting
-- Certificate of Insurance can be prepared once policy is bound
+### Key Information Provided
+- $1M general liability coverage quote
+- Estimated annual premium of $1,200 ($100/month)
+- Clear disclaimer that this is preliminary and subject to underwriting review
 
-### Purpose of Estimate
-- Ari may need certificate for licensing application support
+### Important Notes
+- **Certificate of Insurance:** Harper can prepare a draft certificate once policy is bound, which can be used to support licensing applications (suggesting the client may need this for regulatory compliance)
+
+### Payment
+- Pay portal link provided: https://payments.example-insure.com/quote-xyz
 
 ### Action Items for Harper
-- Await Ari's response regarding coverage acceptance or questions
-- Be prepared to issue certificate of insurance once policy is bound (if requested)
-- Complete formal underwriting review before final approval
-- Address any subjectivities that arise during underwriting
+- Await client response/decision
+- Prepare certificate of insurance once policy is bound (if needed by client)
+- Proceed with underwriting review if client accepts estimate
+- Verify any subjectivities with client
 
-### Action Items for Customer (Ari/Sentinel Field Security)
+### Action Items for Customer (Ari Novak)
 - Review preliminary estimate
 - Confirm if certificate of insurance is needed for licensing application
-- Accept or request modifications to coverage
-- Proceed with policy binding if satisfied with terms
+- Accept or request modifications to quote
+- Proceed to payment portal if accepting offer
+
+### Next Steps
+- Pending client acceptance and underwriting completion
+- Certificate preparation contingent on policy binding
 
 ### Tone/Sentiment
-- Professional, straightforward
-- Informative and helpful
-
-### Follow-up Timeline
-- Pending - awaiting customer response
+- Professional, straightforward, helpful
+- Proactive in offering additional support (certificate provision)

@@ -4,66 +4,54 @@
 **Duration:** 3m 5s
 **Direction:** Incoming
 
-# Call Summary - Marcus Professional Liability Inquiry
+# Call Summary: Professional Liability Coverage Details
 
 ## Business Details
-
-**Company Information**
-- Type of Business: Healthcare/Clinical services (professional liability inquiry)
-- Number of Employees: 3 licensed clinicians (all W-2 employees)
-- Contractor/Subcontractor Status: None currently employed
-- Service Delivery Model: Primarily on-site with occasional telehealth follow-ups
-- Coverage Type: Professional liability insurance
-
-**Documentation & Next Steps**
-- Marcus will provide staff roster via upload link
-- Submission to be prepared for underwriter review
-- Underwriter may request additional details
+- **Industry:** Healthcare/Clinical Services
+- **Staffing:** 3 licensed clinicians on staff
+- **Employment Structure:** All clinicians are W-2 employees (no subcontractors/contractors)
+- **Service Delivery Model:** 
+  - Primarily on-site services
+  - Occasional telehealth follow-ups
+- **Coverage Type:** Professional Liability
+- **Underwriting Status:** Submission in progress; awaiting potential additional information requests from underwriters
 
 ## Personal Details
-
-**Contact Information**
-- Name: Marcus
-- Agent Contact: Mia from Harper
-- Communication Method: Phone (with follow-up document uploads)
-
-**Personality Notes**
-- Professional, cooperative demeanor
-- Direct and concise communication style
-- Responsive and willing to provide requested documentation
-- No concerns or hesitations noted
+- **Contact Name:** Marcus
+- **Contact Title/Role:** Not specified (appears to be owner/operator)
+- **Contact Method Used:** Phone call
+- **Harper Agent:** Mia
+- **Communication Style:** Cooperative, responsive, professional
 
 ## Conversation Context
+- **Call Purpose:** Confirm professional liability coverage limits and clarify staff roles/structure for underwriting purposes
+- **Call Type:** Incoming confirmation call
+- **Call Duration:** 3 minutes 5 seconds
+- **Date/Time:** December 4, 2025 at 8:15 PM (UTC)
 
-**Call Purpose**
-- Incoming call to confirm professional liability insurance coverage details and clarify staffing/service delivery for underwriting submission
+## Key Questions Asked & Answered
+| Question | Answer |
+|----------|--------|
+| How many licensed clinicians on staff? | 3 |
+| Are they employees or contractors? | W-2 employees (no contractors) |
+| On-site or telehealth services? | Primarily on-site with occasional telehealth follow-ups |
 
-**Key Discussion Points**
-- Confirmation of licensed clinician count and employment status (3 W-2 employees)
-- Service delivery model clarification (on-site primary, telehealth secondary)
-- Staffing structure verification (no subcontractors)
+## Action Items
 
-**Decisions Made**
-- Professional liability submission to proceed with on-site + telehealth service model noted
-- Staff roster to be submitted by Marcus
-
-**Action Items for Harper (Mia)**
-- Include confirmed details (3 W-2 clinicians, on-site + telehealth services) in underwriting submission
+### For Harper
+- Include staffing details in underwriting submission
 - Follow up if underwriters request additional information
-- Expect staff roster upload from Marcus
+- Monitor for staff roster document upload
 
-**Action Items for Marcus**
-- Send staff roster to Harper's upload link
+### For Marcus (Customer)
+- **Send staff roster** to Harper's upload link
 
-**Tone/Sentiment**
-- Professional, collaborative, and straightforward
-- No red flags or concerns
-- Efficient call with clear resolution
+## Next Steps
+- Awaiting staff roster documentation from Marcus
+- Underwriters will review submission and request additional details if needed
+- Harper to follow up as required by underwriting team
 
----
-
-**Call Details**
-- Date: December 4, 2025
-- Time: 8:15 PM (20:15 UTC)
-- Duration: 3 minutes 5 seconds
-- Type: Incoming
+## Tone & Sentiment
+- **Overall Tone:** Professional, cooperative, positive
+- **Customer Sentiment:** Accommodating and helpful
+- **Urgency Level:** Routine

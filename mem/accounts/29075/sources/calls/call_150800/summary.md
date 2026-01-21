@@ -7,54 +7,57 @@
 # Call Summary for Harper
 
 ## Business Details
-- **Coverage Type**: Commercial insurance (implied contractor-related business)
-- **Documents Submitted**:
+- **Coverage Type:** Commercial general liability / contractor-related coverage
+- **Loss History:** Contractor incident on file (underwriting may request clarification)
+- **Documents Submitted:**
   - MCS-150 form
   - Attorney letter
   - Prior declarations page
-- **Claims/Loss History**: Contractor incident mentioned (underwriting may request clarification)
-- **Expected Timeline**: Initial carrier quotes in 24–48 hours from underwriting review completion
-- **Document Portal**: Active portal in use for document uploads
+- **Expected Timeline:** Initial carrier quotes in 24–48 hours pending underwriting review
+- **Document Portal:** Active portal available for additional submissions
+
+---
 
 ## Personal Details
-- **Contact Name**: Marco
-- **Harper Agent**: Jamie
-- **Communication Preference**: Email and phone monitoring
-- **Personality Notes**: Cooperative, responsive, compliant with document requests
+- **Contact Name:** Marco
+- **Harper Agent:** Jamie
+- **Preferred Contact Methods:** Email and phone (contact is monitoring both)
+
+---
 
 ## Conversation Context
 
 ### Purpose
-Quick follow-up call to confirm document submission and set expectations for the underwriting and quoting process.
+- Quick follow-up call to confirm document submission and set underwriting expectations
 
 ### Key Points Discussed
-- Confirmation that all requested documents were successfully uploaded
-- Timeline expectations for underwriting review and carrier quotes (24–48 hours)
-- Potential underwriting request for clarification regarding contractor incident
-- Option to submit additional documentation via portal if needed
-
-### Documents Status
-✅ **Uploaded**:
-- MCS-150
-- Attorney letter
-- Prior declarations page
-
-### Decisions Made
-None pending — process proceeding as expected.
+- Marco successfully uploaded all requested documents (MCS-150, attorney letter, prior declarations page) on the morning of the call
+- Underwriting team will review submissions and may ask clarifying questions about the contractor incident
+- Initial carrier quotes expected within 24–48 hours
 
 ### Action Items
 
-**For Harper/Underwriting**:
-- Monitor for underwriting review completion
-- Prepare carrier quotes within 24–48 hour window
-- Flag any requests for clarification on contractor incident
+**For Marco (Customer):**
+- Monitor email and phone for underwriting requests or questions
+- Upload any additional documentation to the existing portal as needed
+- Expect carrier quotes within 24–48 hours
 
-**For Marco**:
-- Monitor email and phone for communications
-- Upload any additional documentation to the portal as needed
+**For Harper (Jamie):**
+- Monitor underwriting review progress
+- Follow up with carrier quotes once received
+- Be prepared to address any clarification requests about the contractor incident
 
-### Follow-Up Timeline
-- **Initial Carrier Quotes**: Expected within 24–48 hours
+### Next Steps
+- Underwriting review in progress
+- Follow-up contact expected within 24–48 hours with initial quotes
 
 ### Tone/Sentiment
-✅ **Positive** — Professional, efficient, cooperative exchange. Marco is responsive and compliant. No concerns or friction noted.
+- **Professional and cooperative** — straightforward follow-up; customer responsive and organized
+
+---
+
+## Call Metadata
+- **Direction:** Outgoing
+- **Duration:** 2 minutes 15 seconds
+- **Date/Time:** December 5, 2025 at 3:10 AM UTC
+- **Status:** Completed

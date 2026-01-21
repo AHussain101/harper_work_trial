@@ -4,32 +4,31 @@
 **Duration:** 21m 27s
 **Direction:** Incoming
 
-# Call Summary: Shoreline Flooring Co. – Workers' Compensation Quote Request
+# Call Summary: Shoreline Flooring Co. – Workers' Comp Quote Request
 
 ## Business Details
 
 **Company Information**
 - **Company Name:** Shoreline Flooring Co.
 - **Industry:** Flooring sales and installation
-- **Business Type:** Flooring sales representative operation
-- **Years in Operation:** Approximately 11 years
-- **Service Model:** Residential flooring sales with all installations subcontracted to external vendors
+- **Business Type:** Flooring sales representative (residential focus)
+- **Years in Operation:** ~11 years
+- **Business Model:** Sales rep operation with subcontracted installations
 
 **Employees & Payroll**
-- **Total Employees:** 1 (one full-time W-2 employee)
-- **Employee Role:** Measurements and sales representative
+- **Employee Count:** 1 full-time W-2 employee
+- **Employee Role:** Salesperson (handles measurements and sales)
 - **Annual Payroll:** ~$31,300
 
 **Coverage Needs**
-- **Policy Type:** Workers' compensation
-- **Coverage Level:** State minimum required
+- **Policy Type:** Workers' Compensation
+- **Coverage Level:** State minimum
 - **Claims History:** No prior claims reported
-- **Status:** Awaiting quotes from carriers
+- **Loss Runs:** Not mentioned/not available
 
-**Next Steps – Insurance Items**
-- Finalize workers' compensation classification
-- Submit to carriers for quotes
-- Expected quote timeline: 24–72 hours
+**Quote Timeline & Next Steps**
+- Expected quote delivery: 24–72 hours from call date
+- **Status:** Pending submission to carriers
 
 ---
 
@@ -37,33 +36,32 @@
 
 **Primary Contact**
 - **Name:** Scott Marino
-- **Title/Role:** Owner, Shoreline Flooring Co.
-- **Phone:** (908) 301-01XX (confirmed on file)
-- **Preferred Contact Methods:** Email and phone/text follow-up
+- **Title:** Business owner
+- **Phone:** (908) 301-01XX
+- **Preferred Contact Method:** Email and text (per Harper agent notes)
 
-**Secondary Contact (Referring Agent)**
+**Secondary Contact (Referral Source)**
 - **Name:** Darlene
-- **Organization:** Tivoli (insurance agency/referral partner)
-- **Role:** Facilitated introduction and transfer
+- **Organization:** Tivoli (appears to be a referring agency/partner)
+- **Role:** Connected Scott to Harper for quote
+
+**Communication Style**
+- Direct and concise
+- Responsive and cooperative
+- No special concerns or objections raised
 
 ---
 
 ## Conversation Context
 
-**Call Type & Timing**
-- **Direction:** Incoming call
+**Call Overview**
+- **Direction:** Incoming (routed through Darlene at Tivoli)
 - **Duration:** 21 minutes 27 seconds
-- **Date & Time:** December 4, 2025 at 8:45 PM UTC
-- **Completed:** 9:06 PM UTC
+- **Date/Time:** December 4, 2025 at 8:45 PM (UTC)
+- **Purpose:** Workers' compensation quote request for existing business
 
-**Purpose**
-- Initial intake call to gather information for workers' compensation insurance quote
-
-**Key Topics Discussed**
-- Business structure and operational model (sales + subcontracted installations)
-- Employee count and payroll verification
-- Claims history review (none reported)
-- Coverage requirements and state minimum guidelines
-- Quote timeline and follow-up process
-
-**Decisions Made
+**Key Information Confirmed**
+✓ Business in operation for 11 years  
+✓ Residential flooring sales focus  
+✓ All installations subcontracted (no direct employees doing installation work)  
+✓ One full-time W-

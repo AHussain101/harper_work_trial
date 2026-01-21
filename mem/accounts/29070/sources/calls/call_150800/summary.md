@@ -4,48 +4,50 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary for Marcus
+# Call Summary for Harper
 
 ## Business Details
-- **Business Type:** Sole operator (Marcus is the sole operator)
-- **Number of Employees:** 1 (sole proprietor)
-- **Industry:** Not specified
-- **Coverage Need:** Vehicle insurance
-- **Vehicle Information:** VIN fragment received by Harper agent
-- **Documents Needed:** 
+- **Business Type:** Appears to be vehicle-related (sole operator business)
+- **Number of Employees:** 1 (sole operator)
+- **Coverage Needs:** Vehicle coverage (VIN information collected)
+- **Documents Requested:**
   - Vehicle photos
   - Prior loss runs
   - Submission method: Secure portal upload
 
 ## Personal Details
 - **Contact Name:** Marcus
-- **Role/Title:** Sole operator/business owner
+- **Contact Role/Title:** Sole operator/owner
 - **Contact Email:** Confirmed correct during call
-- **Communication Preference:** Email (confirmed as correct contact method)
-- **Communication Style:** Polite, cooperative, appreciative
+- **Communication Preference:** Email confirmation provided
 
 ## Conversation Context
-- **Call Purpose:** Follow-up call to confirm receipt of documents and next steps
+- **Call Purpose:** Follow-up call to confirm receipt of information and next steps
 - **Call Type:** Outgoing
+- **Date & Time:** December 5, 2025 at 4:05 PM UTC
 - **Call Duration:** 1 minute 35 seconds
-- **Date/Time:** December 5, 2025 at 4:05 PM (UTC)
 
-## Key Confirmations
-- ✅ Marcus confirmed he will upload loss runs and vehicle photos to secure portal
-- ✅ Marcus confirmed correct contact email on file
-- ✅ Sole operator status confirmed
+### Key Points Discussed
+- Confirmed receipt of VIN fragment from Marcus
+- Requested upload of vehicle photos to secure portal
+- Requested upload of prior loss runs to secure portal
+- Confirmed Marcus's email contact information is correct
 
-## Next Steps & Action Items
+### Decisions Made
+- Marcus will upload documents today
+- Harper will request quotes from carriers
 
-### Harper's Action Items
-- [ ] Request quotes from carriers (within 48 hours)
-- [ ] Follow up with Marcus with quote options within 48 hours
-- [ ] Monitor secure portal for Marcus's document uploads
+### Action Items for Harper
+- Request quotes from carriers based on submitted information
+- Contact Marcus with quote options within 48 hours
 
-### Marcus's Action Items
-- [ ] Upload vehicle photos to secure portal today
-- [ ] Upload prior loss runs to secure portal today
+### Action Items for Marcus
+- Upload vehicle photos to secure portal (committed to today)
+- Upload prior loss runs to secure portal (committed to today)
 
-## Timeline
-- **Follow-up Expected:** Within 48 hours with quote options
-- **Tone/Sentiment:** Positive, cooperative, appreciative
+### Follow-Up Timeline
+- **Next Contact:** Within 48 hours with quote options
+
+### Tone/Sentiment
+- **Overall Tone:** Positive and cooperative
+- **Customer Satisfaction:** High - Marcus expressed appreciation

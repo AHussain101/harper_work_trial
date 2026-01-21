@@ -6,32 +6,39 @@
 # SMS Summary for Harper
 
 ## Conversation Context
-- **Main Topic:** Follow-up communication regarding quote review process and next steps
-- **Direction:** Outgoing message from Harper/insurance agency to customer
-- **Date & Time:** December 4, 2025 at 6:30 PM
-- **Tone/Sentiment:** Professional, helpful, reassuring
 
-## Key Message Points
-- Quote options have been (or will be) received and reviewed by the agency
-- An agent will proactively contact the customer by phone to finalize coverage details
-- Customer is invited to reach out with any questions before the agent call
-- Communication channels available: text or phone call
+### Main Topic
+- Follow-up message confirming next steps in the quote review and coverage finalization process
+- Setting expectations for customer contact regarding insurance options
 
-## Action Items for Customer
+### Key Message
+- Customer will receive a phone call from an agent once quote options have been received and reviewed
+- Agent will call to finalize coverage details
+- Customer is invited to reach out with any questions in the meantime via text or phone
+
+### Action Items
+
+#### For the Customer
 - Await phone call from agent to finalize coverage
-- Contact Harper if any questions arise in the meantime (via text or phone)
+- Contact Harper's office with any questions before call (via text or phone)
 
-## Action Items for Harper
-- Review quote options once received
-- Schedule and conduct follow-up call with customer to finalize coverage
-- Be prepared to answer any pre-call questions via text or phone
+#### For Harper/Agent Team
+- Review and receive quote options (when they arrive)
+- Call customer to finalize coverage once quotes are reviewed
+- Ensure agent is prepared to discuss options and finalize details
 
-## Pending Details
-- **Coverage Details:** Not yet finalized (awaiting quote review and agent call)
-- **Customer Information:** No specific personal or business details mentioned in this message
-- **Timeline:** Next step is agent phone call (specific date/time not mentioned in this SMS)
+### Timeline & Next Steps
+- **Pending:** Receipt and review of quote options
+- **Next Action:** Agent phone call (timing depends on when quotes are available)
+- **Customer Contact Method:** Text or phone call to this number
 
-## Follow-Up Notes
-- This appears to be a proactive, reassuring message sent to set expectations
-- No urgent action items indicated
-- Customer has open communication channels to reach out if needed
+### Tone/Sentiment
+- Professional and helpful
+- Reassuring (emphasizing availability and support)
+- Clear communication of process
+
+## Important Notes
+- This is a confirmatory/procedural message sent to set expectations
+- **No specific business or personal details are included in this SMS**
+- No urgent matters or concerns indicated
+- Customer has been empowered to reach out if needed

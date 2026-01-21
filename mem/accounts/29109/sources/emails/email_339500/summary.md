@@ -10,50 +10,55 @@
 
 ## Business Details
 - **Company Name:** Boardman Diner & Café
-- **Industry:** Food Service / Restaurant
-- **Business Type:** Diner & Café
-- **Coverage Status:** Quote in progress
-- **Application Status:** Submitted to carrier network
+- **Industry:** Food Service/Hospitality (Diner & Café)
+- **Business Type:** Restaurant/Café
+- **Coverage Status:** Application submitted to carrier network
+- **Expected Timeline:** Initial carrier response expected shortly
 
 ## Personal Details
-- **Primary Contact:** Wei Liu
-- **Contact Email:** wei.liu@boardmandiner.com
-- **Harper Representative:** Harper Employee
-- **Rep Phone:** +1 (470) 731-4971
-- **Rep Email:** harper_employee@harperinsure.com
+- **Contact Name:** Wei Liu
+- **Email:** wei.liu@boardmandiner.com
+- **Preferred Contact Method:** Email (wei.liu@boardmandiner.com)
+- **Communication Style:** Responsive (participated in discussion with Harper)
 
 ## Conversation Context
-
-### Main Topic
-- Follow-up to initial insurance quote consultation for Boardman Diner & Café
-- Application submission confirmation and next steps
+- **Main Topic:** Insurance quote follow-up and application submission
+- **Purpose:** Processing new insurance application for Boardman Diner & Café
+- **Status:** Application has been submitted to carrier network; awaiting initial quotes/responses
 
 ### Documents Requested
-- **Loss runs** (last 3 years preferred)
-- **Certificates of Insurance (COIs)** or contract requirements
-- **Submission Method:** Secure portal upload at https://portal.harperinsure.com/upload/BOARDMAN-XYZ
+Harper is requesting the following documents from Wei to expedite the quoting process:
+- Loss runs (last 3 years, if available)
+- Certificates of Insurance (COIs)
+- Any contract requirements documentation
 
-### Timeline & Status
-- **Application Status:** Submitted to carrier network
-- **Expected Timeline:** Initial carrier response expected shortly
-- **Date of Communication:** December 4, 2025
+### Upload Instructions
+- **Secure Upload Portal:** https://portal.harperinsure.com/upload/BOARDMAN-XYZ
+- Wei should upload documents securely through this portal
 
-### Key Actions
+## Action Items
 
-**For Wei Liu (Customer):**
-- Upload loss runs and/or COIs to secure portal
-- Provide any contract requirements for coverage
+### For Harper
+- Monitor carrier network responses once received
+- Follow up with Wei if documents are not uploaded within reasonable timeframe
+- Prepare and send quotes to Wei once carrier responses and documents are received
 
-**For Harper:**
-- Monitor for carrier responses
-- Follow up with Wei if documents not received
-- Prepare quotes once carrier responses arrive
+### For Wei (Customer)
+- **URGENT:** Upload loss runs (last 3 years) and certificates of insurance to secure portal
+- Gather any contract requirements documentation
+- Await quote updates from Harper
 
-### Tone & Sentiment
-- **Professional and helpful**
-- **Efficient/expedited approach** (emphasizes "speed quotes")
-- **Positive momentum** (application already submitted)
+## Follow-Up Timeline
+- No specific deadline mentioned
+- Expected to move quickly once documents are provided
+
+## Tone/Sentiment
+- **Professional, helpful, and collaborative**
+- Positive momentum - application already submitted
+- Time-sensitive with emphasis on speeding up the process
 
 ---
 
-**Note:** No specific premium amounts, policy types, deductibles, limits, or renewal dates were provided in this communication.
+**Contact Information on File:**
+- Harper Employee: +1 (470) 731-4971 | harper_employee@harperinsure.com
+- Harper Insurance Website: www.harper

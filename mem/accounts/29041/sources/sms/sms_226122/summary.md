@@ -5,46 +5,41 @@
 
 # SMS Summary for Harper
 
-## Message Type
+## Message Overview
 - **Direction:** Outgoing (from Harper to customer)
 - **Date/Time:** December 4, 2025 at 6:14 PM
-- **Purpose:** Establishing communication protocol
+- **Tone/Sentiment:** Professional, helpful, establishing clear communication protocol
 
 ## Conversation Context
 
-### Main Topic
-- Setting up a dedicated communication channel for ongoing insurance business matters
+### Main Purpose
+- Establishing a direct communication channel for future interactions
+- Setting expectations for how the customer will receive updates and information
 
-### Key Message
-Harper is instructing the customer to save this phone number as the primary contact point for all future business communication
+### Key Information Provided
+- Harper is providing her direct phone number as the primary contact point
+- Customer should save this number for all future communications
+- This number will be used for:
+  - Updates (policy changes, renewals, etc.)
+  - Customer questions and inquiries
+  - Quotes and policy recommendations
 
-### Communication Protocol Established
-- **All updates** will come through this number
-- **Questions** should be directed to this number
-- **Quotes** will be provided via this number
-- Emphasizes a **single, clear line of communication** to "my team"
-
-### Tone/Sentiment
-- Professional and organizational
-- Helpful and service-oriented
-- Clear boundary-setting around communication channels
+### Communication Preferences Established
+- **Single Point of Contact:** All communication will come through this one line
+- **Benefit to Customer:** Simplified, streamlined communication with "one clear line to [Harper's] team"
+- **Organizational Structure:** Implies Harper works with a team that will support inquiries
 
 ## Action Items
 
 ### For Customer
-- Save Harper's phone number
-- Use this number for all future communication regarding their insurance needs
-- Direct all questions and requests through this channel
+- Save Harper's phone number in their contacts
+- Use this number for all future questions, updates, and quote requests
 
 ### For Harper
-- Monitor this communication line for customer inquiries
-- Prepare to deliver updates, quotes, and answers through this channel
-- Ensure team coordination for responses
+- Ensure this number is actively monitored for customer inquiries
+- Coordinate with team members to respond to messages on this line
+- Use this as the primary communication channel going forward with this customer
 
-## Follow-up Timeline
-- Ongoing - this is establishing the framework for all future interactions
-
-## Notes
-- Suggests this is likely the beginning of a business relationship or a renewal process
-- Indicates Harper's team approach (plural "team" mentioned)
-- No specific policy, premium, or business details provided in this message
+## Next Steps
+- Awaiting customer confirmation of number save
+- Ready to receive future inquiries through this channel

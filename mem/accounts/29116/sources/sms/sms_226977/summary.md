@@ -3,39 +3,46 @@
 **Date:** 2025-12-05T00:09:20.086000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary
 
 ## Business Details
-- **Status**: Information not yet provided; intake form under review
+- **Company Name**: Not specified
+- **Coverage Details**: Currently under review (intake in progress)
+- **Status**: New client onboarding phase
 
 ## Personal Details
 - **Contact Name**: Marcus
-- **Harper Representative**: Jordan
-- **Communication Method**: SMS
-- **Preferred Contact**: Unknown (to be determined)
+- **Sender**: Jordan from Harper Insurance
+- **Relationship**: New client relationship being established
 
 ## Conversation Context
-- **Main Topic**: Initial outreach / intake acknowledgment
-- **Purpose**: Confirming receipt of business and notifying client that intake materials are being reviewed
-- **Tone/Sentiment**: Professional, friendly, appreciative
-- **Key Message**: Establishing rapport and setting expectation that Harper is actively reviewing Marcus's information
 
-## Action Items
+### Main Topic/Purpose
+- Initial outreach to new client confirming receipt of business intake information
+- Relationship acknowledgment and thank you message
 
-### For Harper / Jordan:
-- [ ] Complete review of Marcus's intake form
-- [ ] Identify all business details (company type, employee count, coverage needs, etc.)
-- [ ] Determine next steps based on intake review findings
-- [ ] Follow up with Marcus once review is complete
+### Key Points
+- Marcus has engaged Harper Insurance's services
+- Intake documentation has been received and is actively being reviewed
+- Professional, warm tone establishing rapport
 
-### For Marcus:
-- [ ] Awaiting follow-up from Harper with next steps
-- [ ] Ensure all intake information was submitted completely
+### Action Items for Harper
+- Complete review of Marcus's intake form/documentation
+- Follow up with findings and coverage recommendations (timeline TBD)
 
-## Follow-Up Timeline
-- **Next Steps**: Pending completion of intake review; timeline for follow-up not specified
-- **Recommendation**: Harper should establish a clear timeline for next contact (e.g., 24-48 hours)
+### Action Items for Customer (Marcus)
+- None specified at this time
+- Await Harper's review results
+
+### Next Steps
+- Pending: Harper's review completion
+- Follow-up communication expected once intake review is finished
+
+### Tone/Sentiment
+- **Positive and professional**
+- Appreciative and welcoming
+- Reassuring (confirming active engagement with client's needs)
 
 ---
 
-**Note**: This is an initial outreach message. Detailed business and coverage information will be populated once the intake review is complete.
+**Note**: This is an introductory message with limited details. Expect much more comprehensive information in follow-up communications once the intake review is completed.

@@ -3,39 +3,41 @@
 **Date:** 2025-12-04T20:05:18.011000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Outgoing Message to Erin
+# SMS Summary for Harper Insurance Broker
 
 ## Business Details
-- **Coverage Status**: Application submitted to carriers
-- **Quote Status**: Pending - quotes expected to arrive from carriers
-- **Policy Stage**: Pre-quote phase (application submitted)
+- **Coverage Type**: Application submitted (specific coverage type not mentioned)
+- **Status**: Application in underwriting/review with carriers
+- **Next Step**: Awaiting quotes from carriers
 
 ## Personal Details
 - **Contact Name**: Erin
-- **Communication Method**: SMS
-- **Tone**: Positive/Professional - customer has made a decision to work with Harper
+- **Contact Method**: SMS
+- **Preferred Communication**: Text messaging (based on SMS communication)
 
 ## Conversation Context
-- **Main Topic**: Confirmation of application submission and next steps in the quoting process
-- **Key Action Completed**: Application submitted to carriers
-- **Pending Activities**: Awaiting carrier quotes
-- **Customer Sentiment**: Positive (customer has "chosen Harper")
+- **Main Topic**: Application submission confirmation and quote status update
+- **Purpose**: Confirm receipt of Erin's application and set expectations for next steps
+- **Key Information**:
+  - Application has been submitted to carriers
+  - Quotes are pending and will arrive as carriers respond
+  - Harper will proactively follow up with Erin as quotes come in
+- **Tone/Sentiment**: Professional, appreciative, and reassuring
 
 ## Action Items
+### Harper's Responsibilities
+- [ ] Monitor carrier responses for incoming quotes
+- [ ] Follow up with Erin as quotes arrive from carriers
+- [ ] Send quotes to Erin with recommendations when available
 
-### For Harper
-- Monitor for incoming quotes from carriers
-- Follow up with Erin as quotes arrive
-- Provide Erin with quotes and comparison details when available
-
-### For Customer (Erin)
-- Await follow-up communication from Harper with quotes
-- No immediate action required at this time
+### Customer Responsibilities (Erin)
+- [ ] Await communication from Harper regarding quotes
+- [ ] No immediate action required
 
 ## Follow-up Timeline
-- **Next Steps**: Harper will proactively reach out as carrier quotes are received
-- **Timeline**: Unspecified - "as they arrive"
+- **Pending**: Quotes expected from carriers (timeline not specified)
+- **Next Communication**: When quotes are received from carriers
 
 ---
 
-**Note**: This appears to be an initial confirmation message. Limited details suggest this is early in the sales/application process. Additional context about Erin's specific coverage needs, business type, industry, or personal details is not provided in this message.
+**Note**: Limited details provided in this message. Additional information about coverage type, business details, and Erin's complete contact information may be available in other communications or the customer file.

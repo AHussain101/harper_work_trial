@@ -5,34 +5,37 @@
 
 # SMS Summary for Harper
 
-## Business Details
-- **Coverage needs:** Loss runs being prepared
-- **Documents status:** Loss runs to be uploaded
-
-## Personal Details
-- **Contact name:** Not provided
-- **Communication style:** Professional, brief, responsive
-- **Preferred contact method:** SMS
-
 ## Conversation Context
 
-### Main Topic
-- Customer confirming receipt of a request and committing to document submission
+**Main Topic/Purpose:**
+- Customer acknowledging receipt of a previous message/request
+- Confirming commitment to provide documentation
 
-### Key Actions & Timeline
-- **Customer action item:** Upload loss runs by end of business day (2025-12-04)
-- **Tone:** Professional, cooperative, and positive
+**Key Details:**
+- Customer will upload loss runs by end of business day
+- Response indicates they received Harper's request/message
 
-### Notes for Follow-up
-- Expect loss runs to arrive by end of day on 2025-12-04
-- No urgent issues or concerns indicated
-- Customer appears engaged and responsive
+**Action Items for Customer:**
+- [ ] Upload loss runs by end of day (2025-12-04)
+
+**Action Items for Harper:**
+- [ ] Monitor for loss runs upload by end of day
+- [ ] Review loss runs once received
+
+**Tone/Sentiment:**
+- Cooperative and responsive
+- Brief, professional tone
+- No signs of frustration or urgency concerns
 
 ---
 
-## ⚠️ Missing Context
-*Note: This message appears to be a reply to a previous request. Review earlier messages in this conversation thread to understand:*
-- What specific loss runs were requested
-- What business/coverage this relates to
-- Client name and company details
-- Why loss runs are needed (renewal, new quote, underwriting, etc.)
+## Missing Information
+
+⚠️ **Note:** This is a very brief acknowledgment message. The following context from previous communications would be helpful to understand the full picture:
+
+- **Business Details:** Company name, type of business, coverage needs, policy types
+- **Personal Details:** Contact name/role, phone number, email
+- **Request Context:** What specific request prompted the loss runs upload? What stage of the quote/renewal process is this?
+- **Timeline:** Is this for a pending quote, renewal, or claims review?
+
+**Recommended Next Step:** Review previous messages in this conversation thread to capture the full context.

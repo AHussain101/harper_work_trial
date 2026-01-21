@@ -5,38 +5,45 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Outgoing (Harper → Customer)
-- **Date & Time:** December 4, 2025 at 9:43 PM
-- **Tone/Sentiment:** Professional, helpful, collaborative
-
 ## Conversation Context
 
 ### Main Topic/Purpose
-- Following up on document submission/upload process
-- Confirming receipt procedures and next steps in workflow
+- Follow-up message regarding document upload/submission
+- Confirmation and next steps coordination
 
-### Key Points
-- Customer is expected to upload documentation
-- Harper will confirm receipt once upload is complete
-- Next steps will be communicated after confirmation
+### Key Details
+- **Direction:** Outgoing (Harper sent this message)
+- **Date/Time:** December 4, 2025 at 9:43 PM UTC
+- **Tone/Sentiment:** Professional, helpful, appreciative
+
+### Key Messages
+- Harper is requesting the recipient to reply after uploading documents
+- Harper will confirm receipt upon reply
+- Harper will provide next steps once confirmation is received
 
 ## Action Items
 
 ### For Customer
-- **Required:** Upload documents (specific documents not mentioned in this message, but referenced in prior context)
-- **Required:** Reply to this SMS once upload is complete
+- Upload documents (type of documents not specified in this message)
+- Reply via SMS once upload is complete
 
 ### For Harper
-- **Required:** Monitor for customer's reply indicating upload completion
-- **Required:** Confirm receipt of uploaded documents when received
-- **Required:** Communicate next steps to customer following confirmation
+- Monitor for customer reply indicating document upload completion
+- Provide confirmation of receipt when reply is received
+- Outline and communicate next steps to customer
 
-## Follow-up Timeline
-- Next action depends on customer's upload and reply
-- No specific deadline mentioned in this message
-- Appears to be part of an ongoing multi-step process
+## Follow-Up Timeline
+- Action pending customer response/document upload
+- Next communication will occur after customer confirms upload completion
 
 ---
 
-**Note:** This message appears to be part of a longer conversation thread. Prior context about *what documents* are being requested is not included in this SMS and should be referenced in earlier messages for complete understanding.
+## ⚠️ Context Missing
+**Note:** This appears to be a follow-up message in an ongoing conversation. The preceding messages are not included, so the following details are **unknown:**
+- What specific documents are being uploaded
+- Which client/business this pertains to
+- What coverage type or policy is being addressed
+- Customer name and contact information
+- Any deadlines or time-sensitive details discussed earlier
+
+**Recommendation:** Review the full conversation thread with this customer for complete context.

@@ -6,69 +6,62 @@
 **From:** quotes@alliedcommercial.example
 **To:** dakotah@harperinsure.com
 
-# Email Summary: Silver State Auto Services Initial Quote
+# Email Summary: Silver State Auto Services Insurance Quote
 
 ## Business Details
-- **Company Name:** Silver State Auto Services
-- **Industry:** Automotive Services
-- **Coverage Types Discussed:**
-  - General Liability
-  - Workers' Compensation
 
-- **Premium Information:**
-  - Base Premium: ~$3,200
-  - Filing Fees & Taxes: ~$220
-  - **Total Due: ~$3,500**
+**Company Information:**
+- Company name: Silver State Auto Services
+- Industry: Auto Services
+- Coverage types requested: General Liability and Workers' Compensation
 
-- **Carrier:** Allied Commercial
+**Quote Details:**
+- Carrier: Allied Commercial
+- General Liability Premium: ~$3,200
+- Filing fees & taxes: ~$220
+- **Total Premium Due: ~$3,500**
+- Status: Initial quote (subjectivities apply)
+- Formal quote PDF: To be attached in follow-up message
 
-- **Important Note:** Initial offer with subjectivities apply (conditions may affect final pricing)
+**Policy Status:**
+- Quote date: December 5, 2025
+- Pending decision on binding or additional shopping
 
 ---
 
 ## Personal Details
-- **Contact Name:** Chris (recipient of quote information)
-- **Sender/Broker:** Dakotah Reed
-- **Sender Email:** dakotah@harperinsure.com
-- **Quote Source Email:** quotes@alliedcommercial.example
+
+**Contact Information:**
+- Primary contact: Chris (recipient unclear - may be client or internal staff)
+- Email: dakotah@harperinsure.com
+- Sender: Dakotah Reed, Harper Insurance
+- Sender email: quotes@alliedcommercial.example
 
 ---
 
 ## Conversation Context
 
-### Main Purpose
-- Initial insurance quote delivery for Silver State Auto Services
+**Purpose:** Initial insurance quote presentation for General Liability and Workers' Compensation coverage
 
-### Key Information
-- Quote is preliminary and subject to review/conditions
-- Formal quote PDF to be sent in follow-up message
-- No loss runs, claims history, or detailed underwriting information mentioned yet
+**Key Information Provided:**
+- Quote received from Allied Commercial
+- Premium breakdown includes filing fees and taxes
+- Quote is preliminary with conditions/subjectivities
 
-### Decision Point
-- Customer (Chris) needs to decide whether to:
-  - Bind this quote with Allied Commercial, OR
-  - Shop for additional quotes from other carriers
+**Questions/Decisions Pending:**
+- Client approval to bind the policy with Allied Commercial
+- OR decision to shop with additional carriers for better rates
 
-### Action Items for Harper/Dakotah
-- [ ] Send formal quote PDF as promised
-- [ ] Await customer decision on binding vs. shopping further
-- [ ] Be prepared to bind policy or pursue alternative quotes
+**Action Items - Harper/Dakotah:**
+- [ ] Send formal quote PDF as promised follow-up
+- [ ] Await client decision on binding vs. shopping further
 
-### Action Items for Customer
-- [ ] Review the quote details
+**Action Items - Client (Chris/Silver State Auto Services):**
+- [ ] Review quote details
 - [ ] Decide whether to proceed with binding or request additional quotes
-- [ ] Respond with decision to Dakotah
 
-### Tone/Sentiment
-- Professional, positive ("Good news")
-- Straightforward and efficient
+**Next Steps:**
+- Awaiting client response on binding decision
+- Formal documentation to follow
 
----
-
-## Missing Information (May be needed for follow-up)
-- Number of employees
-- Annual revenue
-- Specific coverage limits and deductibles
-- Renewal/effective dates
-- Loss history or claims background
-- Detailed policy documents
+**Tone/Sentiment:** Professional, positive ("Good news"), helpful

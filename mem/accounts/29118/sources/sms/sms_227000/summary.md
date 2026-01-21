@@ -3,41 +3,44 @@
 **Date:** 2025-12-05T00:36:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary for Harper Insurance Broker
 
 ## Business Details
 - **Company Name:** Blue Sky Homecare
-- **Business Type:** Homecare (implied from company name)
-- **Current Status:** Application submitted
-- **Coverage Stage:** Awaiting quotes from carriers
+- **Industry:** Homecare services
+- **Coverage Status:** Application submitted, awaiting quotes
+- **Current Stage:** Pre-quote (quotes pending from carriers)
 
 ## Personal Details
 - **Contact Name:** Alex
-- **Sender/Agent:** Jordan (Harper Insurance representative)
-- **Contact Method:** SMS
-- **Preferred Communication:** SMS (based on conversation method)
+- **Sender/Agent:** Jordan (Harper Insurance staff member)
+- **Communication Method:** SMS text message
+- **Preferred Contact Method:** SMS (implied, as this is the communication channel used)
 
 ## Conversation Context
-- **Main Topic:** Application submission acknowledgment and quote status update
-- **Purpose:** Confirming receipt of Blue Sky Homecare insurance application and setting expectations for next steps
-- **Key Message:** Quotes are pending and customer will be notified upon arrival
+- **Main Topic/Purpose:** Notification that Blue Sky Homecare's insurance application has been received and processed
+- **Key Actions Completed:**
+  - Application submitted by Alex for Blue Sky Homecare
+  - Application received and acknowledged by Jordan/Harper Insurance
+  
+- **Pending Actions:**
+  - Carrier quotes being obtained
+  - Alex to be notified when quotes arrive
+  
+- **Action Items for Harper:**
+  - Follow up with insurance carriers to obtain quotes
+  - Send quotes to Alex once received
+  - Maintain contact with Alex via SMS
 
-## Action Items
+- **Action Items for Customer (Alex):**
+  - Await notification of incoming quotes
+  - Respond if clarification needed (HELP option provided)
 
-### For Harper/Jordan:
-- Monitor for incoming quotes from carriers for Blue Sky Homecare application
-- Notify Alex when quotes arrive
-- Maintain availability for follow-up questions
-
-### For Customer (Alex):
-- Await notification regarding quotes
-- Contact support via HELP command if needed during waiting period
-
-## Follow-Up Timeline
-- **Next Step:** Notification will be sent when quotes arrive (no specific timeline provided)
-- **No specific renewal date or effective date mentioned**
+- **Next Steps/Follow-up Timeline:** 
+  - TBD - dependent on carrier response time for quotes
+  
+- **Tone/Sentiment:** Professional, friendly, efficient
 
 ## Additional Notes
-- **Tone/Sentiment:** Professional, helpful, reassuring
-- **Customer Service Element:** Provided HELP command option for customer support
-- **Status:** Awaiting carrier responses — application in process
+- Automated reply option available ("Reply HELP for options")
+- Standard business communication template used

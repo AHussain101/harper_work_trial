@@ -4,86 +4,72 @@
 **Duration:** 17m 49s
 **Direction:** Incoming
 
-# Call Summary: Summit Security TX - General Liability Quote
+# Call Summary: Summit Security TX - General Liability Quote Request
 
 ## Business Details
 
 **Company Information:**
 - **Company Name:** Summit Security TX
-- **Industry:** Armed Security Services
-- **Business Type:** Security Agency
+- **Business Type:** Armed Security Services
+- **Industry:** Security Services
 - **Location:** Anytown, TX
-- **EIN:** XX-XXX4321 (redacted format)
+- **EIN:** XX-XXX4321
 
-**Coverage & Policy Details:**
-- **Coverage Type:** General Liability Insurance
-- **Policy Status:** Quote requested (new business)
-- **Quote Timeline:** 24-48 hours expected
+**Coverage Details:**
+- **Policy Type:** General Liability
+- **Coverage Needed:** General Liability for armed security services operations
 
-**Contact Information:**
-- **Business Email:** info@summitsecuritytx.com
-- **Mailing Address:** Anytown TX address on file
+**Quote Timeline:**
+- **Expected Timeline:** 24-48 hours for quotes
+- **Quote Delivery Method:** Text or call notification, followed by email proposal
 
----
+**Documents/Information Provided:**
+- Business email: info@summitsecuritytx.com
+- Mailing address: Anytown TX address (on file)
+- EIN provided
 
-## Personal Details
-
-**Primary Contact:**
-- **Name:** Michael Martinez
-- **Role/Title:** Decision-maker/Owner (implied)
-- **Preferred Contact Method:** Text or call (for quote delivery), then email for proposal review
-
-**Communication Style Notes:**
-- Professional and cooperative
-- Responsive to questions
-- Appreciative of service
-
----
-
-## Conversation Context
-
-**Call Purpose:**
-- New business referral from partner
-- Quote request for General Liability coverage for armed security services
-
-**Topics Discussed:**
-- Business operations overview
+**Topics Discussed During Call:**
+- New security agency operations overview
 - Incident reporting procedures
 - Record-keeping practices
 - Training expectations
 - Staffing projections
 - State licensing requirements
-- Contact information and EIN confirmation
 
-**Key Decisions Made:**
-- Application submitted to underwriters
-- Quote timeline confirmed: 24-48 hours
+## Personal Details
 
----
+**Primary Contact:**
+- **Name:** Michael Martinez
+- **Role/Title:** Not explicitly stated (appears to be owner/decision-maker)
+- **Email:** info@summitsecuritytx.com
+- **Preferred Contact Method:** Text or call, with follow-up email for proposals
+- **Communication Style:** Professional, cooperative, receptive
+
+## Conversation Context
+
+**Call Purpose:**
+- Referral for General Liability insurance quote for armed security services company
+- Intake call to gather business information and confirm contact details
+
+**Key Questions Addressed:**
+- Contact information confirmation (email, mailing address)
+- EIN verification
+
+**Call Participants:**
+1. James Taylor (Harper Insurance Agent)
+2. Referral Partner (transferred call)
+3. Michael Martinez (Summit Security TX)
+
+**Decisions Made:**
+- Quote submission approved and moving forward
+- 24-48 hour timeline agreed upon
 
 ## Action Items
 
-**Harper/James Taylor:**
-- ✓ Submit application to underwriters
-- Underwriters to contact Michael Martinez with quote (via text or call)
-- Underwriters to email proposals for review
-- Follow up regarding licensing and incident reporting documentation
-
-**Michael Martinez (Summit Security TX):**
-- Await contact from underwriters within 24-48 hours
-- Provide licensing and incident reporting documentation when requested
-- Review proposals upon receipt
-
----
-
-## Follow-Up Timeline
-
-- **Quote Delivery:** Within 24-48 hours
-- **Contact Method:** Phone/text first, then email
-- **Documentation Status:** Licensing and incident reporting records pending
-
----
-
-## Tone & Sentiment
-
-✓
+**Harper/Underwriter Actions:**
+- Submit application to underwriters for quote review
+- Underwriters to contact Michael Martinez via text or call within 24-48 hours
+- Send email proposals once quotes are generated
+- **Follow up with Michael on:**
+  - State licensing documentation
+  - Incident

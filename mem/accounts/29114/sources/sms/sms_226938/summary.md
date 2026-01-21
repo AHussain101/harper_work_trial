@@ -3,43 +3,50 @@
 **Date:** 2025-12-04T23:56:44.173000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary for Harper Insurance Broker
 
 ## Business Details
+
 - **Company Name:** BrightPath Education Consulting
 - **Industry:** Education Consulting
-- **Coverage Status:** Client has placed trust with Harper Insurance (implies new or existing relationship)
+- **Coverage Status:** Currently insured with Harper Insurance
+- **Notes:** Client has established relationship with Harper team
 
 ## Personal Details
+
 - **Contact Name:** Laura
 - **Contact Method:** SMS
-- **Preferred Communication:** SMS (established through this message)
+- **Communication Style:** Professional, formal greeting indicates established business relationship
 
 ## Conversation Context
-- **Main Topic/Purpose:** Initial outreach/confirmation message to new or existing client
-- **Message Type:** Thank you / confirmation of engagement
-- **Key Messages:**
-  - Acknowledging client's trust in Harper Insurance
-  - Confirming Harper team is handling BrightPath Education Consulting account
-  - Setting expectation for future updates
-- **Tone/Sentiment:** Professional, appreciative, reassuring
 
-## Action Items for Harper
-- **Pending:** Send updates to Laura regarding BrightPath Education Consulting coverage
-  - Timeline: Not specified in message
+### Main Topic
+- Confirmation message acknowledging Harper Insurance's engagement with BrightPath Education Consulting
 
-## Action Items for Customer (Laura)
-- **Status:** Awaiting updates from Harper team
-- No immediate action required from customer
+### Key Messages
+- Thanking client (Laura) for entrusting Harper with their insurance needs
+- Assuring client of continued communication
+
+### Decisions Made
+- Client has committed to using Harper Insurance for coverage
+
+### Action Items for Harper
+- Follow up with updates regarding BrightPath Education Consulting's policy/coverage
+- Maintain regular communication with Laura
+
+### Tone/Sentiment
+- **Professional, reassuring, and courteous**
+- Positive relationship establishment
 
 ---
 
-**⚠️ Note:** This is a brief confirmation message with limited details. The following information is **NOT YET CAPTURED** and should be gathered in follow-up communication:
-- Specific coverage types needed
-- Policy effective date
-- Premium amounts
-- Deductibles and limits
-- Renewal date
+## ⚠️ Missing Information
+The following details were **not provided** in this message and should be collected:
+- Specific policy types and coverage details
+- Premium amounts and deductibles
+- Policy effective dates and renewal dates
 - Number of employees
+- Company revenue/years in operation
 - Claims history
-- Quote comparisons or carrier recommendations
+- Laura's direct phone/email for future contact
+- Specific updates to be provided and timeline

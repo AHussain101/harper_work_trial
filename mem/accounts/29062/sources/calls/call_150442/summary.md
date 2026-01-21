@@ -4,48 +4,76 @@
 **Duration:** 1m 20s
 **Direction:** Outgoing
 
-# Harper Insurance Call Summary
+# Call Summary for Harper Insurance
 
-## Business Details
-- **Policy Type**: Personal Auto Insurance
-- **State**: Texas
-- **Coverage Status**: Applicant has existing personal auto insurance
+## Contact Information
+- **Harper Agent:** Sophia
+- **External Contact:** [Name not provided]
+- **Contact Method:** Phone (outgoing call)
+- **Call Duration:** 1 minute 20 seconds
+- **Contact Status:** Completed successfully
 
-## Personal Details
-- **Contact Name**: Not provided in call
-- **Harper Agent**: Sophia
-- **Driver's License**: Valid Texas driver's license (confirmed)
-- **Communication**: Brief, professional interaction
+---
 
-## Driving & Claims History
-- **Accidents**: None in past 3 years
-- **Violations**: None in past 3 years
-- **Auto Insurance Status**: Currently insured (confirmed)
+## Business/Coverage Details
+- **Coverage Type:** Personal Auto Insurance
+- **State of Operation:** Texas
+- **Driver's License Status:** Valid, active Texas license ✓
+- **Current Insurance Status:** Active personal auto insurance policy in place ✓
 
-## Conversation Context
-- **Call Purpose**: Follow-up verification call for personal auto insurance application/quote
-- **Call Type**: Outgoing from Harper
-- **Duration**: 1 minute 20 seconds
-- **Tone**: Positive, efficient, straightforward
+---
 
-## Key Information Confirmed
-✓ Valid Texas driver's license  
-✓ Active personal auto insurance  
-✓ Clean driving record (no accidents or violations in 3 years)
+## Driving History & Loss Runs
+- **Accidents (Past 3 Years):** None reported
+- **Violations (Past 3 Years):** None reported
+- **Clean Driving Record:** Confirmed
+
+---
+
+## Call Context & Purpose
+- **Main Topic:** Follow-up verification call to confirm applicant eligibility for personal auto insurance quote
+- **Call Type:** Outgoing follow-up
+- **Tone:** Professional, brief, positive
+- **Sentiment:** Friendly and cooperative
+
+---
+
+## Key Questions Asked & Answered
+| Question | Answer |
+|----------|--------|
+| Any accidents or violations in last 3 years? | No |
+| Valid Texas driver's license? | Yes |
+| Active personal auto insurance? | Yes |
+
+---
+
+## Decisions & Status
+- ✅ All verification requirements met
+- ✅ Applicant approved to proceed with underwriting
+
+---
 
 ## Action Items
 
-### For Harper
-- [ ] Record driving history in applicant file
+### For Harper (Sophia)
+- [ ] Record driving history details in applicant file
 - [ ] Record contact preferences in applicant file
-- [ ] Update underwriting team to proceed with quote based on confirmed details
+- [ ] Forward applicant information to underwriting department to proceed with quote generation
 
 ### For Applicant
-- None at this time
-
-## Next Steps
-- Underwriting will proceed with quote generation based on provided details
-- **Follow-up Timeline**: Not specified in call
+- None identified
 
 ---
-**Note**: Applicant name and contact information not captured in this call transcript. Recommend obtaining complete contact details (name, phone, email) and updating file for future correspondence.
+
+## Next Steps & Timeline
+- **Immediate:** Underwriting to receive case and proceed with quote based on confirmed details
+- **Follow-up:** Quote generation (timeline not specified)
+
+---
+
+## Missing Information
+- **Applicant Name:** Not captured in call
+- **Phone Number:** Not captured in call
+- **Email:** Not captured in call
+- **Preferred Contact Method:** Not discussed
+- **Specific Quote Timeline:** Not provided

@@ -6,65 +6,63 @@
 **From:** submissions@harperinsure.com
 **To:** underwriting@carrier.example
 
-# 3A Media Productions | General Liability Submission Summary
+# 3A Media Productions - TX GL Submission Summary
 
 ## Business Details
 
-**Company Information**
-- Company Name: 3A Media Productions (DBA)
-- Industry: Video Production / AV Support Services
-- Business Type: Service-based (Audio/Visual support provider)
-- Annual Gross Revenue: ~$91,000 (estimated)
-- Years in Operation: Not specified
-- Employees: No W-2 employees; contractors only
+**Company Information:**
+- **Company Name:** 3A Media Productions
+- **Business Type:** Video production company (DBA)
+- **Industry:** Audio/Visual (AV) support services
+- **Location:** Dallas, TX (primary venue: West Coolwater Drive)
+- **Years in Operation:** Not specified
+- **Annual Revenue:** ~$91,000 (estimated gross)
+- **Employees:** No W-2 employees; contractors only
 
-**Coverage Details**
-- Policy Type Requested: General Liability
-- Coverage Limit: $1M per occurrence
-- Limit Requested By: Client (specific client not named)
-- Premium Amount: Not specified
-- Deductible: Not specified
-- Effective/Renewal Date: Not specified
+**Coverage Details:**
+- **Coverage Type:** General Liability
+- **Limits Requested:** $1M per occurrence (client-requested)
+- **Premium/Deductibles/Full Limits:** Not yet quoted
 
-**Operations & Services**
-- Primary Service: Onsite AV support for weekly worship services (Dallas location)
-- Secondary Service: Occasional commercial/live events in multiple states
-- Event Frequency: 3-4 events per year outside Dallas
-- Service Scope: AV support only
-- Services NOT Provided: 
-  - Staging/rigging services
-  - Drone operations
-- Primary Venue: West Coolwater Drive, Dallas (needs confirmation)
+**Operations & Scope:**
+- Weekly onsite AV support for church worship services (Dallas location)
+- Occasional commercial/live events (approximately 3-4 events per year in other states)
+- **Exclusions:** No staging/rigging services; no drone operations
 
-**Claims & Loss History**
-- Not mentioned in submission
+**Claims History:** Not mentioned
+
+**Key Dates:**
+- **Submission Date:** December 4, 2025
+- **Renewal Date:** Not specified
+- **Effective Date:** Not specified
 
 ## Personal Details
 
-**Contact Information**
-- Owner/Principal: Marcus Reed
-- Title: Owner
-- Phone: Not provided
-- Email: Not provided
-- Preferred Contact Method: Not specified
-
-**Personal Notes**
-- No personality or communication style notes included
-- No family or personal details shared
+**Contact Information:**
+- **Primary Contact:** Marcus Reed (Owner)
+- **Phone/Email:** Not provided
+- **Preferred Contact Method:** Not specified
+- **Communication Style:** Not noted
 
 ## Conversation Context
 
-**Submission Purpose**
-- Outbound insurance submission for General Liability coverage quote/placement
+**Purpose:** 
+Insurance submission for General Liability coverage for 3A Media Productions to underwriting carrier
 
-**Key Underwriting Questions/Items Requiring Clarification**
-1. Confirm whether contractor agreements require additional insureds to be named
-2. Confirm venue address for primary operations (West Coolwater Drive, Dallas)
+**Main Topic:**
+GL policy submission for video production/AV support business
 
-**Action Items - Harper/Broker**
-- Submitted by: Harper Submissions (submitted to underwriting@carrier.example)
-- Obtain clarification on contractor agreements and additional insured requirements
-- Verify West Coolwater Drive Dallas location details
+**Outstanding Questions/Underwriting Notes:**
+- ⚠️ **Confirm contractor requirements:** Verify whether contractor agreements require additional insureds to be added to policy
+- ⚠️ **Confirm venue address:** Verify complete address for primary operations at West Coolwater Drive, Dallas
 
-**Action Items - Customer (Marcus Reed)**
-- Provide contractor agreement details regarding additional
+**Documents Provided:**
+- Basic business information submitted
+
+**Documents Requested:** 
+- Contractor agreements (to verify additional insured requirements)
+- Venue confirmation/lease documentation
+
+**Pending Decisions:**
+- Carrier acceptance/quote pending underwriting review
+- Additional insured endorsements (pending contractor

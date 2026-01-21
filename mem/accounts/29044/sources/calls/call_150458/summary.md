@@ -4,69 +4,71 @@
 **Duration:** 14m 39s
 **Direction:** Outgoing
 
-# Insurance Call Summary – Marcus | Riverbend Care Homes
+# Insurance Call Summary: Riverbend Care Homes
 
 ## Business Details
 
-**Company Information:**
-- **Business Name:** Riverbend Care Homes
-- **Business Type:** Group Home (residential care facility)
-- **Location:** 9008 Kinsley Drive, Mapleton, Ohio
-- **Industry:** Healthcare/Senior Care
-- **Current Status:** Pre-operational (preparing for licensing)
-- **Licensed Beds:** 5 (current plan; expansion anticipated in future)
-- **Employees:** 1 non-medical caregiver planned as initial employee
+**Company Information**
+- Company Name: Riverbend Care Homes
+- Business Type: Group home (residential care facility)
+- Industry: Healthcare/Social Services
+- Location: 9008 Kinsley Drive, Mapleton, Ohio
+- Current Status: Pre-operational (preparing for licensing)
 
-**Coverage Details:**
-- **Policy Type:** General Liability
-- **Current Stage:** Application submitted; awaiting carrier quotes
-- **Expected Timeline:** Carrier responses 24–48 business hours
+**Facility Details**
+- Licensed Beds: 5 (current)
+- Future Expansion: Anticipated (Marcus to notify broker of changes)
+- Employees: 1 non-medical caregiver planned for initial operation
+- Safety Infrastructure in Place:
+  - Smoke detectors
+  - Fire alarms
+  - Exit door alarms
 
-**Facility Safety/Compliance:**
-- Smoke detectors installed
-- Fire alarms installed
-- Exit door alarms installed
-- State inspection scheduled to follow once insurance is in place
+**Coverage & Policy Details**
+- Coverage Type: General Liability
+- Status: Application submitted, awaiting underwriter responses
+- Expected Underwriter Response Time: 24–48 business hours
+
+**Next Steps in Process**
+- State inspection scheduled to occur after insurance is in place
 
 ---
 
 ## Personal Details
 
-**Contact Information:**
-- **Name:** Marcus
-- **Title/Role:** Owner of Riverbend Care Homes
-- **Phone:** Not provided in call
-- **Email:** Not provided in call
-- **Preferred Contact Method:** Not specified
+**Contact Information**
+- Name: Marcus
+- Title/Role: Owner
+- Phone/Email: Not provided during call
+- Preferred Contact Method: Phone (outgoing call initiated by Harper)
 
-**Personality/Communication Notes:**
-- Friendly and cooperative tone
-- Responsive and brief responses
-- Professional approach to regulatory requirements
+**Communication Style**
+- Tone: Cooperative, pleasant, professional
+- Responsiveness: Engaged and quick to confirm details
+- Concerns: None apparent; appears organized and prepared for licensing process
 
 ---
 
 ## Conversation Context
 
-**Call Purpose:**
-- Initial general liability insurance inquiry and application for a group home facility
+**Call Overview**
+- Direction: Outgoing call from Harper Insurance
+- Duration: 14 minutes 39 seconds
+- Date: December 4, 2025
+- Time: 8:30 PM (20:30)
+- Representative: James (Harper Agent)
 
-**Key Topics Discussed:**
-- Current operational status (not yet open; preparing for state licensing)
-- Facility capacity (5 licensed beds)
-- Future expansion plans
-- Staffing plan (1 non-medical caregiver initially)
-- Safety infrastructure in place
+**Main Purpose**
+- Initiate general liability insurance application for new group home facility
+- Confirm facility details and coverage needs
+- Set expectations for underwriting timeline
 
-**Key Decisions Made:**
-- Proceed with general liability application for current 5-bed operation
-- Carry forward with carrier submission
+**Key Topics Discussed**
+- Facility location and operational status (pre-launch)
+- Number of licensed beds (5)
+- Staffing plans (1 non-medical caregiver)
+- Safety infrastructure already in place
+- Future expansion possibilities
+- Licensing requirements (insurance needed before state inspection)
 
-**Action Items for Harper (James):**
-- ✅ Submit insurance application for Riverbend Care Homes
-- Obtain and provide quotes from carriers
-- Monitor for carrier responses (24–48 business hours)
-- Review underwriter responses and any carrier subjectivities
-- Contact Marcus with quote options and recommendations
-
-**Action Items for Marcus (Customer
+**Decisions Made**

@@ -5,49 +5,61 @@
 
 # SMS Summary for Harper
 
-## Conversation Context
-
-### Main Topic/Purpose
-- Outgoing message notifying recipient that insurance quotes are being prepared
-- Setting expectations for next steps in the quote process
-
-### Key Message Points
-- Quotes are currently being prepared/compiled
-- An agent will reach out via phone call once quotes are ready
-- Purpose of agent call: to finalize coverage details
-- Customer has opportunity to ask questions before quotes arrive
-
-### Action Items for Customer
-- Await phone call from agent when quotes are ready
-- Submit any questions via SMS reply or phone call to office in the meantime
-- Be prepared to discuss and finalize coverage when agent calls
-
-### Action Items for Harper
-- Prepare quotes for this prospect
-- Schedule/coordinate agent callback once quotes are ready
-- Ensure agent is prepared to finalize coverage terms during call
-
-### Next Steps / Follow-up Timeline
-- **Pending:** Quote preparation completion
-- **Next Contact:** Phone call from agent (timeline not specified)
-- **Interim:** Customer can reach out with questions anytime
-
-### Tone/Sentiment
-- Professional and helpful
-- Clear and direct communication
-- Setting proper expectations
+## Message Details
+- **Direction:** Outgoing (Harper → Client)
+- **Date & Time:** December 4, 2025 at 11:44 PM
+- **Message Type:** Process notification/expectation-setting
 
 ---
 
-## Notable Gaps
+## Conversation Context
 
-⚠️ **Information NOT provided in this SMS:**
-- Customer/contact name
-- Business details (company name, type, size)
-- Coverage types being quoted
-- Premium ranges or policy details
-- Specific timeline for quote delivery
-- Which agent will be calling
-- Policy effective date or renewal date
+### Main Topic
+- Informing client about next steps in the quoting process
+- Setting expectations for follow-up contact
 
-*Note: This appears to be a standard follow-up message. Reference previous SMS or customer file for complete profile details.*
+### Key Information Shared
+- Quotes are pending/in progress
+- An agent will contact the client by phone once quotes are ready
+- Purpose of the call: finalize coverage details
+
+### Communication Options Offered
+- **Phone:** Client can call Harper's office with questions
+- **SMS:** Client can reply to this message with questions
+
+### Tone/Sentiment
+- Professional and helpful
+- Standard procedural message
+- No urgency indicated
+
+---
+
+## Action Items
+
+### For Client
+- Wait for agent callback once quotes are received
+- Contact Harper's office (phone or SMS) if questions arise before callback
+- Be available to receive quote finalization call from agent
+
+### For Harper/Office
+- Monitor for quote arrival
+- Schedule agent callback with client once quotes are in
+- Be available to respond to client inquiries via phone or SMS
+
+---
+
+## Follow-Up Timeline
+- **Next Step:** Awaiting quote delivery
+- **Subsequent Action:** Agent phone call to finalize coverage (timing contingent on quote arrival)
+- **No specific deadline mentioned**
+
+---
+
+## Missing Information
+⚠️ **Note:** This appears to be a mid-process message. The following details are not captured in this SMS:
+- Specific business/client name
+- Policy type(s) being quoted
+- Premium ranges or limits discussed
+- Renewal/effective dates
+- Client contact information
+- Original conversation context

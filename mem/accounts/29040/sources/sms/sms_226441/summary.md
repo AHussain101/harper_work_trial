@@ -3,43 +3,50 @@
 **Date:** 2025-12-04T20:16:19.461000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# Insurance Quote Notification - SMS Summary
+
+## Business Details
+- **Policy/Quote Status**: New quote received and sent to client
+- **Delivery Method**: Email (inbox)
+
+## Personal Details
+- **Contact Method**: SMS notification
+- **Notification Preference**: Client receives updates via email for documents
 
 ## Conversation Context
 
 ### Main Topic
-- Notification to customer that a new insurance quote has been received and delivered
+- Notification that a new insurance quote has been generated and delivered
+
+### Key Information
+- Quote has been prepared and sent to the client's email inbox
+- This is a proactive notification from Harper's office to the client
 
 ### Action Items for Customer
-- **Check email inbox** for the new quote that was just sent
-- Review the quote details
-- Contact Harper with any questions or to proceed with next steps
+- **Immediate**: Check email inbox for the new quote
+- **Pending**: Review quote details
+- **Expected Next Step**: Respond with questions, approval, or rejection of the quote
 
 ### Action Items for Harper
-- None immediately indicated by this message
-- Potential follow-up needed if customer doesn't respond within reasonable timeframe
-- Be prepared to discuss quote details if customer reaches out with questions
+- Follow up if client doesn't respond within a reasonable timeframe
+- Be prepared to discuss quote details, pricing, and coverage options
+- Have comparison or alternative quotes ready if needed
 
 ### Follow-up Timeline
-- Awaiting customer response/review of emailed quote
-- No specific timeline mentioned
+- **Implicit**: Awaiting client response/feedback on the received quote
+- No specific deadline mentioned
 
 ### Tone/Sentiment
-- Professional and informative
-- Neutral/positive (proactive customer service)
+- **Professional and informative**
+- Neutral/positive - proactive customer service approach
+- No urgency indicated but suggests timely action is expected
 
 ---
 
-## Important Notes
-
-### Missing Information
-- **No business details provided** in this message
-- **No personal details provided** in this message
-- **Quote details not specified** (coverage types, premiums, carriers, etc.)
-- **Customer name not mentioned** in SMS
-- **Specific policy type not identified**
-
-### Additional Context Needed
-- Reference the email sent to confirm quote details, carrier information, premium amounts, and coverage limits
-- Follow up with customer if no response within 3-5 business days
-- Be ready to discuss any questions about the quoted coverage, rates, or deductibles
+## ⚠️ Missing Context for Complete File
+*Note for Harper: This SMS is a notification only. Consider documenting:*
+- Which client/company this quote is for
+- What type of coverage/policy the quote covers
+- Quote amount/premium
+- Effective date
+- Any specific deadline for acceptance

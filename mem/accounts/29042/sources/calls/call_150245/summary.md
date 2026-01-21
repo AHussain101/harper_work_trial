@@ -4,73 +4,70 @@
 **Duration:** 8m 52s
 **Direction:** Incoming
 
-# Insurance Call Summary - Maple Stoneworks
+# Insurance Call Summary: Maple Stoneworks
 
 ## Business Details
 
-**Company Information:**
-- **Business Name:** Maple Stoneworks
-- **Industry:** Stone fabrication and installation
-- **Business Type:** Manufacturer and installer of engineered stone surfaces (showers, walls, countertops)
-- **Years in Operation:** ~11 years under current ownership
-- **Gross Revenue:** ~$250,000 annually
-- **Location:** Florida
-- **EIN:** 48-1032
+**Company Information**
+- Company Name: Maple Stoneworks
+- Industry: Stone fabrication and installation
+- Business Type: Manufacture and install engineered stone surfaces (showers, walls, countertops)
+- Years in Operation: ~11 years under current ownership
+- Gross Revenue: ~$250,000
 
-**Operations:**
-- Manufactures all products in-house
-- Sells directly to customers and contractors
-- No recalls or quality issues reported to date
+**Coverage Needs**
+- General Liability (GL): Requested $500k limit (previously carried $1M policy)
+- Workers' Compensation: Requested $100k limit
+- Owner Coverage: Owner to be **excluded** from Workers' Comp policy
 
-**Coverage Needs:**
-- General Liability (GL)
-- Workers' Compensation
+**Employee Information**
+- Number of Employees: 1 full-time employee
+- Payroll: ~$34,000
+- Claims History: None reported (no prior workers' comp losses)
 
-**Policy Details:**
-- **GL Requested Limits:** $500,000 (previously carried $1M policy; willing to increase if specific jobs require it)
-- **Workers' Comp Requested Limits:** $100,000
-- **Employees:** 1 full-time employee
-- **Employee Payroll:** ~$34,000 annually
-- **Owner Coverage:** Owner to be excluded from Workers' Comp policy
-- **Claims History:** None reported
+**Manufacturing & Operations**
+- All production done in-house
+- Sales channels: Direct to customers and contractors
+- Product quality: No recalls or quality issues reported
+
+**Business Identifiers**
+- EIN: 48-1032
+- Location: Florida
 
 ---
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Marcus (Last name not explicitly stated in transcript)
-- **Role:** Owner/Business operator
-- **Location:** Florida
-- **Preferred Contact Methods:** Email and text message
+**Contact Name(s) and Role**
+- **Marcus Perez** - Business owner/operator in Florida
+- **Carlos** - Partner agency representative who referred the lead
 
-**Referral Contact:**
-- **Name:** Carlos
-- **Role:** Partner agency representative
-- **Function:** Referred Marcus to Harper for insurance quote
+**Contact Method**
+- Preferred follow-up: Email and text message
+- Harper Agent: Mia
 
 ---
 
 ## Conversation Context
 
-**Call Purpose:**
-- Initial insurance inquiry and quote request for GL and Workers' Comp coverage
+**Call Type & Purpose**
+- Incoming referral call from partner agency
+- Purpose: Obtain quotes for GL and Workers' Compensation coverage
 
-**Call Participants:**
-- Mia (Harper Agent)
-- Carlos (Partner agency - referred customer)
-- Marcus (Business owner - customer)
+**Key Discussion Points**
+- Years in business and current ownership structure
+- Business model (direct-to-customer + contractor sales)
+- In-house manufacturing confirmation
+- Quality/recall history (none)
+- Desired coverage limits
+- Employee count and payroll
+- Prior workers' compensation claims (none)
+- Owner inclusion preference on Workers' Comp policy
 
-**Key Information Discussed:**
-- Business operational details (manufacturing, in-house operations, sales channels)
-- Coverage history and limits preferences
-- Employee count and payroll information
-- Loss history verification
+**Decisions Made**
+- Coverage limits approved: $500k GL and $100k Workers' Comp
+- Owner will be excluded from Workers' Comp policy
+- Request to be submitted to carriers for quotes
 
-**Tone/Sentiment:** Professional, cooperative, straightforward. Customer receptive to process and recommendations.
-
----
-
-## Action Items for Harper
-
-- [ ] **Submit insurance request** for
+**Action Items for Harper (Mia)**
+- Submit insurance request for Maple Stoneworks

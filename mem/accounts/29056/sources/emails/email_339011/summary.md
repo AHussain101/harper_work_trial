@@ -6,74 +6,47 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** Anthony Morales <anthony@harborwatchsecurity.com>
 
-# Email Summary for Harper Insurance Broker
+# Harper Insurance - Email Summary
 
 ## Business Details
-
-**Company Information:**
-- Company Name: Harborwatch Security Solutions LLC
-- Industry: Security Services
-- Business Type: Not specified beyond "Security Solutions"
-- Employee Count: Not mentioned
-- Revenue: Not mentioned
-- Years in Operation: Not mentioned
-
-**Coverage & Policy Details:**
-- Coverage needs: Not yet specified in email
-- Policy types discussed: Not specified
-- Premium amounts: Not yet quoted
-- Deductibles: Not mentioned
-- Coverage limits: Not mentioned
-- Claims history: Being requested (loss runs pending)
-- Loss runs requested: Yes - for prior 3 years or period insured
-
-**Dates & Timeline:**
-- Application submission date: 2025-12-04
-- Expected initial quotes: "soon" (timeframe not specified)
-- Renewal date: Not mentioned
-- Effective date: Not mentioned
-
-**Documents Requested:**
-- Loss run statements (prior 3 years or coverage period)
-- Certificates of Insurance (COIs)
-- Prior policies
-- Any special contract insurance requirements documentation
-- Delivery method: Secure upload portal (https://portal.example-insure.com/upload)
-
-**Carriers & Quotes:**
-- Application submitted to carrier network (specific carriers not named)
-- Quotes status: Pending from underwriters
-
----
+- **Company Name:** Harborwatch Security Solutions LLC
+- **Industry:** Security Services
+- **Business Type:** Not specified beyond "security solutions"
+- **Employees/Revenue/Years in Operation:** Not mentioned
+- **Coverage Needs:** Application submitted but specific coverage types not detailed in this email
+- **Claims History:** Loss runs requested (prior 3 years)
+- **Documents Requested:**
+  - Loss run statements (prior 3 years or full insured period)
+  - Certificates of Insurance (COI)
+  - Any prior policies
+  - Special contract insurance requirements
+- **Upload Portal:** https://portal.example-insure.com/upload
+- **Status:** Application submitted to carrier network; initial quotes expected soon
 
 ## Personal Details
-
-**Primary Contact:**
-- Name: Anthony Morales
-- Title/Role: Not specified
-- Company Email: anthony@harborwatchsecurity.com
-- Contact Method: Email (preferred method not stated)
-- Phone: Not provided
-
-**Harper Insurance Representative:**
-- Name: Jordan Kim
-- Title: Insurance Broker (implied)
-- Email: jordan.kim@harperinsure.com
-- Phone: +1 (470) 731-4971
-- Company Website: www.harperinsure.com
-
-**Communication Preferences:**
-- Not specified
-
----
+- **Contact Name:** Anthony Morales
+- **Title/Role:** Not specified (appears to be decision-maker/business owner)
+- **Email:** anthony@harborwatchsecurity.com
+- **From Harper's Side:**
+  - **Agent Name:** Jordan Kim
+  - **Agent Title:** Insurance Broker at Harper Insurance
+  - **Agent Phone:** +1 (470) 731-4971
+  - **Agent Email:** jordan.kim@harperinsure.com
+  - **Communication Style:** Professional, helpful, clear explanations
 
 ## Conversation Context
-
-**Purpose of Email:**
-- Follow-up to recent phone/in-person conversation about insurance application
-- Request for required documentation to expedite underwriting process
-- Explanation of loss runs and their importance
-
-**Main Topics Covered:**
-- Application has been submitted to carrier network
--
+- **Main Topic:** Follow-up to recent conversation about insurance quote for Harborwatch Security Solutions
+- **Purpose:** Request documentation needed to expedite the underwriting and quoting process
+- **Key Message:** Application has been submitted; documents needed to accelerate timeline
+- **Action Items for Anthony:**
+  - Upload requested documents to secure portal (loss runs, COIs, prior policies)
+  - Provide any special contract insurance requirements
+  - Contact Harper if assistance needed obtaining loss runs
+- **Action Items for Harper (Jordan):**
+  - Monitor carrier responses for initial quotes
+  - Be available to assist with loss run acquisition if requested
+  - Follow up once documents are received
+- **Next Steps:** 
+  - Anthony to submit documents via portal
+  - Jordan to provide quotes once carriers respond and documents received
+- **Timeline:** "Soon" for initial quotes (no specific deadline given)

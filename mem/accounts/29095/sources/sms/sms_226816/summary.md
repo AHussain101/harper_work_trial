@@ -6,36 +6,30 @@
 # SMS Summary for Harper Insurance
 
 ## Business Details
-- **Coverage/Application Status**: Application submitted to carriers
-- **Next Step**: Quotes pending from carriers
+- **Coverage needs:** Application submitted (specific coverage types not detailed in this message)
+- **Next steps:** Application being uploaded to carriers for quotes
 
 ## Personal Details
-- **Contact Name**: Chris
-- **Broker Name**: Dakotah
-- **Broker Company**: Harper Insurance
-- **Communication Method**: SMS
+- **Contact name:** Chris
+- **Contact method:** SMS
+- **Harper representative:** Dakotah
+- **Communication style:** Professional, courteous, and prompt follow-up oriented
 
 ## Conversation Context
-- **Main Topic**: Follow-up after initial consultation meeting
-- **Purpose**: Confirming receipt of application and setting expectations for next steps
-- **Key Actions Completed**:
-  - Meeting/consultation with Chris completed
-  - Application received and accepted
-  
-- **Action Items for Harper**:
+- **Main topic:** Follow-up after in-person or call meeting regarding insurance application
+- **Purpose:** Thank you message + status update on application processing
+- **Key action completed:** Meeting/consultation with Chris
+- **Action items for Harper:**
   - Upload Chris's application to carriers
-  - Obtain and provide quotes to Chris
-  
-- **Action Items for Customer (Chris)**:
-  - Await quote communication from Dakotah/Harper Insurance
-  
-- **Follow-up Timeline**: "Shortly" (no specific date provided)
-  
-- **Tone/Sentiment**: Professional, courteous, appreciative
-  - Positive relationship
-  - No concerns or red flags noted
-  - Informal but professional tone
+  - Obtain quotes from carriers
+  - Follow up with Chris regarding quotes (timeline not specified)
+- **Action items for customer (Chris):**
+  - Await quotes from carriers
+  - Prepare for follow-up communication from Dakotah
+- **Follow-up timeline:** "Shortly" (vague timeline - quotes expected in near term)
+- **Tone/sentiment:** Positive, professional, appreciative
 
-## Important Notes
-- **Missing Information**: No specific quote timeline given ("shortly" is vague)
-- **Recommended Follow-up**: Establish specific timeline for quote delivery during next contact
+## Notes
+- This is a closing/confirmation message following a previous discussion
+- No specific carriers, premium amounts, or policy details mentioned in this SMS
+- No specific timeline given for "shortly" - may need clarification on expected quote delivery date

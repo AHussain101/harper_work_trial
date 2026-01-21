@@ -8,59 +8,67 @@
 
 ## Business Details
 
-- **Industry/Business Type:** Product manufacturing (specific industry not detailed)
-- **Key Coverage Information:** 
-  - Submission received for underwriting review
-  - Product exposure-based coverage needed
-  - Product specification sheet provided
-  - Production volume information to be submitted
-- **Timeline:**
-  - Preliminary indications expected within 48–72 hours
-  - Document submission deadline: immediate/completed
+**Company Information:**
+- Industry: Manufacturing/Production (product-based)
+- Key Details: Company has production volumes and product specifications
+- Coverage Type: Commercial insurance submission (undergoing underwriting)
+
+**Documents & Submission Status:**
+- Product spec sheet: Uploaded by client
+- Production volumes note: To be sent by client (brief note format)
+- Prior claims information: Requested but status unclear from call
+- Underwriting Status: Submission received and confirmed
+
+**Timeline & Next Steps:**
+- Preliminary indications expected: 48–72 hours from call date
+- Carrier follow-up: Underwriters may contact client with additional questions
+- Call date: December 5, 2025 at 3:20 PM UTC
+
+---
 
 ## Personal Details
 
-- **Contact Name:** Becca
-- **Contact Role/Title:** Not specified
-- **Harper Agent:** Jordan
-- **Contact Method:** Phone (outgoing call)
-- **Communication Style:** Professional, responsive, cooperative
-- **Availability:** Responsive to calls; able to submit documents promptly
+**Contact Information:**
+- Name: Becca
+- Company Representative: Yes, appears to be decision-maker or primary contact
+- Contact Method: Phone (outgoing call)
+
+**Communication Style:**
+- Responsive and cooperative
+- Efficient communicator
+- Receptive to process and timeline
+- Professional tone
+
+---
 
 ## Conversation Context
 
-### Call Purpose
-Follow-up call to confirm receipt of submission documents and address questions regarding product handling and operational exposures.
+**Purpose of Call:**
+- Follow-up confirmation of document submission
+- Address questions regarding product handling and exposure details
+- Set expectations for underwriting timeline
 
-### Key Topics Discussed
+**Key Points Discussed:**
 - Confirmation that submission was received
-- Request for product specification sheet and prior claims documentation
-- Production volume information needed for underwriting assessment
+- Request for product spec sheet and prior claims documentation
+- Explanation of 48–72 hour timeline for preliminary indications
+- Notification process if carriers need additional information
 
-### Documents & Materials
-- **Received:** Product specification sheet (uploaded by Becca)
-- **Pending:** Brief note on production volumes (Becca to send)
-- **Not Provided:** Prior claims history/loss runs (no indication mentioned)
+**Documents Status:**
+- ✅ Product spec sheet: Uploaded
+- ⏳ Production volumes note: Pending (client will send)
+- ❓ Prior claims information: Requested (status unknown)
 
-### Decisions & Outcomes
-- Submission accepted and moving forward to underwriting
-- No immediate red flags identified
-
-### Action Items
-
-**Harper/Jordan:**
-- Follow up with carriers if they have questions
-- Contact Becca if additional information is needed
+**Action Items for Harper:**
+- Monitor for document receipt (production volumes note)
+- Contact underwriters if needed with received documentation
+- Follow up with client if carriers request additional information
 - Provide preliminary indications within 48–72 hours
 
-**Becca:**
+**Action Items for Customer (Becca):**
 - Send brief note about production volumes
 
-### Next Steps
-- Preliminary indications expected: 48–72 hours from call date (by approximately 2025-12-08)
-- Harper will reach out if carriers request additional information
-
-### Tone/Sentiment
-- **Overall:** Positive and collaborative
-- **Becca's Demeanor:** Cooperative, satisfied with response time and process
-- **Urgency Level:** Standard/routine (no time-sensitive concerns expressed)
+**Tone/Sentiment:**
+- Positive and cooperative
+- No concerns or frustrations expressed
+- Efficient interaction

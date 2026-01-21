@@ -11,60 +11,67 @@
 ## Business Details
 
 **Company Information**
-- Company name: Lincoln Auto Traders
-- Business type: Used car dealership
-- Industry: Automotive/Dealer operations
+- Company Name: Lincoln Auto Traders
+- Business Type: Used car dealership (small operation)
+- Industry: Automotive retail
 - Location: 12345 Main St, Anytown, AL
-- Years in operation: Not specified
+- Years in Operation: Not specified
+- Number of Employees: 2 authorized drivers (owner + 1 employee)
 
-**Operations & Coverage**
-- Business model: Small used car lot specializing in private passenger vehicles only
-- Estimated annual sales: ~$40,000
-- Authorized drivers: 2 (owner + 1 employee)
-- Coverage type requested: Garage/Dealer operations coverage
-- Dealer plates needed: Up to 6 plates
-- Loss runs: Not available at this time
+**Coverage & Policy Details**
+- Coverage Type Requested: Garage/Dealer operations coverage with dealer plates
+- Number of Dealer Plates: Up to 6 plates
+- Vehicle Types: Private passenger vehicles only
+- Estimated Annual Sales: ~$40,000
+- Premium Amounts: Not yet quoted
+- Deductibles: Not specified
+- Coverage Limits: Not specified
+- Claims History: Loss runs not available at this time
 
 **Documents Provided**
-- Completed ACORD application
-- Photos of premises
-- Copy of dealer license application (in progress/pending)
+- ✅ ACORD application (completed)
+- ✅ Photos of premises
+- ⏳ Dealer license application (in progress - not yet finalized)
+- ❌ Loss runs (unavailable)
 
-**Carrier & Status**
-- Submitted to: AutoGuard MGA
-- Status: Awaiting underwriting response on available terms and subjectivities
+**Carrier Information**
+- Submission sent to: AutoGuard MGA underwriting team
 
 ---
 
 ## Personal Details
 
 **Contact Information**
-- Submitting broker: Samira Khan
-- Title: Insurance Broker (Harper Insurance)
+- Contact Name: Samira Khan
+- Title/Role: Insurance broker at Harper Insurance
 - Email: samira.khan@harperinsure.com
-- Submission method: Email to underwriting@autoguardmga.com
+- Phone: Not provided
+
+**Communication Style**
+- Professional, concise, organized
+- Formal tone
+- Efficient submission format
 
 ---
 
 ## Conversation Context
 
 **Purpose**
-- Formal insurance submission to underwriting for garage/dealer operations coverage with dealer plates
+- Formal insurance submission to underwriter for new business coverage
 
-**Key Information Requested from Underwriter**
-- Available terms for the account
-- Any subjectivities or additional requirements
+**Key Information Provided**
+- Dealership overview and operational scope
+- Driver information
+- Requested coverage type and dealer plate quantity
+- Supporting documentation status
 
-**Action Items - Samira Khan/Harper Insurance**
-- Awaiting underwriter response
-- May need to follow up on dealer license application completion
-- Obtain loss runs if required by underwriter
+**Outstanding Information**
+- Loss runs not currently available
+- Dealer license application still in progress
+- Premium quote, deductibles, and final terms pending underwriter response
 
-**Action Items - Underwriting Team**
-- Review submission and ACORD application
-- Provide available terms and coverage options
-- Identify any subjectivities or additional documentation needed
-
-**Tone**
-- Professional, straightforward business submission
-- No urgency indicated; standard submission process
+**Action Items for Harper/Insurance Broker**
+- Await underwriter response with available terms and subjectivities
+- Follow up on finalized dealer license application
+- Obtain loss runs from client when available
+- Coordinate policy terms with client

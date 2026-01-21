@@ -4,67 +4,66 @@
 **Duration:** 8m 1s
 **Direction:** Incoming
 
-# Insurance Call Summary - Marcus Thompson
+# Harper Insurance Call Summary – Marcus Thompson
 
 ## Business Details
 
 **Company Information:**
 - **Business Name:** Sentinel Shield
 - **Industry:** Security Consulting & Contract Security Services
-- **Business Type:** Solo operation (no employees)
-- **Services Offered:** 
-  - Security consulting
-  - Contract security work
-  - Armed security services (at some client sites)
+- **Business Type:** Sole proprietor (no employees)
 - **Location:** Cedarville, South Carolina
 - **Annual Revenue:** ~$61,000
+- **Services Offered:** Security consulting and contract security work (including armed services at some sites)
 
 **Coverage Details:**
-- **Policy Type Requested:** General Liability
-- **Limits:** Minimum limits requested (specific amounts not discussed on call)
-- **Status:** Quote pending - submitted for underwriting
+- **Coverage Type Requested:** General Liability Insurance
+- **Policy Status:** Quote in progress
+- **Premium/Limits:** Not yet quoted (awaiting underwriting)
 
 ## Personal Details
 
 **Primary Contact:**
 - **Name:** Marcus Thompson
-- **Role/Title:** Owner/Consultant
+- **Title/Role:** Business Owner
 - **Email:** marcus.thompson@sentinelshield.com
 - **Phone:** Not captured
-- **Preferred Contact Method:** Email (quote to be sent via email)
+- **Location:** South Carolina
 
-**Personality/Communication Notes:**
-- Professional and concise communicator
-- Appreciative and polite tone
-- No concerns or hesitations expressed
-- Cooperative with information gathering
+**Communication Notes:**
+- Professional and cooperative demeanor
+- Brief, direct communication style
+- Receptive to the quoting process
 
 ## Conversation Context
 
 **Call Purpose:**
-- Incoming call to request General Liability insurance quote for security consulting business
+- Incoming call routed through Alicia at Tivoli (appears to be a referral partner or broker)
+- Requesting general liability quote for security consulting business
 
-**Key Information Discussed:**
-- Confirmed business address (Cedarville, South Carolina)
-- Verified email on file
-- Clarified that business is solo operation with no employees
-- Confirmed service scope includes armed security work at some locations
-- Captured estimated annual revenue ($61,000)
+**Call Flow:**
+1. Initial transfer from Alicia at Tivoli
+2. Confirmation of business address (Cedarville, SC)
+3. Email verification (marcus.thompson@sentinelshield.com)
+4. Business structure clarification (sole proprietor, no employees)
+5. Revenue confirmation ($61,000 annually)
+6. Quote submission to underwriting
 
-**Decisions Made:**
-- Proceeding with General Liability quote submission
-- Quote to be sourced through Harper or carrier partners
+**Key Details Collected:**
+- Confirmed no employees
+- Confirmed consulting + contract security work (including armed services)
+- Annual revenue captured for underwriting purposes
 
-**Action Items for Harper:**
-- Submit underwriting request for General Liability quote
-- Send quote via email to marcus.thompson@sentinelshield.com within 24-48 hours
-- May involve coordination with carrier partners
+## Action Items
 
-**Action Items for Marcus:**
-- Await quote email (24-48 hour timeframe)
-- Review quote and contact Harper with any questions
+**Harper's Responsibilities:**
+- [ ] Submit business details to underwriting for general liability quote
+- [ ] Send quote via email to marcus.thompson@sentinelshield.com within 24-48 hours (may come from Harper or carrier partner)
 
-**Follow-Up Timeline:**
-- Quote delivery expected: 24-48 hours from call date (December 4, 2025)
+**Marcus Thompson's Responsibilities:**
+- [ ] Review quote when received
+- [ ] Contact Harper with any questions regarding the quote
 
-**Tone/Sentiment:**
+## Next Steps & Timeline
+
+- **Quote Delivery:** 24-

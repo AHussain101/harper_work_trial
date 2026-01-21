@@ -5,37 +5,27 @@
 
 # SMS Summary for Harper
 
-## Message Details
+## ⚠️ Message Type
 - **Direction:** Outgoing (sent by Harper/insurance broker)
 - **Date & Time:** December 4, 2025 at 10:12 PM
+- **Message Type:** Automated/Standard Unsubscribe Footer
 
 ## Message Content
-This is a **standard unsubscribe notice/disclaimer** typically appended to automated or marketing SMS messages.
+- **Body:** Generic unsubscribe/opt-out notice
+- **Instructions:** Recipient can reply "STOP" to unsubscribe from future messages
+- **Scope:** Will stop all messages from this phone number
 
-### Key Information
-- **Message Type:** Legal compliance footer/unsubscribe instruction
-- **Purpose:** Inform recipient how to opt-out of future SMS communications
-- **Call-to-Action:** Reply with "STOP" to unsubscribe from messages
-
-## Important Notes
-⚠️ **This SMS contains NO actionable business information:**
-- No business or personal details mentioned
-- No coverage, policy, or premium information
-- No customer information, dates, or decisions
-- No follow-up items or next steps
-- No conversation context
-
-## Conversation Context
-**Tone/Sentiment:** Formal, compliance-focused
-
-## Action Items
-**For Harper:**
-- None - this appears to be an automated template message footer
-- If this was sent to a prospect/client, ensure they understand they can opt-out at any time
-
-**For Customer:**
-- Customer can reply "STOP" if they wish to unsubscribe from future SMS communications
+## Context Notes
+- **Purpose:** Standard compliance footer (likely required by SMS regulations like TCPA/GDPR)
+- **Tone:** Informational/Administrative
+- **Actionable Content:** None specific to insurance discussion
 
 ---
 
-**⚠️ Note:** This message does not contain substantive insurance or business information. Please verify if this is the complete SMS thread or if there was previous message content that should be summarized.
+## ⚠️ Important Note
+**This SMS contains NO business or personal details.** This appears to be only the standard unsubscribe footer/disclaimer message without actual message content preceding it. 
+
+**Action for Harper:**
+- Review if there was intended message content that should have been included
+- Confirm whether this represents the complete SMS thread or if prior messages are missing from the record
+- Consider if this is just a system/footer notification requiring no follow-up

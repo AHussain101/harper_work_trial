@@ -8,21 +8,26 @@
 ## Conversation Context
 
 ### Main Topic
-- Harper is providing advance notice of an incoming callback
+- Harper is preparing to call the recipient back
 
 ### Message Details
 - **Direction:** Outgoing (from Harper to customer)
-- **Date/Time:** December 4, 2025 at 7:41 PM
+- **Date & Time:** December 4, 2025 at 7:41 PM
 - **Tone/Sentiment:** Professional, courteous
 
 ### Action Items for Harper
-- Complete callback to customer shortly after this message was sent
+- Follow through with promised callback "in a moment"
 
 ### Action Items for Customer
-- Expect incoming call from Harper momentarily
-- Be available to receive callback
+- Expect incoming call from Harper shortly
 
 ---
 
-## Notable Observations
-⚠️ **Limited Information:** This is a brief notification message only. No business, personal, or detailed coverage information is provided in this SMS. This appears to be a courtesy heads-up before Harper initiates contact.
+## Important Notes
+
+⚠️ **Limited Information Available**
+This is a brief courtesy message with minimal context. To better assist Harper, the following would be helpful:
+- Previous conversation history or reason for the callback
+- Customer contact information
+- Subject matter of the pending callback (policy review, quote, claims, etc.)
+- Any urgency indicators

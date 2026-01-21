@@ -4,55 +4,48 @@
 **Duration:** 1m 15s
 **Direction:** Outgoing
 
-# Call Summary - Harper Insurance Broker
+# Call Summary - Harper Insurance
 
 ## Business Details
-- **Coverage Type**: Product-related (requires SDS and product labels)
-- **Documents Requested**: 
+- **Coverage Type:** Product liability (implied by SDS and product label requirements)
+- **Documents Requested:** 
   - Product label
   - SDS (Safety Data Sheet)
-- **Status**: Documents pending from client; underwriting review awaiting receipt
+- **Status:** Pending document submission; documents to be forwarded to underwriting upon receipt
 
 ## Personal Details
-- **Contact Name**: Olivia
-- **Harper Agent**: Ashley
-- **Communication Style**: Professional, responsive, cooperative
-- **Preferred Contact Method**: Email (initial contact) and phone follow-up
+- **Contact Name:** Olivia
+- **Harper Agent:** Ashley
+- **Preferred Contact Method:** Email and phone follow-up
+- **Communication Style:** Professional, responsive, appreciative
 
 ## Conversation Context
 
-### Call Purpose
-Follow-up confirmation that client received underwriter's document request
+### Purpose of Call
+Follow-up confirmation call to ensure client received underwriter's document request and to facilitate timely submission.
 
 ### Key Points Discussed
-- Underwriter has requested product label and SDS from client
-- Ashley offered assistance with secure upload process
-- Olivia confirmed receipt of the email request
+- Underwriter has requested product label and Safety Data Sheet (SDS)
+- Harper offered assistance with secure document upload
+- Client acknowledged receipt of email request
 
 ### Decisions Made
-- None at this time
+- Client confirmed willingness to submit documents
 
 ### Action Items for Harper
-- [ ] Confirm receipt of product label and SDS once uploaded by client
-- [ ] Submit received documents to underwriting
-- [ ] Notify Olivia of underwriting timeline and next steps once documents are processed
+- [ ] Confirm receipt of product label and SDS from Olivia once uploaded
+- [ ] Forward documents to underwriting team immediately upon receipt
+- [ ] Update Olivia on underwriting timeline and next steps
 
-### Action Items for Client (Olivia)
-- [ ] Upload product label and SDS this afternoon (same day as call - 12/05/2025)
+### Action Items for Customer (Olivia)
+- [ ] Upload product label and SDS documents **this afternoon** (same day as call)
 
-### Follow-Up Timeline
-- **Expected Document Upload**: Same day (afternoon of 12/05/2025)
-- **Next Communication**: After documents are received and submitted to underwriting; Harper will update Olivia on timing
+### Timeline
+- **Call Date/Time:** December 5, 2025 at 1:20 PM UTC
+- **Expected Document Submission:** Same day (afternoon of 12/5/2025)
+- **Next Update:** After underwriting receives and reviews documents
 
 ### Tone/Sentiment
-- **Overall**: Positive, collaborative
-- **Client Sentiment**: Agreeable, appreciative of quick follow-up
-- **Urgency Level**: Moderate (standard underwriting process)
-
----
-
-**Call Details**
-- Date: December 5, 2025
-- Time: 1:20 PM UTC
-- Duration: 1 minute 15 seconds
-- Direction: Outgoing call from Harper
+- **Overall:** Positive and cooperative
+- **Client Sentiment:** Satisfied; appreciated quick follow-up
+- **Urgency Level:** Moderate (documents needed to move case forward)

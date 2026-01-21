@@ -10,34 +10,47 @@
 
 ## Business Details
 - **Company Name:** Maple Stoneworks
-- **Industry:** Stoneworks (construction/masonry)
-- **Coverage Status:** Currently insured (has prior carrier)
-- **Current Documents Needed:**
-  - Loss runs for last 3 years (or entire insurance history if less than 3 years)
+- **Industry:** Stone work/masonry (inferred from company name)
+- **Current Status:** Underwriting in progress
+- **Documents Requested:**
+  - Loss runs for the last 3 years (or full history if less than 3 years carried)
   - Current Certificates of Insurance (COIs)
 
 ## Personal Details
-- **Contact Name:** Marcus (first name only provided)
-- **Company Email:** info@maplestoneworks.com
-- **Harper Agent:** Jordan Kim
-- **Agent Email:** jordan.kim@harperinsure.com
-- **Preferred Communication:** Email (document upload portal provided)
-- **Alternative Options:** Fax or assistance obtaining documents from prior carrier
+- **Contact Name:** Marcus (first name only)
+- **Contact Email:** info@maplestoneworks.com
+- **Harper Representative:** Jordan Kim
+- **Jordan's Email:** jordan.kim@harperinsure.com
 
 ## Conversation Context
-- **Main Purpose:** Document collection for underwriting completion
-- **Current Status:** Underwriting in progress, pending documentation
-- **Key Action Items for Customer:**
-  1. Upload loss runs (3 years or complete history) via secure portal
-  2. Upload current COIs via secure portal
-  3. Contact Jordan if electronic copies unavailable (fax alternative offered)
-- **Key Action Items for Harper:** 
-  - Receive and review submitted documents
-  - Proceed with underwriting once documents obtained
-- **Next Steps:** Customer to submit documents; Harper will continue underwriting process
-- **Timeline:** Not specified - appears to be immediate/urgent request
-- **Upload Portal:** https://portal.example-insure.com/doc-upload/xyz789
-- **Tone/Sentiment:** Professional, friendly, accommodating (offers alternatives if documents unavailable)
 
----
-**Note:** No premium amounts, specific policy types, deductibles, renewal dates, or carrier recommendations mentioned in this email.
+### Main Topic
+Document collection for underwriting completion on a new or renewal insurance policy
+
+### Key Information
+- Underwriting cannot be finalized without the requested documents
+- Secure online portal is the preferred submission method
+- Alternative submission methods available if electronic copies unavailable
+
+### Action Items - For Maple Stoneworks (Marcus)
+- **Upload loss runs** (last 3 years or full history) via secure portal link
+- **Upload current COIs** via secure portal link
+- Contact Harper if electronic copies are unavailable to arrange fax submission or assistance obtaining from prior carrier
+
+### Action Items - For Harper (Jordan Kim)
+- Monitor portal for document uploads from Maple Stoneworks
+- Be prepared to facilitate fax submission if needed
+- Be prepared to contact prior carrier on behalf of Marcus if needed
+- Complete underwriting once documents are received
+
+### Upload Portal Details
+- **Link:** https://portal.example-insure.com/doc-upload/xyz789
+- **Method:** Secure upload (preferred)
+- **Alternatives:** Fax or assistance obtaining from prior carrier
+
+### Timeline
+- **Email Date:** December 5, 2025
+- **Urgency:** Moderate - underwriting cannot proceed without documents, but no specific deadline mentioned
+
+### Tone/Sentiment
+Professional, straightforward, helpful (offers alternative methods if needed)

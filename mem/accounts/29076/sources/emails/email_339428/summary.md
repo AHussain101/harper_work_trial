@@ -6,71 +6,61 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** Naomi Brooks <naomi.brooks@willowgrovehc.com>
 
-# Email Summary: Willow Grove Home Care Insurance Quote – Next Steps
+# Email Summary: Willow Grove Home Care Insurance Quote
 
 ## Business Details
 
 **Company Information:**
-- Company Name: Willow Grove Home Care
-- Business Type: Care home / non-medical home care service provider
-- Industry: Healthcare services (non-medical support)
-- Location: Delaware
-- Status: New business (in planning/startup phase)
+- **Company Name:** Willow Grove Home Care
+- **Business Type:** Care home / non-medical home care service
+- **Industry:** Healthcare / Senior Care Services
+- **Location:** Delaware
+- **Status:** New business (startup phase)
+- **Services Offered:** Non-medical support for adults with mobility and daily living needs
 
-**Services Offered:**
-- Non-medical support for adults with mobility and daily living needs
-- Potential services mentioned: personal care, companion services, transportation, medication reminders
-
-**Coverage Needs (Anticipated):**
+**Coverage Information Needed:**
 - General Liability
 - Professional Liability
-- Abuse & Molestation
+- Abuse & Molestation coverage
 - Workers' Compensation
+- *Note: Specific limits, deductibles, and premium amounts not yet discussed*
 
-**Information Still Required:**
-- Detailed service description (specific services provided)
-- Client profile details (age ranges, mobility/cognitive needs)
-- Estimated weekly client volume
+**Documents Requested:**
+- Written description of services provided (personal care, companion services, transportation, medication reminders, etc.)
+- Typical client profile (age ranges, mobility or cognitive needs)
+- Estimated number of clients served per week
 - Anticipated staffing levels
-- Existing policies or prior claims history/loss runs (if available)
-
----
+- Existing policies or prior claims history (loss runs), if available
+- Secure document upload via portal available if preferred
 
 ## Personal Details
 
-**Primary Contact:**
-- Name: Naomi Brooks
-- Title: Owner/Management (implied)
-- Email: naomi.brooks@willowgrovehc.com
-- Communication Method: Prefers written documentation; portal upload option available
+**Contact Information:**
+- **Name:** Naomi Brooks
+- **Title/Role:** Owner/Principal contact for Willow Grove Home Care
+- **Email:** naomi.brooks@willowgrovehc.com
+- **Preferred Contact Method:** Not explicitly stated (email and phone both available)
 
----
+**Communication Notes:**
+- Responsive and collaborative (participated in initial call with Jordan)
+- Willing to share business details
 
 ## Conversation Context
 
-**Main Topic/Purpose:**
-- Follow-up communication after initial consultation call regarding new care home insurance quote
-- Request for detailed information needed to provide accurate insurance quote
+**Purpose:**
+- Follow-up to initial consultation call regarding new care home insurance quote
+- Information gathering phase to ensure accurate quote and appropriate coverage
 
-**Previous Interaction:**
-- Phone call already conducted between Jordan Kim and Naomi Brooks
-- Naomi shared business plans and service overview during call
+**Key Actions for Naomi (Customer):**
+- Provide written descriptions of services offered
+- Share client profile information
+- Supply staffing level and client volume estimates
+- Specify which coverages are needed
+- Submit existing policies and/or loss runs if available
+- Option to upload documents via secure portal or schedule follow-up call
 
-**Key Questions/Information Requested:**
-1. Written description of services provided
-2. Typical client profile demographics
-3. Estimated client volume (per week) and staffing levels
-4. Specific coverage types needed
-5. Any existing policies or prior claims/loss runs
-
-**Pending Decisions:**
-- Which coverages to include in quote
-- Final service scope and client projections
-
-**Action Items for Harper (Jordan Kim):**
-- Await written documentation from Naomi
-- Schedule optional follow-up call to review submitted information (if client agrees)
-- Prepare secure portal link for document uploads if client prefers digital submission
-- Generate insurance quote once information is received
-
-**
+**Key Actions for Harper (Jordan Kim):**
+- Send secure portal link if customer prefers document upload
+- Schedule follow-up call if customer requests (to review submitted information together)
+- Prepare insurance quote once information is received
+- Obtain quotes from appropriate carriers for

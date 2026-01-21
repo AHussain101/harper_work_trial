@@ -3,42 +3,56 @@
 **Date:** 2025-12-05T14:21:05+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Preliminary Quote Sent
+# SMS Summary for Harper Insurance
 
 ## Business Details
-- **Quote Status**: Preliminary quote sent via email
-- **Quote Date**: December 5, 2025 at 2:21 PM
+- **Coverage Type:** Not specified - preliminary quote stage
+- **Quote Status:** Preliminary quote sent via email
+- **Documents Provided:** Preliminary quote (email delivery)
+
+---
 
 ## Personal Details
-- **Contact Name**: Ethan
-- **Harper Representative**: Brandon Hayes
-- **Company**: Harper Insurance
-- **Preferred Contact Methods**: Email (primary), Phone (secondary)
+- **Contact Name:** Ethan
+- **Sales Representative:** Brandon Hayes
+- **Company:** Harper Insurance
+- **Preferred Contact Method:** Email (primary) or phone (secondary)
+
+---
 
 ## Conversation Context
-- **Main Topic**: Delivery of preliminary insurance quote
-- **Action Items for Customer (Ethan)**:
-  - Review preliminary quote received via email
-  - Reply to Brandon Hayes with any questions
-  - Call Brandon Hayes if clarification needed on quote details
 
-- **Action Items for Harper (Brandon Hayes)**:
-  - ✅ Sent preliminary quote to Ethan's email (completed)
-  - Await customer response/questions
-  - Be available for follow-up questions via phone or email
+### Main Topic
+- Initial quote delivery for insurance coverage
 
-- **Tone/Sentiment**: Professional, brief, helpful
+### Key Actions Completed
+- Preliminary quote prepared and sent to Ethan's email
+
+### Pending Actions
+
+**For Ethan (Customer):**
+- Review preliminary quote in email
+- Contact Brandon Hayes with any questions or concerns
+- Reply via email or phone call to discuss next steps
+
+**For Brandon Hayes/Harper:**
+- Await response from Ethan regarding quote
+- Be available to answer questions
+- Follow up if no response within reasonable timeframe
+
+### Next Steps
+- Awaiting customer feedback on preliminary quote
+- Ready to clarify any questions about the quote
+
+### Tone/Sentiment
+- **Tone:** Professional, friendly, informal ("Quick note")
+- **Sentiment:** Neutral/positive - routine business communication
 
 ---
 
-## ⚠️ Missing/Unclear Information
-- **Business Type/Industry**: Not specified
-- **Coverage Type**: Not specified
-- **Premium Amount**: Not provided in SMS
-- **Ethan's Full Details**: Last name, email address, phone number, job title not mentioned in this SMS
-- **Next Steps Timeline**: No specific follow-up date mentioned
-- **Carrier Information**: Not disclosed in this message
-
----
-
-**Note for Harper**: This appears to be an initial outreach SMS confirming quote delivery. Additional context from previous communications or the quote document itself would provide fuller details about Ethan's business and coverage needs.
+## Missing Information (To Be Determined)
+- Specific business type/industry
+- Coverage needs and policy types
+- Premium amounts or deductibles
+- Company size and details
+- Effective or renewal dates

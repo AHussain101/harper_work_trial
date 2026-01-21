@@ -10,49 +10,40 @@
 
 ## Business Details
 - **Company Name:** SafeGuard Solutions LLC
-- **Business Email:** owner@safeguardsolutions.co
-- **Coverage Status:** Application recently submitted to carrier network
+- **Contact Email:** owner@safeguardsolutions.co
+- **Coverage Status:** Application submitted to carrier network
 - **Documents Needed:**
-  - Loss runs (from prior coverage, if applicable)
-  - Certificates of Insurance (COIs)
-  - Contract requirements documentation
-  - Any specific coverage requirements
+  - Loss runs (from prior/existing coverage)
+  - Certificates of insurance (COIs)
+  - Contract requirements/coverage specifications
+- **Next Steps:** Awaiting initial carrier responses (timeline not specified)
 
 ## Personal Details
-- **Contact Name:** Marcus (recipient/decision-maker)
+- **Contact Name:** Marcus (owner/decision-maker)
 - **Harper Contact:** Jordan Kim
-  - Title: CEO & Co-founder, Harper Insurance
-  - Phone: 470-731-4971
-  - Email: jordan.kim@harperinsure.com
-- **Communication Method:** Email follow-up after phone conversation
+  - **Title:** CEO & Co-founder, Harper Insurance
+  - **Phone:** 470-731-4971
+  - **Email:** jordan.kim@harperinsure.com
+- **Communication Style:** Professional, responsive (participated in recent conversation with Harper team)
 
 ## Conversation Context
-- **Main Purpose:** Follow-up to insurance application discussion; requesting documentation to expedite quote process
-- **Prior Activity:** Phone conversation between Jordan and Marcus occurred before this email
+- **Main Topic:** Insurance application follow-up after initial consultation
+- **What Happened:** 
+  - Marcus recently spoke with Harper team
+  - Insurance intake form was submitted to carrier network
 - **Key Questions/Requests:**
-  - Submit existing loss runs from prior coverage
+  - Request for loss runs from prior coverage (if applicable)
+  - Request for any COIs or specific contract coverage requirements
+  - Open question about additional coverage gaps to address
+- **Pending Decisions:** Awaiting carrier initial quotes/responses
+- **Action Items for Harper:**
+  - Monitor carrier responses
+  - Assist Marcus with obtaining loss runs if needed from prior carrier
+  - Follow up once carrier quotes received
+- **Action Items for Customer (Marcus):**
+  - Upload existing loss runs if available
   - Provide certificates of insurance or contract requirements
-  - Identify any additional coverage needs or coverage gaps
-- **Support Offered:** Harper can assist in obtaining loss runs from prior carriers if needed
-- **Status:** Initial carrier responses expected shortly
-- **Pending Actions:**
-  - Waiting for carrier network responses
-  - Awaiting documentation from Marcus
-- **Tone:** Professional, helpful, efficient; collaborative approach to accelerating the quote process
-
-## Action Items
-
-### For Harper (Jordan Kim)
-- Monitor for carrier responses to submitted application
-- Be prepared to assist with obtaining loss runs from prior carrier if requested
-
-### For Customer (Marcus/SafeGuard Solutions)
-- Upload loss runs from prior coverage
-- Provide certificates of insurance (COIs)
-- Submit any contract requirements or specific coverage requirements
-- Identify and communicate additional coverage needs or gaps
-
-## Next Steps
-- Initial carrier responses anticipated soon
-- Documentation submission needed to move process forward
-- Follow-up expected once carrier quotes received
+  - Identify any additional coverage gaps or needs
+  - Reach out if needs assistance obtaining loss runs from prior carrier
+- **Tone/Sentiment:** Professional, helpful, collaborative
+- **Email Date:** December 5, 2025

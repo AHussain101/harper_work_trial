@@ -6,33 +6,47 @@
 # SMS Summary for Harper
 
 ## Message Overview
-- **Date/Time:** December 5, 2025 at 9:12 AM (UTC)
-- **Direction:** Incoming message from customer
-- **Tone/Sentiment:** Cooperative, positive
-
-## Conversation Context
-- **Main Topic:** Customer acknowledging receipt of documents
-- **Key Message:** Customer will review and sign documents later today
-- **Status:** Documents sent, awaiting customer action
-
-## Action Items
-
-### For Customer
-- [ ] Review documents (timeline: later today)
-- [ ] Sign documents (timeline: later today)
-- [ ] Return signed documents to Harper
-
-### For Harper
-- [ ] Follow up if documents not received back by end of business day (if needed)
-- [ ] Prepare for next steps once documents are signed and returned
-
-## Business Details
-*No specific business or coverage details mentioned in this message*
-
-## Personal Details
-*Contact information not provided in this message*
+- **Direction:** Incoming
+- **Date & Time:** December 5, 2025 at 9:12 AM (UTC)
+- **Tone/Sentiment:** Positive, cooperative
 
 ---
 
-## Notes
-This is a brief confirmation message. No new information about coverage, policies, premiums, or business details has been provided. This appears to be a continuation of an ongoing conversation where documents were previously sent to the customer for review and signature.
+## Conversation Context
+
+### Main Topic/Purpose
+- Customer acknowledging receipt of documents
+- Confirming intent to review and sign materials
+
+### Key Points
+- Customer has received something (document/contract/forms - **specific item not detailed in this message**)
+- Customer intends to complete review and signing process same day
+
+---
+
+## Action Items
+
+### For Harper
+- ⚠️ **CLARIFICATION NEEDED:** Determine what specific document(s) were sent to this customer
+- Monitor for signed documents to be returned later today
+- Be prepared to follow up if documents are not received by end of business day
+- Note timeline expectation: same-day turnaround
+
+### For Customer
+- Review the sent document(s)
+- Sign document(s) later today
+- Return signed materials to Harper
+
+---
+
+## Follow-Up Timeline
+- **Expected completion:** Same business day (December 5, 2025)
+- **Next action trigger:** If signed documents not received by end of day, send reminder
+
+---
+
+## Missing Information ⚠️
+**Note to Harper:** This message lacks specific context. Consider clarifying in next communication:
+- Which customer/business is this from? (Sender name/number not provided in SMS)
+- What specific documents were sent? (Policy, quotes, enrollment forms, etc.)
+- What type of insurance is involved?

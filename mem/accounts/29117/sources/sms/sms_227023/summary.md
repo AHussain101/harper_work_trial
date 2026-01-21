@@ -3,38 +3,57 @@
 **Date:** 2025-12-05T00:30:24.254000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance Broker
+# SMS Summary: Application Submission Confirmation
 
 ## Business Details
-- **Coverage Type**: Application submitted (specific coverage type not specified in message)
-- **Status**: Awaiting quotes from carriers
-- **Expected Next Step**: Notification to be sent when quotes arrive
+- **Coverage Type**: Not specified in message
+- **Status**: Application submitted
+- **Next Step**: Awaiting quotes from carriers
 
 ## Personal Details
 - **Contact Name**: Ethan
 - **Contact Role/Title**: Not specified
-- **Insurance Broker**: Dakota (representing Harper Insurance)
 - **Communication Method**: SMS
+- **Sender**: Dakota from Harper Insurance
 
 ## Conversation Context
-- **Purpose**: Follow-up confirmation regarding submitted application
-- **Main Topic**: Acknowledgment of application receipt and quote timeline management
-- **Key Action Items**:
-  - **For Harper/Dakota**: 
-    - Monitor incoming quotes from carriers
-    - Notify Ethan once quotes are received
-  - **For Customer (Ethan)**:
-    - Await notification of quotes
-- **Tone/Sentiment**: Professional, courteous, routine
-- **Timeline**: No specific deadline mentioned; notification will be sent upon quote arrival
 
-## Missing Information
-- Specific coverage type(s) needed (auto, home, commercial, etc.)
-- Company details (if business coverage)
-- Expected quote delivery timeframe
-- Number of quotes anticipated
-- Any specific carrier preferences mentioned in original application
+### Main Topic/Purpose
+- Confirmation of application receipt
+- Notification of upcoming quote process
+
+### Key Points
+- Ethan has successfully submitted an insurance application
+- Multiple carrier quotes are being solicited
+- Harper will proactively notify Ethan when quotes are received
+
+### Decisions Made
+- None in this message
+
+### Pending Items
+- Awaiting quotes from insurance carriers
+- Pending notification to Ethan once quotes arrive
+
+### Action Items for Harper
+- Obtain quotes from carriers
+- Send quotes to Ethan when received
+
+### Action Items for Customer (Ethan)
+- Wait for quote notifications from Harper Insurance
+
+### Follow-up Timeline
+- No specific timeline mentioned
+- Follow-up triggered when quotes arrive from carriers
+
+### Tone/Sentiment
+- **Tone**: Professional, friendly, reassuring
+- **Sentiment**: Positive - confirmatory message setting clear expectations
 
 ---
 
-**Note**: This appears to be a standard acknowledgment message. Harper/Dakota should retain the original application details to reference when quotes arrive.
+## Missing Information to Collect Later
+- Type of business/industry
+- Coverage needs and policy types
+- Company size and details
+- Preferred contact method preferences
+- Email address or additional contact info

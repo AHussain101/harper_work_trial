@@ -8,41 +8,34 @@
 ## Conversation Context
 
 ### Main Topic
-- Notification to client that quote options will be received and an agent will follow up with a call to finalize coverage details
+- Follow-up communication regarding incoming insurance quote options
+- Setting expectations for next steps in the quoting process
 
-### Key Messages
-- Quote options are being prepared and will be sent to the client
-- An agent will contact the client by phone to finalize coverage once quotes are available
-- Client is invited to ask any questions before the call or via reply to the thread
+### Key Message
+- Customer can expect to receive an agent call to finalize coverage once quote options are available
+- Customer has opportunity to ask questions before agent contact
 
-### Action Items for Harper/Agent
-- Prepare and send quote options to the client
-- Schedule a follow-up call to finalize coverage details with the client
-
-### Action Items for Client
+### Action Items for Customer
 - Review quote options when received
-- Prepare any questions for the agent call
-- Contact Harper's team if questions arise before the agent call (via thread reply or phone)
+- Prepare for agent phone call to finalize coverage
+- Submit any questions via SMS reply or phone call before agent contact
+
+### Action Items for Harper
+- Monitor for receipt of quote options
+- Coordinate agent call to customer to finalize coverage details
+- Be prepared to address any customer questions that come through SMS or phone
+
+### Next Steps & Timeline
+- **Trigger for next step:** When quote options are received
+- **Next action:** Agent will call customer to finalize coverage
+- **Customer access to questions:** Anytime before agent call (via SMS thread or phone)
 
 ### Tone/Sentiment
-- Professional, helpful, and reassuring
-- Sets clear expectations for next steps
+- Professional and informative
+- Clear and reassuring (providing transparency about process)
+- Accommodating (offering multiple channels for questions)
 
 ---
 
-## Business Details
-**Status:** Pending - awaiting quote options to be sent
-
----
-
-## Personal Details
-**Status:** Not mentioned in this SMS
-
----
-
-## Missing Information for Context
-- Client/contact name not included in message
-- Specific coverage types or policy details not mentioned
-- Business type or industry not specified
-- Premium amounts, deductibles, or limits not discussed
-- Specific timeline for when quotes will be sent
+## Important Notes
+⚠️ **No personal details, business details, or specific policy information provided in this SMS** — This appears to be a templated process message rather than a detailed customer exchange.

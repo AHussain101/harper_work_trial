@@ -6,66 +6,68 @@
 **From:** harper_employee@harperinsure.com
 **To:** neil.carter@brightsideplaythings.com
 
-# Insurance Quote Summary for Harper
+# Insurance Application Summary for Harper
 
 ## Business Details
 
-### Company Information
-- **Company Name:** Brightside Playthings LLC
-- **Industry:** Toy/Plaything Manufacturing
-- **Product Type:** Manufactures products with ABS-plastic components
-- **Employees/Revenue/Years in Operation:** Not mentioned
+**Company Information:**
+- Company Name: Brightside Playthings LLC
+- Industry: Toy/Plaything Manufacturing
+- Product Details: Manufactures products with ABS-plastic components (subject to product testing requirements)
 
-### Coverage & Policy Details
-- **Application Status:** Submitted to carrier market; initial responses expected shortly
-- **Policy Type(s):** Not explicitly stated (likely product liability given ABS-plastic manufacturing)
-- **Premium Amounts:** Not mentioned
-- **Deductibles/Limits:** Not mentioned
-- **Renewal/Effective Dates:** Not mentioned
+**Coverage & Policy Details:**
+- Application Status: Submitted to carrier market; initial responses expected shortly
+- Documents Required by Underwriting:
+  - Loss runs (last 3 years or coverage period held)
+  - Product testing reports/lab certificates (for ABS-plastic components)
+  - Certificates of Insurance (COIs)
+  - Contract-specific requirements documentation
+  - Subsidiary details (if applicable)
 
-### Documents Requested
-**URGENT - Customer must provide via secure portal:**
-- Loss runs (last 3 years or full coverage period held)
-- Product testing reports or lab certificates (specifically for ABS-plastic components)
-- Certificates of Insurance (COIs)
-- Any contract-specific insurance requirements
-- Details on subsidiaries to include on the policy
-
-**Portal Link:** https://portal.example-insure.com/uploads/quote-xyz
-
-### Additional Notes
-- Harper can assist with obtaining loss runs if needed
-- Carrier quotes pending
+**Additional Information Needed:**
+- Subsidiary information for policy inclusion
+- Product testing/lab certification records
 
 ---
 
 ## Personal Details
 
-### Contact Information
-- **Name:** Neil Carter
-- **Email:** neil.carter@brightsideplaythings.com
-- **Title/Role:** Not specified
-- **Communication Method:** Email preferred (based on email communication)
-- **Phone:** Not provided by Neil
-
-### Harper Employee Details
-- **Name:** Harper Employee (name not provided)
-- **Phone:** (470) 731-XXXX
-- **Email:** harper_employee@harperinsure.com
-- **Organization:** Harper Insurance
+**Contact Information:**
+- Name: Neil Carter
+- Email: neil.carter@brightsideplaythings.com
+- Company Contact: Harper Insurance Employee
+  - Phone: (470) 731-XXXX
+  - Email: harper_employee@harperinsure.com
 
 ---
 
 ## Conversation Context
 
-### Main Purpose
-Follow-up email confirming submission of insurance application and requesting required documentation from prospect
+**Main Purpose:**
+- Follow-up to verbal conversation regarding insurance application submission
+- Request for supporting documentation needed to complete underwriting process
 
-### Key Actions Required
+**Documents Requested:**
+- Upload via secure portal: https://portal.example-insure.com/uploads/quote-xyz
 
-**For Neil Carter (Customer):**
-1. Upload loss runs (3 years minimum) to secure portal
-2. Upload product testing reports/lab certificates for ABS-plastic components
-3. Provide certificates of insurance (COIs)
-4. Provide contract-specific insurance requirements
-5. Provide details on any subsidiaries to include on policy
+**Action Items for Customer (Neil Carter):**
+- [ ] Upload loss runs (3 years or full coverage period) to secure portal
+- [ ] Upload product testing reports/lab certificates for ABS-plastic components
+- [ ] Provide certificates of insurance (COIs)
+- [ ] Provide contract-specific requirements documentation
+- [ ] Submit subsidiary details for policy inclusion
+- [ ] Contact Harper if assistance needed obtaining loss runs
+
+**Action Items for Harper:**
+- [ ] Monitor for initial carrier responses
+- [ ] Stand by to assist customer with obtaining loss runs if requested
+- [ ] Process submitted documents once received
+
+**Timeline:**
+- Email Date: December 4, 2025
+- Next Steps: Expected carrier responses "shortly" after document submission
+
+**Tone/Sentiment:**
+- Professional and helpful
+- Responsive and service-oriented
+- Clear expectations

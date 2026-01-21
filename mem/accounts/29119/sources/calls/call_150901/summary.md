@@ -4,50 +4,62 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary - Maya (Client)
+# Call Summary for Harper Insurance
 
 ## Business Details
-- **Coverage Type**: Background check documentation required for underwriting
-- **Document Status**: 
-  - Summary reports uploaded (partial)
-  - Full background check documentation still needed
-  - Documentation deadline: End of day (2025-12-05)
-- **Underwriting Stage**: Initial underwriting in progress; final bind pending full documentation
+- **Coverage Type**: Background check documentation required (appears to be employment-related coverage)
+- **Documentation Status**: 
+  - Summary documents uploaded ✓
+  - Full background check files pending
+  - Required by: End of day (2025-12-05)
+- **Underwriting Stage**: Initial underwriting phase
+- **Next Stage**: Final bind (requires full documentation)
+- **Carrier Status**: Ready to proceed with carriers once documentation confirmed
 
 ## Personal Details
 - **Contact Name**: Maya
 - **Harper Agent**: Jordan
+- **Contact Method**: Phone (outbound call)
 - **Communication Style**: Cooperative, responsive, clear
-- **Preferred Contact Method**: Phone (outbound call successful)
 
 ## Conversation Context
-- **Purpose**: Follow-up call to confirm document upload and clarify background check documentation requirements
-- **Main Topics Discussed**:
-  - Status of staff background summaries upload
-  - Sufficiency of summary reports vs. full documentation
-  
-### Key Q&A
-- **Q**: Are summary reports sufficient?
-- **A**: Summaries noting dates and types of background checks are acceptable for initial underwriting; full copies required for final bind
+
+### Purpose
+Outbound follow-up call to confirm document upload and clarify background check documentation requirements
+
+### Key Points Discussed
+1. **Document Upload Status**
+   - Summary reports: Already uploaded
+   - Full files: Not yet uploaded
+   
+2. **Documentation Requirements**
+   - **Initial Underwriting**: Summary reports noting dates and types of background checks are acceptable
+   - **Final Bind**: Full documentation copies required
 
 ### Decisions Made
-- Proceeding with carrier with summary reports for initial underwriting phase
-- Full documentation will be required before final bind
+- Client will provide full background check files by end of business day (2025-12-05)
 
-### Action Items - Client (Maya)
-- [ ] Upload full background check files by end of day (2025-12-05)
+### Action Items
 
-### Action Items - Harper (Jordan)
-- [ ] Note in file that summary was uploaded and full documentation expected by EOD
-- [ ] Proceed with carrier submission
-- [ ] Follow up with Maya once full documentation is received
-- [ ] Prepare for final bind once complete files are submitted
+**For Client (Maya):**
+- [ ] Upload full background check documentation copies by end of day 2025-12-05
 
-### Follow-up Timeline
-- **Immediate**: End of day document upload expected
-- **Next Step**: TBD pending full documentation receipt
+**For Harper (Jordan):**
+- [ ] Note in file that summary documents have been received
+- [ ] Proceed with carrier communication once confirmation received
+- [ ] Prepare for final bind stage once full documentation is submitted
+- [ ] Follow up with carriers regarding underwriting
+
+### Next Steps
+- Pending full document upload by end of day
+- Carrier review and proceeding with underwriting
 
 ### Tone/Sentiment
-- **Overall**: Positive and cooperative
-- **Client Sentiment**: Responsive, compliant, no concerns expressed
-- **Urgency**: Standard (end of day deadline)
+- **Positive and cooperative** - Client responsive and compliant with requests
+- **Efficient** - Quick resolution with clear timelines
+
+---
+
+**Call Duration**: 1 minute 35 seconds  
+**Call Date**: December 5, 2025 at 3:25 AM UTC  
+**Call Type**: Outbound follow-up

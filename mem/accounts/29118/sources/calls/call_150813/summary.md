@@ -4,60 +4,67 @@
 **Duration:** 8m 44s
 **Direction:** Incoming
 
-# Blue Sky Homecare Services, LLC - Call Summary
+# Call Summary: Blue Sky Homecare Services, LLC
 
 ## Business Details
 
-**Company Information:**
+**Company Information**
 - **Company Name:** Blue Sky Homecare Services, LLC
 - **Industry:** In-home healthcare services
-- **Business Type:** New business (startup phase)
-- **Business Address:** 850 North Junction Parkway, Anytown, FL
+- **Business Type:** New business (planning stage)
+- **Address:** 850 North Junction Parkway, Anytown, FL
 
-**Coverage Details:**
-- **Service Model:** In-home care using independent contractors (nurses, CNAs, and personal care attendants)
-- **Service Mix:** Skilled nursing and personal care (approximately 50/50 split)
-- **Coverage Type:** General Liability (implied primary coverage need)
-- **Contractor Requirements:** Independent contractors required to carry professional liability insurance
-  - **Required Limit:** $1,000,000 per occurrence minimum
+**Services & Operations**
+- Provides in-home care with nurses, CNAs (Certified Nursing Assistants), and personal care attendants
+- Service mix: Approximately 50/50 split between skilled nursing and personal care
+- Uses independent contractors for service delivery
 
-**Risk Management Practices:**
-- Criminal background checks conducted on all contractors
-- Monthly and random drug screening policy in place
+**Coverage & Policy Details**
+- **Coverage Type:** General liability insurance
+- **Independent Contractor Requirements:** Must carry professional liability insurance
+  - **Minimum Limit Required:** $1,000,000 per occurrence
+- **Safety Policies:** 
+  - Criminal background checks required for all staff
+  - Monthly and random drug screening program in place
 
-**Timeline:**
-- Quote Expected: 24-48 business hours from call date (call date: December 5, 2025)
+**Quote Status**
+- Initial quote expected within 24-48 business hours
+- Awaiting carrier submissions and quote indications
+
+---
 
 ## Personal Details
 
-**Primary Contact:**
+**Primary Contact**
 - **Name:** Alex Mendez
-- **Title:** Appears to be owner/decision-maker
-- **Company Email:** contact@blueskyservices.com
-- **Preferred Contact Methods:** Email and text (per agent communication plan)
+- **Title/Role:** Representative for Blue Sky Homecare Services, LLC
+- **Email:** contact@blueskyservices.com
+- **Preferred Contact Methods:** Email and text
+- **Tone/Sentiment:** Professional, cooperative, responsive
 
-**Personality Notes:**
-- Professional and responsive
-- Cooperative and quick to confirm details
-- No concerns or objections raised during call
+---
 
 ## Conversation Context
 
-**Call Type:** Incoming inquiry
+**Purpose of Call**
+- Initial consultation for general liability insurance quote for new in-home healthcare services business
 
-**Main Purpose:** Initial insurance consultation for new in-home care business; gathering business details and coverage requirements for general liability quote
+**Key Discussion Points**
+- Confirmed service offerings (skilled nursing and personal care)
+- Verified contractor professional liability requirements ($1M per occurrence minimum)
+- Discussed safety protocols (background checks and drug screening)
+- Confirmed contact information and business address
 
-**Key Questions Addressed:**
-- Type of in-home care services provided and staffing mix
-- Contractor professional liability insurance requirements
-- Background check and drug screening policies
-- Contact information and business address verification
+**Decisions Made**
+- Harper to submit applications to carriers for general liability quote
+- Initial quote indication timeline: 24-48 business hours
 
-**Information Confirmed:**
-- ✅ Email: contact@blueskyservices.com
-- ✅ Business Address: 850 North Junction Parkway, Anytown, FL
-- ✅ Service offerings and staffing structure
-- ✅ Contractor insurance requirements ($1M per occurrence)
-- ✅ Risk management protocols in place
+---
 
-**Tone
+## Action Items
+
+**Harper's Responsibilities**
+- [ ] Submit applications to carriers for general liability insurance quote
+- [ ] Provide quote indication within 24-48 business hours
+- [ ] Follow up with Alex via email and text once quotes are received
+- [ ] Confirm

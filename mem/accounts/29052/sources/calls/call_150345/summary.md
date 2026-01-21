@@ -4,46 +4,50 @@
 **Duration:** 1m 28s
 **Direction:** Outgoing
 
-# Call Summary: Marcus - Document Upload & Quote Timeline
+# Call Summary - Marcus
 
 ## Business Details
-- **Coverage Type**: Not specified in call
-- **Documents Requested**: 
-  - Vehicle registration
-  - Secure upload link provided to customer
-- **Quote Timeline**: 24-48 hours expected (1-2 business days)
-- **Next Step**: Carrier requests will be finalized once registration is received
+- **Documents Requested:**
+  - Vehicle registration (pending upload)
+- **Quote Timeline:** 24-48 hours expected for carrier responses
+- **Process Stage:** Awaiting documentation before finalizing carrier requests
 
 ## Personal Details
-- **Contact Name**: Marcus
-- **Role/Title**: Not specified
-- **Communication Method**: Secure upload link via message
-- **Personality Notes**: Responsive and cooperative; acknowledged message receipt and confirmed intent to upload promptly
+- **Contact Name:** Marcus
+- **Harper Agent:** Jordan
+- **Communication Method:** Phone call
+- **Personality Notes:** Cooperative, responsive, efficient communicator
 
 ## Conversation Context
-- **Purpose**: Confirm receipt of customer details and set expectations for quote delivery
-- **Main Actions**:
-  - Jordan confirmed secure upload link was sent
-  - Marcus acknowledged and committed to uploading registration shortly
-  - Jordan outlined next steps and timeline
+- **Call Purpose:** Confirm receipt of requested documents and set expectations for quote timeline
+- **Call Type:** Outgoing follow-up
+- **Call Duration:** 1 minute 28 seconds
+- **Call Date/Time:** December 5, 2025 at 2:30 PM (UTC)
 
-### Key Decisions & Confirmations
-✅ Marcus received the secure upload message
-✅ Marcus will upload registration document soon
-✅ Timeline confirmed: 1-2 business days for follow-up
+### Key Points Discussed
+- Secure upload link was successfully sent to Marcus
+- Marcus confirmed receipt of message and communication
+- Marcus committed to uploading vehicle registration shortly
+
+### Decisions/Status
+- Documentation submission is pending (vehicle registration)
+- Carrier requests will be finalized once registration is received
 
 ### Action Items for Harper
-- [ ] Confirm receipt of Marcus's registration upload
-- [ ] Finalize and submit carrier requests once registration received
-- [ ] Prepare quote(s) for delivery within 24-48 hours
-- [ ] Follow up with Marcus in 1-2 business days
+- [ ] Confirm receipt of vehicle registration when uploaded
+- [ ] Finalize and submit carrier requests after registration is received
+- [ ] Send quote follow-up within 24-48 hours (expected turnaround)
+- [ ] Contact Marcus with quote details within 1-2 business days
 
-### Action Items for Customer (Marcus)
-- [ ] Upload registration document via secure link shortly
+### Action Items for Marcus
+- [ ] Upload vehicle registration via secure upload link
 
-## Call Details
-- **Date/Time**: December 5, 2025 at 2:30 PM
-- **Duration**: 1 minute 28 seconds
-- **Call Type**: Outgoing from Harper
-- **Harper Agent**: Jordan
-- **Sentiment**: Professional, positive, cooperative
+### Next Steps & Timeline
+- **Immediate:** Await vehicle registration upload from Marcus
+- **Within 24-48 hours:** Send carrier requests and follow up with quotes
+- **Within 1-2 business days:** Contact Marcus with quote information
+
+### Tone/Sentiment
+- Positive and cooperative
+- Smooth, efficient interaction
+- No concerns or issues raised

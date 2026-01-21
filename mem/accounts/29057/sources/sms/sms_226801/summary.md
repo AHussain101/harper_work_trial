@@ -7,42 +7,33 @@
 
 ## Business Details
 - **Certificate of Insurance (COI)** being issued
-- **Contractor involvement** - appears to be a contractor-related insurance matter
-- Email domain suggests county/government entity involvement: `countyco.example`
+- **Contractor involvement** - COI being sent to contractor email address
+- **Certificate holder information** - name and address pending confirmation
 
 ## Personal Details
-- **Primary Contact Email:** contractor@countyco.example
-- **Secondary Recipient:** Another party to be copied on the email (not named in this message)
-- **Preferred Contact Method:** Email
+- **Primary contact email:** contractor@countyco.example
+- **Secondary contact:** Being copied on the COI email (specific person/email not yet identified in this message)
 
 ## Conversation Context
-- **Main Topic:** Issuing a Certificate of Insurance (COI)
-- **Purpose:** Contractor requirements/compliance documentation
+- **Main Topic:** Certificate of Insurance (COI) issuance and delivery
+- **Purpose:** Providing COI documentation to contractor and copying an additional party
 
-### Key Details Discussed
-- COI to be emailed to contractor@countyco.example
-- A second party will be copied on the email
+### Key Details & Action Items
+- **Pending from Customer:**
+  - Confirm the certificate holder name
+  - Confirm the certificate holder address
+- **Action Items for Harper:**
+  - Email COI to contractor@countyco.example
+  - Copy additional contact on the email
+  - Await confirmation of certificate holder details before finalizing/sending
 
-### Pending Information Needed
-- **URGENT:** Certificate holder name confirmation
-- **URGENT:** Certificate holder address confirmation
-
-### Action Items for Harper
-- [ ] Obtain certificate holder name from customer
-- [ ] Obtain certificate holder address from customer
-- [ ] Generate COI with confirmed details
-- [ ] Send COI email to contractor@countyco.example
-- [ ] Copy the other party on the email (identify who this is)
-
-### Action Items for Customer
-- [ ] Confirm the certificate holder name
-- [ ] Confirm the certificate holder address
+### Next Steps
+- Waiting for customer to confirm certificate holder name and address
+- COI will be emailed once confirmation is received
 
 ## Tone/Sentiment
-- **Professional and cooperative**
-- **Efficient** - Harper is ready to proceed once confirmation is received
-- **No urgency indicators**, but COI requests typically have time-sensitive requirements
+- **Professional, efficient, cooperative** - Harper is confirming details before proceeding
 
 ---
 
-**Note:** Follow up with customer to confirm certificate holder details before sending COI to avoid delays.
+**⚠️ NOTE:** This appears to be a follow-up to an earlier conversation. The full context of what policy/coverage this COI relates to is not contained in this SMS alone.

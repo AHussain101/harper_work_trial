@@ -3,40 +3,46 @@
 **Date:** 2025-12-05T01:06:30+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance Broker
+# SMS Summary: Document Upload Request
 
 ## Business Details
 - **Company Name:** BOARDMAN-XYZ
 - **Documents Requested:**
   - Loss runs
   - Lease agreement
-  - COIs (Certificates of Insurance)
+  - Certificates of Insurance (COIs)
+- **Upload Portal:** https://portal.harperinsure.com/upload/BOARDMAN-XYZ
 
 ## Personal Details
-- **Contact Name:** Not specified in this message
-- **Preferred Contact Method:** Digital portal upload
+- **Contact:** Not specified in message
+- **Communication Method:** SMS / Portal upload
 
 ## Conversation Context
 
 ### Main Topic
-Request for client to upload required underwriting documents via the Harper Insurance portal.
+- Request for client to upload required underwriting documents
 
-### Key Actions
-**Action Items for Customer:**
-- Upload loss runs to provided portal link
-- Upload lease document to provided portal link
-- Upload any COIs (Certificates of Insurance) to provided portal link
-- **Portal Link:** https://portal.harperinsure.com/upload/BOARDMAN-XYZ
+### Key Action Items
 
-**Action Items for Harper:**
-- Retrieve uploaded documents from portal
-- Forward documents to underwriter for review
+**For the Customer (BOARDMAN-XYZ):**
+- [ ] Upload loss runs to the portal
+- [ ] Upload lease agreement to the portal
+- [ ] Upload Certificates of Insurance (COIs) to the portal
+- [ ] Use the provided link: https://portal.harperinsure.com/upload/BOARDMAN-XYZ
+
+**For Harper:**
+- [ ] Monitor portal for document uploads from BOARDMAN-XYZ
+- [ ] Once received, forward documents to underwriter
+- [ ] Follow up if documents are not uploaded within a reasonable timeframe
+
+### Timeline
+- **Message Date:** December 5, 2025 at 1:06 AM UTC
+- **Expected Turnaround:** Not specified
 
 ### Tone/Sentiment
-- Professional and straightforward
-- Informative directive
+- Professional and efficient
+- Straightforward instruction-based communication
 
-### Notes
-- This is an outgoing message from Harper to the client
-- Documents are being collected for underwriter submission
-- This appears to be part of a new business or renewal quote process
+---
+
+**Note:** This is a document collection step in the underwriting process. No specific renewal date, effective date, coverage types, or premium information provided in this message.

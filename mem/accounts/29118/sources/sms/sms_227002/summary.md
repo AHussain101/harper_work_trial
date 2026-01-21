@@ -3,43 +3,42 @@
 **Date:** 2025-12-06T09:15:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# SMS Summary - Quote Review Call Request
 
 ## Conversation Context
 
-### Main Topic & Purpose
-- **Objective**: Schedule a call to review insurance quotes with the customer
-- **Type of Communication**: Brief scheduling request from Harper to customer
-- **Tone/Sentiment**: Professional, casual, efficient
+**Main Topic/Purpose:**
+- Harper is requesting to schedule a call with a customer to review insurance quotes
+- This is a follow-up/scheduling message
 
-### Key Details
-- **Message Direction**: Outgoing (from Harper to customer)
-- **Date/Time Sent**: December 6, 2025 at 9:15 AM UTC
-- **Nature of Request**: Seeking customer availability for follow-up call
+**Key Details:**
+- Message Type: Outgoing from Harper
+- Date/Time Sent: December 6, 2025 at 9:15 AM (UTC)
+- Request: Customer availability for call tomorrow to review quotes
 
-### Specific Request
-- **Call Purpose**: Review quotes (insurance quotes assumed based on context of Harper being an insurance broker)
-- **Duration**: Described as "short call"
-- **Timing**: Tomorrow (December 7, 2025)
-- **Information Needed from Customer**: Preferred time window for the call
-
----
+**Questions Asked:**
+- When is a good time tomorrow for a short call to review quotes?
 
 ## Action Items
 
-### For Customer
-- **Required Action**: Reply to Harper with a preferred time window for tomorrow's call
-- **Response Type**: Availability/scheduling confirmation
+**For Customer:**
+- Reply with preferred time window for call tomorrow (December 7, 2025)
 
-### For Harper
-- **Pending**: Awaiting customer response with available time slot
-- **Next Step**: Once customer confirms time, conduct quote review call
-- **Status**: Awaiting response
+**For Harper:**
+- Await customer's response with availability
+- Schedule call once time window is confirmed
+- Prepare quote materials/documents for review discussion
+
+## Pending Items
+
+- **Decision Pending:** Call scheduling/confirmation
+- **Follow-up Timeline:** Expected response from customer to confirm time for next day call
+
+## Tone/Sentiment
+- Professional, friendly, efficient
+- Casual tone ("Quick check")
+- Forward-moving (progressing toward quote review)
 
 ---
 
-## Business Details
-⚠️ **Note**: No specific business details mentioned in this SMS (company name, coverage types, premium amounts, carriers, etc. not included)
-
-## Personal Details
-⚠️ **Note**: No personal contact details provided in this SMS excerpt
+**Note:** This appears to be the start of a quote review process. No specific business details, personal information, or premium/coverage specifics are mentioned in this message.

@@ -6,31 +6,46 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Coverage Needs**: Not specified yet
-- **Policy Types**: Not specified yet
-- **Quotes Status**: Pending - to be sent via email within 24-48 business hours
+- **Coverage needs**: Not specified in this message
+- **Quote timeline**: Quotes to be provided via email within 24-48 business hours
+- **Carrier information**: Not mentioned
 
 ## Personal Details
-- **Contact Name**: Marco
-- **Preferred Contact Method**: Email
-- **Communication Style**: Professional/responsive (chose Harper's services)
+- **Contact name**: Marco
+- **Preferred contact method**: Email (for quote delivery)
+- **Communication style**: Appears receptive/collaborative (chose Harper's services)
 
 ## Conversation Context
-- **Main Topic/Purpose**: New client onboarding confirmation
-- **Key Message**: Thank you message and setting expectations for next steps
-- **Tone/Sentiment**: Professional, welcoming, positive
 
-## Action Items for Harper
-- [ ] Send insurance quotes to Marco via email within 24-48 business hours
-- [ ] Determine which quotes/carriers to include (details needed from previous conversation or intake form)
+### Main Topic
+- Initial thank you message following Marco's decision to work with Harper for insurance needs
 
-## Action Items for Marco
-- None specified - waiting to receive quotes
+### Key Messages
+- Acknowledgment of Marco selecting Harper as insurance broker
+- Confirmation that quote process is underway
 
-## Follow-up Timeline
-- **Next Steps**: Email with quotes expected within 24-48 business hours from 2025-12-04
-- **Expected Date Range**: By approximately 2025-12-06
+### Decisions Made
+- Marco has chosen to proceed with Harper for insurance services
+
+### Action Items for Harper
+- **Prepare and send insurance quotes via email**
+- **Timeline**: Within 24-48 business hours from December 4, 2025
+- **Recipient**: Marco (email address not provided in SMS)
+
+### Action Items for Customer (Marco)
+- Await quote delivery via email
+- Review quotes when received
+
+### Follow-up Timeline
+- **Expected quote delivery**: By December 6, 2025 (48 business hours from send date)
+
+### Tone/Sentiment
+- **Professional, friendly, and reassuring**
+- Positive (customer has already committed to using Harper's services)
 
 ---
 
-**Note**: This is a confirmation/acknowledgment SMS. Additional context needed from intake forms, previous conversations, or follow-up communication to understand Marco's specific coverage needs, business type, employee count, and other details listed in the Business Details section.
+## Missing Information to Obtain
+- Marco's email address (if not already in system)
+- Specific coverage types/policy details Marco needs
+- Business or personal insurance application details

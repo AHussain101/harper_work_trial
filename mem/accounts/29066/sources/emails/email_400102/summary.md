@@ -11,57 +11,61 @@
 ## Business Details
 
 **Company Information**
-- Company Name: Sentinel Field Security LLC
-- Industry: Security Services
-- Business Type: Field Security
-- Current Operations: Unarmed security (armed services planned for future expansion)
+- Company name: Sentinel Field Security LLC
+- Industry: Security services
+- Business type: Field security operations
+- Current operations: Unarmed security services
+- Future plans: Planning to add armed services
 
-**Coverage & Underwriting**
-- Policy Type: Commercial/Security Services coverage
-- Carrier: Tivoli
-- Key Underwriting Notes:
-  - Initial operations focus: Unarmed security
-  - Future plan: Add armed services
-  - Annual training requirement: ~40 hours/year
-  - Records retention requirement: 7 years
-- Documentation Status: Underwriters currently reviewing licensing and training documentation
+**Coverage & Operations**
+- Policy type(s): Security services insurance
+- Training requirement: ~40 hours per year
+- Records retention requirement: 7 years
+- Current underwriting status: Under review
 
-**Action Items - Carrier Side**
-- Tivoli underwriters reviewing licensing and training documentation
-- Follow-up will be sent if additional documentation is required
+**Documents**
+- Licensing documentation: Submitted for underwriter review
+- Training documentation: Submitted for underwriter review
+
+**Carriers/Brokers**
+- Current/previous broker: Tivoli
+- Underwriter: Currently reviewing submission
+
+---
 
 ## Personal Details
 
-**Contacts Involved**
-- **Jonah Blake** - Role: Tivoli Representative
-  - Email: jonah@tivoli.com
-  - Action: Transferred lead and confirmed business details
+**Contacts**
+- **Jonah Blake** - Role: Broker at Tivoli (transferred lead to Harper)
+- **Ari** - Recipient at Harper (assumed to be Harper team member)
+- Email: jonah@tivoli.com
 
-- **Ari** - Role: Harper Employee (recipient of email)
-  - Email: submissions@harperinsure.com
+---
 
 ## Conversation Context
 
-**Main Purpose**
-- Broker transfer notification from Tivoli to Harper
-- Lead transfer for Sentinel Field Security LLC with pre-qualified business details
+**Main Topic**
+- Broker transfer of existing client from Tivoli to Harper Insurance
+- Initial underwriting review phase for Sentinel Field Security LLC
 
-**Key Information Confirmed**
-- Business details verified by Tivoli
-- Initial underwriting documentation submitted
-- Operational scope and training/compliance requirements documented
+**Key Information Provided**
+- Business details confirmed by Jonah Blake at Tivoli
+- Underwriters have begun reviewing licensing and training documentation
+- Business is transitioning from unarmed to armed security services
 
-**Status**
-- ✅ Lead transferred
-- ✅ Business details confirmed
-- ⏳ Underwriting review in progress
-- ⏳ Awaiting underwriter documentation review outcome
+**Action Items - Harper/Underwriters**
+- Review licensing documentation
+- Review training documentation
+- Follow up with additional documentation requests if needed
+
+**Action Items - Customer**
+- None explicitly stated at this time
 
 **Next Steps**
-- Tivoli will follow up if additional documentation is required
-- No immediate action specified for Harper in this email
+- Underwriters will contact if additional documentation is required
+- Timeline: Not specified
 
 **Tone/Sentiment**
-- Professional and efficient
-- Routine transfer notification
-- No urgent concerns flagged
+- Professional, routine broker transfer communication
+- No urgency indicated
+- Straightforward handoff of lead

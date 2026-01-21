@@ -4,51 +4,53 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary – Ethan (Follow-up Call)
+# Call Summary – Ethan (Customer)
 
 ## Business Details
-- **Industry:** Manufacturing (implied – product liability coverage needed)
-- **Coverage Type:** Product liability insurance
+- **Industry/Business Type:** Manufacturing (implied – product liability coverage needed, QA reports relevant)
+- **Coverage Type:** Product Liability Insurance
 - **Carriers Quoted:**
   - RPS (lower premium option)
   - USLI (broader standard wording for product liability)
-- **Key Documentation Needed:** Manufacturer's QA (Quality Assurance) reports
-- **Current Status:** Preliminary quotes received; awaiting customer decision and documentation submission
+- **Documents Needed:**
+  - Manufacturer's QA reports (to clear subjectivities)
+- **Policy Status:** Preliminary quotes received; pending carrier selection and documentation
 
 ## Personal Details
 - **Contact Name:** Ethan
-- **Contact Role/Title:** Not specified (likely decision-maker/owner or authorized representative)
-- **Communication Style:** Responsive, cooperative, efficient
-- **Preferred Contact Method:** Email (policy paperwork to be sent via email)
+- **Role/Title:** Not specified (appears to be decision-maker or authorized representative)
+- **Communication Preference:** Phone
+- **Personality Notes:** Responsive, cooperative, efficient communicator; able to commit to next steps immediately
 
 ## Conversation Context
-- **Call Purpose:** Follow-up on preliminary insurance quotes; carrier preference discussion and next steps
-- **Call Type:** Outgoing
-- **Call Duration:** 1 minute 35 seconds
-- **Date/Time:** December 5, 2025 at 08:15 AM UTC
+- **Purpose:** Follow-up call to review preliminary insurance quotes and determine carrier preference
+- **Main Topic:** Product liability insurance quotes comparison (RPS vs. USLI)
 
-## Key Discussion Points
-- **RPS Quote Advantages:** Lower premium
-- **USLI Quote Advantages:** Slightly broader standard wording for product liability coverage
-- **Subjectivities:** Pending clearance pending receipt of manufacturer's QA reports
+### Key Details Discussed
+- RPS quoted at lower premium
+- USLI offers broader standard wording for product liability coverage
+- Subjectivities exist that can be cleared with manufacturer's QA reports
 
-## Decisions Made
-- Ethan will upload QA report today
-- Ethan to confirm preferred carrier (RPS or USLI) today
+### Decisions Made
+- Ethan will upload QA reports today
+- Ethan to confirm preferred carrier choice
 
-## Action Items – Harper (Maya)
-- [ ] Receive and review QA reports from Ethan
-- [ ] Receive carrier preference confirmation from Ethan
-- [ ] Confirm binding steps with selected carrier
-- [ ] Prepare and email policy paperwork to Ethan
-- [ ] Clear subjectivities once QA reports received
+### Action Items – Harper
+- Wait for QA report upload from Ethan
+- Confirm carrier preference once received
+- Confirm binding steps with Ethan
+- Email policy paperwork to Ethan
 
-## Action Items – Customer (Ethan)
-- [ ] Upload manufacturer's QA reports today
-- [ ] Confirm carrier preference (RPS or USLI) today
+### Action Items – Customer (Ethan)
+- Upload manufacturer's QA reports today
+- Confirm preferred carrier (RPS or USLI)
 
-## Follow-up Timeline
-- **Expected Next Contact:** Upon receipt of QA reports and carrier preference confirmation (expected same day – December 5, 2025)
+## Call Details
+- **Date/Time:** December 5, 2025 at 8:15 AM UTC
+- **Duration:** 1 minute 35 seconds
+- **Call Type:** Outgoing (Harper-initiated follow-up)
+- **Tone/Sentiment:** Professional, positive, cooperative
 
-## Tone/Sentiment
-- **
+## Next Steps Timeline
+- **Immediate:** Ethan uploads QA reports and confirms carrier preference
+- **Following:** Harper confirms binding steps and sends policy paperwork via email

@@ -4,7 +4,7 @@
 **Duration:** 1m 34s
 **Direction:** Incoming
 
-# Call Summary for Harper - Harborwatch Security Solutions LLC
+# Call Summary: Harborwatch Security Solutions LLC
 
 ## Business Details
 
@@ -12,59 +12,65 @@
 - **Company Name:** Harborwatch Security Solutions LLC
 - **Industry:** Security Services (unarmed security agents)
 - **Operating Location:** Nebraska
-- **Coverage Type Needed:** Workers' Compensation
+- **Coverage Need:** Workers' Compensation Insurance
 
 **Policy & Coverage Details:**
-- Coverage type: Workers' Compensation for unarmed security agents
-- Status: Initial intake/quote stage
-- Premium amounts, deductibles, limits: *Not yet discussed*
-- Claims history/loss runs: *Not yet obtained*
-- Renewal date/effective date: *Not yet determined*
+- Policy Type: Workers' Compensation
+- Specific Coverage: Unarmed security agents
+- Premium amounts: *Not discussed*
+- Deductibles/Limits: *Not discussed*
+- Claims history: *Not provided*
+- Loss runs: *Not provided*
+- Renewal/Effective dates: *Not mentioned*
+
+**Documents & Information Status:**
+- Intake process: Begun but incomplete
+- Additional information needed: Yes (see Action Items below)
+
+---
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Rachella Tate
-- **Role/Title:** *Not specified (possibly owner or manager)*
-- **Phone:** *Not captured in summary*
-- **Email:** *Not captured in summary*
-- **Preferred Contact Method:** *Not specified*
+**Contact Information:**
 
-**Secondary Contact:**
-- **Name:** Jasmine
-- **Relationship to Rachella:** Spouse
-- **Status on Call:** Transferred to an agent for further assistance
-- **Role/Title:** *Not specified*
-- **Contact Information:** *Not captured in summary*
+| Name | Role | Status | Notes |
+|------|------|--------|-------|
+| Rachella Tate | Referred customer/Primary contact | Active | Initiated call, provided referral |
+| Jasmine | Spouse of Rachella | Active | Transferred to agent for further assistance |
 
-**Communication Notes:**
-- Rachella initiated contact as a referral
-- Jasmine was transferred to an agent during the call
-- No personality or preference notes captured
+**Contact Method:** Phone (incoming call)
+- **Call Duration:** 1 minute 34 seconds
+- **Call Date/Time:** December 4, 2025 at 7:53 PM (19:53 UTC)
+
+**Communication Style/Preferences:**
+- Both parties present and engaged
+- Tone: Professional and cooperative
+
+---
 
 ## Conversation Context
 
 **Call Purpose:**
-- Incoming referral call regarding workers' compensation insurance needs
-- Initial intake process for new customer
+- Incoming referral from Rachella Tate
+- Initiate workers' compensation insurance intake for Harborwatch Security Solutions LLC
 
-**Key Information Exchanged:**
-- Business name confirmed as Harborwatch Security Solutions LLC
-- Service type: Unarmed security agents
-- Location: Nebraska
-- Initial intake information gathered
+**Key Details Discussed:**
+- Business name confirmed: Harborwatch Security Solutions LLC
+- Type of security work: Unarmed security agents
+- Geographic focus: Nebraska
 
-**Issues/Challenges:**
+**Technical Notes:**
 - Minor technical issues occurred during the call
-- All key details were successfully captured despite technical challenges
+- All key details were successfully captured despite technical difficulties
+- Jasmine was transferred to an agent for continued assistance
 
 **Decisions Made:**
-- Proceed with intake process for workers' compensation quote
+- Intake process initiated
+- Information to be gathered from both Rachella and Jasmine
+
+---
 
 ## Action Items
 
-**For Harper:**
-- [ ] Follow up with Jasmine regarding workers' compensation details
-- [ ] Follow up with Rachella regarding workers' compensation details
-- [ ] Gather all necessary information for Harborwatch Security Solutions LLC
-- [ ] Obtain contact information (phone/email)
+### For Harper (Insurance Broker):
+- [ ]

@@ -6,53 +6,63 @@
 **From:** HARPER EMPLOYEE <harper_employee@harperinsure.com>
 **To:** ari.novak@sentinelfield.com
 
-# Sentinel Field Security LLC - Insurance Application Summary
+# Email Summary: Sentinel Field Security LLC - Insurance Application
 
 ## Business Details
+
 - **Company Name:** Sentinel Field Security LLC
 - **Industry:** Security Services (field security operations)
 - **Business Type:** Guard/PI (Private Investigator) services
-- **Coverage Status:** Application submitted for underwriting
-- **Documents Requested:**
-  - Business license
-  - Guard/PI licenses
-  - Prior loss history (if available)
-- **Submission Date:** December 4, 2025
-- **Underwriting Timeline:** Initial feedback expected within 24–48 hours
+- **Application Status:** Received and submitted to underwriting partners
+
+### Coverage & Documents
+
+**Requested Documents (pending upload):**
+- Business license
+- Guard/PI licenses
+- Prior loss history (if available)
+
+**Upload Location:** https://portal.example-insure.com/uploads/sentinel-req
 
 ## Personal Details
+
 - **Contact Name:** Ari Novak
 - **Contact Email:** ari.novak@sentinelfield.com
-- **Harper Representative:** Harper Employee
-- **Representative Email:** harper_employee@harperinsure.com
+- **Harper Contact:** Harper Employee (harper_employee@harperinsure.com)
 
 ## Conversation Context
 
 ### Main Topic
-Application acknowledgment and next steps for Sentinel Field Security LLC insurance coverage
+Initial application acknowledgment for commercial insurance coverage for security services company
 
-### Key Actions Completed
-- ✅ Application received and logged
-- ✅ Submitted to underwriting partners
+### Key Messages
+- Application successfully received by Harper Insurance
+- Application forwarded to underwriting partners for review
+- Underwriting feedback expected within 24-48 hours
 
-### Action Items for Customer (Ari Novak)
-- **URGENT:** Upload required documents to secure portal: https://portal.example-insure.com/uploads/sentinel-req
+### Action Items
+
+**For Customer (Ari Novak):**
+- Upload required documents to secure portal:
   - Business license
   - Guard/PI licenses
-  - Prior loss history documentation (optional if available)
+  - Prior loss history documentation (optional but requested)
 
-### Action Items for Harper
-- Monitor for underwriting feedback (expected within 24–48 hours)
-- Follow up with Ari if documents not uploaded within reasonable timeframe
-- Process underwriting response upon receipt
+**For Harper:**
+- Monitor underwriting partner feedback (due within 24-48 hours)
+- Follow up with Ari once underwriting initial feedback received
 
-### Next Steps & Timeline
-- Initial underwriting feedback: **24–48 hours from submission date**
-- Document upload: **Requested immediately**
+### Timeline
+- **Next Update:** 24-48 hours (underwriting feedback)
 
 ### Tone/Sentiment
-Professional, helpful, and procedural. Positive acknowledgment with clear next steps.
+- Professional, courteous, efficient
+- Standard acknowledgment communication
 
 ---
 
-**Note:** No specific coverage types, premium amounts, deductibles, limits, renewal dates, or carrier names were mentioned in this email.
+## Notes for Harper's Follow-Up
+- No premium, deductibles, or limits discussed yet (pending underwriting review)
+- No specific coverage types mentioned yet (standard for security services likely needed: General Liability, Workers Comp, possibly Professional Liability)
+- Renewal date not discussed
+- No claims history provided yet (awaiting customer upload)

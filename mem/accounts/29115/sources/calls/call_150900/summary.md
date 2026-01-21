@@ -4,52 +4,62 @@
 **Duration:** 3m 5s
 **Direction:** Outgoing
 
-# Call Summary - Brandon (E&O Policy Review)
+# Call Summary for Harper Insurance
 
 ## Business Details
-- **Coverage Type**: Errors & Omissions (E&O) insurance
-- **Policy Status**: Preliminary quote stage
-- **Documents Discussed**: 
-  - E&O wording (applicant wants to compare to prior policy)
-  - Detailed quote packet
-  - E&O sample wording document
-- **Next Steps**: Quote packet and E&O sample wording to be sent to applicant's primary email
+
+- **Coverage Type**: E&O (Errors & Omissions)
+- **Policy Documents**: Preliminary quotes and E&O sample wording provided
+- **Next Steps**: Awaiting underwriting clearance of subjectivities before binding
+
+---
 
 ## Personal Details
-- **Contact Name**: Brandon
+
+**Primary Contact:**
+- **Name**: Brandon
 - **Role/Title**: Not specified
-- **Agent Handling**: Alex Rivera (Harper Insurance)
-- **Preferred Contact Method**: Email (primary contact method confirmed)
-- **Communication Style**: Polite, organized, prefers to review documents independently before proceeding
+- **Email**: Primary email on file (to receive detailed quote packet and E&O wording)
+- **Phone**: Not mentioned
+- **Preferred Contact Method**: Email (documents being sent electronically)
+
+**Communication Style**: 
+- Professional and courteous
+- Prefers to review materials independently before discussing
+- Responsive to follow-up communication
+
+---
 
 ## Conversation Context
-- **Call Purpose**: Follow-up on preliminary quote indications sent via email that morning
-- **Call Date/Time**: December 5, 2025 at 2:15 AM UTC
-- **Call Duration**: 3 minutes 5 seconds
-- **Call Direction**: Outgoing (Harper agent initiated)
 
-### Key Points Discussed
-- Applicant confirmed receipt of morning email with preliminary quotes
-- Applicant declined immediate discussion of limits or payment options
-- Applicant requested time to review E&O wording and compare to prior policy
+**Call Purpose**: Follow-up call to review preliminary quote indications and confirm next steps
 
-### Decisions Made
-- Applicant will review documents independently
-- Proceed with quote packet and sample wording delivery
+**Key Points Discussed**:
+- Brandon received preliminary quotes via email this morning
+- Asked if Brandon had questions on limits or payment options
+- Brandon declined immediate discussion, preferring to review documents first
 
-### Action Items for Harper
+**Outstanding Items**:
+- Brandon needs to review detailed quote packet
+- Brandon needs to compare E&O wording against prior policy
+- Underwriting subjectivities pending clearance
+
+**Action Items - Harper**:
 - [ ] Send detailed quote packet to Brandon's primary email
-- [ ] Send E&O sample wording document to Brandon's primary email
-- [ ] Follow up in two business days (by December 9, 2025)
-- [ ] Prepare for binding and signature collection once underwriting clears subjectivities
+- [ ] Send E&O sample wording to Brandon's primary email
+- [ ] Follow up in two business days (by 2025-12-09)
+- [ ] Monitor underwriting for subjectivity clearance
 
-### Action Items for Applicant (Brandon)
+**Action Items - Brandon**:
 - [ ] Review detailed quote packet
 - [ ] Compare E&O wording to prior policy
-- [ ] Prepare questions/feedback for follow-up call
+- [ ] Provide feedback or request signatures if satisfied
+- [ ] Be available for follow-up call in two business days
 
-### Follow-up Timeline
-- **Next Contact**: Two business days from call date (approximately December 9, 2025)
+**Follow-Up Timeline**: 
+- Next contact: **Two business days** from call date (approximately 2025-12-09)
 
-### Tone/Sentiment
-- **Overall Tone**: Positive an
+**Tone/Sentiment**: 
+- Positive and cooperative
+- No concerns or frustrations expressed
+- Professional, efficient interaction

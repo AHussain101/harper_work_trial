@@ -4,70 +4,66 @@
 **Duration:** 18m 50s
 **Direction:** Incoming
 
-# Call Summary: Harbor Shield Security LLC
+# Call Summary: Harbor Shield Security LLC - General Liability Quote
 
 ## Business Details
 
-**Company Information**
-- **Company Name:** Harbor Shield Security LLC
-- **Business Type:** Unarmed Security Services
-- **Industry:** Security Services
-- **Primary Service:** Warehouse account security
+**Company Information:**
+- **Business Name:** Harbor Shield Security LLC
+- **Type of Business:** Unarmed security services
+- **Industry:** Security/Loss Prevention
+- **Owner:** Steven Morales
 - **Years in Operation:** Not specified
-- **Current Employees:** 0 (owner-operator only)
-- **Future Plans:** Plans to hire employees with background checks and drug testing requirements
+- **Number of Employees:** Currently 0 (owner-operated); plans to hire in future with background checks and drug testing
 
-**Financial Information**
+**Financial Details:**
 - **Annual Revenue:** ~$51,000
-- **Owner Compensation:** Mid-$30,000 range
-- **Billing Rate:** Approximately 40 hours/week at $26/hour
+- **Owner Compensation:** Mid-$30k range
+- **Current Workload:** ~40 hours/week at approximately $26/hour
 
-**Coverage Needs**
-- **Primary Coverage Requested:** General Liability Insurance
-- **Minimum Requirement:** ~$300,000 (state requirement)
-- **Desired Limit Range:** Several hundred thousand up to several million (dependent on client account requirements)
-- **Policy Type:** General Liability
+**Coverage Needs:**
+- **Primary Need:** General Liability insurance (minimum state requirement ~$300k)
+- **Desired Limits Range:** From a few hundred thousand up to several million (dependent on client/account requirements)
+- **Deductibles:** Not discussed
+- **Premium Amounts:** Not quoted during call
 
-**Claims History**
-- **Prior Claims (last 5 years):** None reported
-- **Loss Runs:** Clean history
+**Claims History:**
+- **Prior Claims (Last 5 Years):** None reported
 
-**Documentation Needed**
-- Federal EIN (via secure upload or redacted text)
-- Copy of guard/security license
-- Post orders for warehouse accounts
-- Service agreements for warehouse accounts
-- Redacted documentation acceptable
+**Service Details:**
+- **Primary Service Area:** Warehouse accounts
+- **Documentation to Provide:** 
+  - Post orders for warehouse accounts
+  - Service agreements with clients
+  - Federal EIN
+  - Guard/security license documentation
+
+**Renewal/Effective Dates:** Not specified
 
 ---
 
 ## Personal Details
 
-**Contact Information**
+**Primary Contact:**
 - **Name:** Steven Morales
-- **Title/Role:** Owner, Harbor Shield Security LLC
-- **Contact Method:** Phone (primary for initial contact)
-- **Follow-up Preference:** Email and text communication
+- **Title/Role:** Owner
+- **Phone:** Not explicitly mentioned in transcript
+- **Email:** Not explicitly mentioned in transcript
+- **Preferred Contact Method:** Secure portal upload preferred for documents; willing to accept redacted text via phone/text; responsive to follow-up via email and text
 
-**Personality/Communication Notes**
-- Responsive and cooperative
-- Professional demeanor
-- Willing to provide required documentation
-- Plans to submit documents same day
+**Communication Style/Personality Notes:**
+- Cooperative and professional
+- Responsive and agreeable to document submission requests
+- Straightforward in answering questions
+- No concerns or hesitations noted
 
 ---
 
 ## Conversation Context
 
-**Call Purpose**
-- Discuss general liability insurance options for unarmed security business
-- Determine appropriate coverage limits based on client needs
-- Gather initial underwriting information
-
-**Key Information Exchanged**
-- Confirmed business name and ownership
-- Discussed coverage limits (state minimums vs. higher limits for client requirements)
-- Verified clean claims history
-- Confirmed current staffing (owner-operator only)
-- Identified documentation requirements
-- Discussed future hiring
+**Call Details:**
+- **Direction:** Incoming call
+- **Date/Time:** December 4, 2025 at 11:10 PM
+- **Duration:** 18 minutes 50 seconds
+- **Harper Agent:** Shannon Lee
+- **

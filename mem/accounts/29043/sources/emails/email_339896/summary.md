@@ -6,66 +6,63 @@
 **From:** Harper Submissions <submissions@harperinsure.com>
 **To:** tfrancis@aauins.com
 
-# Elm Street Tint Co. - Insurance Submission Summary
+# Insurance Submission Summary: Elm Street Tint Co.
 
 ## Business Details
 
 ### Company Information
 - **Company Name:** Elm Street Tint Co.
 - **Business Type:** Automotive window tinting and film installation
-- **Industry:** Auto services/Garage
+- **Industry:** Automotive services/garage services
 - **Years in Operation:** Since 2022
-- **Business Structure:** S Corporation
+- **Business Structure:** S Corporation (established 2022)
 - **Annual Revenue (Projected):** $102,000
-- **Number of Employees:** Not specified
 
 ### Operations
-- **Service Mix:** 75% in-shop / 25% mobile service
+- **Service Model:** Combination shop-based and mobile service
+  - 75% in-shop operations
+  - 25% mobile service
 - **Service Area:** Springfield, FL and nearby service radius
+- **Employees:** Not specified
+- **Vehicle Storage:** None on-site outside of appointment windows
 - **Subcontractors:** None
-- **Vehicle Storage:** No on-site storage outside of appointment windows
 
-### Coverage Details
-- **Coverage Type:** Garage/General Liability
-- **Limit Requested:** $1,000,000
-- **Deductible Requested:** $500
+### Coverage & Policy Details
+- **Coverage Type Needed:** Garage/General Liability (new placement)
+- **General Liability Limit:** $1,000,000
+- **Deductible:** $500
 - **Current Insurance Status:** New application - no prior commercial GL on file
-- **Application Status:** New insured placement
-
----
+- **Expected Quote Turnaround:** 24-48 business hours
 
 ## Personal Details
 
 ### Key Contact
 - **Name:** Marco Rivera
-- **Role/Title:** Owner
-- **Industry Experience:** 10 years of window tinting experience
-- **Driver License:** On file (redacted for privacy)
+- **Role:** Owner/Principal
+- **Experience:** 10 years of tinting industry experience
+- **Driver License Information:** On file (redacted for privacy)
 
-### Contact Information Provided
-- **Email Recipient:** tfrancis@aauins.com (likely carrier or co-broker contact)
+### Recipient of Submission
+- **Name:** T. Francis
+- **Email:** tfrancis@aauins.com
+- **Role/Organization:** AAU Insurance (carrier contact)
 
----
+### Harper Contact
+- **Submission Sent By:** Shabaig Khan
+- **Harper Email:** submissions@harperinsure.com
 
 ## Conversation Context
 
-### Purpose
-- Submission of new garage/general liability insurance application for Elm Street Tint Co.
-- Harper Submissions forwarding placement information to carrier
+### Email Purpose
+- New business submission to carriers for garage/general liability coverage
+- Formal underwriting presentation of new insured client
 
-### Key Information
-- Established, experienced owner with solid track record in industry
-- Reasonable revenue base and low-risk operational model
-- Clean underwriting profile with no major red flags identified
+### Key Information Provided
+- Owner's extensive industry experience (positive underwriting factor)
+- Business established and operational structure documented
+- Clear operation model and service scope defined
+- No prior claims history mentioned (clean slate)
 
-### Pending Items
-- **Quote Turnaround:** Expected within 24-48 business hours from carrier
-- **Carrier Quote Status:** Awaiting carrier response (submission just sent)
-
-### Next Steps
-- Await carrier quotes
-- Follow up if quotes not received within 48 business hours
-- Present options to customer once carrier responses received
-
-### Tone/Sentiment
-- **Professional and straightforward** - routine submission with positive underwriting indicators
+### Action Items for Harper
+- ✓ Submit to carriers (appears to be completed - this is the submission)
+- Monitor

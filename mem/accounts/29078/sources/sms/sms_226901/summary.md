@@ -3,34 +3,47 @@
 **Date:** 2025-12-05T02:26:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary
+# SMS Summary for Harper
 
 ## Conversation Context
 
 ### Main Topic
-- Request to schedule a call to review insurance quote options
-- Timing: This week (week of December 5, 2025)
+- **Purpose:** Scheduling a call to review insurance quote options
+- **Focus:** Quote review and discussion with the customer
 
-### Key Details
-- **Purpose**: Review quote options with the customer
-- **Duration**: Brief call (implied short conversation)
-- **Flexibility**: Open to both morning and afternoon availability
-- **Direction**: Outgoing message from Harper to customer
+### Key Questions Asked
+- Customer availability for a brief call this week
+- Preference between morning or afternoon meeting time
 
 ### Action Items for Harper
-- **Pending**: Await customer response regarding availability
-- **Next Step**: Schedule call based on customer's preferred time (morning or afternoon)
-- **Preparation**: Have quote options ready and organized for discussion
+- **Pending:** Await customer's response regarding their availability
+- **Next Step:** Schedule call once availability is confirmed
+- **Preparation:** Have quote options ready and organized for the call review
 
 ### Action Items for Customer
-- **Response Required**: Confirm availability for call this week
-- **Response Required**: Specify preferred time (morning or afternoon)
+- **Pending:** Respond with availability (morning or afternoon preference) for this week
+- **Pending:** Confirm preferred contact method/number for the call
+
+## Important Notes
 
 ### Tone/Sentiment
-- Professional, friendly, accommodating
-- Flexible and customer-focused approach
+- **Professional, organized approach**
+- Flexible scheduling offered (morning OR afternoon)
+- Casual ("brief call") suggesting straightforward discussion
+
+### Follow-up Timeline
+- **Timeframe:** This week (week of December 5, 2025)
+- **Status:** Awaiting customer response to proceed
 
 ---
 
-## Missing Information
-**Note**: No specific business or personal details were shared in this message. This appears to be an initial scheduling request. Additional information will likely be provided during the call or in future communications.
+## Missing Information to Clarify
+
+⚠️ **Not yet captured:**
+- Customer name and contact details
+- Company/business information (if applicable)
+- Which specific quote options are being reviewed
+- Carrier names or policy types involved
+- Any specific coverage concerns driving this call
+
+**Recommendation:** Wait for customer response to gather these details, or reference previous conversations for context.

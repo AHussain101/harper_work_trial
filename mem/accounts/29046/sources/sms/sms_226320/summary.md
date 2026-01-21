@@ -7,41 +7,46 @@
 
 ## Conversation Context
 
-**Main Topic/Purpose:**
-- Following up on a preliminary insurance quote that has been received
-- Requesting to schedule a phone call to review coverage options with the client
+### Main Topic
+- **Purpose:** Follow-up communication regarding a preliminary insurance quote that has been received
+- **Action Required:** Scheduling a phone call to review coverage options with the customer
 
-**Key Details:**
+### Key Details
 - A preliminary quote has been obtained and is ready for discussion
-- Harper is seeking to move the conversation to a phone call for more detailed review
-- This appears to be an outreach/scheduling message
+- Harper is proposing a phone conversation to go through the options with the customer
+- The customer's availability/preferred time slot is being requested
 
-**Pending Actions:**
-- **For Customer:** Provide availability for a phone consultation to review quote options
-- **For Harper:** Schedule phone call at mutually convenient time; prepare quote details and coverage options for discussion
-
-**Tone/Sentiment:**
-- Professional and efficient
-- Proactive follow-up approach
-- Moving from initial quote stage to consultation phase
+### Pending Items
+- **Awaiting Customer Response:** Preferred date/time for phone review call
+- **Next Step:** Once customer confirms availability, schedule call to discuss quote options
 
 ---
 
-## Missing Information for Complete Context
+## Action Items
 
-**Not Provided in This SMS:**
-- Customer name and contact details
-- Company/business information
-- Specific insurance type or coverage needs
-- Quote amount(s) or policy details
-- Carrier information
-- Any previous communication context
+### For Harper
+- [ ] Prepare preliminary quote details for phone discussion
+- [ ] Have comparison/options analysis ready
+- [ ] Block calendar time once customer responds with availability
+- [ ] Ensure all quote documentation is accessible during call
+
+### For Customer
+- [ ] Respond with preferred time/date for phone review
+- [ ] Prepare any questions about coverage options
+- [ ] Make sure they have necessary information available for discussion
 
 ---
 
-## Recommended Next Steps
+## Tone/Sentiment
+- **Professional and collaborative**
+- **Proactive follow-up**
+- No urgency indicated, but appears to be moving forward in the sales process
 
-- Wait for customer response with availability
-- Prepare detailed quote breakdown and options comparison
-- Have policy documents and coverage details ready for phone discussion
-- Confirm call time once customer responds
+---
+
+## Missing Information to Gather
+- Customer contact name and role
+- Specific business details (type, size, industry)
+- Policy type(s) being quoted
+- Premium range/deductible amounts
+- Effective/renewal dates

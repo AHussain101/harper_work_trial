@@ -7,50 +7,39 @@
 
 ## Conversation Context
 
-### Main Topic
-- Follow-up message regarding insurance quote review process
-- Setting expectations for next steps in the quoting process
+### Main Topic/Purpose
+- Confirmation message to customer regarding upcoming quote review process
+- Setting expectations for next steps in the insurance quote process
 
-### Message Purpose
-- **Tone/Sentiment:** Professional, helpful, reassuring
-- **Type:** Procedural update and invitation for questions
+### Key Message Points
+- Customer will receive and review quote options
+- A team member from Harper's agency will contact customer by phone to finalize coverage
+- Customer is invited to ask questions before the call
 
----
+### Action Items for the Customer
+- Review quote options when received
+- Prepare for phone call from Harper's team to finalize coverage
+- Contact Harper by text or phone with any questions before the agent calls
 
-## Key Information
+### Action Items for Harper
+- Ensure quotes are sent to customer for review
+- Assign a team member to call customer to finalize coverage details
+- Be prepared to answer any pre-call questions via text or phone
 
-### Process Overview
-- **Next Step:** Harper's team will receive and review quote options
-- **Follow-up Action:** An agent from Harper's team will call the recipient to finalize coverage
-- **Timing:** Unspecified - "when we receive and review" (implies review is in progress or pending)
-
-### Communication
-- **Contact Method Offered:** 
-  - Text messaging (this channel)
-  - Phone call
-- **Message:** Recipient is invited to ask questions before the agent call
-
----
-
-## Action Items
-
-### For Harper's Team
-- [ ] Receive quote options from carrier(s)
-- [ ] Review quote options
-- [ ] Assign agent to call recipient
-- [ ] Schedule call to finalize coverage details with recipient
-
-### For Customer/Recipient
-- [ ] Await call from Harper's agent
-- [ ] Prepare any questions for the call
-- [ ] Option to reach out via text or phone with questions before the call
+### Tone/Sentiment
+- **Professional and helpful**
+- Friendly and open to communication
+- Reassuring (offering multiple contact methods)
 
 ---
 
-## Outstanding Information
-- **Recipient name:** Not mentioned in this SMS
-- **Business details:** Not mentioned in this SMS
-- **Quote details:** Not mentioned in this SMS (review is pending)
-- **Specific coverage types:** Not mentioned in this SMS
-- **Carrier options:** Not mentioned in this SMS
-- **Call timeline:** Not specified
+## Important Notes
+⚠️ **Missing Information**: This outgoing message does not contain specific customer or business details, as it appears to be a template or general notification rather than a detailed discussion. The SMS lacks:
+- Customer name/contact information
+- Company/business details
+- Specific policy types or coverage amounts
+- Quote amounts or premium details
+- Timeline for when quotes will be sent or when agent will call
+- Previous conversation context
+
+**Recommendation**: Review prior SMS/email exchanges or customer file to capture complete context for this interaction.

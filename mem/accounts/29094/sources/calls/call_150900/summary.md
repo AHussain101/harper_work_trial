@@ -4,59 +4,47 @@
 **Duration:** 1m 25s
 **Direction:** Outgoing
 
-# Call Summary for Harper
-
-## Contact Information
-- **Contact Name:** Marcus
-- **Contact Role/Title:** Not specified
-- **Phone:** Not provided
-- **Email:** Not provided
-- **Preferred Contact Method:** Email (agent to follow up via email)
+# Call Summary - Marcus (Contractor/Construction Client)
 
 ## Business Details
-- **Industry:** Construction/Contracting (contractors referenced)
-- **Venue/Location:** West Coolwater Drive, Dallas
-- **Company Name:** Not mentioned
-- **Business Type:** Not specified
-- **Employees/Revenue/Years Operating:** Not mentioned
+- **Industry**: Construction/Contracting
+- **Coverage Type**: General Liability with Additional Insureds
+- **Venue Address**: West Coolwater Drive, Dallas
+- **Additional Insureds**: Contractors to be included as required by contract
+- **Carrier**: USLI (United States Liability Insurance Company)
+- **Renewal/Effective Date**: January 1, 2026 (2026-01-01)
+- **Quote Status**: Initial quote under review
 
-## Coverage & Policy Details
-- **Carrier:** USLI
-- **Coverage Type:** General Liability/Contractors Coverage
-- **Effective Date Preferred:** 2026-01-01
-- **Additional Insureds:** Contractors (to be included as additional insureds when required by contract)
-- **Premium Amount:** Not mentioned
-- **Deductibles/Limits:** Not mentioned
-- **Quote Status:** Initial quote - under review
+## Personal Details
+- **Contact Name**: Marcus
+- **Role/Title**: Not specified
+- **Preferred Contact Method**: Email (for quote details and payment options)
+- **Communication Style**: Direct, professional
 
-## Call Details
-- **Call Type:** Outgoing
-- **Duration:** 1 minute 25 seconds
-- **Date/Time:** December 5, 2025 at 2:20 PM (UTC)
-- **Purpose:** Review initial USLI quote details and confirm coverage requirements
+## Conversation Context
+- **Call Purpose**: Review initial USLI quote and confirm coverage details
+- **Call Type**: Outgoing from Harper
+- **Call Duration**: 1 minute 25 seconds
+- **Date/Time**: December 5, 2025 at 2:20 PM
 
 ## Key Discussion Points
-- Confirmation that contractors should be included as additional insureds when contractually required
-- Venue address verification: West Coolwater Drive, Dallas
-- Preferred policy start date: January 1, 2026
+- ✅ Confirmed venue address: West Coolwater Drive, Dallas
+- ✅ Confirmed additional insureds requirement (contractors as needed per contract)
+- ✅ Confirmed preferred effective date: January 1, 2026
 
-## Action Items
-
-### For Harper:
-- [ ] Follow up with Marcus via email with itemized quote details
-- [ ] Provide payment options in email
-- [ ] Confirm effective date of 2026-01-01 with USLI
+## Action Items for Harper
 - [ ] Review USLI quote with Marcus
+- [ ] Confirm effective date (January 1, 2026)
+- [ ] Send itemized quote via email to Marcus
+- [ ] Include payment options in email follow-up
 
-### For Marcus:
-- [ ] Review itemized quote and payment options (pending email)
-- [ ] Confirm effective date preference
-
-## Next Steps & Timeline
-- Harper to send itemized quote and payment options via email
-- Follow-up call/contact needed to confirm final details and effective date
+## Action Items for Marcus
+- [ ] Review detailed quote from Harper
+- [ ] Confirm acceptance of quote terms
 
 ## Tone/Sentiment
-- Professional and collaborative
-- No concerns or frustrations noted
-- Straightforward discussion with clear preferences expressed
+Professional and cooperative - no concerns noted
+
+---
+
+**Next Follow-up**: Email delivery of itemized quote and payment options

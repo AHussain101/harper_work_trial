@@ -7,33 +7,43 @@
 
 ## Conversation Context
 
-### Main Topic
-- Customer acknowledging receipt of information/materials sent by Harper
-- Customer confirming they will review the provided materials
-- Customer indicating willingness to submit additional documentation if necessary
+**Main Topic/Purpose**
+- Customer acknowledging receipt of something (likely documents, quotes, or information sent by Harper)
+- Customer confirming they will review materials
 
-### Key Messages
-- **Acknowledgment**: Customer received the materials Harper sent
-- **Action Commitment**: Customer will review the content
-- **Conditional Action**: Customer will upload documents only if needed
-- **Tone**: Positive and cooperative
+**Key Points**
+- Customer received materials successfully
+- Customer expressing willingness to cooperate with document upload process if necessary
+- Conditional action: will upload documents "if needed"
 
-### Action Items
-
-#### For Harper
-- Monitor for document uploads from customer
-- Follow up if documents are not received within a reasonable timeframe
-- Be prepared to provide guidance on which documents may be needed
-
-#### For Customer
-- Review materials provided by Harper
-- Determine if additional documents need to be uploaded
-- Upload any required documents as needed
-
-## Next Steps
-- **Timeline**: Open-ended - customer will take action "if needed"
-- **Follow-up Recommended**: Suggest Harper establish a check-in timeline or deadline for document submission to prevent delays in processing
+**Tone/Sentiment**
+- Positive and cooperative
+- Polite and professional
+- No signs of frustration or urgency
 
 ---
 
-**Note**: This is a brief, positive acknowledgment message with minimal specific details. Harper should reference previous communications to understand what materials were sent and what documents might be required.
+## Action Items
+
+### For Harper
+- Follow up if documents are not received within a reasonable timeframe (suggest timeline: 3-5 business days)
+- Clarify which specific documents, if any, are actually required for the process
+- Be prepared to provide guidance on document upload process/portal if needed
+
+### For Customer
+- Review materials provided
+- Upload required documents (pending clarification on which are mandatory)
+- Reach out if any questions arise during review
+
+---
+
+## Follow-Up Notes
+
+**Next Steps**
+- Monitor for document uploads
+- Consider sending a follow-up message within 3-5 days if documents haven't been received (with clear instructions on which documents are required vs. optional)
+
+**Missing Information**
+- *Unclear what materials were sent to the customer* - recommend documenting in CRM what was provided
+- *No indication of timeline or deadline for review*
+- *Unknown if customer has all necessary information to complete the process*

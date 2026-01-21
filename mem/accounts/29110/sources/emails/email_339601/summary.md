@@ -6,64 +6,63 @@
 **From:** underwriter@example-carrier.com
 **To:** submissions@harperinsure.com
 
-# Insurance Submission Summary for Harper
+# Email Summary: Brightside Playthings Underwriting Requirements
 
 ## Business Details
 
-**Company Information**
+**Company Information:**
 - Company Name: Brightside Playthings
-- Industry: Manufacturing/Consumer Products (toy/plaything manufacturing)
-- Product Type: Products containing ABS components requiring third-party testing
+- Industry: Toys/Playthings Manufacturing
+- Product Type: Products containing ABS components (requires third-party testing)
 
-**Coverage & Underwriting**
-- Policy Type: Product liability/general liability (inferred from testing and recall plan requirements)
-- Carrier: Underwriter at example-carrier.com (specific carrier name not explicitly stated)
-- Status: Under underwriting review - awaiting documentation for approval
+**Coverage & Policy Information:**
+- Carrier: Example-Carrier (underwriter handling submission)
+- Coverage Type: Product liability (implied by testing/recall requirements)
+- Status: Under underwriting review
 
-## Documents Requested (URGENT)
+**Documents Requested:**
+- Recent product testing certificates for ABS components (third-party lab reports)
+- Loss runs for the last 3 years
+- Written product recall plan (copy)
+- Confirmation of all subsidiaries to be included on the program
 
-The underwriter requires the following items:
+## Personal Details
 
-1. **Product Testing Certificates**
-   - Recent third-party laboratory reports for ABS components
-   - Must be from certified/independent lab
+**Contact:**
+- Underwriter Email: underwriter@example-carrier.com
+- Sent to Harper's submission email: submissions@harperinsure.com
 
-2. **Loss Runs**
-   - Claims history covering the last 3 years
-   - Required for underwriting evaluation
-
-3. **Product Recall Plan**
-   - Written/documented recall plan
-   - Must be provided as formal document
-
-4. **Subsidiary Confirmation**
-   - Written confirmation of which subsidiaries should be included on the program
-   - Need clarity on corporate structure coverage
-
-## Submission Method
-
-- **Preferred Method**: Secure portal upload
-- **Alternative**: Email attachments to underwriter@example-carrier.com
+**Communication Method:**
+- Preferred upload method: Secure portal
+- Alternative: Reply to message with attachments
 
 ## Conversation Context
 
-**Main Purpose**
-- Underwriter information request as part of the quote/binding process for Brightside Playthings
+**Main Purpose:**
+- Carrier underwriter requesting additional documentation for Brightside Playthings underwriting submission
 
-**Tone/Sentiment**
-- Professional, neutral
-- Routine underwriting inquiry
+**Key Requirements/Questions:**
+1. Product testing compliance documentation (ABS components - third-party verified)
+2. Historical claims data (3-year period)
+3. Risk management documentation (product recall procedures)
+4. Corporate structure clarification (subsidiaries inclusion)
 
-## Action Items for Harper
+**Action Items - FOR HARPER:**
+- Collect all four requested documents from Brightside Playthings
+- Upload documents to secure portal OR email as attachments to underwriter
+- Confirm all subsidiaries that should be covered under the program
 
-- [ ] Contact Brightside Playthings to request all four document categories
-- [ ] Collect and organize ABS component testing certificates from Brightside's suppliers/labs
-- [ ] Obtain 3-year loss runs (may need to request from Brightside or access internal records)
-- [ ] Request written product recall plan from Brightside
-- [ ] Get confirmation from Brightside regarding subsidiary structure and coverage scope
-- [ ] Upload all documents to secure carrier portal OR reply via email with attachments
-- [ ] Follow up with underwriter once documents are submitted
+**Action Items - FOR CUSTOMER (Brightside Playthings):**
+- Provide recent product testing certificates for ABS components
+- Provide 3-year loss runs
+- Provide written product recall plan documentation
+- Provide list/confirmation of subsidiaries for coverage
 
-## Action Items for Customer (Brightside Playthings)
+**Tone/Sentiment:**
+- Professional and straightforward
+- Standard underwriting request (no urgency indicated)
+- No issues flagged, routine information gathering
 
-- [ ] Provide recent ABS
+**Next Steps:**
+- Await document submission from Harper/Brightside Playthings
+- Underwriter will

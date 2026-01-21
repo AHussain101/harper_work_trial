@@ -3,35 +3,47 @@
 **Date:** 2025-12-04T21:54:04.805000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance Broker
+# Insurance Broker SMS Summary
 
 ## Business Details
-- **Coverage Details:** Not specified in this message
-- **Policy Information:** Not discussed yet
-- **Documents/Next Steps:** Email with next steps to be sent to client
+- **Coverage Needs**: Not yet specified in this message
+- **Policy Status**: New customer onboarding phase
+- **Documents/Communications**: Email with next steps to be sent
 
 ## Personal Details
-- **Contact Name:** Steven
-- **Contact Method:** SMS (with follow-up via email)
-- **Communication Preference:** Email for detailed information
-- **Tone/Sentiment:** Positive, welcoming, professional
+- **Contact Name**: Steven
+- **Contact Method**: SMS (this message) and Email (upcoming)
+- **Communication Preference**: Email preferred for detailed information (next steps)
 
 ## Conversation Context
-- **Main Topic/Purpose:** Welcome message and acknowledgment of client choosing Harper's services
-- **Key Message:** Confirming Steven has selected Harper for insurance coverage
-- **Status:** Initial engagement/onboarding phase
-- **Decisions Made:** Steven has committed to using Harper's services
-- **Action Items for Harper:**
-  - Send follow-up email to Steven with next steps
-  - Provide coverage options/details that fit Steven's needs
-  - Prepare documentation or requirements needed to proceed
-- **Action Items for Customer:**
-  - Watch for incoming email with next steps
-  - Review email contents and respond with any information needed
-- **Follow-up Timeline:** Email to be sent immediately (same day as SMS)
-- **Overall Tone:** Positive, enthusiastic, customer-focused
 
-## Additional Notes
-- This appears to be an initial outreach/confirmation message after Steven has agreed to work with Harper
-- No specific business type, coverage type, or premium details have been discussed yet
-- Next detailed conversation likely to occur via email
+### Main Topic
+- New customer welcome message for Steven following his decision to engage Harper's services
+
+### Key Messages
+- Confirmed Steven has chosen Harper Insurance as his broker
+- Harper is expressing excitement about the engagement
+- Customer should expect an email with next steps
+
+### Decisions Made
+- ✅ Steven has committed to using Harper's services
+
+### Action Items for Harper
+- 📧 Send follow-up email to Steven with next steps for coverage setup
+- Determine specific coverage needs and policy details
+- Prepare quotes or policy recommendations based on Steven's requirements
+
+### Action Items for Customer
+- 📧 Watch for and review incoming email from Harper with next steps
+- Respond with coverage details/needs as requested in the email
+
+### Next Steps
+- Email communication pending
+- Timeline: Not specified (expect soon given message timing)
+
+### Tone/Sentiment
+- ✅ **Positive and Professional** — warm welcome, enthusiastic, customer-focused
+
+---
+
+**Note**: This is an initial welcome message. Specific coverage types, business details, premium amounts, and detailed requirements have not yet been discussed. Follow-up communication (via email) will contain more detailed information.

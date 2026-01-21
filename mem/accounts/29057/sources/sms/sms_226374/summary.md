@@ -5,35 +5,40 @@
 
 # SMS Summary for Harper
 
-## Message Type
-- **Direction:** Outgoing (Harper → Customer)
-- **Date & Time:** December 4, 2025 at 7:56 PM
-- **Purpose:** Contact information clarification and process instruction
+## Business Details
+- **Not mentioned in this message**
 
-## Key Message Content
-- Harper is instructing the customer to save the phone number from which this message was sent
-- **Main Point:** This specific phone line will be the single point of contact for all future policy updates and customer inquiries
-- Establishes clear communication protocol and reduces confusion about which contact method to use
+## Personal Details
+- **Contact Method**: SMS line being established
+- **Purpose of Contact**: Policy updates and customer questions
+- **Communication Preference**: Single dedicated phone line for all policy-related communications
 
-## Action Items for Customer
-- Save this phone number in their contacts
-- Use this line as the primary contact for all policy-related matters
-- Send all future questions and update requests through this channel
+## Conversation Context
 
-## Action Items for Harper
-- None immediately apparent from this message
-- Continue using this line for all customer communications going forward
+### Main Topic
+- Establishing a dedicated SMS contact line for ongoing policy communications
 
-## Tone & Sentiment
-- **Tone:** Professional, instructional, helpful
-- **Sentiment:** Neutral/positive
-- Clear intent to streamline communication
+### Key Information
+- Harper is being asked to save a specific phone number
+- This number will be the **single point of contact** for:
+  - All policy updates
+  - All customer questions
+  - Communications from the insurance team
 
-## Important Notes
-- This appears to be a procedural message establishing communication protocols
-- Suggests Harper may have multiple contact methods and is consolidating them for clarity
-- Indicates ongoing relationship with this customer requiring continued communication
+### Message Tone
+- **Professional and organizational**
+- **Instructional** - setting clear expectations for future communications
+- **Convenience-focused** - emphasizing "one clear contact" to streamline communications
+
+### Action Items for Harper
+- ✅ **Save this phone number** in contacts/system
+- ✅ **Set expectations** that all future policy communications will originate from this line
+- ✅ **Route this number** to appropriate team members if needed
+
+### Follow-Up Timeline
+- **Immediate**: This is a standing directive for all future communications
+- **Ongoing**: Expect policy updates and customer inquiries to arrive via this line
 
 ---
 
-**⚠️ Note:** This message contains no specific business details, personal identifiers, policy information, or coverage details. It is a purely procedural/instructional message.
+**Note**: This appears to be an **outgoing message from Harper's team TO a customer**, establishing a communication protocol rather than an incoming customer inquiry.

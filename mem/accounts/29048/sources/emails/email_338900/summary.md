@@ -6,62 +6,59 @@
 **From:** submissions@harperinsure.com
 **To:** underwriting@wholesale-carrier.com
 
-# Insurance Submission Summary: Brookside Botanicals LLC
+# Brookside Botanicals LLC — Insurance Submission Summary
 
 ## Business Details
 
-**Company Information:**
+**Company Information**
 - **Company Name:** Brookside Botanicals LLC
-- **Industry/Business Type:** Soap and detergent manufacturer
+- **Industry:** Soap and detergent manufacturer
 - **Annual Revenue:** ~$750,000
-- **Years in Operation:** Not specified
+- **Business Type:** Product manufacturing with warehouse/fulfillment operations
 
-**Coverage Needs:**
-- Professional Liability Insurance (~$1.0M per claim)
-- Umbrella/Excess Liability Insurance (~$2.0M excess)
+**Coverage Details Requested**
+- **Policy Types:** 
+  - Professional Liability (~$1.0M per claim)
+  - Umbrella/Excess Liability (~$2.0M excess)
 - **Purpose:** Satisfy third-party program requirements and cover warehouse/fulfillment exposures
+- **Current General Liability Carrier:** Great American Alliance Insurance Company
 
-**Current Insurance:**
-- **General Liability Carrier:** Great American Alliance Insurance Company
-- **Certificate of GL Insurance:** Provided
-
-**Documents Submitted:**
+**Documents Submitted**
 - Completed application
 - Product labels and safety instructions (sample)
 - Current certificate of general liability
 
-**Submission Status:**
-- **Stage:** Submitted to Underwriter
-- **Submission Date:** December 4, 2025
-- **Requested Timeline:** Urgent placement
+## Submission Details
 
-## Personal Details
+**Submission Information**
+- **Submitted By:** Harper Insurance (Ashley Myers)
+- **Date Submitted:** December 4, 2025
+- **Submission Stage:** Underwriter review (outbound to wholesale carrier)
+- **Handling Priority:** Urgent placement
+- **Recipient:** underwriting@wholesale-carrier.com
 
-**Harper's Contact:**
+## Action Items
+
+**For Underwriter**
+- Review all attached documentation
+- Advise on any additional underwriting requirements or subjectivities
+- Provide quote and coverage recommendations for requested limits
+
+**For Harper**
+- Monitor underwriter response timeline (marked urgent)
+- Follow up if underwriter requests additional information or loss runs
+- Communicate placement status/approval to Brookside Botanicals LLC
+
+## Key Contact
+
+**Harper's Representative**
 - **Name:** Ashley Myers
-- **Company:** Harper Insurance
 - **Email:** ashley.myers@harperinsure.com
-- **Role:** Insurance Broker (submission contact)
-
-**Client Contact:**
-- Not specified in submission
+- **Role:** Insurance Broker (submitted on behalf of Harper Insurance)
 
 ## Conversation Context
 
-**Purpose of Submission:**
-- Quote request for Professional Liability and Umbrella/Excess Liability coverage to support third-party program requirements
-
-**Key Information Requested from Underwriter:**
-- Review of submitted attachments
-- Guidance on any additional underwriting subjectivities or requirements
-- Quote authorization for requested limits
-
-**Pending Actions:**
-- **Underwriter Action:** Review submission materials and advise on coverage placement and any additional information needed
-- **Harper Action:** Await underwriter response and feedback
-
-**Tone/Sentiment:** Professional and urgent; seeking expedited processing
-
----
-
-**Note:** No renewal date, effective date, or client contact information was included in this submission.
+- **Purpose:** Insurance submission for coverage placement
+- **Tone:** Professional, action-oriented
+- **Status:** Pending underwriter review and approval
+- **Next Steps:** Await underwriter response regarding subjectivities and feasibility of requested limits

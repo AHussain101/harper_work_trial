@@ -5,46 +5,38 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Outgoing (Harper to customer)
-- **Date/Time:** December 4, 2025 at 8:23 PM
-- **Tone/Sentiment:** Professional, informative, reassuring
+## Message Context
+- **Direction:** Outgoing (from Harper/insurance broker to client)
+- **Date & Time:** December 4, 2025 at 8:23 PM
+- **Message Type:** Informational/procedural update
 
----
+## Main Topic & Purpose
+- Notifying client of next steps in the quote review process
+- Setting expectations for agent follow-up contact
+- Inviting client questions before proceeding
 
-## Conversation Context
+## Key Information Communicated
+- **Process Step:** Quotes have been (or will be) received and reviewed
+- **Next Action:** An agent will call the client to finalize coverage
+- **Timeline:** Unspecified - "when we receive and review quote options"
+- **Open Communication:** Client can reach out via text or call if questions arise before the agent call
 
-### Main Topic/Purpose
-- Setting expectations for next steps in the quote review and coverage finalization process
-- Providing customer with reassurance about upcoming contact and communication
+## Action Items
+### For Harper/Insurance Broker:
+- Review received quote options
+- Arrange agent call with client to finalize coverage details
+- Be available for client questions via text or phone
 
-### Key Information Communicated
-- Quote options have been (or will be) received and reviewed
-- An agent will proactively contact the customer by phone to finalize coverage details
-- Customer is invited to reach out with any questions before the agent call
+### For Client:
+- Wait for agent contact call
+- Reach out proactively with any questions (via text or phone) before the finalization call
 
-### Action Items for Customer
-- Wait for agent phone call regarding quote options and coverage finalization
-- Reach out proactively via text or call if any questions arise before the agent contacts them
-- Be available to discuss and finalize coverage when agent calls
+## Follow-Up & Next Steps
+- Agent will initiate call (timeline not specified)
+- Client can contact Harper's team anytime before that call
+- Tone is professional and accessible, reassuring client of available communication channels
 
-### Action Items for Harper
-- Obtain/review quote options (appears to be in progress or pending)
-- Coordinate with an agent to schedule and make a call to customer for coverage finalization
-- Ensure customer feels supported and has easy contact access
-
-### Follow-up Timeline
-- Next step: Pending receipt and review of quote options
-- Following that: Agent phone call to finalize coverage (timeline not specified)
-
----
-
-## Contact Information
-- **Contact Method Available:** Text or call (number used to send this SMS)
-
----
-
-## Notes
-- This is a transitional/status update message
-- No specific business details, personal details, or policy specifics were mentioned in this particular message
-- Likely part of a larger conversation or quote process in progress
+## Notable Gaps
+- No specific quote amounts, coverage types, or policy details mentioned
+- No specific timeline provided for when agent will call
+- No specific agent name or direct contact information provided

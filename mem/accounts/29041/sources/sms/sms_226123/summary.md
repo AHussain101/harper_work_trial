@@ -8,46 +8,41 @@
 ## Conversation Context
 
 ### Main Topic/Purpose
-- Follow-up message regarding upcoming quote review and coverage finalization process
-- Setting expectations for next steps in the insurance quoting process
+- Informing client about next steps in the quote review and coverage finalization process
+- Setting expectations for follow-up communication
 
-### Key Message Points
-- Quote options have been (or will be) received and reviewed
-- An agent from Harper's team will contact the customer by phone to finalize coverage details
-- Customer is invited to ask questions before the agent call
-- Multiple contact methods available (text or call)
+### Key Message
+An agent from Harper's team will contact the client by phone to review quote options and finalize coverage details once quotes are received and reviewed.
 
-### Tone/Sentiment
+### Action Items for the Customer
+- Await phone call from Harper's team agent
+- Prepare for coverage finalization discussion
+- Reach out with any questions via text or call before the agent contact
+
+### Action Items for Harper/Team
+- Receive and review quote options (pending/in progress)
+- Schedule call with customer to discuss quotes
+- Finalize coverage with customer during follow-up call
+- Be available to answer questions via text or phone
+
+### Follow-Up Timeline
+- No specific timeframe mentioned
+- Contact will occur after quotes are received and reviewed
+- Process is still in progress
+
+## Tone/Sentiment
 - Professional and helpful
-- Welcoming and customer-service oriented
-- Clear and straightforward communication
+- Reassuring (giving customer multiple contact options)
+- Casual but clear
 
 ---
 
-## Action Items
+## Missing Information
+⚠️ **Note:** This appears to be a status update message. The SMS does not contain:
+- Specific client/business details
+- Quote amounts or policy information
+- Carrier names or specific coverage types
+- Contact names or phone numbers
+- Dates or deadlines
 
-### For Harper/Team
-- **Pending**: Receive and review quote options for this customer
-- **Pending**: Assign an agent to contact customer by phone
-- **Pending**: Schedule call to finalize coverage with customer
-- Monitor for customer questions or concerns via text/call before agent outreach
-
-### For the Customer
-- Review incoming quote options (when received)
-- Prepare questions if needed before agent call
-- Expect phone contact from Harper's team to finalize coverage
-- May reach out via text or call if clarification needed
-
----
-
-## Outstanding Information Needed
-
-- **Customer contact details**: Name, phone number, email (not provided in this message)
-- **Business/Coverage details**: Type of coverage being quoted, business information (not mentioned in SMS)
-- **Timeline**: Specific date/timeframe for agent call and quote delivery (not specified)
-- **Quote status**: Whether quotes have already been received or are still pending
-
----
-
-## Notes
-This appears to be a standard procedural message in an ongoing quote process. No urgent issues or red flags identified.
+*Previous communications would contain these details.*

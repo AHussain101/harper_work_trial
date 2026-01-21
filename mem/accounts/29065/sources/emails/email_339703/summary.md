@@ -6,59 +6,53 @@
 **From:** email-bot@harperinsure.com
 **To:** harper_employee@harperinsure.com
 
-# Email Summary: USLI Declination & Next Steps
+# Email Summary: USLI Declination & Follow-up Actions
 
 ## Business Details
 
-**Company Information:**
-- Company Name: Meadowbank Financial Group
-- Industry: Financial Services
-- Policy Reference/ID: MGL025D60X9
+### Client Information
+- **Company Name:** Meadowbank Financial Group
+- **Industry:** Financial Services
+- **Policy Type:** Specialty financial services lines (likely professional liability/E&O)
+- **Reference Number:** MGL025D60X9
 
-**Coverage & Carriers:**
-- Coverage Type: Management & General Liability (MGL)
-- Primary Carrier Action: USLI has **declined** coverage
-- Suggested Alternative Carriers: 
-  - Regional E&S (Excess & Surplus) markets
-  - Specialty financial services lines carriers
+### Carrier & Underwriting Status
+- **Primary Carrier:** USLI
+- **Status:** DECLINATION RECEIVED
+- **Recommended Alternate Markets:** 
+  - Regional E&S (Errors & Omissions) markets
+  - Specialty financial services line carriers
 
 ## Personal Details
 
-**Key Contact:**
-- Name: Harold Jensen
-- Title/Role: Not specified (on file for Meadowbank Financial Group)
-- Organization: Meadowbank Financial Group
-
-**Contact Method:**
-- Preferred method: Not specified
-- Harper's Internal Contact: Operations Team
+### Key Contact
+- **Name:** Harold Jensen
+- **Company:** Meadowbank Financial Group
+- **Role:** Primary contact on file
+- **Harper Point of Contact:** Operations Team (internal)
 
 ## Conversation Context
 
-**Email Purpose:**
-- Internal notification of carrier declination
-- Coordination of next steps for alternate placement
+### Main Topic
+- Internal notification regarding USLI's declination of coverage
+- Coordination of alternate carrier submissions
 
-**Main Issue:**
-- USLI has declined the MGL025D60X9 policy
+### Key Actions Required
 
-**Key Actions Required:**
+**Harper Operations Team Must:**
+- [ ] Coordinate submissions to alternate carriers
+- [ ] Prioritize regional E&S markets
+- [ ] Prioritize specialty financial services line carriers
+- [ ] Update Harold Jensen (Meadowbank Financial Group) on next steps and alternatives
 
-*Harper Operations Team Must:*
-- Coordinate alternate submissions to other carriers
-- Update client (Harold Jensen/Meadowbank Financial Group) on next steps
+**Pending with Client:**
+- [ ] Awaiting response/availability for alternate submissions
+- [ ] Client notification on revised carrier strategy
 
-*Status:*
-- Declination received
-- Awaiting operations team coordination for alternative placements
-
-**Timeline:**
-- Email sent: December 5, 2025
-- No specific deadline mentioned; appears time-sensitive given declination
-
-**Tone/Sentiment:**
-- Neutral/procedural; internal communication regarding coverage challenge requiring swift action
+### Tone/Sentiment
+- **Tone:** Operational/Directive
+- **Urgency:** Moderate (follow-up required promptly)
+- **Status:** Active - requires immediate action
 
 ---
-
-**⚠️ Note:** This is an internal routing email with limited detail. Follow-up communication with Harold Jensen should include specific alternative carrier options and realistic timeline for placement.
+**Note:** This is an internal directive email. Client communication regarding the declination and next steps is pending from Harper's operations team.

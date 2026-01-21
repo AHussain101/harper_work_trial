@@ -4,61 +4,51 @@
 **Duration:** 5m 20s
 **Direction:** Incoming
 
-# Call Summary: Harold Jensen – USLI Declination & Alternative Carrier Strategy
+# Call Summary: Harold Jensen - USLI Declination & Next Steps
 
 ## Business Details
-- **Coverage Type**: Not explicitly stated in call (appears to be specialty/complex risk)
-- **Underwriting Status**: 
-  - USLI (United States Liability Insurance Company) has declined submission
-  - Reason for declination: Eligibility requirements not met (specific underwriting concerns not detailed in call)
-  - Client authorized to pursue alternative carriers
-- **Next Carriers Targeted**: Two specialty market carriers (specific names not mentioned in summary)
-- **Additional Documentation Required**:
+- **Carrier Decision**: USLI declined submission
+- **Current Status**: Seeking alternative coverage through specialty markets
+- **Required Documentation**: 
   - Management practices statement
   - Detailed revenue breakdowns
   - Expanded submission package
-
----
+- **Next Steps**: Submissions to two specialty carriers being prepared
 
 ## Personal Details
 - **Contact Name**: Harold Jensen
-- **Contact Role/Title**: Client/Decision-maker (title not specified)
-- **Communication Preferences**: Email preferred for summary and timeline details
-- **Personality/Tone**: Pragmatic; accepted recommendation to pursue alternative markets without objection
-
----
+- **Role/Title**: Not specified
+- **Preferred Contact Method**: Email (requested email summary)
+- **Communication Style**: Direct, solution-focused; seeking clear explanations and timelines
 
 ## Conversation Context
-### Purpose
-- Address USLI carrier declination
-- Identify next steps and alternative coverage options
-- Obtain client authorization to proceed with specialty market submissions
+- **Call Purpose**: Address USLI carrier declination and discuss alternative options
+- **Main Topic**: Understanding declination reasons and identifying next steps for coverage
 
 ### Key Discussion Points
-- **Why USLI Declined**: Agent provided high-level summary of underwriting notes (specific eligibility reasons not detailed in call notes)
-- **Agent Recommendations**:
-  - Submit expanded package to two specialty carriers
-  - Include management practices statement in submission
-  - Provide more detailed revenue breakdowns to underwriters
-- **Client Response**: Approved proceeding with alternate market strategy
+- Client asked for explanation of USLI's declination reasons
+- Agent summarized underwriting notes (without sharing sensitive carrier memos)
+- Agent recommended targeting specialty markets as alternative approach
+- Client authorized Harper to pursue specialty market submissions
 
 ### Decisions Made
-✅ Client authorized Harper to pursue specialty market carriers
-✅ Client requested written summary and timeline via email
+✅ Client approved Harper to proceed with alternate carrier submissions
+✅ Specialty markets approach authorized
 
-### Action Items
-#### For Harper (Jordan Kim):
-- [ ] Prepare expanded submission packages for two specialty carriers within **48 hours**
-- [ ] Compile management practices statement
-- [ ] Include detailed revenue breakdowns in submission
-- [ ] Send email summary and timeline to Harold Jensen
-- [ ] Follow up on submissions to specialty carriers
+### Action Items for Harper (Jordan Kim)
+- [ ] Prepare expanded submission packages for two specialty carriers
+- [ ] Send email summary to Harold Jensen with declination explanation and next steps
+- [ ] Include timeline in email communication
+- **Timeline**: Complete within **48 hours** of call (by 2025-12-06)
 
-#### For Client (Harold Jensen):
-- ✅ Provided authorization to proceed
-- ⏳ Awaiting email summary and timeline from Harper
+### Action Items for Client (Harold Jensen)
+- Await email summary and timeline from Harper
+- No immediate action required from client
 
----
-
-## Call Details
-- **Direction**:
+## Call Metadata
+- **Agent**: Jordan Kim (Harper Operations)
+- **Call Type**: Incoming
+- **Date**: December 4, 2025
+- **Time**: 22:10:00 UTC
+- **Duration**: 5 minutes 20 seconds
+- **Tone/Sentiment**: Professional, collaborative; client receptive to recommendations

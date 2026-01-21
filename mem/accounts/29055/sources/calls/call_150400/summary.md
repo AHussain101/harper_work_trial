@@ -7,43 +7,50 @@
 # Call Summary for Harper Insurance
 
 ## Business Details
-- **Coverage Type:** Not specified in call
-- **Documents Provided:** Declarations page (uploaded by customer)
+- **Coverage Type:** Not specified in call (application in progress)
+- **Documents Received:** 
+  - Declarations page (uploaded by client on day of call)
 - **Quote Timeline:** Initial quote expected within 24 hours
-- **Next Steps:** Quote to be sent via email with text follow-up
+- **Delivery Method:** Email with text follow-up notification
 
 ## Personal Details
 - **Contact Name:** Marcus
-- **Preferred Contact Methods:** Email and text message
-- **Communication Style:** Cooperative, brief, professional
-- **Notes:** Responsive to requests; uploaded documents promptly
+- **Contact Method:** Email and SMS text message
+- **Communication Style:** Cooperative, responsive, brief
+- **Tone:** Friendly and appreciative
 
 ## Conversation Context
-- **Call Purpose:** Follow-up confirmation on document submission and quote timeline
-- **Call Type:** Outgoing call
+
+### Purpose
+Quick follow-up call to confirm document receipt and provide timeline expectations
+
+### Key Points Discussed
+- Harper Agent confirmed whether Marcus uploaded prior policy/loss runs documentation
+- Marcus confirmed he had already uploaded the declarations page earlier that day
+- Harper Agent provided timeline: initial quote within 24 hours
+
+### Decisions Made
+- Proceeding with underwriting review
+- Quote delivery via email with SMS notification
+
+### Action Items for Harper
+- [ ] Ensure underwriting receives and reviews declarations page
+- [ ] Generate initial quote within 24-hour timeframe (by 2025-12-06 at ~11:00 AM)
+- [ ] Send quote to Marcus via email
+- [ ] Follow up with text message notification
+
+### Action Items for Marcus
+- No additional action items identified
+
+### Follow-Up Timeline
+- **Next Step:** Quote delivery within 24 hours
+- **Expected Contact:** Email + SMS text message
+
+### Call Metrics
+- **Direction:** Outgoing call from Harper
 - **Duration:** 45 seconds
 - **Date/Time:** December 5, 2025 at 11:00 AM UTC
-
-### Key Information Exchanged
-- Marcus confirmed uploading the declarations page earlier that day
-- Harper Agent confirmed underwriting will review documents
-- Quote timeline: Approximately 24 hours from call time (expected by Dec 6, 2025)
-
-### Action Items
-
-**For Harper:**
-- Ensure underwriting team receives the declarations page for review
-- Generate initial quote within 24 hours
-- Send quote to Marcus via email
-- Follow up with Marcus via text message after email is sent
-
-**For Marcus:**
-- None identified
-
-### Tone & Sentiment
-- Positive, cooperative, efficient
-- Quick call with clear resolution
+- **Status:** Completed successfully
 
 ---
-
-**Note:** Limited information available from this brief call. For complete context on Marcus's application, refer to the original application form and any supporting documents already collected.
+**Note:** Full policy details (company name, coverage types, premium amounts, deductibles, limits, carrier information) were not discussed on this call and remain pending in application.

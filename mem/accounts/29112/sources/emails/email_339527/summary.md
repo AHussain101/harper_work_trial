@@ -6,80 +6,78 @@
 **From:** HARPER EMPLOYEE <harper_employee@harperinsure.com>
 **To:** Ethan Morales <ethan.morales@blueskytechnologies.com>
 
-# Insurance Quote Summary for Harper Broker
+# Insurance Quote Summary for Harper - Blue Sky Technologies LLC
 
 ## Business Details
 
 ### Company Information
 - **Company Name:** Blue Sky Technologies LLC
-- **Industry:** Technology (inferred from company name)
-- **Employee Count:** Not specified
-- **Revenue:** Not specified
-- **Years in Operation:** Not specified
+- **Industry:** Technology (implied from company name)
+- **Number of Employees:** Not mentioned
+- **Revenue:** Not mentioned
+- **Years in Operation:** Not mentioned
 
-### Coverage & Policy Details
-- **Policy Status:** Application submitted to carrier network
-- **Documents Requested:**
+### Coverage & Policy Information
+- **Policy Types Discussed:** Not specified in this email
+- **Coverage Needs:** Not detailed
+- **Premium Amounts:** Not provided
+- **Deductibles:** Not provided
+- **Coverage Limits:** Not provided
+- **Renewal Date:** Not mentioned
+- **Effective Date:** Not mentioned
+
+### Claims & Loss History
+- **Claims History:** Not mentioned
+- **Loss Runs:** Requested but not yet provided
+
+### Carriers & Quotes
+- **Carriers Involved:** Multiple carriers in Harper's network (specific names not provided)
+- **Status:** Application submitted; initial responses expected shortly
+
+### Documents
+- **Requested Documents:**
   - Loss runs (if available)
   - Certificates of Insurance (COIs)
   - Contract-specific insurance requirements
-- **Premium Amounts:** Not specified
-- **Deductibles:** Not specified
-- **Coverage Limits:** Not specified
-- **Renewal Date:** Not specified
-- **Effective Date:** Not specified
-
-### Claims History
-- Loss runs requested but status unknown (described as "if available")
+- **Documents Received:** None indicated yet
+- **Status:** Awaiting customer uploads
 
 ---
 
 ## Personal Details
 
 ### Contact Information
-- **Primary Contact:** Ethan Morales
+- **Name:** Ethan Morales
 - **Title/Role:** Not specified
-- **Email:** ethan.morales@blueskytechnologies.com
+- **Company Email:** ethan.morales@blueskytechnologies.com
 - **Phone:** Not provided
-- **Preferred Contact Method:** Email (inferred)
+- **Preferred Contact Method:** Not indicated
 
-### Communication Style/Notes
-- Responsive (participated in phone discussion same day)
-- Professional communication expected
+### Communication Preferences
+- Email communication demonstrated
 
 ---
 
 ## Conversation Context
 
-### Main Purpose
-Follow-up after initial insurance quote consultation for Blue Sky Technologies LLC
+### Purpose of Email
+- Follow-up after application submission
+- Request for supporting documentation to expedite the quoting process
 
-### Key Actions Taken
-- Application submitted to Harper's carrier network
-- Intake team has requested supporting documentation
+### Key Points Discussed
+- Application has been submitted to Harper's carrier network
+- Initial carrier responses expected shortly
 
-### Pending Items
-- **Awaiting from Client:**
-  - Loss runs upload
-  - COIs upload
-  - Any contract-specific insurance requirements documentation
-  - Initial responses from carriers (expected soon)
+### Action Items for Harper Employee
+- Monitor for carrier responses
+- Assist Ethan with obtaining loss runs or other documents if needed
+- Process submitted documents once received
 
-### Next Steps
-1. Ethan to upload requested documents to expedite process
-2. Harper to monitor carrier responses
-3. Harper available to assist with obtaining loss runs if needed
-4. Follow-up pending document submission and carrier quotes
+### Action Items for Ethan Morales (Customer)
+- **Upload requested documents:**
+  - Loss runs (if available)
+  - Certificates of Insurance (COIs)
+  - Any contract-specific insurance requirements
+- Contact Harper if assistance needed obtaining documents
 
-### Timeline
-- Initial carrier responses: Expected "shortly" (no specific date given)
-
-### Tone/Sentiment
-- **Tone:** Professional, helpful, collaborative
-- **Sentiment:** Positive; moving forward efficiently
-
----
-
-## Important Notes for Harper
-- This is an **outbound follow-up email** from Harper to client
-- No specific carriers, quotes
+### Next Steps/Timeline

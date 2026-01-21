@@ -11,66 +11,61 @@
 ## Business Details
 
 **Company Information**
-- Business name: Riverbend Tire & Service
+- Company name: Riverbend Tire & Service
 - Industry: Tire and automotive service
-- Quote number: QRY482103
+- Business type: Service-based (tire and auto service)
 
-**Coverage & Premium Details**
+**Coverage & Policy Details**
+- Quote number: QRY482103
 - Carrier: United States Liability Insurance Company (USLI)
-- Premium: ~$1,400
+- Quote portal access: https://portal.example-insure.com/quote/QRY482103
+
+**Premium & Cost Breakdown**
+- Base premium: ~$1,400
 - Filing fee: ~$85
 - Taxes: ~$150
 - **Total estimated cost: ~$1,600**
 - Quote valid until: February 2, 2026
-- Quote portal access: https://portal.example-insure.com/quote/QRY482103
 
-**Documents**
-- Quote documents attached
-- Applicant-facing letter attached
+**Documents Provided**
+- Quote documents (attached)
+- Applicant-facing letter (attached)
 
 ---
 
 ## Personal Details
 
-**Contacts**
-- **USLI Representative:** Lauren Smith
-  - Email: lauren.smith@usli.com
-  - Role: Appears to be underwriting/quote team
-  - Preferred contact: Email or USLI underwriting desk
+**Contact Information**
+- Name: Lauren Smith
+- Title: USLI Underwriting (role/department)
+- Email: lauren.smith@usli.com
+- Company: United States Liability Insurance Company
 
-**Your Agency Contact**
-- Submission received at: submissions@harperinsure.com
+**Communication Method**
+- Email preferred
+- Can also contact USLI underwriting desk directly for questions
 
 ---
 
 ## Conversation Context
 
 **Purpose**
-- Initial quote delivery from USLI for Riverbend Tire & Service
+- Initial quote submission from USLI for Riverbend Tire & Service
+- Routine new business quote delivery
 
-**Key Information Provided**
-- Quote snapshot with approximate costs
-- Direct access to quote portal
-- Contact information for questions or clarifications
+**Key Information**
+- Quote is preliminary/initial
+- Supporting documents ready for review and client presentation
 
 **Action Items for Harper**
-- Review attached quote documents and applicant-facing letter
-- Determine if quote meets client needs or if modifications needed
-- Contact USLI underwriting desk if questions arise (lauren.smith@usli.com)
-- Present quote to Riverbend Tire & Service client
-- Confirm acceptance or request changes before Feb 2, 2026 expiration
+- Review quote documents and applicant letter
+- Present quote to Riverbend Tire & Service
+- Contact USLI underwriting desk if questions arise
+- Coordinate next steps toward potential policy placement (before February 2, 2026 expiration)
 
 **Action Items for Customer (Riverbend)**
-- Review applicant-facing letter
-- Provide feedback on quote to Harper
-- Decide on acceptance by expiration date
+- Review quote documents
+- Decide whether to proceed with coverage
 
 **Tone/Sentiment**
-- Professional and courteous
-- Routine quote delivery
-- No urgency indicated, but clear deadline (Feb 2, 2026)
-
----
-
-## Notes for Follow-Up
-- Quote expires in ~2 months
+- Professional, courteous, and routine

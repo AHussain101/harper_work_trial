@@ -6,66 +6,65 @@
 **From:** submissions@harperinsure.com
 **To:** underwriting@harperinsure.com
 
-# Workers' Compensation Intake Summary — Green Valley Orchards
+# Workers' Compensation Intake Summary — Green Valley Orchards, LLC
 
 ## Business Details
 
 **Company Information:**
 - **Company Name:** Green Valley Orchards, LLC
-- **Industry:** Agriculture (macadamia & avocado orchard)
-- **Business Type:** Orchard/Farm operation
+- **Industry/Type:** Macadamia & avocado orchard
 - **Location:** Maplewood, CA
 - **Number of Employees:** 1 full-time farmworker
 - **Estimated Annual Payroll:** $45,000
 
-**Coverage & Policy Details:**
+**Coverage Details:**
 - **Coverage Type Requested:** Workers' Compensation only
 - **Current Carrier:** Berkshire Hathaway
 - **Claims History:** No losses reported
-- **Underwriter Notes:** Prioritize admitted carriers for CA market
 
-**Documents & Information Status:**
-- **Requested:** 
-  - Payroll verification documents
-  - Prior loss runs
-- **Submission Method:** Via secure portal
-- **Expected Timeline:** Preliminary quotes within 24–48 hours
+**Documents Needed:**
+- Payroll verification documents
+- Prior loss runs (if applicable)
+- *Submission method:* Secure portal
 
 ## Personal Details
 
 **Primary Contact:**
 - **Name:** Mary Cox
-- **Role/Title:** Not specified (appears to be owner/manager)
-- **Contact Method:** Not specified in email
-- **Phone/Email:** Not provided in intake
+- **Role/Title:** Not specified
+- **Contact Method:** Via secure portal submission
 
 ## Conversation Context
 
-**Purpose:**
-- Initial Workers' Compensation intake submission for new client
+**Email Type:** Inbound submission/intake form from client portal
+
+**Main Purpose:** 
+- Initial workers' compensation quote request for a small agricultural operation
 
 **Key Information:**
-- This is an outbound submission from the Harper intake system to the underwriting department
-- Client is seeking workers' comp coverage for a small agricultural operation
-- Straightforward, low-complexity submission with minimal payroll
+- This appears to be an automated intake submission to Harper's underwriting department
+- Client is requesting workers' comp coverage only (no additional policies mentioned)
+- Clean loss history with current carrier
 
-**Action Items for Harper/Underwriting:**
-- Confirm receipt of payroll verification documents via secure portal
-- Obtain and review prior loss runs from current carrier (Berkshire Hathaway)
-- Prioritize admitted carriers appropriate for California market
-- Generate preliminary quotes within 24–48 hours
-- Reach out to Mary Cox with quotes and next steps
+**Harper's Underwriting Notes:**
+- Prioritize admitted carriers for CA market
+- Preliminary quotes expected within 24–48 hours
 
-**Pending Items:**
-- Payroll verification confirmation
-- Loss run documentation review
-- Quote generation and presentation
+## Action Items
 
-**Tone/Sentiment:**
-- Professional, routine intake submission
-- No urgency indicated
-- Straightforward request with clear expectations
+**For Harper/Underwriting Team:**
+- [ ] Confirm receipt of payroll verification documents via secure portal
+- [ ] Obtain prior loss runs from client
+- [ ] Solicit preliminary quotes from admitted CA carriers
+- [ ] Prepare quote package within 24–48 hour window
 
----
+**For Customer (Green Valley Orchards):**
+- [ ] Submit payroll verification documents through secure portal
+- [ ] Provide any prior loss run documentation if available
 
-**Note:** This appears to be an internal submission document. Follow-
+## Timeline & Next Steps
+- **Expected Preliminary Quotes:** Within 24–48 hours of intake confirmation
+- **Follow-up Required:** Awaiting payroll verification and loss run documentation
+
+## Tone/Sentiment
+- Neutral, procedural (standard intake submission format)

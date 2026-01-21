@@ -11,51 +11,53 @@
 **Company Information:**
 - **Company Name:** Johnson Engineering, LLC
 - **Industry:** Engineering Consulting (Civil Design)
-- **Location:** Sunnyvale, California
-- **Employees:** 2 principals/owners
-- **Primary Services:** Civil design work, construction administration, occasional site inspections
+- **Location:** Sunnyvale, CA
+- **Employees:** 2 principals/owners only
+- **Primary Services:** Civil design work, construction administration, site inspections
 
-**Coverage Details:**
-- **Policy Types Discussed:**
+**Coverage Details Discussed:**
+- **Policy Types:** 
   - Professional E&O (Errors & Omissions)
   - Cyber Liability
   - General Liability
   - Umbrella Coverage
-- **E&O Limits:** $1M per claim / $2M aggregate (requested)
-- **E&O Deductible:** Small deductible (amount not specified in call)
-- **Cyber Limits:** $1M cyber limit option for quoting
-- **Cyber Exposure Assessment:** Basic protections in place (backup systems, encryption); limited PII exposure
+- **E&O Limits Requested:**
+  - Per Claim: $1M
+  - Aggregate: $2M
+  - Deductible: Small (exact amount not specified in transcript)
+- **Cyber Liability:**
+  - Limit Option: $1M
+  - Current Protections: Basic (backup systems, encryption)
+  - PII Exposure: Limited
 
-**Application Status:**
-- Applications completed and ready for submission to underwriting
-- No existing policy renewal date or effective date mentioned on call
+**Timeline:**
+- **Call Date:** December 5, 2025
+- **Expected Quote Timeline:** 24–48 hours from submission
+- **Status:** Applications submitted to underwriting; awaiting carrier quotes
 
 ## Personal Details
 
-**Contacts & Roles:**
-- **Applicant/Business Owner:** Name not provided in transcript
-- **Applicant Phone:** Number ending in 5146 (on file for follow-up contact)
-- **Applicant Email:** Not provided in transcript
-- **Referral Partner:** Represented in call (name not specified)
-- **Broker Partner:** Hartford carrier/broker partner assisting with quoting
-- **Harper Agent:** Insurance broker handling application processing
-
-**Communication Preferences:**
-- Preferred contact methods: Email and phone
-- Phone number on file: (ending in 5146)
-- Applicant receptive and cooperative during call
+**Key Contact(s):**
+- **Applicant:** Johnson Engineering, LLC principal(s) (name not provided)
+  - **Phone:** Ending in 5146 (on file)
+  - **Preferred Contact Method:** Email preferred, phone/text acceptable
+- **Referral Partner:** On call to facilitate
+- **Broker Partner (Hartford):** Assisting with quoting and carrier submission
 
 ## Conversation Context
 
-**Call Purpose:**
-- Application intake and coverage discovery for engineering consulting firm
-- Collect operational details, coverage limits, and cyber exposure information
-- Initiate underwriting submission process
+**Purpose of Call:**
+- Initial application intake and underwriting submission for multi-line coverage for engineering consulting firm
+- Collect operational details, coverage limits, and cyber exposure assessment
+- Confirm business structure and risk profile
 
-**Key Details Discussed:**
-- Business operations and service lines (design, construction admin, site inspections)
-- Coverage limits for Professional E&O ($1M/$2M)
-- Cyber protections currently in place
-- Two principals/owners only (small team)
+**Key Details Confirmed:**
+- Two-person operation (principals only)
+- Primarily civil design; limited construction admin/inspections
+- Basic cyber protections in place; limited PII data handling
+- E&O limits and deductibles established
 
-**Key
+**Decisions Made:**
+- Applications approved for submission to carriers
+- $1M cyber limit selected for quoting
+- E&O

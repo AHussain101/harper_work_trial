@@ -6,32 +6,36 @@
 # SMS Summary for Harper
 
 ## Conversation Context
-- **Main Topic:** Follow-up regarding workers' compensation application completion
-- **Purpose:** Polite closing message encouraging customer to proceed with application submission
-- **Tone/Sentiment:** Friendly, professional, appreciative
-- **Message Type:** Outgoing courtesy/follow-up message
+- **Main Topic:** Follow-up regarding workers' compensation application
+- **Purpose:** Courtesy reminder to client about pending application completion
+- **Tone/Sentiment:** Professional, friendly, and positive
+- **Direction:** Outgoing message from Harper to client
 
 ## Business Details
 - **Coverage Type:** Workers' Compensation
-- **Current Status:** Application incomplete/pending - awaiting customer to finish submission
-- **Documents:** Application documents referenced (status: incomplete)
+- **Status:** Application incomplete/pending finalization
+- **Next Step Required:** Client needs to complete and submit workers' compensation application
 
-## Action Items for the Customer
-- **Complete and submit workers' compensation application** via one of two methods:
-  - Call Harper's office to finish application
-  - Upload documents to the online portal
-- **Timeline:** "Whenever you're ready" (no specific deadline mentioned)
+## Action Items
 
-## Action Items for Harper
-- **Follow-up needed:** Monitor for customer response/application submission
-- **Channels available:** Phone call or portal upload (ensure customer knows both options are available)
-- **Next step:** Receive completed application materials
+### For the Customer
+- Complete the workers' compensation application
+- Submit completed application via one of two methods:
+  - Call Harper back to discuss/submit
+  - Upload documents to the portal
 
-## Personal Details
-- **Contact Method Preferences:** Customer has access to:
-  - Phone callback option
-  - Online portal upload option
+### For Harper
+- Await client callback or portal document upload
+- Process workers' compensation application once received
+- Follow up if application materials are not received within reasonable timeframe
+
+## Important Notes
+- Client has already had a conversation with Harper (referenced as "speaking with you today")
+- Portal access is available for document submission
+- Client has flexibility in submission method (phone or portal)
+- No specific deadlines, carrier names, premium amounts, or policy details mentioned
+- No personal contact information provided in this message
 
 ---
 
-**Note:** This appears to be the closing message from a previous conversation. No specific customer name, contact information, or business details are mentioned in this SMS itself. Additional context from prior conversations would provide more complete information.
+**Status:** Awaiting customer action | **Priority:** Follow-up required

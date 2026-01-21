@@ -11,59 +11,61 @@
 ## Business Details
 
 **Company Information:**
-- Company Name: Blue Sky Technologies LLC
-- Industry: Technology (inferred from company name)
-- Business Type: Not explicitly stated
+- **Company Name:** Blue Sky Technologies LLC
+- **Industry:** Technology (assumed based on company name)
+- **Employee Count:** Not specified
+- **Revenue:** Not specified
+- **Years in Operation:** Not specified
 
-**Coverage Details:**
-- Coverage Type: General Liability
-- Limits: $1M/$2M (both carriers)
-- Policy Type: Product Liability (mentioned as relevant)
+**Coverage & Policy Details:**
+- **Coverage Type:** General Liability
+- **Limits:** $1M/$2M
+- **Policy Type Discussed:** Product Liability (primary focus)
 
-**Quote Information:**
+**Quotes Received:**
 
 | Carrier | Premium | Total Cost | Limits | Notes |
 |---------|---------|-----------|--------|-------|
-| RPS | ~$4,800 | ~$5,100 | $1M/$2M | Lower cost option |
-| USLI | ~$6,200 | ~$6,700 | $1M/$2M | Competitive option |
+| RPS | $4,800 | $5,100 | $1M/$2M GL | Lower cost option |
+| USLI | $6,200 | $6,700 | $1M/$2M GL | Competitive alternative |
 
-**Requirements & Subjectivities:**
-- RPS has subjectivities including:
-  - Standard product liability disclosures required
-  - Confirmation of manufacturers' quality testing needed
+**Subjectivities/Conditions:**
+- Standard product liability disclosures required
+- Confirmation of manufacturers' quality testing documentation needed
+- Both quotes are preliminary and subject to formal paperwork
 
-**Other Business Details:**
-- Renewal/Quote Date: December 5, 2025
-- Quotes are preliminary and subject to formal paperwork
-- Online portal access provided for quote review
+**Documentation & Access:**
+- Quote portal available at: https://portal.example-insure.com/quotes/blue-sky-01
+- Carrier summaries accessible via portal for client review
+
+**Renewal/Effective Dates:** Not specified
+
+---
 
 ## Personal Details
 
 **Contact Information:**
-- Name: Ethan Morales
-- Title/Role: Decision-maker/Primary contact at Blue Sky Technologies
-- Email: ethan.morales@blueskytechnologies.com
-- Harper Contact: harper_employee@harperinsure.com
+- **Name:** Ethan Morales
+- **Title/Role:** Not specified (appears to be decision-maker)
+- **Email:** ethan.morales@blueskytechnologies.com
+- **Phone:** Not provided
+- **Preferred Contact Method:** Not specified
 
-**Communication Method:**
-- Email is primary communication method used
+**Communication Style/Notes:**
+- No personality or preference notes documented in this email
+
+---
 
 ## Conversation Context
 
-**Purpose:**
-- Delivery of preliminary insurance quotes for General Liability coverage
+**Email Purpose:**
+- Presenting preliminary insurance quotes from two carriers for General Liability/Product Liability coverage
+- Requesting decision on preferred carrier or approval to seek additional quotes
 
-**Key Information Provided:**
-- Two carrier options presented with pricing and coverage details
-- Portal link for detailed carrier summaries provided
-- Quotes are preliminary pending formal paperwork completion
+**Key Questions for Client:**
+- Which quote option does Ethan prefer to move forward with?
+- Does Ethan want Harper to seek additional carrier appetite for broader product liability terms?
 
-**Pending Decisions:**
-- Which carrier option to move forward with (RPS vs. USLI)
-- Whether to seek additional appetite for broader product liability terms
+**Decisions Made:** None yet (awaiting client response)
 
-**Action Items for Harper:**
-- Await Ethan's selection of preferred carrier
-- Prepare to move forward with chosen carrier's formal paperwork
-- Potentially source additional quotes for broader product liability coverage if requested
-- Obtain subjectivity documentation
+**Decisions Pending:**

@@ -3,47 +3,53 @@
 **Date:** 2025-12-04T17:55:36.137000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary
 
 ## Business Details
-- **Status**: Quotes currently being prepared
-- No specific business details mentioned in this message
+- **Company Name:** Harper Insurance
+- **Context:** Insurance brokerage firm providing quotes to client
 
 ## Personal Details
-- **Contact Name**: Marcus
-- **Preferred Contact Method**: SMS
-- **Communication Style**: Professional, concise
-- **Tone**: Receptive to services (has entrusted Harper with account)
+- **Contact Name:** Marcus
+- **Harper Representative:** Harper Employee (specific name not provided)
+- **Contact Method:** SMS
 
 ## Conversation Context
 
-### Main Topic
-- Initial outreach/acknowledgment regarding quote preparation for Marcus's account
+### Main Topic/Purpose
+- Initial outreach to client regarding insurance quotes
+- Account establishment/onboarding communication
 
-### Key Points
-- Marcus has established an account with Harper Insurance
-- Quote generation is actively in progress
+### Key Messages
+- Thanking Marcus for choosing Harper Insurance
+- Confirming that Harper is actively working on preparing quotes
+- Building trust and establishing relationship
 
-### Decisions Made
-- Marcus has decided to work with Harper Insurance for his insurance needs
+### Decisions Made or Pending
+- **Pending:** Quote preparation in progress (completion status unknown)
+- **Pending:** Specific coverage types, policy details, and quote amounts not yet discussed
 
 ### Action Items for Harper
-- **Complete and deliver quotes** to Marcus (timeline not specified, but implied as soon as available)
-- **Follow up with Marcus** once quotes are ready
+- ⚠️ **Complete quote preparation** for Marcus's account
+- Follow up with Marcus once quotes are ready
+- Clarify specific coverage needs and business details (not yet discussed in this exchange)
 
 ### Action Items for Customer (Marcus)
 - Await quote delivery from Harper
+- Likely will need to review quotes and provide feedback
 
-### Next Steps
-- Harper will provide quotes to Marcus (specific delivery timeline not mentioned)
-- Likely follow-up communication will occur once quotes are prepared
+### Follow-Up Timeline
+- **Next Steps:** Unclear - no specific timeline mentioned for quote delivery
+- **Recommendation:** Harper should send follow-up with completed quotes and proposed next meeting
 
 ### Tone/Sentiment
-- **Positive, professional, reassuring**
-- Relationship-building approach
-- Grateful acknowledgment of trust
+- **Professional and positive**
+- Friendly and appreciative
+- Reassuring
 
----
-
-## Notes
-This is an initial confirmation message with limited details. More information will be needed to understand Marcus's specific coverage needs, business type, and requirements once quotes are discussed.
+## ⚠️ Missing Information
+- **No business details provided yet** (industry, employee count, coverage needs, etc.)
+- **No specific quotes, premiums, or policy details mentioned**
+- **No coverage types discussed**
+- **No effective/renewal dates mentioned**
+- **No documents exchanged**

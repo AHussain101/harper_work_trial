@@ -6,41 +6,44 @@
 # SMS Summary for Harper
 
 ## Message Type
-- **Direction:** Outgoing (from Harper/Harper's team to customer)
+- **Direction:** Outgoing (from Harper/insurance team to client)
 - **Date & Time:** December 4, 2025 at 8:04 PM
-- **Purpose:** Contact/relationship establishment message
+- **Purpose:** Establishing primary contact channel
 
-## Business Details
-- No specific business information mentioned in this SMS
-
-## Personal Details
-- **Contact Method:** SMS (established as primary communication channel)
-- **Communication Preference:** Direct messaging from this single number for all updates, questions, and quotes
+## Key Message Content
+- Client is being informed to save this phone number
+- This number will be the **single point of contact** for all future communications
+- All updates, questions, and quotes will come through this dedicated line
+- Emphasizes clarity and organization of communications
 
 ## Conversation Context
 
-### Main Purpose
-- Establishing this phone number as the single point of contact for ongoing insurance communications
+### Main Topic
+- Establishing a clear communication protocol with the client
+- Directing client to use this number as primary contact method
 
-### Key Message Points
-- Customer should save this number
-- All future updates will come through this number
-- All customer questions will be answered via this number
-- All quotes will be delivered through this number
-- This creates a "one clear line" of communication with Harper's team
-
-### Tone/Sentiment
-- Professional, organized, and service-oriented
-- Reassuring (emphasis on simplicity and clarity)
+### Key Points
+- **One clear line of communication** being established
+- This appears to be an introductory/onboarding message
+- Sets expectations for future interactions
 
 ## Action Items
-### For Customer
-- ✅ Save this phone number for future reference
-- Stay prepared to receive updates, quotes, and respond to questions via SMS
+
+### For Client
+- Save the provided phone number
+- Use this number for all future contact regarding their insurance
 
 ### For Harper
-- ✅ Use this outgoing message as confirmation that contact relationship has been established
-- Track this as the primary communication channel for this customer going forward
+- Monitor this number for incoming client questions, requests, and follow-ups
+- Prepare to send updates and quotes through this channel
+- Maintain responsiveness on this line
 
-## Follow-Up Timeline
-- Ongoing/continuous contact via this SMS channel for all future interactions
+## Tone & Sentiment
+- **Professional and organizational**
+- **Helpful and client-focused**
+- Clear intention to streamline communication
+
+## Notes
+- No specific business details, personal information, or coverage details mentioned in this message
+- This appears to be an early-stage communication, likely sent after initial contact was made
+- Follow-up details about actual insurance needs/quotes are expected in future messages

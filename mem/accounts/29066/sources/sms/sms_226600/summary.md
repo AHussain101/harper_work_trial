@@ -3,41 +3,37 @@
 **Date:** 2025-12-04T20:36:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary: Sentinel Field Security LLC Insurance Application
 
 ## Business Details
 - **Company Name:** Sentinel Field Security LLC
-- **Business Type:** Security services (field security)
-- **Current Status:** Application submitted and under review
-- **Coverage Stage:** Preliminary quotes being prepared
+- **Industry:** Security Services (Field Security)
+- **Coverage Status:** Application submitted
+- **Quote Status:** Preliminary quotes expected within 24–48 hours
+- **Documents:** Application received and under review
 
 ## Personal Details
 - **Contact Name:** Ari
-- **Sender:** HARPER_EMPLOYEE (Harper Insurance representative)
-- **Preferred Contact Method:** SMS
+- **Company Representative:** HARPER_EMPLOYEE (Harper Insurance)
+- **Contact Method:** SMS
+- **Preferred Contact Method:** SMS (implied, as this is how they're communicating)
 
 ## Conversation Context
-- **Main Topic:** Application acknowledgment and quote timeline
-- **Purpose:** Confirm receipt of Sentinel Field Security LLC insurance application and set expectations for quote delivery
+- **Main Topic/Purpose:** Initial application acknowledgment and quote timeline communication
+- **Key Message:** Confirmation that Sentinel Field Security LLC's application has been received and is being processed
+- **Quote Timeline:** 24–48 hours for preliminary quotes
+- **Tone/Sentiment:** Professional, courteous, reassuring
 
-### Key Information Provided
-- Application has been received by Harper's team
-- Preliminary quotes will be available within **24–48 hours**
-- Contact invited to reach out with immediate questions
+## Action Items
 
-### Action Items
-**For Harper:**
-- Prepare preliminary quotes for Sentinel Field Security LLC within 24–48 hours
-- Be available to answer any immediate questions from Ari
+### For Harper/Harper Insurance Team
+- Prepare preliminary insurance quotes for Sentinel Field Security LLC within 24–48 hours
+- Review application details to determine appropriate coverage and rates
 
-**For Customer (Ari/Sentinel Field Security LLC):**
-- Reply with any immediate questions (optional)
-- Await preliminary quotes within 24–48 hours
+### For Customer (Ari)
+- Reply with any immediate questions
+- Expect contact with preliminary quotes within 24–48 hours
+- No immediate action required at this time
 
-### Tone/Sentiment
-- Professional, courteous, efficient
-- Clear timeline set
-- Open door for communication
-
-### Follow-up Timeline
-- Next contact expected: Within 24–48 hours with preliminary quotes
+## Follow-Up Timeline
+- **Next Contact:** Within 24–48 hours with preliminary quotes

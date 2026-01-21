@@ -6,63 +6,63 @@
 **From:** underwriting@aegisuw.com
 **To:** submissions@harperinsure.com
 
-# Email Summary: Aegis Underwriters Quote - Oakridge Nutrition Clinic
+# Email Summary: Aegis Underwriters Quote for Oakridge Nutrition Clinic
 
 ## Business Details
 
-**Client Company:**
-- Name: Oakridge Nutrition Clinic
-- Industry: Healthcare/Nutrition Services
-- Business Type: Nutrition clinic
+**Client Organization:**
+- Company name: Oakridge Nutrition Clinic
+- Business type/industry: Healthcare/Nutrition Services
+- Coverage type: Professional Liability (E&O - Errors & Omissions)
 
-**Coverage Information:**
-- Policy Type: Professional Liability (E&O - Errors & Omissions)
-- Annual Premium: ~$3,200
-- Quote Valid Until: February 2, 2026
-
-**Documents Required (for binding):**
-- Signed application
-- Up-to-date loss runs for the last 3 years
-- Certificates of Insurance (COIs) required by third-party contracts
-
-## Carrier Details
-
-**Underwriter:**
+**Quote Information:**
 - Carrier: Aegis Underwriters
-- Contact: Elena Park, Underwriting Department
+- Annual premium: ~$3,200
+- Quote valid until: February 2, 2026
+- Policy status: Preliminary quote (pending binding decision)
+
+**Requirements for Binding:**
+- Signed application form
+- Loss runs for the past 3 years (up-to-date)
+- Certificates of Insurance (COIs) required by any third-party contracts
+
+**Limits & Deductible:**
+- Not specified in quote (open for adjustment/negotiation)
+
+## Personal Details
+
+**Aegis Underwriters Contact:**
+- Name: Elena Park
+- Title: Underwriting Department
 - Email: underwriting@aegisuw.com
+
+**Harper's Contact Info (recipient):**
+- Email: submissions@harperinsure.com
+- Contact name: Amanda (implied from greeting)
 
 ## Conversation Context
 
-**Purpose:**
-- Preliminary professional liability insurance quote for client review and binding decision
+**Purpose:** Initial professional liability insurance quote presentation for a nutrition clinic client
 
 **Key Information Provided:**
-- Quote is preliminary and valid for ~2 months
-- Limits and deductible are available for adjustment if needed
-- Clear path to binding with documented subjectivities
+- Preliminary quote with competitive annual premium of $3,200
+- 2-month quote validity window
 
 **Pending Decisions:**
 - Whether to proceed with binding
-- Whether to request adjustments to coverage limits or deductible amounts
+- Whether to adjust coverage limits or deductible amounts
 
-## Action Items for Harper
+**Action Items for Harper:**
+- Review quote with client (Oakridge Nutrition Clinic)
+- Decide whether to move forward with binding or request limit/deductible adjustments
+- Communicate decision back to Aegis Underwriters
+- If proceeding: collect required documents from client
 
-- [ ] Review quote details with Oakridge Nutrition Clinic
-- [ ] Determine if client wants to proceed with binding or request limit/deductible adjustments
-- [ ] Collect required documents from client if proceeding:
-  - Signed application
-  - Loss runs (3 years)
-  - Third-party contract COI requirements documentation
-- [ ] Communicate decision back to Aegis Underwriters (Elena Park)
+**Action Items for Customer (implied):**
+- Prepare signed application
+- Gather loss runs (3-year history)
+- Provide any existing COIs from third-party contracts
 
-## Action Items for Customer (Oakridge Nutrition Clinic)
+**Next Steps:** Await Harper's response on binding decision and potential modifications
 
-- [ ] Review quote and determine if adjustments needed
-- [ ] Prepare required documents for binding:
-  - Signed application
-  - Loss runs (last 3 years)
-  - Documentation of third-party contract COI requirements
-
-## Tone/Sentiment
-Professional, courteous, straightforward - standard underwriting communication
+**Tone/Sentiment:** Professional, straightforward, helpful

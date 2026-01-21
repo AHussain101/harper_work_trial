@@ -10,62 +10,59 @@
 
 ## Business Details
 
-### Company Information
-- **Company Name:** Smith Freight Lines LLC
-- **Industry:** Freight/Transportation
-- **Business Type:** Long-haul trucking operation
+**Company Information**
+- Company name: Smith Freight Lines LLC
+- Industry: Freight/Trucking (commercial transportation)
+- Type of business: Long-haul trucking operation
 
-### Coverage Details
-- **Coverage Types Requested:**
+**Coverage Details**
+- Coverage types requested:
   - Commercial Auto (long-haul box truck)
   - Cargo insurance
-- **Cargo Limit:** Approximately $1.0M
-- **Policy Term:** 12 months
-- **Carrier:** Progressive
+- Cargo limit: Approximately $1.0M
+- Policy term: 12 months
+- Estimated annual premium: ~$5,400 (inclusive of fees)
 
-### Premium & Pricing
-- **Estimated Annual Premium:** ~$5,400 (inclusive of fees)
-- **Quote Valid Through:** February 2, 2026
-
----
+**Policy Timeline**
+- Quote valid through: February 2, 2026
+- Policy term: 12 months (start date not specified in quote)
 
 ## Personal Details
 
-### Primary Contact
-- **Name:** Marcus Bell
-- **Role/Title:** Not specified
-- **Contact Method:** Email (via Progressive to Harper Insure)
-
----
+**Primary Contact**
+- Name: Marcus Bell
+- Role/title: Not specified
+- Contact method: Email (submissions@harperinsure.com)
 
 ## Conversation Context
 
-### Email Purpose
-- Progressive is providing a commercial auto insurance quote for Smith Freight Lines LLC
-- Quote is awaiting Harper's review and decision on next steps
+**Purpose**
+- Progressive has provided a commercial auto insurance quote for Smith Freight Lines LLC
+- Quote includes both vehicle coverage and cargo protection
 
-### Key Details
-- This is an **inbound quote submission** from Progressive to Harper's brokerage
-- Quote has been generated and is ready for Harper to present to the client or proceed with binding
+**Key Information from Carrier**
+- Carrier: Progressive
+- Quote is a carrier estimate (not yet formally bound)
+- Cargo coverage limit specified at $1.0M
+- Premium estimate includes all fees
 
-### Action Items for Harper
-1. **Review the quote** details (premium, limits, deductibles)
-2. **Contact Marcus Bell/Smith Freight Lines** to determine if they want to:
-   - Proceed with binding the policy, OR
-   - Adjust coverage limits and/or deductibles
-3. **Advise Progressive** of the client's decision once confirmed
+**Pending Decisions**
+- Whether to proceed with binding the policy
+- Whether to adjust coverage limits
+- Whether to adjust deductibles
+- Specific deductible amounts not mentioned in quote
 
-### Pending Decisions
-- Whether to **bind the policy as quoted** or **request modifications**
-- Client acceptance/rejection of the $5.4k annual premium
+**Action Items for Harper**
+- Review the Progressive quote
+- Advise Progressive/client on whether to:
+  - Proceed with binding
+  - Adjust limits (cargo and/or vehicle limits)
+  - Adjust deductibles
+- Contact Marcus Bell with recommendation
 
-### Tone
-- Professional, straightforward quote submission
-- Awaiting Harper's direction on next steps
+**Tone/Sentiment**
+- Professional, routine quote submission
+- Waiting on Harper's direction for next steps
 
 ---
-
-## Timeline
-- **Quote Received:** December 5, 2025
-- **Quote Valid Through:** February 2, 2026 (approximately 2 months from receipt)
-- **Next Steps:** Pending Harper's follow-up with client
+**Note:** Email origin appears to be automated quote submission; actual Marcus Bell contact details not provided in this email. May need to reach out separately to discuss any adjustments before binding decision.

@@ -3,42 +3,58 @@
 **Date:** 2025-12-04T20:24:49.379000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Harper Insurance Communication Setup
+# SMS Summary: Harper Insurance Contact Information
 
-## Message Purpose
-- **Direction:** Outgoing message from Harper Insurance to a customer
-- **Date:** December 4, 2025 at 8:24 PM
-- **Type:** Introduction/onboarding message establishing communication channel
-
-## Communication Details
-- **Sender:** Avery at Harper Insurance
-- **Key Message:** Establishing this phone number as the primary contact point for all future communications
-- **Communication Method:** SMS (text message)
-
-## Action Items & Next Steps
-
-### For the Customer
-- **Save this phone number** for future reference
-- Use this line for:
-  - Updates about their insurance
-  - Asking questions
-  - Receiving quotes
-
-### For Harper's Team
-- Ensure this number remains active for ongoing customer communications
-- Direct all updates, questions, and quotes through this established channel
-- Use this as the single point of contact moving forward
-
-## Tone & Context
-- **Tone:** Professional, helpful, organized
-- **Purpose:** Streamlining communication by centralizing all interactions through one dedicated line
-- **Sentiment:** Positive/proactive - setting expectations for efficient service
-
-## Important Notes
-- ⚠️ **No specific business or personal details** were shared in this message (this appears to be an initial/onboarding message)
-- No coverage details, quotes, or policy information included yet
-- This establishes the foundation for future detailed communications
+## Message Type
+- **Direction:** Outgoing (from Harper Insurance to customer)
+- **Date & Time:** December 4, 2025 at 8:24 PM UTC
+- **Message Type:** Informational/Procedural
 
 ---
 
-**Status:** Initial contact established | **Next Communication:** Awaiting customer response or next substantive discussion about coverage needs
+## Sender Information
+- **Name:** Avery
+- **Organization:** Harper Insurance
+- **Role:** Insurance broker/representative
+
+---
+
+## Key Message Content
+- Customer is being provided with a dedicated contact number for Harper Insurance
+- This number will be the single point of contact for all future communications
+
+---
+
+## Communication Channel & Purpose
+- **Purpose:** Establishing clear communication protocol
+- **Channel:** SMS/Phone number
+- **Communication Promise:** 
+  - All updates will come through this number
+  - All questions will be answered via this number
+  - All quotes will be delivered through this number
+  - Provides customer with one consolidated contact line
+
+---
+
+## Conversation Context
+- **Tone/Sentiment:** Professional, helpful, and clarifying
+- **Main Topic:** Setting up efficient communication structure
+- **Key Message:** Simplifying the customer experience by centralizing all contact through one dedicated line
+
+---
+
+## Action Items
+
+### For Harper/Avery:
+- Ensure this number is operational and monitored
+- Use this as the primary contact method for all customer communications going forward
+
+### For Customer:
+- Save the provided number
+- Use this number for all future communications, questions, and requests
+
+---
+
+## Next Steps
+- Customer should save the number for future reference
+- Awaiting customer's initial inquiry, questions, or coverage needs discussion

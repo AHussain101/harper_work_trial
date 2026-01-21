@@ -6,47 +6,54 @@
 **From:** lloyd.mattson@rpsins.com
 **To:** submissions@harperinsure.com
 
-# Email Summary: Elm Street Transit LLC - GL Coverage Quote
+# Email Summary: Elm Street Transit LLC - GL Coverage Quote Request
 
 ## Business Details
-- **Company Name:** Elm Street Transit LLC
-- **Industry/Type:** Transit/Transportation
-- **Coverage Type:** General Liability (GL) coverage
-- **Quote Reference:** RPS-4821
-- **Status:** Under review - proceeding to quote phase
 
-## Personal Details
-- **Contact from Carrier:** Lloyd Mattson
-- **Title/Role:** RPS Underwriting
-- **Email:** lloyd.mattson@rpsins.com
-- **Company:** RPS Insurance (RPS Ins)
+**Company Information:**
+- Company name: Elm Street Transit LLC
+- Business type: Transit/Transportation
+- Industry: Transportation/Logistics
+
+**Coverage Details:**
+- Coverage type: General Liability (GL)
+- Quote reference number: RPS-4821
+- Status: Underwriter has reviewed initial submission and approved to proceed with quoting
+
+**Information Still Needed:**
+- Estimated annual mileage per vehicle (approximate figure required)
+- Vehicle type confirmation: Is vehicle a standard sedan? (Yes/No answer required)
+
+## Contact Information
+
+**From Carrier:**
+- Name: Lloyd Mattson
+- Title: RPS Underwriting
+- Email: lloyd.mattson@rpsins.com
+- Company: RPS Insurance (RPS Ins)
+
+**To (Harper's submissions):**
+- Email: submissions@harperinsure.com
 
 ## Conversation Context
 
-### Main Topic
-- Initial submission review for GL coverage quote for Elm Street Transit LLC
+**Purpose:** Carrier follow-up on GL coverage submission with clarifying questions needed to move forward with quote
 
-### Key Questions Outstanding
-The underwriter requires clarification on the following before proceeding with formal quote:
-1. **Estimated annual mileage per vehicle** (approximate amount needed)
-2. **Vehicle type confirmation** - Is vehicle a standard sedan? (Yes/No answer required)
+**Key Points:**
+- Carrier has completed initial review of submission
+- Ready to proceed with GL coverage quote
+- Waiting for client clarifications before full quote can be generated
 
-### Action Items for Harper
-- [ ] Contact Elm Street Transit LLC (insured) to obtain answers to both clarifying questions
-- [ ] Request estimated annual mileage per vehicle
-- [ ] Confirm vehicle type (standard sedan or other)
-- [ ] Return answers to Lloyd Mattson at lloyd.mattson@rpsins.com
-- [ ] Reference quote number RPS-4821 in all follow-up communications
-
-### Action Items for Customer (Elm Street Transit LLC)
-- [ ] Provide estimated annual mileage per vehicle
+**Action Items for Harper:**
+- [ ] Contact Elm Street Transit LLC insured
+- [ ] Obtain estimated annual mileage per vehicle
 - [ ] Confirm whether vehicle is a standard sedan
+- [ ] Provide clarifications back to Lloyd Mattson at RPS Insurance
 
-### Tone/Sentiment
-- **Tone:** Professional, cooperative, positive
-- **Sentiment:** Willing to proceed - underwriter indicates they can move forward once clarifications are received
+**Action Items for Client (Elm Street Transit LLC):**
+- Provide estimated annual mileage per vehicle
+- Confirm vehicle type (standard sedan or other)
 
-### Next Steps
-- Obtain missing information from insured
-- Submit answers to RPS underwriting
-- Await formal quote once clarifications are confirmed
+**Tone/Sentiment:** Professional, cooperative, routine follow-up
+
+**Next Steps:** Awaiting client information to provide complete quote

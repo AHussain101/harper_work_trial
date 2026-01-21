@@ -4,68 +4,72 @@
 **Duration:** 11m 22s
 **Direction:** Incoming
 
-# Insurance Call Summary – Lakeview Junction Bar & Grill
+# Call Summary: Lakeview Junction Bar & Grill - Workers' Comp & Liability Quote
 
 ## Business Details
 
 **Company Information**
-- **Business Name:** Lakeview Junction Bar & Grill
-- **Industry:** Food & Beverage / Bar & Restaurant
-- **Location:** Indiana
-- **Years in Operation:** 3 years under current ownership (location established longer)
-- **EIN:** Ending in 5416
-
-**Ownership Structure**
-- **Owners:** Marcus Lee and Sara Lee
-- **Ownership Split:** 50/50
-- **Owner Coverage:** Owners to be **excluded** from workers' compensation coverage
+- Business Name: Lakeview Junction Bar & Grill
+- Location: Indiana
+- Industry: Food & Beverage / Bar & Restaurant
+- Business Type: Bar/Restaurant with entertainment
+- Years in Operation: 3 years under current ownership (location has longer history)
 
 **Staffing & Payroll**
-- **Number of Employees:** 2 tipped employees
-- **Total Annual Payroll:** Approximately $15,000
+- Total Employees: 2 tipped employees
+- Total Annual Payroll: ~$15,000
+- Owners: Marcus Lee and Sara Lee (50/50 ownership)
+- **Owner Coverage Decision: Owners to be EXCLUDED from workers' comp**
 
-**Coverage Needs Discussed**
-- Workers' Compensation (primary focus)
+**Coverage Needs Identified**
 - General Liability (GL)
 - Liquor Liability
-- **Requested Limits:** $2M aggregate for GL and liquor liability
+- Workers' Compensation
 
-**Business Operations Details**
-- **Alcohol Service:** Beer, wine, and spirits
-- **Entertainment:** Karaoke occasionally; local bands sometimes
-- **Compliance Measures:** Three-way liquor license; basic ID checks; security cameras
-- **Claims History:** No prior claims
+**Preferred Coverage Limits**
+- GL & Liquor Liability: $2M aggregate
+
+**Operations Details**
+- Alcohol Service: Beer, wine, and spirits
+- Entertainment: Karaoke (occasionally) and local bands (sometimes)
+- Liquor License: Three-way license
+- Safety Measures: Basic ID checks and cameras in place
+- Claims History: **No prior claims**
+
+**Business Identifier**
+- EIN: Ends in 5416
 
 ---
 
 ## Personal Details
 
 **Primary Contact**
-- **Name:** Marcus Lee
-- **Title:** Owner
-- **Phone:** Not provided
-- **Email:** Not provided
-- **Preferred Contact Method:** Text follow-up mentioned for scheduling
+- Name: Marcus Lee
+- Role/Title: Owner
+- Location: Indiana
+- Co-owner: Sara Lee
 
-**Secondary Contact (Broker)**
-- **Name:** Brandy
-- **Role:** Partner agency representative
-- **Function:** Facilitated call transfer to Harper
+**Secondary Contact (Partner Agency)**
+- Name: Brandy
+- Role: From partner agency (acted as intermediary/facilitator on call)
 
-**Harper Agent**
-- **Name:** Mia
-- **Communication Style:** Professional, efficient, systematic in gathering information
+**Contact Method**
+- Preferred follow-up: Email for quotes + text message to schedule call
+
+**Personality/Communication Notes**
+- Professional and cooperative
+- Responsive and prompt with information
+- No concerns or hesitations expressed
+- Expressed satisfaction with service ("Perfect. Thanks for your help.")
 
 ---
 
 ## Conversation Context
 
 **Call Purpose**
-- Initial workers' compensation and general business insurance consultation for new client
-- Gather underwriting information and provide preliminary quote expectations
+- Incoming call from partner agency facilitating new business quote for workers' comp and liability coverage
+- Initial consultation to gather underwriting information and provide preliminary quote
 
-**Key Information Exchanged**
-1. Confirmed business structure (50/50 partnership, 3-year tenure)
-2. Clarified owner exclusion from comp coverage
-3. Documented staffing levels and payroll
-4. Detaile
+**Main Topic**
+- Establishing workers' comp coverage for bar/restaurant
+-

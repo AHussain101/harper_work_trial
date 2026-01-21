@@ -6,45 +6,37 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Documents Provided:**
+- **Documents Provided:** 
   - Draft staffing plan (uploaded)
   - Floor plan (uploaded)
+- **Coverage Type:** Appears to be related to premises/location (floor plan suggests property or commercial general liability consideration)
 
 ## Personal Details
-- **Contact:** Unknown/Not identified in message
-- **Communication Method:** SMS text message
-- **Preferred Contact Method:** Appears to prefer digital/document upload methods
+- **Contact:** Unknown - not identified in message
+- **Communication Method:** SMS
+- **Preferred Contact Method:** Appears responsive via text/upload platform
 
 ## Conversation Context
+- **Main Topic/Purpose:** Customer has completed requested documentation and notified Harper of upload
+- **Status:** Response/confirmation message
+- **Documents Delivered:** 
+  - Staffing plan (draft status)
+  - Floor plan
+- **Action Items for Harper:**
+  - Review uploaded staffing plan
+  - Review uploaded floor plan
+  - Assess information for coverage needs/underwriting
+  - Follow up with next steps based on document review
+- **Action Items for Customer:**
+  - None explicitly stated - documents already submitted
+- **Tone/Sentiment:** Professional, cooperative, straightforward
+- **Next Steps:** Pending - Harper should review documents and determine follow-up communication
 
-### Main Topic/Purpose
-- Customer confirming completion of requested document submissions
-
-### Key Actions Completed
-- ✅ Draft staffing plan uploaded
-- ✅ Floor plan uploaded
-
-### Action Items for Harper
-- [ ] Review uploaded staffing plan document
-- [ ] Review uploaded floor plan document
-- [ ] Use documents to assess coverage needs and determine appropriate policy recommendations
-- [ ] Follow up with customer regarding next steps (if not already scheduled)
-
-### Action Items for Customer
-- None currently outstanding
-
-### Follow-up Timeline
-- **Status:** Awaiting Harper's review and response
-- **Next Steps:** Unclear - may depend on Harper's review findings or existing conversation context
-
-### Tone/Sentiment
-- **Tone:** Professional, brief, courteous
-- **Sentiment:** Cooperative/positive - customer completed requested tasks promptly
+## Missing Information
+- Customer name/contact identification
+- Specific business type or industry
+- What these documents are needed for (new quote, renewal, claim, underwriting review)
+- Timeline expectations
 
 ---
-
-## ⚠️ Note for Harper
-This appears to be a **continuation of an ongoing conversation**. The customer references previously requested documents, suggesting context exists in prior communications. Recommend reviewing:
-- Previous SMS/email threads with this customer
-- What specific coverage needs these documents relate to
-- Timeline for next review meeting or quote delivery
+**Note:** Limited context in this single message. Review previous communication history with this contact for fuller picture of their needs and your discussions.

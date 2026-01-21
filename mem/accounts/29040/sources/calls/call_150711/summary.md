@@ -4,72 +4,59 @@
 **Duration:** 1m 6s
 **Direction:** Outgoing
 
-# Call Summary - Marcus
-
-## Call Details
-- **Direction:** Outgoing call from Harper
-- **Date:** December 4, 2025
-- **Time:** 11:28 PM
-- **Duration:** 1 minute 6 seconds
-- **Status:** Completed
-
----
-
-## Contact Information
-- **Client Name:** Marcus
-- **Contact Method:** Phone
-- **Preferred Follow-up:** Call back (client will initiate)
-
----
+# Call Summary - Marcus Quote Review
 
 ## Business Details
-- **Total Proposal Amount:** ~$9,400
-- **Quote Status:** Emailed to client
-- **Documents Provided:** Quote (via email)
+- **Coverage Type:** Commercial insurance proposal
+- **Total Proposal Amount:** Approximately $9,400
+- **Status:** Quote delivered via email, pending review and binding decision
 
----
+## Personal Details
+- **Contact Name:** Marcus
+- **Call Direction:** Outgoing (Harper initiated)
+- **Preferred Next Contact Method:** Phone call (client to call back)
 
-## Conversation Summary
-### Purpose
-Confirmation call to verify quote delivery and address any immediate questions from the client.
+## Conversation Context
 
-### Key Discussion Points
-- Confirmed quote was received/emailed to Marcus
-- Total proposal amount: approximately $9,400
-- Discussed willingness to answer any immediate questions
+### Call Purpose
+- Confirm delivery of insurance quote to client
+- Answer any immediate questions about the proposal
+- Brief preliminary discussion before formal review
 
-### Tone/Sentiment
-- Professional, routine check-in call
-- No urgency indicated
-- Client receptive to next steps
+### Key Details Discussed
+- Quote total: ~$9,400
+- Quote delivery method: Email
 
----
+### Decisions Made
+- None finalized at this time
+
+### Pending Decisions
+- Whether to proceed with binding coverage
+- Payment options selection (to be discussed upon client callback)
 
 ## Action Items
 
-### For Harper
-- ⏳ **Awaiting client callback** - Marcus will call back the next day (December 5, 2025)
-- 📋 **Be prepared to discuss:**
-  - Payment options/terms
-  - Policy binding process
-  - Any questions Marcus may have after reviewing the quote
+### Harper's Responsibilities
+- Quote has been emailed to Marcus
+- Awaiting client callback for follow-up discussion
 
-### For Marcus (Client)
-- ✅ Review emailed quote
-- ✅ Call Harper back the next day to:
-  - Discuss payment options
-  - Bind the policy (if ready to proceed)
+### Client's Responsibilities (Marcus)
+- Review the emailed quote
+- Call back (next day) to discuss:
+  - Any questions about the proposal
+  - Payment options
+  - Coverage binding (if ready to proceed)
+
+## Follow-up Timeline
+- **Expected Callback:** Next day (approximately 2025-12-05)
+- **Purpose of Follow-up Call:** Payment options discussion and potential policy binding
+
+## Call Tone
+- Professional and efficient
+- Routine quote confirmation call
+- Client appears cooperative and engaged
 
 ---
 
-## Next Steps & Timeline
-- **Expected Callback:** December 5, 2025 (next day)
-- **Expected Discussion Topics:** Payment options, policy binding, quote clarification
-- **No immediate decisions required** - client taking time to review before proceeding
-
----
-
-## Notes
-- Quick, efficient call (just over 1 minute)
-- Client appears engaged and willing to move forward
-- No red flags or concerns noted
+**Call Duration:** 1 minute 6 seconds  
+**Call Date/Time:** December 4, 2025 at 11:28 PM (UTC)

@@ -3,55 +3,62 @@
 **Date:** 2025-12-04T23:05:12.000000+00:00
 **Direction:** Outgoing
 
-# Insurance Inquiry Summary
+# SMS Summary for Harper Insurance
 
-## Business Details
-- **Information Status**: Not yet provided
-- **Note**: Awaiting application details from client
+## Message Overview
+- **Direction:** Outgoing (Harper → Customer)
+- **Date & Time:** December 4, 2025 at 11:05 PM
+- **Sender:** Jordan (at Harper Insurance)
+- **Recipient:** Emily
 
-## Personal Details
-- **Contact Name**: Emily
-- **Company Representative**: Jordan (from Harper Insurance)
-- **Communication Method**: SMS
-- **Contact Status**: Active communication established
+---
+
+## Contact Information
+- **Customer Name:** Emily
+- **Harper Representative:** Jordan
+- **Contact Method:** SMS
+
+---
 
 ## Conversation Context
 
 ### Main Topic
-- Initial application submission follow-up for insurance coverage
+- Acknowledgment of Emily's insurance application submission
+- Status update on application processing
 
 ### Key Points
 - Emily has submitted an application
-- Harper Insurance has received the application
-- Awaiting carrier responses/quotes
+- Application is currently under review
+- Waiting for initial responses from insurance carriers
 
-### Decisions Made
-- None documented yet
-
-### Pending Items
-- Carrier responses/initial quotes
-- Application review and processing
+### Current Status
+- Application received and acknowledged
+- In progress with carriers
 
 ### Action Items for Harper
-- Monitor and collect responses from insurance carriers
-- Contact Emily once carrier responses are received
-- Follow up with Emily regarding quote options and next steps
+- Monitor for carrier responses
+- Contact Emily once initial responses are received from carriers
 
 ### Action Items for Customer (Emily)
-- Await contact from Harper Insurance
-- No immediate action required at this time
+- Await contact from Harper/Jordan regarding carrier responses
 
-### Follow-up Timeline
-- **Next Contact**: Upon receipt of initial carrier responses
-- **Timeframe**: Not specified (standard processing period)
-
-### Tone/Sentiment
-- **Overall**: Professional, courteous, reassuring
-- **Customer Likely Sentiment**: Neutral/positive (acknowledged and set expectations)
+### Next Steps & Follow-up
+- Harper will reach out to Emily once carrier responses are received
+- Timeline for carrier responses not specified
+- No specific follow-up date mentioned
 
 ---
 
-## Notes for Harper
-- **First interaction documented**: This appears to be an initial acknowledgment message
-- **Missing Information**: Awaiting application details to understand coverage type, business details, and specific insurance needs
-- **Next Priority**: Obtain carrier responses and contact Emily with options
+## Tone & Sentiment
+- Professional and courteous
+- Positive/neutral tone
+- Reassuring ("we'll be in touch")
+
+---
+
+## Missing Information to Follow Up On
+- Type of insurance coverage needed
+- Business details (if business insurance)
+- Premium amounts or quotes
+- Policy effective date
+- Specific carrier preferences or recommendations

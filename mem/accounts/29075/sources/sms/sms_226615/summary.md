@@ -3,37 +3,48 @@
 **Date:** 2025-12-04T21:11:45.588000+00:00
 **Direction:** Outgoing
 
-# SMS Summary
+# SMS Summary - Policy Updates Contact Line
 
-## Message Overview
-- **Direction:** Outgoing (Harper → Customer)
-- **Date & Time:** December 4, 2025 at 9:11 PM
-- **Type:** Administrative notification/instruction
+## Business Details
+- **Coverage Type**: General insurance policies (unspecified types)
+- **Quote/Update Method**: Will be delivered via SMS from this number
 
-## Key Content
-- Harper is establishing this SMS number as the **primary contact line** for all future communications
-- Customer is instructed to **save this number** for reference
+## Personal Details
+- **Contact Method**: SMS/Text message
+- **Communication Preference**: Single designated phone line for all communications
 
-## Communication Details
-- **Purpose:** To clarify communication channels and set expectations
-- **Channel:** SMS/Text message
-- **Tone:** Professional, informative, helpful
+## Conversation Context
 
-## Action Items
-### For Customer:
-- Save Harper's phone number in contacts for easy reference
-- Use this number as the point of contact for all policy-related matters
+### Main Topic
+- Establishing a dedicated contact number for ongoing policy communications
 
-### For Harper:
-- Send all policy updates from this number going forward
-- Send all quotes from this number going forward
-- Maintain this as the single point of contact to avoid customer confusion
+### Key Message
+- Harper is providing the customer with a single phone number to use for all future policy-related communications
+- This number will be the exclusive source for:
+  - Policy updates
+  - Quote information
+  - Insurance-related communications
 
-## Follow-Up & Next Steps
-- No immediate follow-up required
-- This establishes the communication protocol for future interactions
-- Sets expectation that all policy updates and quotes will originate from this specific number
+### Purpose
+- **Clarity**: Eliminate confusion from multiple contact points
+- **Convenience**: Streamline communication for the customer
+- **Organization**: Create a single reference point for all policy matters
+
+### Action Items
+
+#### For Customer
+- Save this phone number for future reference
+- Use this number as the primary contact for all policy and quote inquiries
+
+#### For Harper
+- Monitor this number for incoming customer communications
+- Ensure all policy updates and quotes are sent from this designated line
+- Maintain consistency in communications from this contact point
+
+### Tone/Sentiment
+- Professional, helpful, and organizational
+- Customer-focused (designed for ease and clarity)
 
 ---
 
-**Note:** This appears to be a standalone administrative message. No specific customer name, business details, policy information, or documents were mentioned in this SMS.
+**Note**: No specific business details, premium amounts, policy types, renewal dates, or customer contact information were provided in this message.

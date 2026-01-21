@@ -4,56 +4,52 @@
 **Duration:** 3m 5s
 **Direction:** Incoming
 
-# Call Summary - Boardman Diner & Café
+# Call Summary - Wei | Boardman Diner & Café
 
 ## Business Details
 - **Company Name:** Boardman Diner & Café
 - **Business Type:** Food Service/Restaurant
-- **Industry:** Food & Beverage
-- **Current Coverage Need:** General Liability policy with rented premises coverage
-- **Property Status:** Leases building (not owner-occupied)
-- **Policy Details Discussed:**
-  - General Liability coverage for rented premises
+- **Industry:** Food & Beverage/Hospitality
+- **Operational Detail:** Operates on leased premises
+- **Coverage Discussed:**
+  - General Liability policy with potential rented premises coverage
   - Certificate of Insurance (COI) for landlord
-  - Coverage limits to be confirmed in quote
+- **Policy Details:** Limits to be confirmed in quote
+- **Documents Needed:**
+  - Lease copy
+  - Landlord contact information
 
 ## Personal Details
 - **Contact Name:** Wei
-- **Title/Role:** Owner
-- **Contact Method:** Incoming phone call
-- **Personality Notes:** Direct, professional, organized; proactively agreed to provide required documentation
+- **Role/Title:** Owner
+- **Contact Method:** Phone (incoming call)
+- **Preferred Communication:** Email (for follow-up with template and documents list)
+- **Personality Notes:** Professional, straightforward communicator; proactive in following up on action items
 
 ## Conversation Context
-- **Call Purpose:** Clarify whether General Liability policy covers incidents on rented/leased building premises; request COI for landlord
-- **Main Questions Asked:**
-  - Will the GL policy cover incidents related to the leased building?
+- **Call Purpose:** Clarification on General Liability coverage for rented premises and COI requirements
+- **Main Questions:**
+  - Will the general liability policy cover incidents related to the leased building?
   - Can Harper provide a Certificate of Insurance for the landlord?
+  
 - **Key Answers Provided:**
-  - GL policies can include rented premises coverage
-  - Coverage limits will be confirmed in the quote
-  - COI can be issued for landlord
+  - General Liability can include rented premises coverage (limits to be confirmed in quote)
+  - Harper can issue a COI for the landlord
+  
+- **Decisions Made:** Proceeding with General Liability quote and COI issuance pending receipt of lease and landlord contact
 
-## Action Items
-
-### For Harper:
+## Action Items for Harper
 - [ ] Confirm rented premises liability coverage limits in quote
-- [ ] Email COI template to Wei
-- [ ] Request/obtain copy of lease agreement from Wei
-- [ ] Request landlord contact information from Wei
-- [ ] Issue Certificate of Insurance once received
-- [ ] Note in file: Owner specifically requested clarification on rented premises liability coverage
+- [ ] Provide COI template via email
+- [ ] Generate Certificate of Insurance for landlord (pending Wei's submission of documents)
 - [ ] Send follow-up email with required documents list
+- [ ] Add note to file: "Owner requested clarification on rented premises liability coverage"
 
-### For Wei (Customer):
-- [ ] Upload copy of lease agreement
+## Action Items for Wei (Customer)
+- [ ] Upload lease copy
 - [ ] Provide landlord contact information
 - [ ] Request COI template from Harper
 
-## Call Details
-- **Date/Time:** December 5, 2025 at 12:10 AM UTC
-- **Duration:** 3 minutes 5 seconds
-- **Call Type:** Incoming
-- **Tone/Sentiment:** Professional, cooperative, no urgency indicated
-
 ## Follow-Up Timeline
--
+- **Next Steps:** Awaiting lease and landlord contact from Wei
+- **Tone/Sentiment:**

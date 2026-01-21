@@ -10,63 +10,71 @@
 
 ## Business Details
 
-**Applicant Company:**
-- Company Name: Sentinel Patrol Services
-- Industry: Security/Patrol Services
-- Business Type: Patrol services provider
+### Applicant Company
+- **Company Name:** Sentinel Patrol Services
+- **Industry:** Security/Patrol Services
+- **Type of Business:** Patrol services
 
-**Quote Information:**
-- Carrier: United States Liability Insurance Company (USLI)
-- Quote Number: MCP025X9149
-- Quote Portal Access: https://carrier-portal.example/quote/MCP025X9149
-- Quote Date: December 5, 2025
-
-**Coverage/Policy Details:**
-- Not specified in email
-- Quote documents attached (specific coverage types, limits, deductibles, and premiums referenced but not detailed in message body)
-
-**Documentation:**
-- Carrier quote documents attached to email
-- Accessible via quote portal link
+### Insurance Quote Information
+- **Carrier:** United States Liability Insurance Company (USLI)
+- **Quote Number:** MCP025X9149
+- **Quote Portal Link:** https://carrier-portal.example/quote/MCP025X9149
+- **Coverage Needs:** Not specified in email
+- **Policy Types Discussed:** Not specified in email
+- **Premium Amounts:** Not specified in email
+- **Deductibles:** Not specified in email
+- **Coverage Limits:** Not specified in email
+- **Claims History/Loss Runs:** Not provided in email
+- **Effective/Renewal Dates:** Not specified in email
 
 ---
 
-## Personal/Contact Details
+## Personal Details
 
-**Carrier Representative:**
-- Name: Lauren Smith
-- Title: USLI Representative
-- Email: lauren.smith@usli.com
-- Company: United States Liability Insurance Company (USLI)
+### Carrier Contact
+- **Name:** Lauren Smith
+- **Title:** USLI Representative
+- **Email:** lauren.smith@usli.com
+- **Phone:** Not provided
+- **Communication Method:** Email
 
-**Client Contact:**
-- No direct client contact information provided in this email
-- Communication routed through Harper's submissions email
+### Customer Contact
+- **Name:** Not provided in email
+- **Title/Role:** Not provided in email
+- **Phone:** Not provided
+- **Email:** Not provided
+- **Preferred Contact Method:** Not specified
 
 ---
 
 ## Conversation Context
 
-**Purpose:**
-- Carrier delivery of insurance quote for Sentinel Patrol Services
+### Purpose
+- Carrier notification of quote availability for Sentinel Patrol Services
 
-**Key Information:**
-- Quote has been generated and is ready for review
-- Carrier is responsive to questions via email reply
+### Key Details
+- Quote documents are attached to the email (not visible in content provided)
+- Portal access available for quote review and management
 
-**Action Items for Harper:**
-- Review attached quote documents
-- Access quote portal to view full details (MCP025X9149)
-- Present quote to Sentinel Patrol Services client
-- Contact Lauren Smith at USLI if clarifications needed
+### Action Items for Harper
+- **Review attached quote documents** from USLI
+- **Access quote portal** using provided link (MCP025X9149)
+- **Share quote details with Sentinel Patrol Services** (customer)
+- **Follow up with Lauren Smith** if questions arise about coverage, terms, or pricing
 
-**Action Items for Customer:**
-- Pending (not yet communicated)
+### Action Items for Customer
+- Review quote documents once Harper presents them
+- Provide feedback or approval status
 
-**Tone/Sentiment:**
-- Professional, formal, routine quote notification
-- Cooperative and solution-oriented
+### Follow-up Timeline
+- No specific deadline mentioned
+- Response suggested if questions arise
 
-**Next Steps:**
-- Harper should review and present quote to client
-- Follow-up timeline not specified; likely dependent on client review timeline
+### Tone/Sentiment
+- **Professional and courteous**
+- **Neutral/Standard** carrier notification tone
+- Open to questions (invitation to reply)
+
+---
+
+## Notes for

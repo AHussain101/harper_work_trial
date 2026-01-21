@@ -6,53 +6,62 @@
 **From:** alex.park@northstarbrokers.com
 **To:** owner@northstartow.com
 
-# Email Summary: North Star Towing Application Received
+# Email Summary: North Star Towing Application Intake
 
 ## Business Details
-- **Company Name:** North Star Towing & Recovery
-- **Industry:** Towing & Recovery Services
-- **Coverage Type:** Auto Liability
-- **Application Status:** Initial application received; intake stage in progress
-- **Portal Reference:** NS-4821
+
+**Company Information**
+- Company name: North Star Towing & Recovery
+- Industry: Towing/Recovery services
+- Coverage type: Auto liability (at minimum)
+
+**Policy & Documents**
+- Policy type: Auto liability
+- Status: Application submitted, intake phase in progress
+- Documents requested:
+  - Vehicle roster (VINs and model years) - **REQUIRED**
+  - Copy of current auto liability declarations - **REQUIRED** (if available)
+- Upload portal: https://portal.example-insure.com/uploads/NS-4821
 
 ## Personal Details
-- **Contact Name:** Alex Park
-- **Title:** Account Executive
-- **Company:** North Star Brokerage
-- **Email:** alex.park@northstarbrokers.com
-- **Customer Email:** owner@northstartow.com
+
+**Contact Information**
+- Contact name: Alex Park
+- Title: Account Executive
+- Company: North Star Brokerage
+- Email: alex.park@northstarbrokers.com
+- Preferred contact method: Email (with option for attachment replies)
+
+**Client Contact**
+- Email: owner@northstartow.com
+- No phone number provided in this email
 
 ## Conversation Context
 
-### Main Purpose
-Acknowledgment of received application and request for additional documentation to complete intake process
+**Main Topic**
+- Application acknowledgment and intake completion request for North Star Towing & Recovery
 
-### Key Information Requested
-- **Vehicle Roster** (required)
-  - VINs for all vehicles
-  - Model years for all vehicles
-- **Current Auto Liability Declarations** (if available)
+**Current Status**
+- Initial application received ✓
+- Initial details submitted ✓
+- Intake process: **Pending documentation**
 
-### Documents & Upload Instructions
-- Secure upload portal available: https://portal.example-insure.com/uploads/NS-4821
-- Alternative: Email attachments directly to Alex Park
+**Action Items for Customer (North Star Towing)**
+- [ ] Upload vehicle roster with VINs and model years
+- [ ] Upload copy of current auto liability declarations (if available)
+- [ ] Use secure portal link or reply to email with attachments
 
-### Next Steps/Timeline
-1. **Customer Action Items:**
-   - Upload vehicle roster with VINs and model years
-   - Provide copy of current auto liability declarations (if available)
-   - Submit any questions to Alex
+**Action Items for Harper**
+- [ ] Receive vehicle roster from client
+- [ ] Receive auto liability declarations from client
+- [ ] Review submitted documents
+- [ ] Begin carrier submissions once vehicle list is received
 
-2. **Harper/Broker Action Items:**
-   - Review submitted documents once received
-   - Begin carrier submissions after vehicle list is obtained
+**Next Steps**
+- Carrier submission will commence after vehicle roster is provided
+- Timeline: Not specified - assume standard processing once docs received
 
-### Tone & Sentiment
-- Professional and courteous
-- Straightforward and efficient
-- Non-urgent but time-dependent (waiting on customer response)
-
-### Notes
-- No premium amounts, deductibles, or limits mentioned yet
-- No renewal date or effective date specified
-- No carriers or quotes mentioned at this stage
+**Tone/Sentiment**
+- Professional, helpful, straightforward
+- No urgency indicated, but clear expectations set
+- Positive (application accepted, process moving forward)

@@ -4,56 +4,54 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary: Terry - E&O Quote Follow-Up
+# Call Summary: E&O Quote Follow-up
 
 ## Business Details
-- **Coverage Type**: Errors & Omissions (E&O) insurance
+- **Coverage Type**: Errors & Omissions (E&O)
 - **Quote Status**: Preliminary E&O quote emailed to client
-- **Key Issues Discussed**:
-  - Retroactive date options (clarification needed)
+- **Key Discussion Points**:
+  - Carrier selection confirmation
+  - Retroactive date options (client requested clarification)
   - Government contract wording requirements
 
 ## Personal Details
-- **Contact Name**: Terry
-- **Contact Role/Title**: Not specified
-- **Communication Method**: Email preferred (for follow-up documentation)
-- **Personality Notes**: 
-  - Engaged and detail-oriented (asked specific clarification questions)
-  - Proactive in requesting contract language guidance
+- **Client Name**: Terry
+- **Harper Insurance Agent**: Jordan
+- **Contact Method**: Email (primary for follow-up)
 
 ## Conversation Context
 
-### Main Topic
-Confirmation of carrier selection and delivery of preliminary E&O quote
+### Purpose of Call
+- Confirm carrier selection with client
+- Advise client that preliminary E&O quote had been sent
+- Address client questions about policy terms
 
-### Key Discussion Points
-- Client confirmed receipt of emailed E&O quote ✓
-- Client requested clarification on retroactive date options
-- Client needs guidance on government contract wording/language
+### Key Questions/Topics
+- **Retroactive Date Options**: Client requested clarification on available options
+- **Government Contract Wording**: Client needed guidance on contract language requirements
 
 ### Decisions Made
 - Carrier selection confirmed by client
 
 ### Action Items
 
-**For Harper (Jordan)**:
-- [ ] Send follow-up email with suggested contract language notes
-- [ ] Provide clarification on retroactive date options
-- [ ] Include government contract wording guidance
+**For Harper/Jordan:**
+- [ ] Send follow-up email to Terry with:
+  - Suggested contract language notes
+  - Clarification on retroactive date options
+- [ ] Timeline: Not specified - should confirm urgency with client
 
-**For Client (Terry)**:
-- [ ] Review follow-up email with contract language suggestions
-- [ ] Review retroactive date options
-- [ ] Confirm government contract requirements/wording preferences
+**For Client (Terry):**
+- [ ] Review suggested contract language notes (pending receipt)
+- [ ] Review retroactive date options clarification (pending receipt)
 
-### Timeline
-- **Call Date**: December 5, 2025
-- **Call Duration**: 1 minute 35 seconds
-- **Next Steps**: Follow-up email to be sent (timeline not specified - recommend within 24 hours)
-
-### Tone/Sentiment
-Professional and collaborative - client engaged with specific questions, no frustration detected
+## Call Details
+- **Direction**: Outbound (Harper calling client)
+- **Duration**: 1 minute 35 seconds
+- **Date/Time**: December 5, 2025 at 4:10 PM UTC
+- **Completion Time**: 4:11:35 PM UTC
+- **Tone/Sentiment**: Professional, collaborative (client engaged with specific questions)
 
 ---
 
-**Note**: Business type/industry and specific company name not mentioned in call summary. Request additional details if needed for complete file.
+**Note**: No renewal date, effective date, premium amounts, deductibles, limits, or claims history were mentioned in this call.

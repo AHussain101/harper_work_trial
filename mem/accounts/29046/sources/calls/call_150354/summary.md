@@ -6,57 +6,55 @@
 
 # Call Summary for Harper
 
-## Call Details
-- **Direction:** Outgoing
-- **Duration:** 8 seconds
-- **Date/Time:** December 4, 2025 at 7:30 PM
-- **Status:** Voicemail left (no live conversation)
-
 ## Business Details
 - **Company Name:** Harborview Recovery Center
-- **Industry:** Healthcare/Recovery Services
-- **Coverage Needs:** Unknown (not discussed)
-- **Policy Information:** Not discussed
+- **Business Type:** Recovery/Treatment Center
+- **Industry:** Healthcare/Substance Abuse Treatment
+- **Coverage Needs:** Unknown (not discussed - voicemail only)
+- **Policy Types:** To be determined
+- **Premium/Deductibles/Limits:** Not discussed
+- **Claims History:** Not available
+- **Renewal/Effective Dates:** Not discussed
+- **Carrier Information:** Not discussed
+- **Documents:** Not provided
 
 ## Personal Details
 - **Contact Name:** Unknown
-- **Contact Phone:** Not provided in transcript
-- **Contact Method:** Voicemail callback
+- **Contact Title/Role:** Unknown
+- **Phone Number:** Not captured in transcript
+- **Email:** Not provided
+- **Preferred Contact Method:** Return call (left voicemail)
+- **Additional Information:** No personal details shared
 
 ## Conversation Context
 
-### Main Purpose
-- Initial outreach to Harborview Recovery Center via voicemail
+### Call Purpose
+- **Objective:** Initial outreach to Harborview Recovery Center to discuss insurance coverage/quote
+- **Call Type:** Outgoing voicemail
 
 ### What Happened
-- Call connected to automated greeting system
-- Harper left a voicemail message including:
-  - Name (stated but not captured in transcript)
-  - Phone number (stated but not captured in transcript)
-  - Reason for inquiry (stated but not captured in transcript)
+- Harper left a voicemail message on an automated greeting system
+- Provided name, phone number, and reason for inquiry (specifics not captured in transcript)
+- Requested callback from Harborview Recovery Center representative
 
-### Key Information Missing
-- Harper's specific contact details (not transcribed)
-- The exact reason for the insurance inquiry
-- Any coverage type or policy information requested
-- Whether this is a new prospect or renewal situation
+### Key Decisions & Next Steps
+- **Pending:** Awaiting callback from Harborview Recovery Center
+- **Harper's Action Items:**
+  - Prepare for callback discussion
+  - Have coverage options and quotes ready for recovery centers
+  - Research Harborview Recovery Center (size, current coverage, needs)
 
-## Action Items
+- **Customer Action Items:**
+  - Return Harper's call at provided number
 
-### For Harper
-- Wait for callback from Harborview Recovery Center
-- Have company information ready for discussion when they call back
-- Prepare relevant insurance quotes/options based on the stated reason for inquiry
+### Timeline
+- **Call Date/Time:** December 4, 2025 at 7:30 PM
+- **Duration:** 8 seconds
+- **Expected Follow-up:** Pending customer callback
 
-### For Harborview Recovery Center
-- Return voicemail call to Harper
-
-## Follow-Up Timeline
-- Pending callback from prospect
-
-## Tone/Sentiment
-- Professional, routine initial outreach
+### Tone/Sentiment
+- **Status:** Neutral - Initial outreach, no conversation yet
 
 ---
 
-**⚠️ Note:** Full voicemail details were not transcribed. Refer to call recording for Harper's name, phone number, and specific reason for the inquiry.
+**Note:** This was a voicemail-only interaction. Full details regarding coverage needs, current policies, and business information remain unknown pending callback response.

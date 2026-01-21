@@ -11,38 +11,36 @@
   - Payroll documentation
   - Subcontractor agreement
 - **Quote Status:** Preliminary quotes in process; expected delivery later today or tomorrow
-- **Delivery Method Preference:** Email first (no phone call preference indicated)
+- **Delivery Method:** Email (customer preference)
 
 ## Personal Details
 - **Contact Name:** Scott
-- **Communication Style:** Brief, professional, cooperative
+- **Contact Role/Title:** Not specified
 - **Preferred Contact Method:** Email (for quote delivery)
+- **Communication Style:** Responsive, cooperative, brief
 
 ## Conversation Context
-- **Call Purpose:** Quick follow-up to confirm document receipt and quote timeline
-- **Call Type:** Outgoing call from Harper
-- **Call Duration:** 1 minute 35 seconds
+- **Purpose:** Follow-up call to confirm document receipt and confirm timeline/delivery preferences for insurance quotes
 - **Date/Time:** December 5, 2025 at 2:30 PM UTC
-
-### Key Details Discussed
-- Documents uploaded by Scott this morning (payroll + subcontractor agreement)
-- Receipt of documents confirmed by Harper agent Luis
-- Quote timeline communicated to client
-
-### Decisions Made
-- Quotes will be delivered via email (first contact method)
-- No preliminary phone call scheduled before email
+- **Duration:** 1 minute 35 seconds
+- **Key Points Discussed:**
+  - Confirmed receipt of payroll and subcontractor agreement documents (uploaded by Scott this morning)
+  - Confirmed quote timeline: preliminary quotes expected later today or tomorrow
+  - Confirmed communication preference: email delivery of quotes
 
 ### Action Items for Harper
-- [ ] Send preliminary quotes via email once ready (expected today or tomorrow)
-- [ ] Reference Scott's preference for email-first communication on future updates
+- [ ] Prepare preliminary insurance quotes
+- [ ] Send quote email to Scott (not via phone call)
+- [ ] Expected delivery timeline: today or tomorrow (December 5-6, 2025)
 
 ### Action Items for Customer (Scott)
-- None identified; documents already submitted
-
-### Follow-Up Timeline
-- Preliminary quotes expected: Later today (Dec 5) or tomorrow (Dec 6), 2025
-- Delivery method: Email
+- [ ] Await quote email from Harper
 
 ### Tone/Sentiment
-- **Professional, positive, and efficient** – client cooperative and responsive; quick confirmation call with no complications
+- Positive and cooperative
+- Quick, efficient conversation
+- No concerns or issues raised
+
+---
+
+**Note:** Company name, business type, coverage types, premium amounts, and other specific policy details were not discussed on this call.

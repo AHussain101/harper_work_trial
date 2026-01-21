@@ -6,35 +6,38 @@
 # SMS Summary for Harper
 
 ## Message Type
-- **Direction:** Outgoing (from Harper/team to client)
+- **Direction:** Outgoing (from Harper/insurance broker to client)
 - **Date & Time:** December 4, 2025 at 7:06 PM
-- **Purpose:** Notification/Instruction message
+- **Purpose:** Establishing communication protocol
 
-## Key Message Content
-- Instruction to save the phone number for future communications
-- Establishes this number as the **primary contact point** for:
-  - All updates
+## Key Content
+- Client is being instructed to save the phone number used for this SMS
+- All future communications will originate from this number
+- Message emphasizes a single, consolidated communication channel
+
+## Communication Details
+- **Contact Method:** SMS/Text message
+- **Communication Style:** Professional, directive, clear
+- **Key Messaging:** Consolidation and clarity ("one clear line to our team")
+
+## Action Items
+### For Harper
+- Ensure this number is the primary contact point for all client communications going forward
+- Use this number consistently for:
+  - Updates
   - Questions
   - Quotes
-- Emphasizes single point of contact approach ("one clear line to our team")
 
-## Action Items for Customer
-- **Save this phone number** in their contacts for easy reference
+### For Client
+- Save this phone number in their contacts
+- Direct all inquiries to this number
+- Expect all business communications to come from this number
 
 ## Conversation Context
-- **Tone/Sentiment:** Professional, helpful, organizational
-- **Context:** This appears to be an initial outreach or new client onboarding message
-- **Purpose:** Setting expectations for communication flow and establishing a dedicated line
-
-## Important Notes
-- ⚠️ **No specific business details provided** (company name, coverage needs, premium amounts, etc.)
-- ⚠️ **No personal details provided** (contact name, other phone numbers, emails, etc.)
-- This is a foundational/administrative message rather than a substantive discussion about coverage
-
-## Next Steps
-- Awaiting client response or next communication
-- Likely follow-up will include business details, coverage needs, or quote requests
+- **Tone/Sentiment:** Professional, informational, helpful
+- **Status:** Transactional - establishing communication procedures
+- **Next Steps:** Client should save number and use it as primary contact method
 
 ---
 
-**Note to Harper:** This appears to be an initial message in a new communication thread. Expect more detailed business and personal information in subsequent messages.
+**Note:** This message contains no specific business details, personal information beyond contact method, coverage information, or policy details. It is purely a procedural message establishing communication protocols.

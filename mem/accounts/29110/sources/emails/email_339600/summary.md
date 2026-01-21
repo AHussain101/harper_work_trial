@@ -10,69 +10,62 @@
 
 ## Business Details
 
-**Company Information:**
+### Company Information
 - **Company Name:** Brightside Playthings LLC
-- **Business Type:** Manufacturer and Distributor
-- **Industry:** Children's toys (dolls and figure-type products)
-- **Primary Material:** ABS plastic
+- **Industry:** Toy Manufacturing & Distribution
+- **Business Type:** Small manufacturer and distributor of children's toys
+- **Product Focus:** Dolls and figure-type products made primarily of ABS plastic
 - **Years in Operation:** Not specified
-- **Revenue:** Approximately $1.5M annually
-- **Payroll:** Approximately $400k
-- **Full-time Employees:** 5
 
-**Operations:**
-- Import of products
-- Labeling
-- Storage and warehouse operations
-- Wholesale distribution
-- Direct retail sales (limited)
-- Third-party testing in place for ABS plastic components
+### Financial & Operational Details
+- **Estimated Annual Revenue:** ~$1.5M
+- **Annual Payroll:** ~$400k
+- **Full-Time Employees:** 5
+- **Primary Operations:**
+  - Import of ABS plastic parts
+  - Product labeling
+  - Storage and warehousing
+  - Wholesale distribution
+  - Some direct retail sales
 
-**Coverage Needs:**
-- **Coverage Types:** General Liability and Product Liability (consolidated program)
-- **Total Program Limit Requested:** Approximately $10.5M
-- **Geographic Scope:** Multinational coverage needed
-  - United States
+### Coverage Requirements
+- **Coverage Type Needed:** Consolidated General and Product Liability
+- **Requested Total Program Limit:** ~$10.5M
+- **Geographic Scope:** Multinational coverage requested across:
+  - USA
   - Australia
-  - United Kingdom/Europe
+  - UK/Europe
   - Taiwan
   - South Africa
-- **Current Status:** Client currently carries a similar multinational program; exploring consolidation and cost savings opportunities
+- **Current Situation:** Client currently carries similar multinational program; seeking consolidation and cost savings opportunities
 
-**Documents/Information Required (Subjectivities):**
-- Loss runs
-- Product testing reports
-- Recall plan
-- List of subsidiaries
-
----
+### Product & Risk Details
+- **Critical Component:** ABS plastic parts
+- **Risk Management:** Third-party testing in place for products
+- **Insurance Goal:** Explore consolidation options vs. current carrier
 
 ## Personal Details
 
-**Key Contact:**
-- **Name:** Neil Carter
-- **Role/Title:** Owner
-
----
+### Contact Information
+- **Owner/Principal:** Neil Carter
+- **Submission Source:** Harper Submissions (submissions@harperinsure.com)
+- **Recipient Carrier:** underwriter@example-carrier.com
 
 ## Conversation Context
 
-**Email Purpose:**
-- Insurance broker submission to underwriter requesting market availability and terms for a multinational General and Product Liability program
+### Purpose of Email
+- **Main Topic:** Formal insurance submission to market
+- **Action Type:** Requesting underwriting review and availability of multinational General and Product Liability program
 
-**Main Topic:**
-- Initial submission of Brightside Playthings LLC for consolidated insurance coverage with potential cost savings
+### Key Information Requested from Client
+- **Outstanding Subjectivities (likely required):**
+  - Loss runs (claims history)
+  - Product testing reports
+  - Recall plan/procedures
+  - List of subsidiaries
+  
+### Requested Underwriter Action
+- Advise on availability and terms for requested coverage
+- Review subjectivity items once provided
 
-**Key Information Requested from Carrier:**
-- Availability of coverage across all requested geographic markets
-- Terms and conditions for the program
-- Feasibility of consolidating current multinational coverage
-
-**Action Items for Carrier:**
-- Advise on availability and terms for requested multinational program
-- Review subjectivity requirements (loss runs, testing reports, recall plan, subsidiary list)
-
-**Tone/Sentiment:**
-- Professional and informative
-- Straightforward submission request
-- No urgency indicated, but seeking
+### Harper's

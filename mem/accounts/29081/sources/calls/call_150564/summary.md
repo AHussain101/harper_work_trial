@@ -4,71 +4,72 @@
 **Duration:** 12m 35s
 **Direction:** Incoming
 
-# Call Summary: Harrison Auto - Garage/General Liability Quote
+# Call Summary: Harrison Auto - Garage/General Liability Insurance
 
 ## Business Details
 
-**Company Information:**
-- **Business Name:** Harrison Auto
-- **Business Type:** Small used-car dealership
-- **Location:** Mississippi
-- **Industry:** Automotive retail/sales
+**Company Information**
+- Company Name: Harrison Auto
+- Business Type: Used-car dealership
+- Industry: Automotive retail
+- Location: Mississippi
+- Years in Operation: Not specified
+- Number of Employees: Not specified
 
-**Operations & Size:**
-- Annual sales: ~$30,000 (low tens of thousands)
-- Number of employees: Not specified
-- Years in operation: Not specified
-- Security setup: Open lot with vehicle keys stored securely
+**Coverage Details**
+- Coverage Types Needed: Garage liability and general liability
+- Preferred Deductible: $500 (liability)
+- Expected Dealer Plates: Approximately 2
+- Annual Sales Revenue: ~$30,000 (low tens of thousands)
 
-**Coverage Needs:**
-- **Policy Types:** Garage liability and general liability
-- **Deductible Preference:** $500 liability deductible
-- **Expected dealer plates:** ~2 plates
-- **Claims History:** No known recent claims
+**Licensing & Documentation**
+- Dealer License Status: **Currently expired** - requires renewal
+- Client Action: Will provide updated/renewed dealer license
 
-**Licensing & Documentation:**
-- Dealer license: **Currently expired** - client will provide updated license
-- Prior insurance carrier: Unknown (small regional broker suspected) - client will confirm and provide prior loss runs
-- Documents needed: Updated dealer license, prior carrier information, loss runs
+**Claims & Loss History**
+- Recent Claims: None known
+- Prior Carrier: Small regional broker (client to confirm details)
+- Client Action: Will check old records for prior carrier information and loss runs
 
-**Renewal/Effective Dates:**
-- Not specified in call
+**Facility Security**
+- Lot Type: Open lot
+- Vehicle Key Storage: Secure storage system in place
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Olivia
-- **Title:** Business owner
-- **Email:** owner@harrisonauto.com
-- **Phone:** Not mentioned
-- **Preferred Contact Method:** Email (based on quote destination)
+**Contact Information**
+- Name: Olivia
+- Title: Owner
+- Company Email: owner@harrisonauto.com
+- How Contact Was Made: Incoming call through intake partner
 
-**Personality/Communication Style:**
+**Communication Style/Preferences**
 - Responsive and cooperative
-- Organized (has clear preferences documented)
+- No particular communication barriers noted
 
 ## Conversation Context
 
-**Call Details:**
-- **Type:** Incoming call
-- **Source:** Through intake partner
-- **Duration:** 12 minutes 35 seconds
-- **Date/Time:** December 4, 2025 at 9:26 PM
+**Call Purpose**
+- New business inquiry for garage and general liability insurance coverage for small used-car dealership
 
-**Main Purpose:**
-- Initial inquiry and quote request for garage and general liability coverage for small used-car dealership
+**Key Discussion Points**
+- Discussed coverage requirements for dealership operations
+- Reviewed deductible preferences ($500)
+- Discussed facility security measures and vehicle storage
+- Addressed expired dealer license requirement
+- Clarified annual sales volume and scope of operations
 
-**Key Information Discussed:**
-- Business operations and security measures
-- Coverage preferences and deductible amounts
-- Current licensing status issues
-- Prior insurance history (to be confirmed)
-- Claims history (none known)
-- Expected dealer plate count
+**Decisions Made**
+- Agreed to proceed with quote development
+- Confirmed $500 liability deductible preference
+- Confirmed approximately 2 dealer plates needed
 
-**Tone/Sentiment:**
-- Professional and cooperative; no red flags or concerns noted
+**Tone/Sentiment**
+- Positive, professional, and cooperative
+- No concerns or frustration noted
 
 ## Action Items
 
-**For Harper (Insurance Broker):**
+**Harper (Insurance Broker) - URGENT**
+- [ ] Send quote to Olivia at owner@harrisonauto.com
+- [ ] Follow up with underwriters for formal term

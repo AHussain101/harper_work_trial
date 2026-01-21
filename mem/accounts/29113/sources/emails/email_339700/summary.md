@@ -6,63 +6,65 @@
 **From:** Mia Smith <mia.smith@harperinsure.com>
 **To:** khalil@riverbendhauling.com
 
-# Email Summary: Riverbend Hauling Co. — Preliminary Quote
+# Email Summary: Riverbend Hauling Co. - Preliminary Quote
 
 ## Business Details
 
-**Company Information:**
-- Company name: Riverbend Hauling Co.
-- Business type: Local hauling operation
-- Number of employees: Single operator
-- Industry: Transportation/Hauling
+### Company Information
+- **Company Name:** Riverbend Hauling Co.
+- **Business Type:** Hauling/Transportation
+- **Number of Employees:** Single operator
+- **Years in Operation:** Not specified
+- **Industry:** Commercial hauling (local operations)
 
-**Coverage Details:**
-- Policy type: Commercial auto (single-truck policy)
-- Liability level: State-minimum
-- Estimated annual premium: $3,200–$3,800
-- Additional coverages available: Cargo coverage, higher liability limits
-- Prior commercial auto history: None
+### Coverage & Policy Details
+- **Policy Type:** Commercial auto insurance (single-truck)
+- **Coverage Level:** State-minimum liability
+- **Prior Commercial Auto History:** None
+- **Premium Estimate:** $3,200–$3,800 annually
+- **Status:** Preliminary estimate, subject to final underwriting and vehicle valuation
+- **Additional Coverage Options Available:** 
+  - Cargo coverage
+  - Higher liability limits
 
-**Underwriting Status:**
-- Estimate is preliminary and subject to final underwriting and vehicle valuation
-- All details pending completion
+### Deductibles & Limits
+- Not specified in email
+
+---
 
 ## Personal Details
 
-**Primary Contact:**
-- Name: Khalil
-- Email: khalil@riverbendhauling.com
-- Role: Business owner/operator (implied)
+### Contact Information
+- **Name:** Khalil
+- **Email:** khalil@riverbendhauling.com
+- **Role/Title:** Business owner/operator
+- **Contact Method:** Email
 
-**Contact Method:**
-- Primary email communication
-- Secure portal for document uploads: https://portal.example-insure.com/uploads/riverbend-29113
+---
 
 ## Conversation Context
 
-**Main Topic:**
-- Providing preliminary commercial auto insurance quote for single-truck operation
+### Main Purpose
+Providing preliminary commercial auto insurance quote following a prior conversation with Khalil about coverage for his hauling business.
 
-**Key Information Shared:**
-- Quote based on local hauling operation, single operator, no prior commercial auto history
-- Estimate range: $3,200–$3,800 annually
+### Key Information Shared
+- Quote based on "information provided" in prior conversation
+- Single truck operation
+- No prior commercial auto insurance history
+- Local hauling operations only
 
-**Pending Action Items for Customer (Khalil):**
-1. Confirm vehicle VIN and provide ownership documents (upon purchase completion)
-2. Upload driver MVR (Motor Vehicle Record) or provide consent form for MVR pull
-3. Decide whether to add optional coverages (cargo insurance, higher liability limits)
-4. Submit documents via secure portal
+### Outstanding Action Items for Customer (Khalil)
+1. **Confirm VIN** and provide ownership documents once vehicle purchase is complete
+2. **Upload driver MVR** (Motor Vehicle Report) or consent form for MVR pull
+3. **Decide on additional coverages** (cargo insurance, higher liability limits) if interested
 
-**Action Items for Harper (Mia):**
-- Await document submission and VIN confirmation
-- Complete final underwriting once documents received
-- Finalize premium based on vehicle valuation
-- Process policy once all information confirmed
+### Outstanding Action Items for Harper/Mia
+1. Receive and review VIN and ownership documents from Khalil
+2. Obtain driver MVR or consent form from Khalil
+3. Complete final underwriting process
+4. Complete vehicle valuation
+5. Provide final quote once underwriting is complete
 
-**Timeline/Next Steps:**
-- No specific deadline mentioned
-- Next step is dependent on vehicle purchase completion and document submission
-
-**Tone/Sentiment:**
-- Professional, helpful, and straightforward
-- Collaborative approach offering additional coverage options
+### Key Documents Provided
+- Preliminary estimate (attached to email, not shown)
+- Secure portal link for document uploads: https://portal.example-insure.com/uploads/

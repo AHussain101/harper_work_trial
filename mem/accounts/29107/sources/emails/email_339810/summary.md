@@ -6,56 +6,68 @@
 **From:** lauren.smith@example-mga.com
 **To:** submissions@harperinsure.com
 
-# Email Summary: Carrier Quote for Seabreeze Child Development Center
+# Email Summary: Seabreeze Child Development Center Insurance Quote
 
 ## Business Details
 
 **Company Information:**
 - **Business Name:** Seabreeze Child Development Center
 - **Industry:** Child Development/Childcare
-- **Type:** Development center
+- **Type:** Child Development Center
 
-**Coverage & Policy Information:**
-- **Coverage Types Requested:** 
-  - General Liability
-  - Umbrella (attachment)
+**Coverage Details:**
+- **Policy Types Requested:** General Liability and Umbrella attachment
 - **Carrier:** Local MGA (example)
-- **Quote Reference Number:** 48-1032
+- **Quote Reference:** Application #48-1032
 
-**Documents Status:**
-- Quote version for applicant provided
-- Broker copy provided
-- Documents attached to email (or to be resent if not received)
+**Documents Provided:**
+- Applicant copy of quote (attached)
+- Broker copy of quote (attached)
+- Secure quote portal access available at: https://portal.example-mga.com/applications/48-1032
+
+---
 
 ## Personal Details
 
-**Contact Information:**
-- **Sender Name:** Lauren Smith
-- **Sender Title:** Local MGA representative
-- **Sender Email:** lauren.smith@example-mga.com
-- **Underwriting Contact:** underwriting@localmga.example
-- **Preferred Contact Method:** Email reply or direct contact with underwriting
+**Sender Information:**
+- **Name:** Lauren Smith
+- **Title/Role:** Underwriting Representative, Local MGA
+- **Email:** lauren.smith@example-mga.com
+- **Organization:** Local MGA
+
+**Contact Method:**
+- Reply to email message
+- Underwriting department contact: underwriting@localmga.example
+
+---
 
 ## Conversation Context
 
 **Main Purpose:**
-- Delivery of carrier quote for General Liability and umbrella coverage for Seabreeze Child Development Center
+- Delivery of insurance quote for General Liability and Umbrella coverage for Seabreeze Child Development Center
 
-**Key Information:**
-- Quote has been generated and is ready for review
-- Both applicant and broker versions of quote included
-- Secure quote portal available for reference
+**Key Details:**
+- Quote has been prepared and is ready for Harper's review
+- Two versions provided: one for applicant, one for broker
 
-**Action Items for Harper:**
-- Review both versions of the quote (applicant and broker copies)
-- Verify attachments received; reply if attachments are missing
-- Contact underwriting with any questions
-- Present/communicate quote details to client (Seabreeze Child Development Center)
+**Documents Requested/Action Items:**
+- **Harper's Action Items:**
+  - Review both quote versions (applicant and broker copies)
+  - If attachments are not received, reply to Lauren Smith requesting resend
+  - Access secure quote portal if additional details needed
+  - Forward applicant copy to Seabreeze Child Development Center
 
-**Action Items for Client (Seabreeze):**
-- Review provided quote
-- Access secure portal if needed: https://portal.example-mga.com/applications/48-1032
+**Follow-Up Timeline:**
+- Immediate/pending – Harper should review attachments
+- Next steps will depend on client approval and questions
 
-**Tone/Sentiment:** Professional, courteous, straightforward
+**Tone/Sentiment:** Professional, routine, helpful (offering follow-up support if needed)
 
-**Next Steps:** Harper to review and follow up with client; contact underwriting if clarification needed
+---
+
+## Outstanding Items
+
+- [ ] Verify attachments received
+- [ ] Review quote terms and pricing
+- [ ] Share applicant copy with Seabreeze Child Development Center
+- [ ] Address any questions with Lauren Smith or underwriting team

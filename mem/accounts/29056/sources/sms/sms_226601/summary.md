@@ -7,41 +7,40 @@
 
 ## Conversation Context
 
-**Main Topic/Purpose:**
-- Confirmation that documents have been received
-- Status update on underwriting process
+### Main Topic
+- Acknowledgment of document receipt and underwriting status update
+- Notification that submitted documents have been successfully received
 
-**Key Information Provided:**
-- Documents have been successfully received
-- Underwriting review is in progress
-- Expected timeline for underwriting response: 24–48 hours
-- Customer will be notified once underwriting responds
+### Key Information Shared
+- **Status**: Documents received and in underwriting queue
+- **Expected Timeline**: 24–48 hours for underwriting response
+- **Next Action**: Customer will be notified once underwriting responds
 
-**Action Items for Harper:**
-- Monitor underwriting response (target: within 24–48 hours)
-- Notify customer once underwriting responds
-- Follow up if underwriting takes longer than 48 hours
+### Action Items
 
-**Action Items for Customer:**
-- None at this time (awaiting underwriting decision)
+#### For Harper
+- Monitor underwriting process
+- Prepare to communicate underwriting decision to customer within 24–48 hour window
+- Follow up if no response received after 48 hours
 
-**Tone/Sentiment:**
-- Professional and reassuring
-- Matter-of-fact status update
+#### For Customer
+- Wait for notification from Harper/underwriting team
+- No immediate action required
+- Expect communication within 24–48 hours
+
+### Tone/Sentiment
+- **Professional and reassuring** - Clear timeline provided, customer informed of next steps
 
 ---
 
-## Missing Information for Future Reference
-
-**Note:** This is a confirmation/status update SMS. The following details were not mentioned but may be relevant for the full case file:
-- Customer name/contact information
-- Company/business details
+## Missing Information
+⚠️ **Note**: This SMS does not contain the following details that would be helpful context:
+- Customer name or contact information
+- Business name or industry
 - Policy type or coverage details
-- Premium amounts or policy limits
 - Specific documents submitted
-- Carrier name(s)
-- Expected decision date
+- Carrier information
+- Premium or deductible amounts
+- Any previous conversation context
 
----
-
-**Last Action:** Awaiting underwriting response by approximately **2025-12-07** (48 hours from message date)
+**Recommendation**: Refer to case file or prior communications with this customer for complete context.

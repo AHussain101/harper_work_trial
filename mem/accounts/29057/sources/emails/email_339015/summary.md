@@ -6,67 +6,53 @@
 **From:** Avery Collins <avery.collins@harperinsure.com>
 **To:** contact@summitridgeroof.com
 
-# Email Summary: Summit Ridge Roofing & Exteriors Insurance Quote Update
+# Harper Insurance - Summit Ridge Roofing & Exteriors Quote Follow-Up
 
 ## Business Details
 
-**Company Information**
-- Company name: Summit Ridge Roofing & Exteriors
-- Industry: Roofing & Exterior Services
-- Contact email: contact@summitridgeroof.com
-
-**Coverage & Application Status**
-- Application submitted to carrier panel
-- Initial quotes expected shortly
-- Status: Application in progress with underwriting team
-
-**Documents Requested**
-- Loss runs covering the last 3 years (or full coverage history if less than 3 years)
-- Certificates of Insurance (COI) - if required by contracts or landlords
-- Any additional coverage needs or special endorsements
-
-**Portal Access**
-- Secure document upload portal: https://portal.example-mga.com/applications/48-1032/documents
-- Application ID: 48-1032
-
----
+- **Company Name:** Summit Ridge Roofing & Exteriors
+- **Industry:** Roofing & Exteriors (contracting/service)
+- **Application ID:** 48-1032
+- **Coverage Status:** Quote stage - application submitted to carrier panel
+- **Documents Requested:**
+  - Loss runs (last 3 years minimum, or full coverage history if available)
+  - Certificates of Insurance (COI) required by contracts or landlords
+  - Any additional coverage needs or special endorsements for consideration
 
 ## Personal Details
 
-**Primary Contact**
-- Name: David
-- Role/Title: Not specified (likely owner or decision-maker)
-- Email: contact@summitridgeroof.com
-
-**Harper Insurance Contact**
-- Representative: Avery Collins
-- Title: Insurance Broker (Harper Insurance)
-- Phone: +1 (470) 731-4971
-- Email: avery.collins@harperinsure.com
-- Website: www.harperinsure.com
-
----
+- **Primary Contact:** David
+- **Contact Email:** contact@summitridgeroof.com
+- **Avery Collins (Harper Insurance Representative)**
+  - Phone: +1 (470) 731-4971
+  - Email: avery.collins@harperinsure.com
+  - Preferred contact: Email/phone
 
 ## Conversation Context
 
-**Purpose**
-- Follow-up to initial consultation meeting regarding insurance quote for Summit Ridge Roofing & Exteriors
-- Confirm application submission and next steps in underwriting process
+### Main Topic
+Follow-up to initial insurance consultation meeting; application submission confirmation and document collection for underwriting process.
 
-**Key Actions Taken**
-- Application submitted to carrier panel
-- Secure portal created for document uploads
+### What Happened
+- Avery and David had a phone conversation on 2025-12-04
+- Application has been submitted to Harper's carrier panel
+- Initial quotes are expected shortly
 
-**Action Items for Customer (David)**
-- Upload requested documents to secure portal as soon as possible
-- Provide 3-year loss runs (or full coverage history)
-- Submit any Certificates of Insurance required by contracts/landlords
-- Notify if additional coverage needs or special endorsements required
+### Key Action Items for Customer (David/Summit Ridge)
+1. **Upload documents to secure portal:** https://portal.example-mga.com/applications/48-1032/documents
+2. **Provide loss runs** covering the last 3 years (critical for faster turnaround and better pricing)
+3. **Submit Certificates of Insurance** if required by any contracts or landlords
+4. **List any special coverage needs or endorsement requests** for underwriter consideration
 
-**Action Items for Harper (Avery)**
-- Monitor application status with carrier panel
-- Provide initial quotes once received from carriers
-- Process uploaded documents and review for completeness
+### Action Items for Harper (Avery)
+- Monitor carrier panel for initial quotes
+- Follow up if documents aren't received within reasonable timeframe
+- Coordinate with intake team on quote delivery once documents are received
 
-**Timeline**
-- Initial quotes expected "shortly" (no specific date provided)
+### Timeline & Next Steps
+- Quotes expected "shortly" after document submission
+- No specific deadline mentioned, but quicker document upload = faster quote turnaround
+- Follow-up contingent on document submission
+
+### Tone/Sentiment
+- **Professional and helpful**

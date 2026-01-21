@@ -4,74 +4,73 @@
 **Duration:** 9m 53s
 **Direction:** Outgoing
 
-# Insurance Application Call Summary – Isabella Rivera
+# Insurance Application Summary – Isabella Rivera
 
 ## Business Details
 
-### Company Information
-- **Business Type:** Licensed home-based daycare
-- **Location:** Los Angeles, CA
-- **License Status:** Active and licensed
-- **Capacity:** 16 children
-- **Current Enrollment:** 1 child (planning to grow soon)
-- **Industry:** Childcare/Early Education
+**Company Information**
+- Business Type: Licensed home-based daycare
+- Location: Los Angeles, CA (address on file)
+- Industry: Childcare services
+- Licensing Status: Fully licensed and currently operating
 
-### Staffing
-- **Current Staff:** 2 active employees
-  - Owner (Isabella Rivera)
-  - 1 assistant
-- **Backup Staff:** Additional backup staff available as required by license
+**Capacity & Operations**
+- Licensed capacity: 16 children
+- Current enrollment: 1 child
+- Growth plans: Planning to enroll more children soon
+- Staffing: 2 active staff (owner + 1 assistant)
+- Backup staff: Available as required by license
+- Activities: Regular outdoor activities and local walks included in program
 
-### Coverage Needs & Policy Types
-- **Coverage Types Requested:**
-  - General Liability
-  - Workers' Compensation
-  - Disability Insurance
-- **Liability Limits Requested:** $500K–$1M range
-- **Status:** Application submitted; awaiting underwriting
+**Coverage Needs**
+- Policy types requested:
+  - General liability
+  - Workers' compensation
+  - Disability insurance
+- Desired liability limits: $500,000–$1,000,000
 
-### Claims & Loss History
-- **Prior Claims:** None reported
-- **Abuse Allegations:** None reported
-- **Licensing Actions:** None reported
-- **Loss Run Status:** Clean history
+**Claims & Loss History**
+- Prior claims: None reported
+- Abuse allegations: None reported
+- Licensing actions: None reported
 
-### Documents Requested
-- State daycare license (uploaded status: pending)
-- Emergency contact list (uploaded status: pending)
-
-### Operations & Activities
-- Regular outdoor activities included in program
-- Local walks conducted with children
-- Program operates with standard daycare operations
-
----
+**Documents Required**
+- State license (to be uploaded)
+- Emergency contact list (to be uploaded)
 
 ## Personal Details
 
-### Contact Information
-- **Name:** Isabella Rivera
-- **Role/Title:** Owner/Operator of licensed home daycare
-- **Phone:** Not provided in call
-- **Email:** Not provided in call
-- **Address:** On file with Harper (Los Angeles, CA)
-- **Preferred Contact Method:** Phone (based on outgoing call format)
-
-### Communication Style & Preferences
-- Professional and responsive
-- Direct and concise in answers
-- Time-sensitive deadline mentioned
-- Cooperative and organized
-
-### Key Concern
-- **Urgent Deadline:** Partner network requires liability certificates by December 6th
-
----
+**Primary Contact**
+- Name: Isabella Rivera
+- Role: Owner/operator of daycare
+- Communication style: Professional, cooperative, responsive
+- Special request: Needs insurance certificates by December 6th (partner network deadline)
 
 ## Conversation Context
 
-### Call Details
-- **Direction:** Outgoing (Harper initiated)
-- **Agent Name:** Ethan Park (Harper Insurance)
-- **Duration:** 9 minutes 53 seconds
-- **Date/Time:** December 4, 2025 at
+**Call Details**
+- Direction: Outgoing from Harper
+- Agent: Ethan Park (Harper Insurance)
+- Duration: 9 minutes 53 seconds
+- Date & Time: December 4, 2025, 10:12 PM (UTC)
+- Completion Time: 10:22 PM (UTC)
+
+**Purpose**
+- Review application for general liability, workers' compensation, and disability coverage for licensed home daycare
+
+**Key Discussion Points**
+- Confirmed business location and licensing status
+- Reviewed current and projected staffing levels
+- Verified clean claims and licensing history
+- Discussed appropriate liability coverage limits
+- Identified urgent deadline for certificates
+
+**Tone/Sentiment**
+- Professional and cooperative
+- Client is organized and prepared
+- Sense of urgency due to partner network deadline
+- No concerns or friction noted
+
+## Action Items
+
+**For Harper (Et

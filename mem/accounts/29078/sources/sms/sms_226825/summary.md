@@ -3,51 +3,34 @@
 **Date:** 2025-12-04T22:42:56.853000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance Broker
-
-## Message Overview
-- **Direction:** Outgoing (from Harper to customer)
-- **Date & Time:** December 4, 2025 at 10:42 PM
-- **Message Type:** Initial outreach/callback request
-
----
+# SMS Summary: Business Insurance Submission Follow-up
 
 ## Business Details
-- **Coverage Type:** Business insurance (general)
-- **Status:** Submission received and under review
-- **Specific Details:** None mentioned in this message
-
----
+- **Coverage Type**: Business insurance
+- **Current Status**: Submission received (pending response)
+- **Documents**: Email sent with office contact information
 
 ## Personal Details
-- **Contact Name:** Not specified in SMS
-- **Contact Method:** Phone call preferred
-- **Phone Number:** Listed in previously sent email
-- **Communication Preference:** Return call to office number via email reference
-- **Tone/Sentiment:** Professional, friendly, welcoming
-
----
+- **Contact Method**: Phone call requested
+- **Preferred Contact**: Office number (provided in email)
+- **Communication Preference**: Return call at their convenience
 
 ## Conversation Context
+- **Main Purpose**: Follow-up on business insurance submission
+- **Key Action**: Requesting customer to call back for further assistance
+- **Tone/Sentiment**: Professional, helpful, and accommodating ("We'd love to assist you further")
 
-### Purpose
-- Follow-up on a business insurance submission that was previously submitted by the customer
+## Action Items
 
-### Key Actions Requested
-**For the Customer:**
-- Call Harper's office at the number provided in their email
-- Contact when convenient (no urgency indicated)
+### For Harper:
+- ✅ Outreach message sent (completed 2025-12-04 at 22:42 UTC)
+- Await customer callback to office number
 
-**For Harper:**
-- Await customer callback
-- Be prepared to assist with further insurance needs/questions
+### For Customer:
+- **PENDING**: Call Harper Insure back at office number listed in email
+- **Timeline**: "when you have a moment" (no specific deadline)
 
-### Next Steps
-- Pending customer callback
-- No specific timeline mentioned ("when you have a moment")
-- No documents or additional information requests made at this stage
-
-### Notes
-- This appears to be a courtesy/initial outreach message
-- Suggests a previous email communication occurred with office contact details
-- Tone is collaborative ("We'd love to assist") rather than urgent
+## Additional Notes
+- Message tone is friendly and non-pressuring
+- Office contact information was previously provided via email
+- This appears to be an initial outreach/reminder to move submission forward

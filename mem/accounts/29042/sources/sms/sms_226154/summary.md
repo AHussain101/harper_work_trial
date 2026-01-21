@@ -5,41 +5,38 @@
 
 # SMS Summary for Harper
 
+## Business Details
+- **No specific business details mentioned**
+
+## Personal Details
+- **Contact Method**: SMS/text message
+- **Communication Preference**: Direct line for updates, questions, and quotes
+- **Organization**: References "my team" (implies multiple people involved)
+- **Key Message**: Recipient should save this number for future communication
+
 ## Conversation Context
-- **Main Topic:** Establishing communication channel and contact protocol
-- **Message Type:** Outgoing message from Harper's team to customer
-- **Date & Time:** December 4, 2025 at 6:25 PM
-- **Tone/Sentiment:** Professional, helpful, reassuring
 
-## Key Information
+### Main Topic/Purpose
+- Establishing a primary communication channel for ongoing insurance broker services
 
-### Communication Protocol
-- **Purpose:** Customer is being instructed to save the phone number for future communications
-- **What to Expect:** 
-  - All updates will come through this number
-  - All questions will be answered via this number
-  - All quotes will be provided through this number
-- **Key Benefit:** Single point of contact - "one clear line" to Harper's team for streamlined communication
+### Key Information
+- This SMS is from the broker's team to the client/prospect
+- All future correspondence will come through this specific number
+- Centralizing communication to avoid confusion with multiple contact points
 
-## Action Items
+### Action Items for Harper (Broker)
+- None explicitly stated in this message
+- Client has indicated readiness to receive communications via this channel
 
-### For the Customer
-- [ ] Save the provided phone number to contacts
-- [ ] Use this number as the primary contact method for:
-  - Questions about their policy/coverage
-  - Requesting quotes
-  - Receiving updates on their account
+### Action Items for Customer
+- **Save the phone number** for future reference
+- Expect all updates, questions, and quotes to be sent to this number
 
-### For Harper's Team
-- [ ] Ensure this communication channel remains the primary point of contact
-- [ ] Route all customer communications (updates, quotes, responses) through this number
-- [ ] Monitor this line for incoming customer inquiries
+### Tone/Sentiment
+- **Professional and efficient** — establishes clear communication protocol
+- **Helpful/Proactive** — consolidating contact points for client convenience
 
-## Follow-Up Notes
-- No specific follow-up timeline mentioned
-- No outstanding action items from customer yet
-- Waiting for customer to acknowledge they've saved the number
-
----
-
-**Note:** This appears to be an introductory message establishing the communication foundation for an ongoing client relationship. No specific insurance details, business information, or personal details were provided in this message.
+## Important Notes
+- This appears to be an introductory/setup message establishing communication procedures
+- No specific coverage, quotes, or dates are mentioned yet
+- Client is ready to move forward with the engagement

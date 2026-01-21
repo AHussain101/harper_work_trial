@@ -5,50 +5,37 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Incoming SMS
-- **Date & Time:** December 5, 2025 at 10:06 AM (UTC)
-- **Tone/Sentiment:** Professional, polite, efficient
-
----
-
-## Business Details
-- **Documents Status:** Customer has received and confirmed receipt of documents previously sent
-- **Quotes:** Pending - customer is waiting for quotes to be ready
-- **Next Milestone:** Quote generation/completion
-
----
-
-## Personal Details
-- **Contact Method Preference:** Email (customer explicitly requested confirmation via email rather than SMS)
-
----
-
 ## Conversation Context
 
 ### Main Topic
-- Following up on previously exchanged documents
-- Awaiting insurance quotes
+- Customer has received documents and is requesting confirmation of quote readiness
+- Communication method preference indicated: **email**
 
-### Key Actions Identified
+### Key Details
+- **Direction:** Incoming message from customer
+- **Date/Time:** December 5, 2025 at 10:06 AM (UTC)
+- **Tone/Sentiment:** Professional, courteous, neutral
 
-**Action Items for Harper:**
-- ✅ Confirm receipt of documents (appears already done)
-- ⏳ **Generate/finalize insurance quotes** (in progress or pending)
-- 📧 **Send quote confirmation to customer via EMAIL** (not SMS) once ready
-- Specify timeline for quote delivery if not already provided
+### Action Items for Harper
+- [ ] Prepare insurance quotes
+- [ ] Send email confirmation to customer once quotes are ready
+- [ ] Confirm email as preferred contact method going forward
 
-**Action Items for Customer:**
-- None explicitly stated at this time
+### Action Items for Customer
+- Awaiting quote confirmation via email
 
-### Follow-Up Timeline
-- **Pending:** When quotes will be ready
-- **Delivery Method:** Email confirmation required
+### Next Steps
+- Harper to respond via email (customer's preferred method) with quote status/timeline
+- Follow up timeline: No specific deadline mentioned; recommend clarifying expected delivery date
 
 ---
 
 ## Missing Information to Clarify
-- Customer name/company name not provided in SMS
-- Specific coverage types or policies being quoted
-- Expected timeline for quote completion
-- Customer's email address (if not already on file)
+- **Customer name & contact email** - Need to confirm the email address to send quotes
+- **Specific quotes being prepared** - Which carriers, policy types, or coverage amounts?
+- **Timeline** - When does customer need quotes by? (possibly time-sensitive)
+- **Business context** - No business details mentioned; unclear if this is renewal, new policy, or policy modification
+
+---
+
+**⚠️ Recommended Action:** Reach out to clarify customer's email address and expected timeline for quote delivery before sending confirmation.

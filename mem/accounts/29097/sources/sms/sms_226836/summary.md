@@ -3,41 +3,41 @@
 **Date:** 2025-12-04T22:53:21.304000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Amanda's Insurance Application
+# SMS Summary for Harper
 
 ## Business Details
-- **Coverage Needs:** Not yet specified in this message
-- **Policy Status:** Application submitted to carriers
-- **Next Step:** Quotes pending from carriers
+- **Coverage needs:** Application submitted (specific coverage type not detailed in this message)
+- **Status:** Quotes pending from carriers
 
 ## Personal Details
-- **Contact Name:** Amanda
-- **Preferred Contact Method:** SMS (based on communication channel used)
-- **Communication Style:** Appears to prefer brief, direct messaging
+- **Contact name:** Amanda
+- **Preferred contact method:** SMS (based on message delivery method)
 
 ## Conversation Context
+- **Main topic/Purpose:** Confirmation of application submission and expectation-setting for quote delivery
+- **Key message:** Application has been submitted to carriers; quotes will be sent as they arrive
+- **Tone/Sentiment:** Professional, friendly, reassuring ("thanks for choosing Harper")
+- **Status:** Waiting for carrier responses
 
-### Main Topic
-- Initial response confirming receipt of Amanda's insurance application
+## Action Items
+### For Harper:
+- Monitor for incoming quotes from carriers
+- Send quotes to Amanda as they are received
+- Follow up if no quotes received within standard timeframe
 
-### Key Points
-- Amanda has selected Harper as her insurance broker
-- Application has been formally submitted to carriers
-- Quote delivery will be progressive as carriers respond
-
-### Action Items for Harper
-- Monitor incoming quotes from submitted carriers
-- Send quotes to Amanda as they arrive
-- Follow up with Amanda once quotes are received
-
-### Action Items for Amanda
+### For Customer (Amanda):
 - Await quote communications from Harper
 - Review quotes when received
 
-### Tone/Sentiment
-- **Tone:** Professional, courteous, and reassuring
-- **Sentiment:** Positive (thanking customer, confirming action taken)
+## Follow-up Timeline
+- Next communication expected when quotes arrive from carriers
+- No specific timeline mentioned in this message
 
 ---
 
-**Note:** This is an initial acknowledgment message. Limited details are available at this stage. More comprehensive information will emerge once quotes are received and discussed.
+### ⚠️ Note for Harper:
+This appears to be an initial confirmation message. You may want to follow up with Amanda regarding:
+- Expected timeframe for quotes
+- Her preferred communication method for receiving quotes
+- Any specific deadline for decision-making
+- Full details of coverage needs (not captured in this SMS)

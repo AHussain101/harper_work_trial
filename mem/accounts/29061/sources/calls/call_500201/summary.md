@@ -4,55 +4,67 @@
 **Duration:** 15m 5s
 **Direction:** Incoming
 
-# Call Summary: Tow Company Fleet Insurance Review
+# Call Summary – Towing Company Fleet Insurance Application
 
 ## Business Details
-- **Company Type**: Tow/Towing Service
-- **Fleet Size**: 4 active tow trucks
-- **Truck Types**: Light duty and medium duty towing
-- **Operators**: 3 operators plus owner (4 total drivers)
-- **Safety/Operations**: 
-  - GPS tracking installed/in use
-  - Maintenance records maintained
-- **Claims History**: 
-  - **No claims in the past 5 years** (clean loss record)
-- **Coverage Type**: Fleet insurance (auto/commercial towing likely)
-- **Broker**: North Star Brokerage (Agent: Alex)
-- **Documents Needed**:
-  - VIN roster for all 4 trucks
-  - Motor Vehicle Records (MVRs) for all 4 drivers
-  - Past loss details documentation
+
+**Company Information**
+- Industry: Towing/Recovery Services
+- Fleet Size: 4 active tow trucks
+- Service Types: Light duty and medium-duty tows
+- Operators: 3 drivers plus owner (4 total)
+- Technology: GPS tracking system in place
+- Maintenance: Records maintained and available
+
+**Coverage & Underwriting Status**
+- Policy Type: Commercial auto/fleet coverage (towing)
+- Claims History: **No claims in the past 5 years** (clean record)
+- Current Status: Application under review; awaiting underwriting documentation
+- Quote Timeline: Expected within 24-72 hours after required documents are submitted
+
+**Documents Requested**
+- [ ] Motor Vehicle Records (MVRs) for all listed drivers
+- [ ] VIN roster (all 4 tow trucks)
+- [ ] Maintenance records (referenced as available)
+
+---
 
 ## Personal Details
-- **Contact**: Owner of tow company (name not provided in transcript)
-- **Contact Method**: Incoming call to broker
-- **Phone**: Not provided
-- **Email**: Not provided
-- **Role**: Business owner/operator (one of the 4 drivers)
+
+**Contact Information**
+- Name: Not provided in transcript
+- Role: Owner/Operator
+- Phone: Not provided
+- Communication Method: Incoming call (Direct contact established)
+
+**Personality Notes**
+- Responsive and well-organized (had information readily available)
+- Clean operational history suggests professional business practices
+- Cooperative with underwriting process
+
+---
 
 ## Conversation Context
-- **Purpose**: Application review and fleet information gathering for insurance underwriting
-- **Call Direction**: Incoming (owner initiated)
-- **Duration**: 15 minutes 5 seconds
-- **Date/Time**: December 4, 2025 at 8:30 PM UTC
 
-### Key Points Discussed
-- Confirmed 4 active tow trucks with light and medium duty capabilities
-- Verified GPS tracking system in place
-- Confirmed maintenance records available
-- Confirmed zero claims in 5-year history
-- Discussed need for VINs and driver MVRs to proceed
+**Purpose of Call**
+- Review application details and fleet information for new/renewal towing insurance
+- Confirm operational specifics to move forward with underwriting
 
-### Documents Status
-- **Requested from Customer**: 
-  - VIN roster for all 4 trucks
-  - Motor Vehicle Records (MVRs) for all 4 drivers
-- **Customer Provided**: 
-  - Fleet composition (4 trucks)
-  - Driver information (3 operators + owner)
-  - Claims history verbal confirmation
+**Key Questions & Answers**
+| Topic | Details |
+|-------|---------|
+| **Number of trucks** | 4 active units |
+| **Service types** | Light duty and medium-duty tows |
+| **Operators** | 3 drivers + owner |
+| **Claims history** | 0 claims in past 5 years |
+| **GPS tracking** | Yes, system in place |
 
-## Action Items
+**Documents Discussed**
+- MVRs for all drivers – **REQUIRED**
+- VIN roster – **REQUIRED**
+- Maintenance records – **AVAILABLE/TO PROVIDE**
 
-### For Harper/North Star Brokerage
-- [ ] Await
+**Next Steps & Timeline**
+
+| Party | Action Item | Timeline |
+|-------|------------|----------|

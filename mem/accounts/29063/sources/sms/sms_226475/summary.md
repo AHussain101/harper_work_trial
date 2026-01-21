@@ -5,9 +5,9 @@
 
 # SMS Summary for Harper Insurance
 
-## Message Type
-- **Direction:** Outgoing (Harper → Customer)
-- **Date & Time:** December 4, 2025 at 8:24 PM
+## Message Overview
+- **Direction:** Outgoing (Harper to client)
+- **Date & Time:** December 4, 2025 at 8:24 PM UTC
 - **Sender:** Avery at Harper Insurance
 
 ---
@@ -15,44 +15,44 @@
 ## Conversation Context
 
 ### Main Topic/Purpose
-- **Initial acknowledgment** of customer inquiry/outreach
-- **Welcome message** to a new or prospective client
-- Standard intake process initiation
+- Initial acknowledgment and intake confirmation for a new/prospective client inquiry
 
-### Key Points
-- Customer has reached out to Harper Insurance (method of initial contact not specified in this message)
-- Avery is acknowledging receipt of the contact
-- Process is beginning with an intake procedure
+### Message Content
+- Standard auto-response confirming receipt of client outreach
+- Assurance that intake process will begin
+- Commitment to follow-up communication with next steps
 
 ---
 
-## Action Items
+## Key Points
 
-### For Harper/Avery
-- [ ] Begin intake process with the customer
-- [ ] Follow up with next steps (timeline not specified)
-- [ ] Gather additional information from customer
+### Tone/Sentiment
+- **Professional, welcoming, reassuring**
+- Standard customer service acknowledgment
 
-### For Customer
-- Await follow-up communication from Harper Insurance with next steps
+### Action Items for Harper/Avery
+- [ ] Begin intake process with the client
+- [ ] Prepare next steps documentation or process
+- [ ] Schedule follow-up communication
 
----
-
-## Follow-Up & Timeline
-- **Next Steps:** To be communicated in follow-up message(s)
-- **Timeline:** "Shortly" (unspecified - should establish concrete timeline)
-
----
-
-## Notes
-- **Tone/Sentiment:** Professional, welcoming, reassuring
-- **Missing Information:** No specific business or personal details provided in this message - this is a template/initial response only
-- **Limited Context:** This appears to be an automated or template acknowledgment message; substantive details will come in subsequent communications
+### Action Items for Client
+- Await follow-up communication from Harper Insurance
+- Be prepared to provide business/personal details during intake
 
 ---
 
-## ⚠️ Important Reminders for Follow-Up
-- Determine **what type of coverage** the customer is seeking
-- Identify **business details** (if applicable) or **personal insurance needs**
-- Establish **preferred contact method** and **availability**
-- Schedule follow-up conversation/call
+## Missing Information
+
+### Information NOT Yet Provided
+- **Client name/contact details** - not included in this message
+- **Business details** - company name, type, industry, size
+- **Coverage needs** - no specific policies or coverage types mentioned
+- **Policy details** - no premium, deductible, or limit information
+- **Timeline** - no specific follow-up date/time provided
+- **Preferred contact method** - not specified
+- **Reason for inquiry** - new policy, renewal, or claim?
+
+---
+
+## Next Steps
+**Awaiting:** Client response or next communication from intake process

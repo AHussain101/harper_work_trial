@@ -10,65 +10,64 @@
 
 ## Business Details
 
-**Company Information**
-- **Company Name:** Harrison Automotive LLC
-- **Industry:** Automotive (dealer)
-- **Business Type:** Auto dealer
+**Company Information:**
+- Company Name: Harrison Automotive LLC
+- Industry: Automotive (appears to be a dealership based on "dealer license" requirement)
+- Business Type: Auto dealer
 
-**Coverage & Policy Details**
-- **Policy Type:** Not explicitly stated (auto dealer insurance implied)
-- **Estimated Annual Premium:** ~$3,200
-- **Harper Broker Fee:** ~$150
-- **Estimated Total Due:** ~$3,400
-- **Quote Status:** Preliminary/illustrative; subject to underwriting review
+**Coverage & Policy Details:**
+- Policy Type: Not explicitly stated, but dealer-specific coverage implied
+- Estimated Premium: ~$3,200
+- Harper Broker Fee: ~$150
+- **Total Estimated Cost: ~$3,400**
+- Status: Quote is illustrative and subject to underwriting review
 
-**Documents Needed**
+**Documents Required:**
 - Dealer license
 - Prior policy documentation
 - Loss runs
 
-**Renewal/Effective Information**
-- Not provided in email
+**Renewal/Effective Information:**
+- Quote issued: December 5, 2025
+- No renewal or effective date specified yet
 
 ## Personal Details
 
-**Contact Information**
-- **Name:** Olivia
-- **Email:** owner@harrisonauto.com
-- **Role:** Owner (implied from email address)
-- **Harper Agent:** Jordan Kim (jordan.kim@harperinsure.com)
+**Primary Contact:**
+- Name: Olivia
+- Email: owner@harrisonauto.com
+- Title: Owner (implied from email address)
+- Preferred Contact Method: Email or phone (both offered)
 
-**Preferences**
-- Secure document upload preferred (via portal)
-- Open to discussing payment options
+**Contact Information from Harper Side:**
+- Representative: Jordan Kim
+- Email: jordan.kim@harperinsure.com
+- Company: Harper Insurance
 
 ## Conversation Context
 
-**Purpose**
-- Initial quote presentation for Harrison Automotive LLC auto dealer insurance
+**Purpose:**
+- Delivery of insurance quote for Harrison Automotive LLC
 
-**Key Information Shared**
-- Preliminary pricing provided from carriers
-- Itemized breakdown: premium ($3.2k) + broker fee ($150) = total ($3.4k)
-- Quote portal link provided for document submission and review
+**Key Details:**
+- Quote is in initial/illustrative stage
+- Awaiting underwriting review
+- Requires verification of dealer license and loss runs before finalization
 
-**Pending Items**
-- Underwriting review and verification
-- Verification of dealer license
-- Loss runs review
+**Action Items for Customer (Olivia):**
+- [ ] Review quote via secure portal: https://payments.example-insure.com/quote-harrison-001
+- [ ] Upload required documents (dealer license, prior policy)
+- [ ] Discuss payment options with Jordan if desired
+- [ ] Reply or call with questions/next steps
 
-**Action Items for Harper**
-- Await document submission from Olivia via portal
-- Complete underwriting review once documents received
-- Finalize quote pending verification
+**Action Items for Harper (Jordan Kim):**
+- [ ] Await document submission from Olivia
+- [ ] Conduct underwriting review once documents received
+- [ ] Verify dealer license and obtain/review loss runs
+- [ ] Finalize quote pending underwriting results
+- [ ] Follow up on payment options if requested
 
-**Action Items for Customer (Olivia)**
-- Review quote details via portal link
-- Upload required documents (dealer license, prior policy)
-- Contact Harper to discuss payment options if desired
-
-**Follow-Up Timeline**
-- No specific deadline mentioned; implied next step is document submission
-
-**Tone/Sentiment**
-- Professional and friendly; straightforward quote presentation
+**Tone/Sentiment:**
+- Professional, straightforward, helpful
+- No urgency indicated
+- Customer-friendly approach (secure portal, flexible communication)

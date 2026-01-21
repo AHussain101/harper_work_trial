@@ -6,68 +6,68 @@
 **From:** submissions@harperinsure.com
 **To:** shannon.hurst@rtspecialty.com
 
-# Summit Security Solutions, Inc. - TX GL Risk Submission Summary
+# Summit Security Solutions, Inc. - GL Policy Submission Summary
 
 ## Business Details
 
-### Company Information
+**Company Information:**
 - **Company Name:** Summit Security Solutions, Inc.
 - **Business Type:** Security and patrol agency
 - **Industry:** Armed security services
 - **Location:** Anytown, Texas
 - **Years in Operation:** Newly established (pre-operational)
-- **Current Status:** Early-stage startup, not yet operational
 - **Projected Annual Revenue:** $50,000
+- **Number of Employees:** Currently zero; hiring plans in development with no current payroll
 
-### Operations & Services
-- **Primary Services:** 
-  - Armed security guard services
-  - Security patrols
-  - Commercial client focus
-- **Service Area:** Local businesses in Anytown, TX
-- **Staffing Status:** 
-  - Currently no payroll
-  - Hiring plans in development
-  - Plans to onboard staff
-
-### Coverage & Policy Details
-- **Coverage Type:** General Liability (GL) policy - first policy needed
+**Coverage & Policy Details:**
+- **Coverage Type Needed:** General Liability (GL)
 - **Purpose:** Meet state requirements and enable business operations
-- **Claims History:** No prior insurance history; this is their first GL policy
+- **Insurance History:** New venture with no prior insurance history; this will be the first GL policy
+- **Service Area:** Local businesses in Anytown, TX
 
-### Risk Management & Compliance
-- **In Development:**
-  - Drug/alcohol policies
-  - Background check procedures
-  - Incident reporting protocols
-- **Regulatory Requirements:**
-  - Must verify Texas security agency licensing
-  - Armed guard permits required and need verification
+**Specific Services Offered:**
+- Armed guard services
+- Security patrols for commercial clients
+
+**Risk Management Measures (In Development):**
+- Drug/alcohol policies being drafted
+- Background check procedures being established
+- Incident reporting procedures being developed
+
+**Underwriting Requirements:**
+- Verification of Texas security agency licensing needed
+- Armed guard permits verification needed
 
 ## Personal Details
 
-### Key Contact(s)
-- **Owner/Principal:** Michael Martinez
-- **Background:** Extensive prior experience in security industry
-
-### Contact Information for Follow-up
-- **Submission Email:** submissions@harperinsure.com
-- **Client Contact Email:** shannon.hurst@rtspecialty.com (RT Specialty contact)
+**Contact Information:**
+- **Primary Contact Name:** Michael Martinez
+- **Contact Title/Role:** Owner
+- **Industry Experience:** Extensive experience in the security industry from prior operations
+- **Staffing Status:** Currently pre-operational with plans to hire and onboard staff
 
 ## Conversation Context
 
-### Main Purpose
-Initial underwriting submission for new GL policy for startup security company seeking coverage to begin operations
+**Email Purpose:**
+Insurance submission for new business seeking first General Liability policy
 
-### Key Underwriting Points
-- ✅ **Positive Factor:** Owner has extensive security industry experience from prior operations
-- ⚠️ **Risk Factors:** 
-  - Newly established with no operating history
-  - Armed security services (higher risk classification)
-  - Still developing risk management procedures
-  - Pre-operational status
+**Main Topic:**
+Initial underwriting submission for a newly established armed security company
 
-### Outstanding Items/Action Items
+**Key Points:**
+- Owner's extensive security background is a positive underwriting factor
+- Early-stage business with minimal immediate risk exposure (no current payroll)
+- Company is actively developing risk management protocols
 
-#### For Harper (Insurance Broker)
-- [ ] Verify Texas security agency
+**Action Items for Harper:**
+- Request verification of Texas security agency licensing
+- Request verification of armed guard permits
+- Monitor policy placement once underwriting proceeds
+- Follow up on any carrier quotes/recommendations
+
+**Action Items for Customer:**
+- Provide proof of Texas security agency licensing
+- Provide evidence of armed guard permits
+- Finalize and submit drug/alcohol policies
+- Finalize and submit background check procedures
+- Finalize and submit

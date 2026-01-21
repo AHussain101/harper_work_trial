@@ -3,38 +3,47 @@
 **Date:** 2025-12-04T20:08:14.824000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# SMS Summary for Harper - Insurance Broker
 
 ## Message Overview
-- **Direction:** Outgoing (Harper sent this message)
+- **Direction:** Outgoing (from Harper to customer)
 - **Date & Time:** December 4, 2025 at 8:08 PM
-- **Message Type:** Document sharing via image attachment
+- **Content Type:** Image attachment
+
+## Content Details
+
+### Attachment Information
+- **File Name:** policy-declarations.png
+- **Type:** Policy declarations document (image format)
+- **Purpose:** Appears to be sharing policy declaration pages with the customer
+
+## Context & Status
+
+### What This Indicates
+- Harper is sending formal policy documentation to a customer
+- This is likely a follow-up action after a quote, renewal, or policy issuance discussion
+- The image format suggests Harper may be sharing a screenshot or scan of the declaration pages
+
+### Likely Next Steps
+- Customer review of the declarations
+- Customer confirmation/approval of policy details
+- Potential questions from customer about coverage, limits, or effective dates
+
+## Action Items
+
+### For Harper
+- ⚠️ **Monitor for customer response** - Wait for acknowledgment or questions about the declarations
+- Consider following up with a text or call if no response within 24-48 hours
+
+### For Customer (Implied)
+- Review the attached policy declarations
+- Verify all details are accurate (coverage types, limits, deductibles, effective dates)
+- Reach out with any questions or corrections needed
+
+## Notes
+- **No verbal communication captured** - This is document-only transmission
+- **Tone:** Professional/routine (standard documentation sharing)
+- **Customer details:** Not provided in this message alone - refer to previous communications for contact info and policy specifics
 
 ---
-
-## Documents Shared
-- **File/Image Sent:** `policy-declarations.png`
-- **Purpose:** Not explicitly stated in message text (image only - context needed)
-- **Likely Content:** Policy declaration page(s) for client review or records
-
----
-
-## Action Items for Harper
-- ⚠️ **Verify delivery** - Confirm client received the image attachment
-- ⚠️ **Follow up context** - May need to provide explanation/context about what's in the declarations document in next communication
-- ⚠️ **Check file clarity** - Ensure image quality is sufficient for client to read all details
-
----
-
-## Pending Information
-- **Client Response:** Not yet received
-- **Client Name/Contact:** Unknown from this message alone
-- **Business/Coverage Details:** Not specified in this message
-- **Associated Policy:** Unknown - need to cross-reference which client/policy this relates to
-
----
-
-## Notes for Harper
-- This appears to be a mid-conversation document share (likely part of ongoing discussion)
-- **Recommendation:** Review your other communications with this client from around this date to understand full context and which policy/client this image belongs to
-- Consider following up with a text explanation if client doesn't respond within 24 hours
+**⚠️ Additional Context Needed:** Review prior messages with this customer to identify their company details, coverage needs, and specific policy information referenced in the declarations image.

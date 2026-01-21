@@ -5,48 +5,58 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Outgoing (from Harper to client)
-- **Date & Time:** December 4, 2025 at 8:54 PM
-- **Tone/Sentiment:** Professional, helpful, reassuring
-
----
-
 ## Conversation Context
 
-### Main Purpose
-- Establishing a dedicated communication channel with the client
-- Consolidating all future insurance-related communications through one contact number
+**Direction:** Outgoing (from Harper to customer)
 
-### Key Message Points
-- Client should save Harper's phone number for future reference
-- All updates will come through this number
-- All questions can be directed to this number
-- All quotes will be provided via this number
-- Creates a single, clear communication line to Harper's team
+**Date & Time:** December 4, 2025 at 8:54 PM
+
+**Tone/Sentiment:** Professional, informative, service-oriented
 
 ---
 
-## Action Items
+## Main Topic & Purpose
 
-### For the Client
-- Save the provided phone number
-- Use this number as the primary contact for all insurance-related needs
-- Direct future questions about coverage, quotes, and updates to this number
-
-### For Harper
-- Ensure all future communications (updates, quotes, responses to questions) are sent through this channel
-- Maintain consistent contact via this number throughout the client relationship
-- Coordinate with team to ensure all inquiries are routed through this contact point
+- Establishing a dedicated communication channel with the customer
+- Clarifying that this phone number is the primary point of contact for all insurance-related communications
 
 ---
 
-## Next Steps
-- Awaiting client confirmation of number saved
-- Ready to proceed with future updates and quotes via this established channel
+## Key Message
+
+The customer is being instructed to save this phone number as the official line for:
+- All updates regarding their insurance
+- Questions about coverage or policies
+- Quote delivery and comparisons
+- Direct access to "my team" (Harper's agency)
 
 ---
 
-## Additional Notes
-- This appears to be a consolidation message, suggesting there may have been previous communications through other channels
-- Establishes clarity and organization for ongoing client communication
+## Communication Preferences
+
+- **Preferred Contact Method:** This specific phone number
+- **Message Type:** SMS/Text messaging
+- **Communication Flow:** One consolidated, clear line of contact (eliminates confusion from multiple contact points)
+
+---
+
+## Action Items for Customer
+
+- ✅ Save this phone number in their contacts
+- ✅ Use this number for all future insurance inquiries and communication
+
+---
+
+## Action Items for Harper
+
+- Monitor this number for incoming customer questions, requests, and follow-ups
+- Ensure all quotes, updates, and communications are sent from this line
+- Maintain continuity of contact through this channel
+
+---
+
+## Notes
+
+- This appears to be an introductory/onboarding message establishing communication expectations
+- Suggests Harper's team operates collaboratively with multiple team members responding through this single number
+- Sets professional expectations for ongoing service delivery

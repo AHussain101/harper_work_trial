@@ -7,47 +7,51 @@
 # Call Summary for Harper
 
 ## Business Details
-- **Company Name:** Not explicitly mentioned
-- **Industry/Business Type:** Not specified
-- **Coverage Type:** Auto/fleet insurance (implied by MVR requirement)
-- **Quote Status:** Quote email sent and received by client
-- **Next Step for Binding:** Pending receipt of Motor Vehicle Records (MVRs)
+- **Broker Firm:** North Star Brokerage
+- **Business Type:** Not specified (appears to be commercial auto or fleet-related given MVR requirement)
+- **Coverage Status:** Quote provided, pending binding
+- **Quote Delivery Method:** Email
+- **Outstanding Documents:** Driver Motor Vehicle Records (MVRs) - required before binding
 
 ## Personal Details
 - **Contact Name:** Samuel
-- **Contact Title/Role:** Owner
-- **Harper's Identity:** Alex
-- **Harper's Company:** North Star Brokerage
-- **Client's Availability:** Planning to upload MVRs tonight (same day as call)
+- **Contact Role:** Owner
+- **Broker Representative:** Alex (from North Star Brokerage)
+- **Communication Preference:** Email (for quote delivery)
+- **Responsiveness:** Positive - responded promptly to quote, committed to next steps
 
 ## Conversation Context
-- **Call Purpose:** Follow-up to confirm quote receipt and prompt required documentation
-- **Call Type:** Outgoing from broker to client
-- **Main Topic:** Confirming client received insurance quote and reminding about outstanding MVR uploads
-- **Key Points Discussed:**
-  - Quote email was successfully received by Samuel
-  - MVR uploads are required to proceed
-  - Client is willing and able to complete uploads
-- **Decisions Made:** Client agreed to upload MVRs
-- **Pending Approval:** Client still needs to approve terms (approval mentioned as contingent on MVR submission)
+- **Call Purpose:** Follow-up to confirm quote receipt and obtain outstanding MVR uploads
+- **Call Type:** Outgoing from broker to customer
+- **Duration:** 1 minute 50 seconds
+- **Date/Time:** December 4, 2025 at 10:10 PM UTC
+
+## Key Exchange
+| Item | Status |
+|------|--------|
+| Quote Email | ✓ Received and reviewed by Samuel |
+| MVR Uploads | ⏳ Pending - Samuel to upload tonight |
+| Quote Approval | ⏳ Pending - Samuel indicated willingness to bind if terms approved |
+| Binding | ⏳ Awaiting MVR documents before proceeding |
 
 ## Action Items
-### For Harper:
-- Monitor for MVR document uploads from Samuel
-- Once MVRs received and approved, prepare binding documents
-- Follow up if MVRs are not received by end of business next day
 
-### For Client (Samuel):
-- Upload Motor Vehicle Records (MVRs) tonight (2025-12-04)
-- Confirm approval of quote terms
+**For Samuel (Customer):**
+- Upload driver MVRs tonight (committed deadline)
 
-## Timeline & Next Steps
-- **MVR Upload Target:** Tonight (2025-12-04)
-- **Binding Target:** Upon receipt and approval of MVRs
-- **Call Duration:** 1 minute 50 seconds
-- **Call Time:** December 4, 2025 at 22:10 UTC
+**For Harper/Alex (Broker):**
+- Monitor for MVR uploads from Samuel
+- Review MVR documents upon receipt
+- Process binding once MVRs received and terms approved by Samuel
+
+## Next Steps & Timeline
+- Expected MVR receipt: Tonight (same day as call)
+- Binding timeline: Immediately after MVRs received and confirmed acceptable
 
 ## Tone/Sentiment
-- **Sentiment:** Positive and cooperative
-- **Client Responsiveness:** High — immediate commitment to complete required action
-- **Overall Status:** On track for prompt binding
+- **Overall Sentiment:** Positive and cooperative
+- **Customer Engagement:** High - Samuel acknowledged receipt and committed to specific action item
+- **Urgency Level:** Standard (quote follow-up with reasonable timeline)
+
+---
+*Note: No specific policy details, premium amounts, deductibles, carrier names, or

@@ -4,50 +4,60 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary: Dr. Marcus Reed - Workers' Comp Quote Review
+# Call Summary: Dr. Marcus Reed - Workers' Comp Quote Follow-Up
 
 ## Business Details
-- **Business Type:** Medical/Healthcare (Dr. Marcus Reed - appears to be a physician or medical practice)
-- **Coverage Type:** Workers' Compensation (biBERK carrier)
-- **Policy Structure:** Officer-excluded policy (client preference)
-- **Billing Preference:** Month-to-month billing requested
-- **Quote Status:** Recently sent via email, pending client review and decision
+- **Business Type:** Medical/Healthcare (Dr. Marcus Reed - implied medical practice)
+- **Coverage Type:** Workers' Compensation (biBERK quote)
+- **Policy Preference:** Officer-excluded policy
+- **Billing Preference:** Month-to-month billing inquiry
+- **Quote Status:** Recently sent via email, pending client review and confirmation
 
 ## Personal Details
 - **Contact Name:** Dr. Marcus Reed
-- **Contact Title:** Doctor/Business Owner
-- **Harper Agent:** Chris (from Harper Insurance Brokerage)
-- **Communication Preference:** Email for documents and correspondence
-- **Response Timeline:** Will confirm by end of day
+- **Title:** Doctor/Practice Owner
+- **Harper Agent:** Chris
+- **Communication Preference:** Email for document review
+- **Personality Notes:** Professional, organized, prefers to review documents internally before committing
+- **Response Timeline:** Will confirm decision by end of day
 
 ## Conversation Context
-- **Call Purpose:** Follow-up call to review workers' compensation quote sent via email
-- **Call Type:** Outgoing from Harper to client
-- **Duration:** 1 minute 35 seconds
-- **Date/Time:** December 4, 2025 at 7:25 PM UTC
 
-## Key Points Discussed
-- Client received the emailed quote
-- Client inquired about **month-to-month billing options**
-- Client inquired about **cancellation policy details**
-- Client confirmed preference for **officer-excluded coverage**
-- Client requested documents be emailed for internal review before deciding
+### Purpose
+Follow-up call to review biBERK workers' compensation quote and address client questions
 
-## Decisions Made
-- Dr. Reed will review documents internally and confirm binding decision by end of day
-- Officer-excluded policy structure confirmed as client preference
+### Key Discussion Points
+- Client received quote email
+- Client inquired about month-to-month billing options
+- Client confirmed preference for officer-excluded policy
+- Client requested short-term cancellation policy details
 
-## Action Items - Harper (Chris)
+### Decisions Made
+- Client will review quote internally before committing
+- Client prefers email communication for document review
+
+### Pending Decisions
+- Whether client will proceed with binding the policy
+- Confirmation of month-to-month billing acceptance
+
+## Action Items
+
+### Harper/Chris
 - [ ] Email binding instructions to Dr. Reed
 - [ ] Email short-term cancellation policy details to Dr. Reed
-- [ ] Prepare secure invoice/binding link (if client elects to move forward)
-- [ ] Send confirmation email from Harper with next steps
-- [ ] Await client confirmation by end of day
+- [ ] Prepare secure invoice link for binding (if client elects to proceed)
+- [ ] Send confirmation email from Harper outlining next steps
 
-## Action Items - Dr. Marcus Reed (Client)
-- [ ] Review emailed documents and cancellation information
-- [ ] Confirm binding decision by end of day via email response
+### Dr. Marcus Reed
+- [ ] Review quote and cancellation details internally
+- [ ] Confirm decision by end of day (2025-12-04)
 
-## Follow-Up Timeline
-- **Expected Response:** End of business day (same day - December 4, 2025)
-- **Next Contact:** Upon client confirmation of binding decision
+## Next Steps & Follow-Up Timeline
+- **Immediate:** Email documents and cancellation policy details
+- **Timeline:** Client will respond by end of day
+- **If Approved:** Send secure binding link and invoice
+- **If Questions:** Await client confirmation email
+
+## Call Details
+- **Date/Time:** December 4, 2025, 7:25 PM (UTC)
+- **Duration:** 1 minute 35

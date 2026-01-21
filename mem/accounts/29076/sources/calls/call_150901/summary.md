@@ -4,57 +4,62 @@
 **Duration:** 3m 0s
 **Direction:** Outgoing
 
-# Call Summary: Preliminary Quote Review with Naomi
+# Call Summary: Preliminary Quote Review & Binding Next Steps
 
 ## Business Details
-- **Coverage Type:** Professional liability insurance (implied by mention of "professional limits")
-- **Documents Needed:**
+- **Coverage Type**: Professional liability insurance (inferred from mention of "professional limits" and "client agreements")
+- **Documents Needed**: 
   - Staff training documentation
   - Client agreements
-- **Quote Status:** Preliminary estimate provided via email
-- **Next Steps:** Underwriting review and finalization pending document submission
-- **Policy Binding:** Awaiting underwriting approval before binding can proceed
+- **Quote Status**: Preliminary estimate provided via email (rounded figure)
+- **Next Phase**: Underwriting review and finalization, then binding
 
 ## Personal Details
-- **Contact Name:** Naomi
-- **Role/Title:** Not specified
-- **Communication Method:** Email (received preliminary quote)
-- **Preferred Contact:** Priya Patel (Harper Agent)
-- **Availability:** Available to upload documents same day ("this afternoon")
+- **Contact Name**: Naomi
+- **Role/Title**: Not specified
+- **Harper Agent**: Priya Patel
+- **Communication Method**: Email (estimate sent), phone
+- **Personality Notes**: 
+  - Responsive and organized (already reviewed estimate)
+  - Cooperative (confirmed willingness to submit documents same day)
 
 ## Conversation Context
-- **Call Purpose:** Review preliminary quote and discuss payment/coverage options with client
-- **Call Type:** Outgoing from Harper
-- **Date & Time:** December 6, 2025 at 3:00 PM UTC
-- **Duration:** 3 minutes
 
-### Key Discussion Points
-- Client confirmed receipt of preliminary email estimate
-- Quote structure is a rounded figure (not finalized)
-- Coverage options available:
-  - Option to increase professional liability limits
-  - Option to add additional endorsements
-- Quote adjustments possible upon request
+### Main Purpose
+Review preliminary insurance quote and discuss payment/coverage options before binding
+
+### Key Points Discussed
+- Estimate is a **rounded figure** (not final premium)
+- Option to increase coverage limits available
+- Option to add endorsements available
+- Documentation required to finalize premium
+
+### Questions Asked/Answered
+- ✅ Client confirmed receipt of estimate via email
+- ✅ Client willing to provide required documentation
 
 ### Decisions Made
-- Naomi agreed to upload required documents
-- Will proceed with quote review once documents received
+- Proceed with quote review process
+- Client will submit staff training and client agreements documentation
 
-### Action Items for Harper (Priya)
-- [ ] Receive and review staff training documentation from Naomi
-- [ ] Receive and review client agreements from Naomi
-- [ ] Submit documents to underwriting for finalization
-- [ ] Send policy documents to Naomi upon underwriting approval
-- [ ] Proceed with policy binding once underwriting signs off
+### Action Items
 
-### Action Items for Client (Naomi)
-- [ ] Upload staff training documentation (same afternoon - Dec 6)
-- [ ] Upload client agreements (same afternoon - Dec 6)
-- [ ] Review finalized quote for any coverage limit or endorsement adjustments
+**For Naomi (Client):**
+- [ ] Upload staff training documentation (target: today/this afternoon)
+- [ ] Upload client agreements (target: today/this afternoon)
+- [ ] Confirm if higher professional limits or additional endorsements desired
 
-### Timeline
-- **Document Submission Expected:** December 6, 2025 (afternoon)
-- **Next Step Timeline:** Pending document review and underwriting approval
+**For Harper (Priya Patel):**
+- [ ] Send underwriting the uploaded documents once received
+- [ ] Coordinate with underwriting to finalize premium
+- [ ] Send binding authorization once underwriting approves
+- [ ] Prepare and send final policy documents post-binding
+
+### Timeline & Next Steps
+1. **Today (2025-12-06)**: Naomi uploads documentation
+2. **Next**: Underwriting review and approval
+3. **Then**: Binding process initiated
+4. **Final**: Policy documents sent to Naomi
 
 ### Tone/Sentiment
-- **
+- **Positive**: Client is engaged, responsive, an

@@ -13,41 +13,40 @@
 - **Industry:** Childcare/Childcare Operations
 - **Email:** info@sunnydayschildcare.com
 - **Coverage Type:** Childcare center insurance (specific policy types not yet detailed)
-- **Application Status:** Submitted to carrier network; quotes expected shortly
+- **Application Status:** Submitted to carrier network; initial quotes expected shortly
 - **Documents Requested:**
   - State childcare license
   - Emergency contacts list
-  - Prior policy documentation or loss runs
-  - Certificates of Insurance (COI) if applicable
-  - Contract-specific insurance requirements (if any)
-- **Document Upload Portal:** https://portal.harperinsure.com/upload/SD-789
+  - Prior policy documentation (if applicable)
+  - Loss runs from previous insurers (if applicable)
+  - Certificates of Insurance (COI) or contract-specific requirements
+  - Any additional coverage needs or named-insured requirements
 
 ## Personal Details
-- **Contact Name:** Isabella Rivera
-- **Role/Title:** Not specified (appears to be owner/manager based on context)
-- **Company Email:** info@sunnydayschildcare.com
-- **Harper Insurance Contact:** Maya Brooks
-  - **Title:** Senior Producer
-  - **Phone:** 470-731-4971
-  - **Email:** maya.brooks@harperinsure.com
+- **Primary Contact:** Isabella Rivera
+- **Contact Method:** Email (info@sunnydayschildcare.com)
+- **Harper Contact:** Maya Brooks, Senior Producer
+  - Phone: 470-731-4971
+  - Email: maya.brooks@harperinsure.com
+  - Title: Senior Producer at Harper Insurance
 
 ## Conversation Context
-- **Purpose:** Follow-up to recent phone conversation about childcare insurance coverage; moving application forward
-- **Key Actions Taken:**
-  - Initial consultation/phone call completed with Isabella Rivera
-  - Application submitted to Harper Insurance's carrier network
-- **Action Items for Customer (Isabella Rivera):**
-  - Upload requested documents to secure portal (SD-789) as soon as possible
-  - Obtain and provide loss runs from prior insurers if applicable
-  - Clarify any additional coverage needs or named-insured requirements
-  - Provide Certificates of Insurance if contract-specific requirements exist
-  - Reply to email if assistance needed obtaining loss runs
-- **Action Items for Harper (Maya Brooks):**
-  - Monitor for quote options from carrier network
-  - Provide assistance with loss runs documentation if requested
-  - Follow up once documents are received
-- **Timeline:** Quotes expected "shortly" from carriers; no specific date provided
-- **Tone/Sentiment:** Professional, helpful, and collaborative; positive relationship established
+- **Main Purpose:** Follow-up after initial consultation call; moving forward with quote process
+- **Key Action Item for Customer:**
+  - Upload all requested documents to secure portal: https://portal.harperinsure.com/upload/SD-789
+  - Provide loss runs from prior insurers (Harper will assist if customer needs help obtaining these)
+  - Supply any additional coverage requirements or named-insured specifications
+- **Action Item for Harper:**
+  - Monitor carrier responses for quote options
+  - Provide assistance if Isabella needs help obtaining loss runs
+  - Follow up once quotes are received
+- **Tone/Sentiment:** Professional, helpful, and collaborative
+- **Next Steps:** 
+  - Customer uploads documentation
+  - Initial quotes expected from carrier network
+  - Follow-up communication pending quote receipt
+- **Timeline:** No specific deadline mentioned; expectation is "shortly" for initial quotes
 
 ## Additional Notes
-- Loss runs explained as reports from
+- Harper will facilitate information sharing with carriers and service providers as part of the quoting process
+- Privacy contact available: privacy@harperinsure.com

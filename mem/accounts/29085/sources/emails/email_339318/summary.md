@@ -10,49 +10,61 @@
 
 ## Business Details
 
-- **Company Name:** Summit Culinary Services, Inc.
-- **Industry:** Culinary Services
-- **Coverage Status:** Application submitted to carrier network
-- **Documents Requested:**
-  - Recent loss runs (last 3 years of coverage history)
-  - Certificates of Insurance (COI)
-  - Contract/lease insurance requirements
-  - Any other coverage needs or gaps to be addressed
-- **Document Upload Portal:** https://uploads.example-insure.com/summit-portal (secure intake portal)
+**Company Information**
+- Company Name: Summit Culinary Services, Inc.
+- Industry: Culinary/Food Service
+- Coverage Status: Currently carries insurance (seeking renewal or update)
+
+**Insurance Application Details**
+- Application Status: Submitted to carrier network
+- Expected Timeline: Initial carrier responses anticipated shortly
+- Quote Status: In progress/pending
+
+**Documents Requested**
+- Recent loss runs (last 3 years minimum)
+- Certificates of Insurance (COI)
+- Contract/lease insurance requirements documentation
+- Any other coverage gaps or needs assessments
+
+**Submission Method**
+- Secure intake portal: https://uploads.example-insure.com/summit-portal
 
 ## Personal Details
 
-- **Contact Name:** Liam Harris
-- **Title/Role:** Not specified
-- **Email:** liam.harris@summitculinaryservices.com
-- **Communication Preference:** Email (primary contact method used)
+**Primary Contact**
+- Name: Liam Harris
+- Title: Unknown (presumed owner or decision-maker at Summit Culinary Services)
+- Email: liam.harris@summitculinaryservices.com
+
+**Harper Insurance Representative**
+- Name: Jordan Kim
+- Title: Insurance Agent/Broker at Harper Insurance
+- Email: jordan.kim@harperinsure.com
+- Phone: +1 (470) 731-4971
+- Contact Preference: Email and phone available
 
 ## Conversation Context
 
-### Main Purpose
-Follow-up email from Harper Insurance broker Jordan Kim to provide next steps after an initial consultation call with Liam Harris regarding insurance coverage for Summit Culinary Services.
+**Purpose**
+- Follow-up to recent phone conversation regarding insurance quote for Summit Culinary Services
+- Moving forward with application processing
 
-### Key Points
-- Application has been submitted to Harper's carrier network
-- Initial carrier responses are expected "shortly"
-- Email requests additional documentation to expedite the process
-- Harper offers assistance obtaining loss runs from prior carriers if needed
+**Key Actions for Customer (Liam Harris)**
+- [ ] Upload recent loss runs (3 years) to secure portal
+- [ ] Upload certificates of insurance (COI) to secure portal
+- [ ] Upload any contract/lease insurance requirement documents to secure portal
+- [ ] Communicate any additional coverage needs or gaps to Harper
 
-### Action Items for Customer (Liam Harris)
-- [ ] Upload recent loss runs (3 years or however long coverage has been carried)
-- [ ] Upload certificates of insurance (COI) and contract/lease requirements
-- [ ] Identify any additional coverage needs or coverage gaps
-- [ ] Use secure portal to submit documents: https://uploads.example-insure.com/summit-portal
-- [ ] Contact Jordan if assistance is needed obtaining loss runs
+**Key Actions for Harper (Jordan Kim)**
+- Monitor for carrier responses to submitted application
+- Be available to assist with obtaining loss runs from prior carriers if needed
+- Review all submitted documentation once received
+- Prepare quotes once carrier responses arrive
 
-### Action Items for Harper (Jordan Kim)
-- [ ] Monitor for initial carrier responses
-- [ ] Follow up with Liam if documents are not received within a reasonable timeframe
-- [ ] Be prepared to assist in contacting prior carriers for loss runs if needed
+**Follow-up Timeline**
+- Initial carrier responses expected "shortly" (no specific date provided)
+- No explicit follow-up date scheduled; implied next contact when carriers respond
 
-### Tone/Sentiment
-Professional, collaborative, and helpful. Positive relationship established after initial call. Jordan is proactive in moving the process forward while offering support.
-
-### Next Steps/Timeline
-- Waiting for: Liam to submit documents
-- Expected: Initial carrier responses coming
+**Tone/Sentiment**
+- Professional and courteous
+- Pro

@@ -3,57 +3,48 @@
 **Date:** 2025-12-04T19:06:23.634000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Harper's Insurance Broker Context
-
-## Message Overview
-- **Direction:** Outgoing (Harper → Customer)
-- **Date/Time:** December 4, 2025 at 7:06 PM
-- **Tone/Sentiment:** Professional, informative, reassuring
-
----
+# SMS Summary for Harper
 
 ## Conversation Context
 
 ### Main Topic/Purpose
-- Notification to customer about upcoming quote delivery process
-- Setting expectations for next steps in coverage finalization
+- Informing customer about next steps in the quote request process
+- Setting expectations for follow-up communication
 
-### Key Information Shared
-- Quote options are pending/in process
-- An agent will contact customer by phone to finalize coverage details
-- Customer is invited to ask questions via SMS if needed before agent contact
+### Key Messages
+- Quote options will be received
+- An agent will call to finalize coverage details
+- Customer has opportunity to ask questions via SMS before agent call
 
----
+### Action Items for Customer
+- Wait for quote options to be provided
+- Expect incoming call from agent to finalize coverage
+- Reply via SMS if any questions arise before agent contact
 
-## Action Items
+### Action Items for Harper
+- Obtain quote options for this customer
+- Coordinate with agent to call customer for coverage finalization
+- Monitor for SMS replies from customer with any pre-call questions
 
-### For Harper/Agency
-- **Pending:** Obtain and deliver quote options to customer
-- **Pending:** Schedule agent call with customer to finalize coverage
-- **Monitor:** SMS channel for any customer questions before quote delivery
+### Follow-up Timeline
+- Next step: Receipt of quote options (timeline not specified)
+- Then: Agent call to finalize coverage (timeline not specified)
 
-### For Customer
-- Await quote options
-- Be available for agent callback to finalize coverage
-- Reach out via SMS if questions arise in the interim
-
----
-
-## Next Steps/Follow-Up
-- **Timeline:** Not specified - "when we receive quote options"
-- **Next Contact Method:** Phone call from agent
-- **Escalation Path:** SMS available for immediate questions
+### Tone/Sentiment
+- Professional and helpful
+- Clear and straightforward communication
+- Customer-friendly (open invitation for questions)
 
 ---
 
-## Missing/Unknown Details
-- **Business Details:** No company information provided in this message
-- **Personal Details:** No contact name or specific customer identification in message
-- **Coverage Type:** Not specified
-- **Quote Status:** Unclear when quotes will arrive
-- **Specific Agent:** Not named
+## Missing Information
+⚠️ **Note:** This message does not contain:
+- Specific customer/contact name
+- Phone number or email
+- Company/business details
+- Policy type or coverage needs
+- Premium amounts or quotes
+- Industry or business type
+- Any previous conversation context
 
----
-
-## Notes for Harper
-This appears to be a status update message in an ongoing quote process. Customer engagement is positive with open communication channel established via SMS.
+*This appears to be a template or follow-up message. Harper should reference prior correspondence to obtain these critical details.*

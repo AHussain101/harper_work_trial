@@ -6,36 +6,34 @@
 # SMS Summary for Harper
 
 ## Conversation Context
-
-### Main Topic
-- Customer is confirming availability for a phone call
-- Customer is requesting Harper to call **after 3pm**
-
-### Timing & Scheduling
-- **Message received:** December 5, 2025 at 2:24 PM
-- **Preferred call time:** After 3:00 PM (same day or unspecified date)
-- **Customer availability:** Afternoon works (flexible within the stated timeframe)
-
-### Tone/Sentiment
-- Casual and cooperative
-- Customer is responsive and accommodating
-
----
+- **Main Topic:** Scheduling a phone call
+- **Message Type:** Availability confirmation and request for callback
+- **Tone/Sentiment:** Casual, cooperative
+- **Timing:** Received December 5, 2025 at 2:24 PM
 
 ## Action Items for Harper
-- ✅ **Call the customer after 3:00 PM** (on December 5, 2025 or as previously discussed)
-- Clarify the specific date if this was meant for a different day than today
+- [ ] Call the customer after 3:00 PM today (December 5, 2025)
+- [ ] Prepare for discussion (note: topic/purpose of call not specified in this message)
+
+## Action Items for Customer
+- None specified
+
+## Personal Details
+- **Preferred Contact Method:** Phone call
+- **Availability:** After 3:00 PM (today)
+- **Contact Information:** Not provided in this message
+
+## Missing/Unknown Information
+⚠️ **Note:** This appears to be a reply to a previous message from Harper
+- Customer's name/title not mentioned
+- Company/business details not mentioned
+- Specific purpose of the call not stated
+- No phone number provided (presumably Harper has it on file)
+- Whether this is following up on a previous conversation is unclear
 
 ---
 
-## Missing Information to Note
-- **No personal details provided** (name, company, business type)
-- **No coverage details mentioned** (policy type, renewal date, premium amounts)
-- **No contact method specified** other than phone call
-- **Context unclear** - Appears to be a response to a previous message or conversation not included in this SMS
-
----
-
-## Notes for Follow-up
-- This appears to be a reply to an earlier outreach from Harper
-- Consider referencing the original conversation when calling to ensure alignment on discussion topics
+**Recommendation:** Check conversation history or notes to understand:
+1. What the customer/business details are
+2. What insurance matters are being discussed
+3. Any preparation needed before the 3 PM+ call

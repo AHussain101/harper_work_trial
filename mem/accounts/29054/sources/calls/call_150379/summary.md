@@ -4,70 +4,74 @@
 **Duration:** 26m 5s
 **Direction:** Incoming
 
-# Call Summary: Brightview Adult Day Center Insurance Quote
+# Insurance Call Summary - Brightview Adult Day Center
 
 ## Business Details
 
-**Company Information:**
-- **Company Name:** Brightview Adult Day Center
-- **Business Type:** Adult Day Care Facility
-- **Industry:** Healthcare/Senior Care Services
+**Company Information**
+- Company Name: Brightview Adult Day Center
+- Business Type: Adult Day Care Facility
+- Industry: Healthcare/Senior Care Services
 
-**Facility Details:**
-- **Licensed Capacity:** 40 clients
-- **Average Daily Census:** 15–20 clients on busy days
-- **Staffing:** 
-  - 1 Registered Nurse (RN) on staff
-  - Multiple trained aides
-  - All staff CPR-trained
-  - Background checks required and conducted for all staff
-- **Safety & Compliance:**
-  - Security cameras installed
-  - Written evacuation plans in place
-  - Staff training programs implemented
+**Facility Details**
+- Licensed Capacity: Up to 40 clients
+- Typical Daily Census: 15–20 clients on busy days
+- Staffing: 1 RN (Registered Nurse) on staff + several trained aides
+- Transportation: Handled by third-party vendors (outsourced)
 
-**Transportation:**
-- Handled by third-party vendors (not in-house)
+**Safety & Compliance Features**
+- Security cameras installed
+- Written evacuation plans in place
+- CPR-trained staff
+- Background checks required for all staff
+- Staff training program in place
 
-**Claims History:**
-- **No claims in several years** (clean loss record)
+**Claims History**
+- No claims reported in the last several years
+- Clean loss history
 
-**Coverage Needs:**
-- General Liability (GL) and Business Owners Policy (BOP) quote being prepared
-
-**Licensing:**
-- License details to be confirmed (number redacted for privacy)
-
----
+**Coverage Needs**
+- General Liability (GL) insurance
+- Business Owners Policy (BOP) insurance
+- Quote preparation in progress
 
 ## Personal Details
 
-**Contact Information:**
-- **Name:** Emma Johnson
-- **Title/Role:** Representative/Manager at Brightview Adult Day Center
-- **Preferred Contact Methods:** Text and email for quote notifications
+**Contact Information**
+- Name: Emma Johnson
+- Title/Role: Representative for Brightview Adult Day Center
+- Preferred Contact Methods: Text and email
 
-**Communication Style:**
+**Communication Style**
 - Professional and cooperative
-- Responsive and organized
-- Straightforward in providing information
-
----
+- Responsive to questions
+- Well-organized (has safety measures already in place)
 
 ## Conversation Context
 
-**Call Details:**
-- **Call Type:** Incoming
-- **Duration:** 26 minutes 5 seconds
-- **Date/Time:** December 4, 2025 at 7:28 PM UTC
-- **Completed:** 7:53:25 PM UTC
+**Call Purpose**
+- Initial insurance inquiry and needs assessment for adult day care facility
+- Information gathering for GL/BOP quote preparation
 
-**Purpose:**
-- Initial consultation to gather facility information for insurance quote submission
-- Assessment of risk profile and coverage needs for adult day care facility
+**Key Details Discussed**
+- Facility capacity and typical daily occupancy
+- Staffing credentials and safety certifications
+- Third-party transportation arrangements
+- Existing safety infrastructure and protocols
+- Claims history verification
 
-**Key Questions Asked & Answered:**
-1. ✅ Facility capacity and staffing levels confirmed
-2. ✅ Safety measures verified (cameras, evacuation plans)
-3. ✅ Staff qualifications confirmed (CPR training, background checks)
-4. ✅ Transportation arrangement clarified (third-party
+**Decisions Made**
+- Proceed with GL/BOP quote preparation
+
+## Action Items
+
+**Harper (Agent: Michael)**
+- [ ] Prepare GL (General Liability) and BOP (Business Owners Policy) quote based on facility details
+- [ ] Request loss runs from client
+- [ ] Confirm/collect licensing documentation
+- [ ] Submit to carriers for initial quotes
+- [ ] Follow up via text and email within 24–48 hours when quotes are available
+
+**Customer (Emma Johnson)**
+- [ ] Provide loss runs documentation
+- [ ] Provide licensing documentation/confirmation

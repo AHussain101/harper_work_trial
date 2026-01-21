@@ -3,16 +3,16 @@
 **Date:** 2025-12-05T07:11:05.000000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Insurance Quote Delivery
+# SMS Summary for Harper
 
 ## Business Details
-- **Coverage Type:** Not specified
-- **Quote Status:** Preliminary quote generated and sent
-- **Delivery Method:** Email
+- **Coverage Type**: Not specified in message
+- **Quote Status**: Preliminary quote generated and sent
+- **Documents**: Quote sent via email
 
 ## Personal Details
-- **Contact Method:** Email (primary for this communication)
-- **Response Requested:** Confirmation of receipt
+- **Contact Method**: Email (primary method used for quote delivery)
+- **Communication Preference**: Responsive to email communication
 
 ## Conversation Context
 
@@ -20,28 +20,34 @@
 - Delivery of preliminary insurance quote to customer
 
 ### Key Actions Taken
-- Preliminary quote prepared and sent via email
+- ✅ Preliminary quote prepared and sent to customer's email
 
 ### Action Items for Customer
-- **Confirm receipt** of preliminary quote email
-- **Ask any questions** about the quote if needed
+- Confirm receipt of email quote
+- Review preliminary quote details
+- Submit any questions or clarifications needed
 
 ### Action Items for Harper
-- **Await customer confirmation** that quote was received
-- **Be prepared to answer questions** about the quote details when customer responds
-- **Monitor email for customer reply**
+- Monitor email for customer response
+- Be prepared to answer questions about the quote
+- Follow up if no response received within reasonable timeframe
 
 ### Follow-up Timeline
-- Pending - awaiting customer response/confirmation
+- Awaiting customer confirmation/response
+- Next steps depend on customer feedback
 
 ### Tone/Sentiment
-- Professional, straightforward
-- Expectation set for customer to respond
+- **Professional and helpful** - Clear, straightforward communication providing next steps
 
 ---
 
-## ⚠️ Note for Harper
-This appears to be an automated or template message. **No specific business details, premium amounts, policy types, or customer identity information is included in this SMS.** You may want to:
-- Verify which customer this was sent to
-- Review the email that was sent to ensure all quote details were accurate
-- Set a reminder if no response is received within 2-3 business days
+## ⚠️ Missing Information
+*The following details were NOT provided in this SMS and may be needed for full context:*
+- Business name, industry, or company details
+- Customer name or contact information
+- Specific coverage types or policy lines
+- Premium amounts or policy limits
+- Renewal or effective dates
+- Which carrier(s) the quote is from
+
+*Note: This appears to be a routine follow-up message. Request more detailed information from customer response for complete file documentation.*

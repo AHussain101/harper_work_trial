@@ -6,29 +6,32 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Company Name:** Sentinel Field
-- **Contact Email:** contact@sentinelfield.com
+- **Company Name:** Sentinel Field (inferred from email domain)
+- **Email Domain:** sentinelfield.com
+- **Documents Requested:**
+  - Carrier documentation
+  - Draft certificate of insurance
 
-## Documents Requested
-- Carrier documentation(s)
-- Draft certificate of insurance
+## Personal Details
+- **Contact Email:** contact@sentinelfield.com
+- **Communication Preference:** Email (specified for document delivery)
 
 ## Conversation Context
-- **Main Topic:** Document delivery and review
-- **Purpose:** Customer requesting insurance-related documents for their review
-- **Key Request:** Send carrier docs and draft certificate to specified email address
+- **Main Topic:** Document delivery and review for insurance coverage
+- **Purpose:** Customer is requesting Harper send documents for their review
+- **Key Request:** 
+  - Send carrier documentation
+  - Send draft certificate of insurance
+  - Send to: contact@sentinelfield.com
 - **Customer Action Item:** Review documents once received
-- **Harper's Action Items:**
-  - Compile all carrier documentation
-  - Prepare draft certificate of insurance
-  - Send both items to contact@sentinelfield.com
-- **Tone/Sentiment:** Professional, cooperative, straightforward
+- **Harper Action Item:** 
+  - Prepare and send carrier documents
+  - Prepare and send draft certificate of insurance
+  - Send to contact@sentinelfield.com
+- **Tone/Sentiment:** Professional, courteous, cooperative
+- **Urgency:** Standard (no time pressure indicated, but customer appears ready to move forward)
 
-## Follow-up Timeline
-- No specific deadline mentioned
-- Customer will review upon receipt
-- Implies follow-up discussion likely needed after their review
-
----
-
-**Note:** This appears to be a brief confirmation message. Limited personal/business context is provided. You may need to reference prior communication or customer file for additional details about the specific policy, coverage types, carriers involved, and the original business context.
+## Follow-Up Notes
+- Customer is actively engaged and ready to review materials
+- No specific timeline mentioned, but implies timely review upon receipt
+- Harper should prepare comprehensive carrier documentation and certificate for this prospect/client

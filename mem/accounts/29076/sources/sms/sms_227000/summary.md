@@ -3,63 +3,59 @@
 **Date:** 2025-12-04T21:16:00+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary for Harper Insurance Broker
 
 ## Business Details
 
-**Company Information:**
-- Company name: Willow Grove Home Care
-- Business type: Home Care (healthcare services)
-- Industry: Healthcare/Home Health Services
+### Company Information
+- **Company Name:** Willow Grove Home Care
+- **Industry:** Home Care Services
+- **Application Status:** Currently under underwriting
 
-**Coverage & Application:**
-- Application status: Received and underwriting process initiated
-- Policy type: Not yet specified (pending quote)
-- Preliminary quote timeline: Expected within 48 hours
+### Coverage & Timeline
+- **Policy Stage:** Application received, underwriting in progress
+- **Quote Timeline:** Preliminary quote expected within 48 hours
+- **Quote Delivery Date:** On or before 2025-12-06
 
-**Outstanding Information:**
-- Premium amounts: Not yet provided
-- Deductibles: Not yet provided
-- Coverage limits: Not yet provided
-- Carrier information: Not yet specified
-- Full policy details: Pending underwriting completion
+---
 
 ## Personal Details
 
-**Contact Information:**
-- Contact name: Naomi
-- Sender name: Jordan
-- Sender role/title: Representative at Harper Insurance
-- Contact method used: SMS
+### Contact Information
+- **Contact Name:** Naomi
+- **Communication Method:** SMS
+- **Sender/Representative:** Jordan (Harper Insurance staff member)
 
-**Communication Notes:**
-- Tone: Professional, informative, reassuring
-- Proactive communication style (updating client on progress)
+---
 
 ## Conversation Context
 
-**Purpose:**
-- Confirm receipt of Willow Grove Home Care's insurance application
-- Set expectations for next steps in the underwriting process
+### Main Purpose
+- Confirmation that Willow Grove Home Care's insurance application has been received and accepted into underwriting process
 
-**Key Points:**
-- Application has been officially received
-- Underwriting has begun
-- Client should expect preliminary quote soon
+### Key Information Provided
+- Application processing has begun
+- Preliminary quote will be delivered within 48-hour timeframe
 
-**Action Items for Harper:**
-- ✅ Receive and process Willow Grove Home Care application (completed)
-- ⏳ Complete underwriting review (in progress)
-- ⏳ Generate and deliver preliminary quote (due within 48 hours by 2025-12-06)
+### Action Items
 
-**Action Items for Customer (Naomi):**
-- Await preliminary quote from Harper Insurance
-- Be prepared to review quote and next steps when received
+#### For Harper/Jordan:
+- Generate preliminary insurance quote for Willow Grove Home Care
+- Deliver quote to Naomi within 48 hours (by 2025-12-06 at approximately 21:16)
 
-**Next Steps:**
-- Preliminary quote delivery: Within 48 hours of 2025-12-04
-- Follow-up required after quote delivery
+#### For Customer (Naomi):
+- Await preliminary quote delivery
+- Be prepared to review quote upon receipt
 
-**Tone/Sentiment:**
-- Professional, positive, reassuring
-- Sets clear expectations
+### Tone/Sentiment
+- **Professional, reassuring, and informative**
+- Clear communication of next steps
+- Proactive timeline setting to manage expectations
+
+---
+
+## Outstanding Information Needed
+- Coverage types/policy lines needed (health, liability, workers' comp, etc.)
+- Premium range, deductibles, and limits (to be provided in quote)
+- Claims history/loss runs
+- Number of employees or service scope details

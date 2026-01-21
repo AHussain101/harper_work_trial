@@ -104,6 +104,35 @@ class NameRegistry:
         )
         return response.data[0].embedding
     
+    def _embed_batch(self, texts: list[str]) -> list[list[float]]:
+        """
+        Generate embeddings for multiple texts in a single API call.
+        
+        Args:
+            texts: List of texts to embed
+            
+        Returns:
+            List of embedding vectors
+        """
+        if not texts:
+            return []
+        
+        # OpenAI supports up to 2048 inputs per request
+        batch_size = 2048
+        all_embeddings = []
+        
+        for i in range(0, len(texts), batch_size):
+            batch = texts[i:i + batch_size]
+            response = self.openai.embeddings.create(
+                model=EMBEDDING_MODEL,
+                input=batch
+            )
+            # Sort by index to maintain order
+            sorted_data = sorted(response.data, key=lambda x: x.index)
+            all_embeddings.extend([d.embedding for d in sorted_data])
+        
+        return all_embeddings
+    
     def upsert_account(
         self,
         account_id: str,
@@ -141,6 +170,105 @@ class NameRegistry:
         )
         
         logger.debug(f"Upserted account {account_id}: {name}")
+    
+    def upsert_accounts_batch(
+        self,
+        accounts: list[dict]
+    ) -> int:
+        """
+        Batch add or update multiple accounts in the registry.
+        
+        Much faster than calling upsert_account individually due to:
+        - Single embedding API call for all names
+        - Single Qdrant upsert operation
+        
+        Args:
+            accounts: List of dicts with keys: account_id, name, directory_path
+            
+        Returns:
+            Number of accounts upserted
+        """
+        if not accounts:
+            return 0
+        
+        # Extract names for batch embedding
+        names = [acc["name"] for acc in accounts]
+        
+        # Generate all embeddings in one API call
+        embeddings = self._embed_batch(names)
+        
+        # Build points
+        points = []
+        for acc, embedding in zip(accounts, embeddings):
+            point_id = int(acc["account_id"])
+            points.append(
+                PointStruct(
+                    id=point_id,
+                    vector=embedding,
+                    payload={
+                        "account_id": acc["account_id"],
+                        "name": acc["name"],
+                        "directory_path": acc["directory_path"]
+                    }
+                )
+            )
+        
+        # Batch upsert to Qdrant
+        self.qdrant.upsert(
+            collection_name=COLLECTION_NAME,
+            points=points
+        )
+        
+        logger.info(f"Batch upserted {len(points)} accounts to name registry")
+        return len(points)
+    
+    def upsert_descriptions_batch(
+        self,
+        accounts: list[dict]
+    ) -> int:
+        """
+        Batch add or update multiple account descriptions.
+        
+        Args:
+            accounts: List of dicts with keys: account_id, name, description, directory_path
+            
+        Returns:
+            Number of descriptions upserted
+        """
+        if not accounts:
+            return 0
+        
+        # Extract descriptions for batch embedding
+        descriptions = [acc["description"] for acc in accounts]
+        
+        # Generate all embeddings in one API call
+        embeddings = self._embed_batch(descriptions)
+        
+        # Build points
+        points = []
+        for acc, embedding in zip(accounts, embeddings):
+            point_id = int(acc["account_id"])
+            points.append(
+                PointStruct(
+                    id=point_id,
+                    vector=embedding,
+                    payload={
+                        "account_id": acc["account_id"],
+                        "name": acc["name"],
+                        "description": acc["description"],
+                        "directory_path": acc["directory_path"]
+                    }
+                )
+            )
+        
+        # Batch upsert to Qdrant
+        self.qdrant.upsert(
+            collection_name=DESCRIPTIONS_COLLECTION_NAME,
+            points=points
+        )
+        
+        logger.info(f"Batch upserted {len(points)} account descriptions")
+        return len(points)
     
     def search(self, query: str, top_k: int = 5) -> list[dict]:
         """

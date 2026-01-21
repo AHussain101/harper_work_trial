@@ -5,48 +5,41 @@
 
 # SMS Summary for Harper Insurance
 
-## Business Details
-- **Company Name:** Not mentioned
-- **Industry/Type:** Not mentioned
-- **Coverage Needs:** Not specified
-- **Policy Details:** Quote in progress
-- **Quote Status:** Currently being prepared
-
 ## Personal Details
 - **Contact Name:** Marcus
-- **Broker/Sender:** Dakotah (Harper Insurance)
-- **Communication Method:** SMS
-- **Tone/Personality:** Professional, courteous, appreciative
+- **Contact Method:** SMS
+- **Message Sender:** Dakotah (Harper Insurance staff member)
 
 ## Conversation Context
-
-### Main Topic
-- Initial outreach/acknowledgment for a new client requesting an insurance quote
-
-### Key Messages
-- Introduction of Dakotah as the point of contact at Harper Insurance
-- Expression of gratitude for Marcus's business/trust
-- Confirmation that quote preparation is underway
-
-### Status
-- Quote is **in progress** — not yet completed
-
-### Tone/Sentiment
-- ✅ Positive and professional
-- ✅ Welcoming and appreciative
-- ✅ Establishes rapport
+- **Main Topic:** Quote preparation for Marcus's business
+- **Purpose:** Brief acknowledgment and status update regarding ongoing quote work
+- **Tone/Sentiment:** Professional, friendly, appreciative
+- **Key Message:** Confirmation that Harper Insurance is actively working on Marcus's insurance quote
 
 ## Action Items
+### For Harper/Dakotah:
+- Complete quote preparation for Marcus
+- Deliver quote to Marcus upon completion
+- Follow up with next steps after quote is ready
 
-### For Harper/Dakotah
-- [ ] Complete quote preparation for Marcus
-- [ ] Follow up with Marcus once quote is ready
-- [ ] Determine next communication method/timeline
+### For Marcus:
+- Await quote from Harper Insurance
+- Be available for quote presentation and discussion
 
-### For Marcus
-- [ ] Await quote from Dakotah
+## Outstanding Information
+**NOTE:** The following critical details were NOT mentioned in this message and will need to be gathered:
+- Business name and type
+- Industry classification
+- Number of employees
+- Business revenue
+- Coverage needs/policy types
+- Specific renewal or effective dates
+- Current carrier information
+- Claims history
+- Contact details (phone number, email)
+- Preferred communication method
+- Timeline expectations for quote delivery
 
-## Follow-Up Notes
-- **Next Steps:** Pending quote completion and delivery to Marcus
-- **Timeline:** Not specified
-- **Missing Information:** No specific coverage details, company information, or timeline preferences were discussed in this initial message
+---
+
+**Status:** Preliminary outreach/acknowledgment — full business details and quote specifics pending

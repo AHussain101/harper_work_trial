@@ -4,64 +4,63 @@
 **Duration:** 2m 2s
 **Direction:** Outgoing
 
-# Call Summary: Green Valley Orchards
+# Call Summary: Green Valley Orchards - Preliminary Quote Review
 
 ## Business Details
 - **Company Name:** Green Valley Orchards
-- **Industry:** Agriculture (Orchards)
-- **Coverage Type:** Commercial Insurance (specific lines not detailed)
-- **Preliminary Premium Indication:** ~$6,100
-
-### Documents Needed
-- Signed application
-- Payroll documentation (client to locate)
-- Loss runs
-
-### Policy Requirements
-- Subject to receipt and review of required documentation before final approval
-
----
+- **Industry:** Agriculture/Orchards
+- **Coverage Status:** Preliminary indication provided
+- **Estimated Premium:** ~$6,100
+- **Documents Required:**
+  - Signed application
+  - Payroll documentation
+  - Loss runs
 
 ## Personal Details
 - **Contact Name:** Mary Cox
-- **Title/Role:** Not specified
-- **Company:** Green Valley Orchards
-- **Communication Preference:** Secure portal upload for documents; phone call follow-up
-
----
+- **Role/Title:** Not specified
+- **Contact Method:** Secure portal for document uploads (preferred method identified)
+- **Communication Style:** Cooperative, responsive to next steps
 
 ## Conversation Context
 
-### Call Purpose
-Preliminary indication review and document collection for insurance quote
+### Purpose of Call
+- Review preliminary insurance indication and explain next steps in the quote process
 
 ### Key Discussion Points
-- Reviewed preliminary carrier indication (~$6,100)
-- Explained policy subjectivities (conditions that must be satisfied)
-- Identified required documentation:
-  - Signed application
-  - Payroll records
-  - Loss runs
+- **Preliminary Quote Amount:** Approximately $6,100
+- **Subjectivities Explained:** Client informed of three outstanding items needed to finalize quote:
+  1. Signed application
+  2. Payroll documentation
+  3. Loss runs
 
 ### Decisions Made
-- ✅ Client agreed to upload documents to secure portal
-- ✅ Follow-up call scheduled for next morning (brief, ~10 minutes)
+- Client agreed to proceed with document submission
+- Client agreed to upload documents through secure portal
+- Follow-up call scheduled for the following morning
 
-### Action Items - Customer (Mary Cox)
-- [ ] Locate and provide payroll documentation
-- [ ] Upload all required documents (application, payroll docs, loss runs) to secure portal
-- [ ] Be available for 10-minute follow-up call on morning of 2025-12-06
+### Action Items for Harper (Jordan)
+- Conduct brief follow-up call the following morning (approximately 10 minutes)
+- Review and process documents once uploaded by client
+- Finalize quote pending receipt of signed application, payroll docs, and loss runs
 
-### Action Items - Harper (Jordan)
-- [ ] Receive and review uploaded documents from Mary Cox
-- [ ] Conduct follow-up call on 2025-12-06 (morning)
-- [ ] Finalize quote once all documentation is complete
+### Action Items for Client (Mary Cox)
+- Locate and gather payroll records
+- Upload all required documents to secure portal:
+  - Signed application
+  - Payroll documentation
+  - Loss runs
+- Be available for 10-minute follow-up call the following morning
 
-### Timeline
-- **Initial Call:** December 5, 2025 at 4:10 PM (Duration: 2m 2s)
-- **Scheduled Follow-up:** December 6, 2025 (morning, ~10 minutes)
+### Timeline & Dates
+- **Call Date:** December 5, 2025 at 4:10 PM (2 minutes 2 seconds duration)
+- **Next Follow-Up:** Following morning (December 6, 2025)
 
-### Tone & Sentiment
-- **Overall:** Cooperative and positive
-- Client was responsive to next steps and agreed to required actions
-- No concerns or objections noted
+### Tone/Sentiment
+- **Overall:** Positive and cooperative
+- Client receptive to process and timeline
+- No concerns or objections raised
+
+---
+
+**Note:** Account numbers, links, and tax IDs are stored separately and redacted from this summary.

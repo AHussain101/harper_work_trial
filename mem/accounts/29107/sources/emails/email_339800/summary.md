@@ -13,52 +13,51 @@
 **Company Information**
 - **Business Name:** Seabreeze Child Development Center
 - **Business Type:** Licensed home-based daycare
-- **Industry:** Child development/early education
+- **Industry:** Child care/early childhood education
 - **Years in Operation:** Several years
 - **Annual Revenue:** ~$100,000
 - **Licensed Capacity:** 14 children daily
 - **Average Attendance:** 10–12 children
 
-**Operations**
+**Operations & Services**
 - **Age Groups Served:** Infants through school-age (6 weeks to 11 years old)
 - **Operating Hours:** Weekdays, early morning to early evening
 - **Services Provided:**
-  - Supervised childcare
+  - Supervised care
   - Occasional school pick-ups
   - On-site outdoor play (fenced area)
 - **Licensing Status:** State licensed (license on file)
 
-**Coverage Needs & Policies**
-- **Primary Coverage:** General Liability (GL) policy - NEW
-- **Additional Coverage Requested:** Excess/Umbrella attachment
-  - **Umbrella Limit Requested:** ~$5.6M
-- **Existing Coverage:** Molestation/abuse coverage limits noted on prior policy (documentation to be included)
-- **Potential Add-On:** Commercial auto coverage for child transport (details pending)
+**Coverage & Policy Details**
+- **Coverage Types Requested:**
+  - General Liability (new policy)
+  - Excess/Umbrella attachment
+- **Umbrella Limit Requested:** ~$5.6 million
+- **Additional Coverage Under Consideration:** Commercial auto (for child transport; details pending)
+- **Prior Coverage:** Existing molestation/abuse coverage limits noted on previous policy
 
 ## Personal Details
 
 **Contact Information**
 - **Submitted By:** Harper Submissions (submissions@harperinsure.com)
-- **Recipient/Underwriter:** Local MGA (underwriting@localmga.example)
-- **No specific applicant/owner contact details provided in this email**
+- **Recipient:** Local MGA Underwriting (underwriting@localmga.example)
+- **Submission Date:** December 4, 2025
+
+---
 
 ## Conversation Context
 
-**Main Purpose**
-- Insurance submission to MGA for GL and umbrella policy underwriting
+**Purpose of Communication**
+- Formal underwriting submission to MGA for General Liability and Umbrella coverage for a child development center
 
-**Key Information Provided**
-- Complete business operations overview
-- Licensing verification provided
-- Prior policy molestation/abuse coverage details referenced
-- High umbrella limit request ($5.6M) for home-based daycare operation
+**Key Details Provided**
+- Applicant seeking new GL policy with umbrella/excess liability attachment
+- State license documentation available and on file
+- Prior molestation/abuse coverage documentation to be included
+- Potential commercial auto coverage pending additional details
 
-**Documents Mentioned**
-- State license (on file)
-- Prior policy documentation (molestation/abuse coverage limits)
-- Commercial auto details (pending)
+**Pending Items/Action Items**
+- **For MGA/Underwriting:** Review submission for GL and umbrella approval
+- **For Applicant/Harper:** Obtain additional details regarding commercial auto coverage for child transport
 
-**Pending Information**
-- Complete details on commercial auto coverage need and usage
-
-**Action
+**

@@ -6,33 +6,37 @@
 # SMS Summary for Harper
 
 ## Conversation Context
-- **Main Topic:** Confirmation of received information and next steps in the quoting process
-- **Purpose:** Status update to customer regarding submission of their insurance inquiry to carriers
-- **Direction:** Outgoing message from Harper to customer
-- **Date/Time:** December 5, 2025 at 2:20 AM
-- **Tone/Sentiment:** Professional, reassuring, action-oriented
 
-## Key Messages
-- Customer's confirmation has been **received and acknowledged**
-- Next action: Harper will **submit the inquiry to carriers**
-- Harper will **follow up with customer when quotes are received**
+### Main Topic/Purpose
+- Acknowledgment of customer confirmation receipt
+- Notification of next steps in the quoting process
 
-## Action Items for Harper
-- [ ] Submit customer's information to insurance carriers
-- [ ] Monitor for incoming quotes from carriers
-- [ ] Follow up with customer once quotes are received
+### Key Points
+- Customer has provided confirmation (specifics of what was confirmed not detailed in this message)
+- Harper's team will proceed with carrier submission
+- Follow-up communication will occur once quotes are received from carriers
 
-## Action Items for Customer
-- None indicated at this time (awaiting quotes)
+### Action Items for Harper
+- Submit case/application to carriers
+- Track incoming quotes from carriers
+- Follow up with customer once quotes are received
 
-## Pending Information
-- **Awaiting:** Insurance quotes from carriers
-- **Follow-up Timeline:** Unspecified (when quotes arrive)
+### Action Items for Customer
+- None indicated in this message (confirmation already provided)
+
+### Next Steps/Follow-up Timeline
+- Follow-up will occur when quotes land (timeline not specified)
+- No specific deadline mentioned
+
+### Tone/Sentiment
+- Professional and reassuring
+- Positive/confirmatory tone
 
 ---
 
-**⚠️ Note:** This is a brief status message with minimal details. To provide more comprehensive support, Harper may need:
-- Original inquiry details (business type, coverage needs, premium expectations)
-- Customer contact information and preferred communication method
-- Specific carriers being approached
-- Expected timeline for quote delivery
+## ⚠️ Note for Harper
+This appears to be an outgoing confirmation message, likely sent to a customer. **Limited detail is available in this single SMS.** To provide complete context, you may want to:
+- Review prior messages in this conversation thread
+- Check internal notes for business/coverage details
+- Identify which carriers were selected for submission
+- Confirm customer identity and contact information

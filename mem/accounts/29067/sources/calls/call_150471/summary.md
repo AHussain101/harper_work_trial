@@ -4,72 +4,62 @@
 **Duration:** 13m 42s
 **Direction:** Incoming
 
-# Call Summary: Lincoln Auto Traders - New Business Inquiry
+# Call Summary: Lincoln Auto Traders - Dealer's Plates & Garage Liability Quote
 
 ## Business Details
 
 **Company Information**
-- **Company Name:** Lincoln Auto Traders
+- **Business Name:** Lincoln Auto Traders
 - **Business Type:** Used car dealership (small lot)
 - **Location:** 12345 Main St, Anytown, AL
-- **Industry:** Automotive retail/sales
-- **Current Status:** Undergoing ownership transfer
-- **New Owner:** Emma Johnson
+- **Industry:** Automotive retail
+- **Current Status:** Ownership transfer in progress
 
-**Operations & Coverage Needs**
-- **Authorized Drivers:** 2 (owner + 1 employee)
-- **Dealer Plates Requested:** Up to 6 plates
+**Operations & Sales**
 - **Estimated Annual Sales:** ~$40,000
-- **Special Notes:** 
-  - No salvage vehicles handled
-  - No in-house financing offered
-  - Prefer state minimum coverage for now
-- **License Status:** Planning to apply for dealer's license
+- **Salvage Vehicles:** None
+- **In-House Financing:** None offered
+- **Authorized Drivers:** 2 (owner + 1 employee)
+- **Dealer Plates Needed:** Up to 6 plates expected
+- **Dealer License:** Applicant plans to apply for dealer's license
 
-**Coverage & Premium Details**
-- **Coverage Type Needed:** Dealer's plates / garage liability
-- **Coverage Level:** State minimum coverage
-- **Quote Timeline:** To be provided within 24-48 hours
-
-**Referral Source**
-- Referred by another broker and transferred to Harper
-
----
+**Coverage & Policy Details**
+- **Coverage Preference:** State minimum coverage
+- **Quote Status:** Pending submission to carriers
+- **Quote Timeline:** Within 24–48 hours
+- **Policy Types Needed:** Dealer's plates coverage + garage liability
+- **Claims History:** Not discussed
 
 ## Personal Details
 
 **Primary Contact**
-- **Name:** Alex
-- **Role/Title:** Not specified (appears to be representative for the business)
-- **Contact Method:** Phone (incoming call)
+- **Name:** Alex (referral contact)
+- **Role/Title:** Not specified (appears to be point of contact for business)
+- **Contact Method:** Preferred method not specified
 
-**New Owner**
+**New Business Owner**
 - **Name:** Emma Johnson
-- **Role:** New owner of Lincoln Auto Traders
+- **Role:** New owner (ownership transfer)
+- **Contact Details:** Not specified in summary
 
-**Communication Preferences**
-- No specific preferences mentioned
-
----
+**Contact Preferences**
+- Personality notes: Not noted
+- Family/personal details: None shared
 
 ## Conversation Context
 
+**Call Type & Source**
+- **Direction:** Incoming call
+- **Source:** Referral from another broker
+- **Date:** December 4, 2025
+- **Duration:** 13 minutes 42 seconds
+- **Time:** 8:37 PM - 8:51 PM (UTC)
+
 **Main Purpose**
-- New business inquiry for insurance coverage following ownership transfer
-- Obtain dealer's plates and garage liability quotes
+- New business opportunity: obtain garage liability and dealer's plates insurance for ownership transition
+- Gather underwriting information for quote submission
 
-**Key Discussion Points**
-- Business ownership transfer details
+**Key Information Discussed**
+- Ownership transfer details and new owner identification
 - Number of authorized drivers and employees
-- Dealer plate requirements (up to 6 plates)
-- Coverage preferences (state minimum)
-- Annual sales volume estimate
-
-**Decisions Made**
-- ✅ Proceed with application submission
-- ✅ Provide quotes within 24-48 hours
-- ✅ State minimum coverage acceptable to applicant
-
-**Action Items for Harper**
-- [ ] Submit dealer's plates application to carriers
-- [ ] Submit garage liability quote request to carriers
+- Expected dealer plate quantity (up to 6)

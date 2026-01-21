@@ -10,51 +10,55 @@
 
 ## Business Details
 
-- **Company Name:** Summit Ridge Roofing & Exteriors
-- **Industry:** Roofing & Exteriors
-- **Application Number:** 48-1032
-- **Policy Status:** Successfully bound
-- **Effective Date:** December 4, 2025
-- **Source/Carrier:** Online MGA (Managing General Agent)
+**Company Information:**
+- Company Name: Summit Ridge Roofing & Exteriors
+- Industry: Roofing & Exteriors
+- Business Type: Roofing contractor/exterior services
+
+**Policy Details:**
+- Application Number: 48-1032
+- Effective Date: December 4, 2025
+- Status: **Successfully Bound**
+- Policy Documents: Available in online portal
 
 ## Personal Details
 
-- **Contact Name:** Avery Collins
-- **Email:** avery.collins@harperinsure.com
-- **Role/Title:** Insurance Broker (Harper Insurance)
+**Contact Information:**
+- Recipient Name: Avery Collins
+- Email: avery.collins@harperinsure.com
+- Role: Insurance Broker (Harper Insurance)
+
+**Sender:**
+- Source: Online MGA (Managing General Agent)
+- Automated notification system (donotreply email)
 
 ## Conversation Context
 
-### Main Topic
-- Confirmation that commercial insurance policy for Summit Ridge Roofing & Exteriors has been successfully bound and is now active
+**Main Purpose:**
+- Confirmation that application 48-1032 has been successfully bound/approved
+- Notification of policy effective date and next required actions
 
-### Key Information
-- Application has moved from pending to bound status
-- Policy is effective immediately (December 4, 2025)
-- This is an automated confirmation notification from the MGA system
+**Action Items for Harper (Avery Collins):**
+1. Access the application portal: https://portal.example-mga.com/applications/48-1032
+2. Print complete policy documents
+3. Review all policy documents for accuracy before distribution
+4. Distribute printed policy copy to the insured (Summit Ridge Roofing & Exteriors)
+5. **Notify underwriting immediately** if any discrepancies are found
 
-### Action Items for Harper (Avery)
+**Key Instructions:**
+- Policy review is mandatory before client distribution
+- Discrepancies must be reported to underwriting promptly
+- Client should receive printed (hard) copy of policy
 
-1. **Access application details** – View full application via portal link: https://portal.example-mga.com/applications/48-1032
-2. **Print policy documents** – Obtain complete printed policy documents
-3. **Review policy** – Thoroughly review entire policy before distribution to ensure accuracy
-4. **Distribute to client** – Provide Summit Ridge Roofing & Exteriors with printed copy of policy
-5. **Report discrepancies** – Notify underwriting immediately if any errors or discrepancies are found during review
+**Tone/Sentiment:**
+- Professional, routine notification
+- Clear instructions provided
+- No concerns indicated
 
-### Action Items for Customer
-- None specified at this time (Harper will handle client communication)
-
-### Follow-up Timeline
-- **Immediate:** Review and print documents
-- **Next:** Distribute to insured customer
-
-### Tone/Sentiment
-- **Professional, routine** – Standard binding confirmation notification
-- No urgent concerns flagged
+**Follow-up Timeline:**
+- Action needed: Immediate (review and distribution)
+- No specific deadline stated, but "next steps" implies timely completion
 
 ---
 
-## Additional Notes
-- This is an automated email from the MGA portal (do not reply address)
-- Policy is ready to move forward; no pending items blocking activation
-- Harper should act promptly to review and distribute documents to maintain good client service
+**Note:** This is an automated confirmation email. No response is required to the sender, but all action items should be completed promptly.

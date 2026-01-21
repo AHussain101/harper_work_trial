@@ -9,49 +9,46 @@
 # Email Summary: Regal Freight Logistics Workers' Comp Application
 
 ## Business Details
+
 - **Company Name:** Regal Freight Logistics
 - **Industry:** Freight/Transportation (has drivers on staff)
 - **Coverage Type:** Workers' Compensation
-- **Status:** Application in progress; missing documentation
+- **Application Status:** In progress; awaiting documentation to complete
 
 ## Personal Details
+
 - **Contact Name:** Marisol Gomez
 - **Contact Email:** marisol.gomez@regalfreights.com
 - **Harper Representative:** Sam Wright (sam.wright@harperinsure.com)
-- **Communication Preference:** Flexible (email reply, file upload, or phone call)
+- **Communication Style:** Professional, welcoming tone
+
+## Documents Requested
+
+Harper is requesting the following from Marisol to complete the workers' comp application:
+
+1. **Federal EIN** (or SSN if sole proprietor)
+2. **Most recent payroll totals**
+3. **Number of drivers** on staff
+4. **Claims/Incidents history** (past 3 years)
+
+## Submission Options
+
+- **Email reply** to sam.wright@harperinsure.com
+- **File upload portal:** https://portal.harperinsure.example/upload
+- **Phone call option:** Marisol can reply with availability for a 10-minute intake call
 
 ## Conversation Context
 
-### Main Purpose
-Follow-up email to confirm previously discussed details and request missing documentation needed to complete the workers' compensation application.
+- **Purpose:** Follow-up confirmation of phone discussion + document collection
+- **Key Action Items for Marisol:**
+  - Submit requested documents via email or portal
+  - OR schedule a 10-minute call to complete intake verbally
+  
+- **Key Action Items for Harper (Sam Wright):**
+  - Await documents or call scheduling response
+  - Complete intake once information received
+  - Finalize workers' comp application
 
-### Documents/Information Requested
-- Federal EIN (or SSN if sole proprietor)
-- Most recent payroll totals
-- Current number of drivers on staff
-- Claims or incidents history (past 3 years)
-
-### Action Items for Customer (Marisol Gomez)
-- [ ] Provide Federal EIN or SSN
-- [ ] Submit most recent payroll totals
-- [ ] Provide number of drivers
-- [ ] Submit any claims/incident information (past 3 years)
-- [ ] Choose submission method:
-  - Reply to email with documents
-  - Upload via portal: https://portal.harperinsure.example/upload
-  - Schedule 10-minute call to complete intake
-
-### Action Items for Harper (Sam Wright)
-- [ ] Follow up if documentation not received
-- [ ] Schedule intake call with Marisol if she requests one
-- [ ] Complete workers' comp application once all materials received
-
-### Timeline & Next Steps
-- Next step pending customer response
-- Customer can reply with preferred meeting time for 10-minute call
-- No specific deadline mentioned
-
-### Tone/Sentiment
-- **Professional and welcoming** — "Welcome" greeting indicates new client
-- **Helpful and flexible** — multiple submission options offered
-- **Efficient** — brief, action-oriented follow-up
+- **Next Steps:** Awaiting Marisol's response to proceed
+- **Timeline:** No specific deadline mentioned; appears routine
+- **Tone:** Friendly, efficient, accommodating (multiple submission options offered)

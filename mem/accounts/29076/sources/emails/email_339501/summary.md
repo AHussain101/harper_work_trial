@@ -11,69 +11,65 @@
 ## Business Details
 
 **Company Information**
-- Company Name: Willow Grove Home Care
-- Business Type: Home care service provider
-- Industry: Non-medical personal care services
-- Years in Operation: Startup/new business (planning phase)
+- **Company Name:** Willow Grove Home Care
+- **Business Type:** Home care services provider
+- **Industry:** Healthcare/In-home care services
+- **Status:** New business (no prior insurance in place)
 
-**Services Offered**
+**Operations & Staffing**
+- **Current Staffing:** 3 caregivers + 1 owner/operator (4 total staff)
+- **Expected Client Base:** 8–10 regular clients in first few months
+- **Target Demographics:** Primarily older adults with mobility limitations and some cognitive impairment
+
+**Services Provided**
 - Non-medical personal care
 - Assistance with activities of daily living (ADLs)
-- Transportation to appointments
+- Transportation to medical appointments
 - Regular wellness checks
-- **Exclusion:** No invasive medical procedures provided
+- **Note:** Does NOT provide invasive medical procedures
 
-**Clientele**
-- Primary demographic: Older adults
-- Client characteristics: Adults with mobility limitations and some cognitive impairment
-- Expected client base: 8–10 regular clients in first few months
-
-**Staffing**
-- Planned headcount: 3 caregivers + 1 owner/operator
-- Total: 4 staff members
-
-**Coverage & Claims History**
-- Prior insurance: None currently in place
-- Claims history: None to report (new business)
+**Claims History**
+- **Prior Claims:** None to report
+- **Prior Insurance:** None currently in place
 
 ---
 
 ## Personal Details
 
-**Primary Contact**
-- Name: Naomi Brooks
-- Title: Owner
-- Email: naomi.brooks@willowgrovehc.com
-- Communication style: Professional, concise, responsive
+**Contact Information**
+- **Name:** Naomi Brooks
+- **Title:** Owner
+- **Email:** naomi.brooks@willowgrovehc.com
+- **Communication Style:** Professional, concise, responsive
 
 ---
 
 ## Conversation Context
 
 **Purpose**
-- Initial intake and business overview for new home care client seeking insurance coverage
+- Initial business intake for new home care agency seeking insurance coverage
 
 **Information Provided**
-- Naomi provided comprehensive business overview including services, client demographics, staffing plans, and confirmed no prior insurance or claims
+- Naomi provided comprehensive overview of business operations, services, staffing, and client demographics in response to intake request
 
-**Key Findings**
-- This is a startup business with no existing coverage
-- No loss history or prior claims to review
+**Documents/Actions**
+- **Pending from Client:** Any additional documentation Harper may request
+- **Pending from Harper (Priya):** 
+  - Review intake information
+  - Determine appropriate coverage types for home care services
+  - Request any additional documentation needed (loss runs/claims history already confirmed as N/A)
+  - Prepare quotes/recommendations
 
-**Action Items for Harper (Priya)**
-- Determine appropriate policy types for home care services (likely general liability, workers' compensation, professional liability)
-- Request any additional documentation needed to proceed with quote
-- Assess coverage needs based on non-medical care model and client demographics
-
-**Action Items for Customer (Naomi)**
-- Respond if Harper requests additional information
-- Provide any requested documentation for underwriting
-
-**Pending Items**
-- Quote development and policy recommendations
-- Determination of coverage limits and deductibles
-- Carrier selection
+**Next Steps**
+- Awaiting Harper's follow-up requests or recommendations
 
 **Tone/Sentiment**
-- Professional, cooperative, straightforward
--
+- Professional, cooperative, helpful
+
+---
+
+## Key Considerations for Harper
+
+- **New Agency:** No claims history or prior coverage to reference—may require additional underwriting scrutiny
+- **Service Scope:** Non-invasive care model (should help with underwriting favorability)
+- **Small Initial Scale:**

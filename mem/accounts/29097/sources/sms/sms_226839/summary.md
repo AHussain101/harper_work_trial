@@ -6,48 +6,43 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Coverage Type**: General insurance quote (specific type not mentioned)
-- **Policy Status**: Quote stage - under review
-- **Documents**: Quote packet emailed to customer
-- **Payment**: Secure payment link provided via email
+- **Coverage/Policy Information:** Quote packet prepared and sent via email
+- **Premium/Payment:** Secure payment link provided
+- **Documents:** Quote packet emailed to client
+- **Next Steps:** Discussion needed regarding proceeding with coverage
 
 ## Personal Details
-- **Contact Method**: Email preferred (quote packet and payment link sent)
-- **Communication Preference**: Customer to indicate availability for discussion
+- **Contact Method:** Email (primary contact method used)
+- **Availability:** Client to provide preferred time for discussion
+- **Communication Style Note:** Professional, straightforward approach
 
 ## Conversation Context
+- **Main Topic:** New insurance quote delivery and next steps discussion
+- **Purpose:** Present quote options and facilitate decision-making
+- **Key Information Provided to Client:**
+  - Quote packet has been emailed
+  - Secure payment link has been sent
+  - Request for client's availability to discuss
 
-### Main Topic
-- New insurance quote ready for customer review
+### Action Items
 
-### Key Actions Completed
-- Quote packet generated and emailed ✓
-- Secure payment link created and sent ✓
+**For Harper:**
+- [ ] Await client response regarding preferred time to discuss
+- [ ] Be prepared to discuss quote details at mutually convenient time
+- [ ] Follow up if no response received within reasonable timeframe
 
-### Pending Actions
-- **For Customer**:
-  - Review emailed quote packet
-  - Provide availability/good time for discussion about next steps
-  - Process payment via secure link (if ready)
+**For Client:**
+- [ ] Review emailed quote packet
+- [ ] Provide preferred time for discussion with Harper
+- [ ] Prepare any questions about coverage options or premium amounts
 
-- **For Harper**:
-  - Wait for customer to confirm preferred time to discuss
-  - Schedule discussion meeting once customer responds
-  - Address any questions about the quote
+## Follow-Up Timeline
+- **Pending:** Client to indicate availability for discussion call/meeting
+- **Status:** Awaiting client response
 
-### Follow-up Timeline
-- Awaiting customer response regarding availability
-- No specific deadline mentioned
-
-### Tone/Sentiment
-- **Professional and helpful** - straightforward next steps provided
-- **Customer-focused** - asking for their preference on timing
+## Tone/Sentiment
+- Professional, helpful, prompt service
+- Proactive (quote already prepared and delivered)
 
 ---
-
-## Missing Information (Flag for Follow-up)
-- Business name and industry type unknown
-- Specific policy type(s) not mentioned
-- Quote amount/premium not referenced
-- Carrier name(s) not specified
-- Customer name not included in this SMS
+**Note:** This appears to be a standard outbound communication confirming quote delivery. Awaiting client feedback to move forward.

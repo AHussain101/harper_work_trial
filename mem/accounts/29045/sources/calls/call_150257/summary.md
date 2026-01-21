@@ -4,69 +4,67 @@
 **Duration:** 8m 42s
 **Direction:** Incoming
 
-# Call Summary: Green Valley Orchards, LLC – Workers' Compensation
+# Call Summary: Green Valley Orchards, LLC - Workers' Compensation Quote
 
 ## Business Details
 
-**Company Information:**
-- **Company Name:** Green Valley Orchards, LLC
-- **Business Type:** Orchard operation
-- **Industry:** Agriculture
-- **Location:** Maplewood, CA
-- **Crop Types:** Macadamia and avocado
+**Company Information**
+- Company Name: Green Valley Orchards, LLC
+- Business Type: Orchard operation
+- Industry: Agriculture
+- Location: Maplewood, CA
+- Crops: Macadamia and avocado
 
-**Staffing & Financials:**
-- **Number of Employees:** 1 full-time farmworker
-- **Annual Payroll:** ~$45,000
+**Staffing & Financials**
+- Employees: 1 full-time farmworker
+- Annual Payroll: ~$45,000
 
-**Coverage Details:**
-- **Policy Type:** Workers' Compensation
-- **Current Carrier:** Berkshire Hathaway
-- **Claims History:** No prior claims reported
-- **Current Premium:** ~$6,100 (recent renewal)
-- **Previous Premium:** ~$4,000 (prior year)
-- **Premium Increase:** ~$2,100 (~52.5% increase year-over-year)
+**Coverage Details**
+- Coverage Type: Workers' Compensation
+- Current Carrier: Berkshire Hathaway
+- Current Premium: ~$6,100 (recent renewal)
+- Previous Premium: ~$4,000 (prior year)
+- Premium Increase: ~$2,100 (~52.5% increase)
+- Claims History: No prior claims reported
 
-**Renewal Status:**
-- Renewal increase triggered this inquiry
+**Key Dates**
+- Call Date: December 4, 2025
+- Call Duration: 8 minutes 42 seconds
 
-## Personal Details
+## Contact Information
 
-**Primary Contact:**
-- **Name:** Not provided in notes
-- **Role/Title:** Business owner/operator
-- **Contact Method:** Transferred by Tivoli broker
-- **Sensitivity Note:** Lead identifiers and tax IDs redacted in summary
+**Primary Contact**
+- Role: Business owner/decision maker (specific name redacted for security)
+- Preferred Contact Method: Phone (established via incoming call)
 
 ## Conversation Context
 
-**Call Purpose:**
-- Initial intake/application for workers' compensation coverage
-- Explore alternative carriers due to significant premium increase
+**Call Purpose**
+- Incoming call transferred from broker Tivoli
+- Prospect seeking workers' compensation insurance quote
+- Client concerned about significant renewal rate increase
 
-**Key Points Discussed:**
-- Confirmation of business name and location
-- Confirmation of orchard types and operations
-- Employee count and payroll verification
-- Claims history review (no prior claims)
-- Current coverage and renewal premium shock
-- Market shopping recommendation
+**Main Discussion Points**
+- Reviewed current coverage with Berkshire Hathaway
+- Confirmed business operation details and staffing
+- Discussed recent renewal premium increase (52.5%)
+- Completed intake application form
 
-**Agent Actions Completed:**
-- Full intake application completed
-- Business details confirmed
-- Payroll information collected
-- Claims history reviewed
+**Key Questions Addressed**
+- Current carrier and premium verified ✓
+- Claims history confirmed (none) ✓
+- Payroll information provided ✓
+- Crop types and operation scope confirmed ✓
 
-**Pending Decisions:**
-- Carrier selection pending market quotes
-- Coverage binding pending verification
+**Call Sentiment/Tone**
+- Cooperative and receptive
+- Motivated to find better rates due to renewal increase
 
 ## Action Items
 
-**Harper's Responsibilities:**
-- [ ] Shop workers' compensation markets for alternative carriers
-- [ ] Obtain preliminary indications from multiple carriers
+**Harper's Responsibilities**
+- [ ] Shop workers' comp markets for competitive quotes
 - [ ] Request payroll verification from insured
-- [ ] Request loss runs/claims history from insured
-- [ ] Follow up with client within
+- [ ] Request loss runs from insured
+- [ ] Follow up with preliminary indications within 24–48 hours
+-

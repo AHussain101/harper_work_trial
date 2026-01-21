@@ -6,46 +6,34 @@
 # SMS Summary for Harper
 
 ## Message Details
-- **Direction:** Outgoing (sent by Harper/broker)
+- **Direction:** Outgoing (sent by Harper/broker to customer)
 - **Date & Time:** December 4, 2025 at 11:23 PM
-- **Message Type:** Standard SMS with unsubscribe option
+- **Message Type:** Standard SMS notification/communication
 
----
+## Message Content
+- **Primary Content:** Standard unsubscribe notice/disclaimer
+- **Full Text:** "Reply STOP to unsubscribe from messages."
 
-## Content Analysis
+## Context Assessment
+- **Message Type:** Transactional/Legal compliance message
+- **Purpose:** Informing recipient of their right to opt out of SMS communications
+- **Tone:** Neutral, administrative
 
-### Main Message
-⚠️ **NOTE:** The SMS content appears to be incomplete or contains only the standard footer/disclaimer.
+## Important Notes
+⚠️ **Limited Information:** This SMS contains only standard legal/compliance language and does not include any substantive business, coverage, or personal details about the customer or their insurance needs.
 
-- Only text present: "Reply STOP to unsubscribe from messages."
-- This is a standard unsubscribe notice typically appended to marketing/notification messages
+### Missing Information
+- No business details mentioned
+- No personal contact information provided
+- No insurance coverage details discussed
+- No premium, deductible, or policy limits stated
+- No specific questions or decisions documented
+- No action items identified
+- No follow-up timeline established
 
----
+## Action Items for Harper
+- **None identified** from this message alone
+- Consider if this is part of a larger communication campaign or template
 
-## Missing Information
-
-Since the actual message body is not provided, the following details cannot be extracted:
-
-### Business Details
-- ❌ No company information
-- ❌ No coverage needs specified
-- ❌ No premium/deductible details
-- ❌ No carrier information
-- ❌ No policy dates
-
-### Personal Details
-- ❌ No contact name or role
-- ❌ No phone number or email
-- ❌ No communication preferences
-- ❌ No scheduling information
-
-### Conversation Context
-- ❌ No main topic identified
-- ❌ No questions or decisions documented
-- ❌ No action items
-- ❌ No follow-up timeline
-
----
-
-## Action Required
-**Harper should review:** The actual SMS message content to extract relevant insurance and business details. Please re-submit with the complete message body for a comprehensive summary.
+## Next Steps
+This appears to be a standalone compliance message. Review customer file for context of broader conversation or prior communications.

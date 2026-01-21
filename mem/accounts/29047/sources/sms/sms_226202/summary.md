@@ -5,61 +5,64 @@
 
 # SMS Summary for Harper
 
-## Message Overview
-- **Direction:** Outgoing (Harper to customer)
+## Message Type
+- **Direction:** Outgoing (Harper → Customer)
 - **Date & Time:** December 5, 2025 at 9:15 AM
-- **Type:** Reminder/Action Item Request
+- **Message Type:** Reminder/Action Item Request
 
 ---
 
 ## Conversation Context
 
-### Main Purpose
-Reminder to customer regarding next steps for policy binding, contingent on their selection of Option A
+### Main Topic
+- Customer has multiple coverage options to choose from (at least Option A mentioned)
+- Harper is prompting customer to take next steps toward binding coverage
 
-### Key Information
-- Customer has multiple options under consideration (at least Option A and other alternatives)
-- Customer must take action to proceed with coverage binding
-- This is a follow-up/reminder message (suggests prior communication about options)
-
-### Decisions Pending
-- Customer's formal selection between Option A and other option(s)
-- Policy binding status conditional on Option A selection
+### Key Points
+- **Coverage Status:** Conditional on customer action
+- **Decision Pending:** Customer must choose between options (Option A explicitly referenced; other options implied but not detailed in this message)
+- **Binding Timeline:** Coverage can be bound promptly once requirements are met
 
 ---
 
 ## Action Items for Customer
 
-### Required Submissions
-1. **Signed application** - must be uploaded
-2. **Background-check confirmation** - must be uploaded
+### Immediate Required Actions
+1. **Upload signed application**
+   - Document type: Application form
+   - Status: Needs signature from customer
+   
+2. **Upload background-check confirmation**
+   - Document type: Background check verification
+   - Status: Needs to be obtained and confirmed by customer
 
-### Timeline
-- Documents needed "promptly" to bind coverage
-- Implicit urgency to move forward quickly
-
-### Conditional Requirements
-- Actions only apply **if customer chooses Option A**
+### Timing
+- These documents are needed to proceed with binding coverage
+- Implied urgency: "promptly" suggests Harper is ready to move forward quickly once documents are received
 
 ---
 
 ## Action Items for Harper
 
-### Follow-up Needed
-- Confirm customer receives this reminder
-- Monitor for document uploads
-- Prepare to bind coverage once Option A is confirmed and documents are received
-- Track deadline for document submission
-
-### Notes
-- Be ready to process quickly upon receipt of proper documentation
-- Clarify deadline if customer doesn't respond within reasonable timeframe
+- **Follow-up required:** Monitor for document uploads from customer
+- **Next step:** Once both documents received, process binding of coverage
+- **Contingent action:** Coverage binding depends on Option A selection and document submission
 
 ---
 
-## Missing Context for Complete Picture
-- What are the differences between Option A and other options?
-- When was Option A initially presented?
-- What is the specific deadline for document submission?
-- What type of business/coverage is this for?
-- Customer name and contact details
+## Tone/Sentiment
+- **Professional, neutral reminder**
+- **Helpful/supportive** (offering clear next steps)
+- **No signs of frustration or urgency from either party**
+
+---
+
+## Missing/Incomplete Information
+- **Option A details** not specified in this message
+- **Other options** (B, C, etc.) exist but not mentioned
+- **Specific policy type** not stated
+- **Customer name** not provided in this message
+- **Carrier/quotes** not referenced
+- **Premium/deductible amounts** not mentioned
+- **Industry/business type** unknown
+- **Deadline date** for document submission not specified

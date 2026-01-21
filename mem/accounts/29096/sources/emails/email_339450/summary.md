@@ -10,61 +10,57 @@
 
 ## Business Details
 
-**Company Information:**
-- Company name: Maple Ridge Home Care LLC
-- Industry: Home care services
-- Business type: In-home care provider (implied by client transport and referral/county contracts)
+**Company Information**
+- Company Name: Maple Ridge Home Care LLC
+- Industry: Home Care Services
+- Business Type: Home care provider (likely requiring transportation of clients based on driver background check requirements)
 
-**Coverage Needs & Application Status:**
-- Application status: Submitted to carrier network
-- Quote status: Initial quotes expected shortly
-- Coverage types mentioned (inferred): Likely includes general liability and commercial auto (given driver/transport requirements)
-- Referrals/county contracts: Client has contracts with referral sources and/or county agencies with specific coverage requirements
+**Coverage Needs & Documents**
+- Loss run statements requested (last 3 years or as available)
+- Driver background checks and motor vehicle reports needed for staff who transport clients
+- Certificates of insurance/coverage requirements tied to referrals or county contracts
+- Policy type appears to involve liability coverage for in-home care services with transportation component
 
-**Documents Requested:**
-- Loss run statements (last 3 years or as available) — *if previously insured*
-- Driver background checks and motor vehicle reports for all staff who transport clients
-- Certificates of insurance or coverage documentation tied to referrals/county contracts
-- Upload portal: https://portal.example-insure.com/uploads/abcd123
-
-**Additional Notes:**
-- Harper offers document assistance if client has difficulty obtaining loss runs or retrieving other required documents
-
----
+**Application Status**
+- Application submitted to carrier network
+- Initial quotes expected soon
+- No specific premium amounts, deductibles, or limits mentioned yet
 
 ## Personal Details
 
-**Contact Information:**
+**Contact Information**
 - Name: Amelia Rivera
 - Email: amelia.rivera@mapleridgehomecare.com
-- Role/Title: Not specified (likely owner, manager, or decision-maker)
+- Role/Title: Likely decision-maker or operations lead at Maple Ridge Home Care LLC
 
-**Contact Preferences:**
-- Prefers secure portal uploads for document submission
-- Email communication established
-
----
+**Communication Preferences**
+- Has secure portal access for document uploads
+- Responsive to follow-up communications
 
 ## Conversation Context
 
-**Main Purpose:**
-- Follow-up to recent verbal conversation about insurance quote
-- Request for supporting documentation to expedite quote process
+**Purpose**
+- Follow-up to recent conversation regarding insurance quote for Maple Ridge Home Care LLC
+- Gathering documentation needed to finalize carrier quotes
 
-**Key Actions Completed:**
-- ✅ Application submitted to carrier network
-- ✅ Initial conversation with Amelia conducted
+**Key Action Items for Customer (Amelia)**
+- Upload loss run statements (3 years) via secure portal: https://portal.example-insure.com/uploads/abcd123
+- Provide driver background checks for all staff who transport clients
+- Provide motor vehicle reports for transportation staff
+- Provide certificates of insurance/coverage requirements from referral partners or county contracts
+- Contact Harper if assistance needed obtaining any documents
 
-**Pending Actions for Customer (Amelia):**
-- Upload loss run statements (3 years or available)
-- Upload driver background checks and motor vehicle reports for staff
-- Upload certificates of insurance/coverage requirements from referrals/county contracts
-- Use secure portal link provided
+**Action Items for Harper (Jordan Kim)**
+- Monitor carrier responses for initial quotes
+- Follow up when quotes received
+- Assist Amelia with obtaining loss runs or pulling documents if requested
 
-**Pending Actions for Harper (Jordan Kim):**
-- Monitor for initial carrier quotes
-- Forward quotes to Amelia upon receipt
-- Assist with document acquisition if Amelia requests help
+**Next Steps**
+- Await document uploads from Amelia
+- Expect initial carrier quotes soon
+- No specific follow-up deadline mentioned
 
-**Next Steps/Timeline:**
-- Initial quotes expected "
+**Tone/Sentiment**
+- Professional and helpful
+- Positive relationship established (thank you for speaking with us)
+- Cooperative tone offering support if needed

@@ -13,61 +13,58 @@
 **Company Information**
 - **Company Name:** Riverbend Tire & Service
 - **Business Type:** Used tire dealer with light installation services
-- **Industry:** Automotive retail/service
-- **Business Structure:** Sole proprietorship
+- **Industry:** Tire retail and automotive services
 - **Years in Operation:** ~10 years at current location
-- **Employee Count:** Not explicitly stated
+- **Structure:** Sole proprietorship
+
+**Operations**
+- Primary activities: Sales of used and new tires
+- Secondary activities: Occasional tire installation/service work
+- Storage: Limited on-site storage
+- Subcontractors: None reported
+
+**Financial Information**
 - **Annual Revenue:** ~$113,000
-- **Annual Payroll:** ~$45,000
+- **Payroll:** ~$45,000
 
 **Coverage & Policy Details**
-- **Coverage Type Sought:** General Liability (GL)
-- **Specific Operations:** 
-  - Sales of used and new tires
-  - Occasional tire installation/service work
-  - Limited on-site storage
-  - No subcontractors reported
-
-**Underwriting Requirements**
-- Loss runs requested for prior 3 years (if available)
-- Active business license confirmation needed for location
+- **Coverage Type Needed:** General Liability (GL)
+- **Status:** Active submission
 
 ## Personal Details
 
 **Contact Information**
-- **Primary Contact:** Not specified in submission
-- **Owner/Proprietor:** Sole proprietor (name not provided)
-- **Contact Method:** Via Harper Submissions team
+- Owner/Proprietor name: Not specified in submission
+- Contact methods: Not specified in submission
 
 ## Conversation Context
 
-**Main Purpose**
-- GL coverage submission for underwriting review to USLI
+**Purpose of Email**
+- GL risk submission to USLI underwriting for review and quote
 
-**Key Action Items for Harper**
-- Obtain loss runs for prior 3 years (if available from prospect)
-- Confirm active business license status for the location
-- Submit findings to underwriter
+**Key Information Provided**
+- Business overview and operations summary
+- Financial snapshot (revenue and payroll)
+- Confirmation of no subcontractors
+- Limited on-site storage noted
 
-**Key Action Items for Customer (Riverbend)**
-- Provide loss runs for prior 3 years if available
-- Provide proof of active business license
+**Underwriting Requirements/Action Items**
 
-**Documents Provided**
-- Initial submission only (detailed application documents not mentioned)
-
-**Documents Requested**
-- Loss runs (3-year history)
-- Active business license verification
+*Harper/Submissions Team must obtain:*
+- Loss runs for prior 3 years (if available)
+- Confirmation of active business license for location
 
 **Next Steps**
-- Underwriter review at USLI
-- Follow-up pending receipt of loss runs and license verification
+- Submit findings to USLI underwriting
+- Await underwriting decision/quote
+- Follow up on outstanding documentation
 
 **Tone/Sentiment**
-- Professional, straightforward submission format
+- Professional, straightforward submission
+- Standard underwriting process
 
-**Submission Details**
-- **Submitted by:** Harper Submissions
-- **Submission Date:** December 5, 2025
-- **Recipient Carrier:** USLI (underwriting@usli.com)
+---
+
+**⚠️ Outstanding Items Needed Before Underwriting Decision:**
+- [ ] Prior 3-year loss runs
+- [ ] Active business license verification

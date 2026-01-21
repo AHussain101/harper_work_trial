@@ -4,46 +4,57 @@
 **Duration:** 1m 30s
 **Direction:** Outgoing
 
-# Call Summary: Document Confirmation & COI Verification
+# Call Summary: Application Follow-Up & COI Confirmation
 
 ## Business Details
 - **Coverage Type**: Professional Liability Insurance
-- **Contractors**: Required to carry $1,000,000 per occurrence professional liability coverage
-- **Documents Provided**:
+- **Contractor Requirements**: $1,000,000 per occurrence limit
+- **Documents Provided**: 
   - ACORD application
   - Background check policy
-- **Delivery Method**: Secure upload link (successfully received and completed)
+- **Delivery Method**: Secure upload link
+- **Status**: Application in progress; awaiting carrier quotes
 
 ## Personal Details
 - **Contact Name**: Alex
-- **Contact Role/Title**: Not specified
-- **Preferred Contact Method**: Phone
-- **Communication Style**: Cooperative, responsive, concise
+- **Role/Title**: Not specified
+- **Communication Method**: Phone
+- **Contact Info**: Not provided in call
+- **Communication Style**: Cooperative, responsive, brief
 
 ## Conversation Context
-- **Call Purpose**: Follow-up call to confirm document upload completion and verify Certificate of Insurance (COI) limits for contractors
-- **Call Type**: Outgoing
-- **Call Duration**: 1 minute 30 seconds
-- **Date/Time**: December 6, 2025, 4:05 PM UTC
 
-## Key Outcomes
-✅ **Confirmed**: Alex received secure upload link  
-✅ **Confirmed**: Documents uploaded (ACORD application + background check policy)  
-✅ **Confirmed**: Professional liability limit of $1,000,000 per occurrence for contractors
+### Purpose
+- Follow-up call to confirm document receipt and verify Certificate of Insurance (COI) limits for contractors
 
-## Action Items
-**Harper's Responsibilities:**
-- Monitor for carrier questions and share with Alex if they arise
-- Send quotes to Alex as they are received from carriers
-- Process uploaded documents through underwriting
+### Key Points Confirmed
+- Alex successfully received the secure upload link
+- Documents uploaded successfully (ACORD application and background check policy)
+- Professional liability coverage limit: **$1,000,000 per occurrence** ✓ Confirmed
 
-**Customer's Responsibilities:**
-- None at this time
+### Decisions Made
+- Proceeding with application process based on confirmed COI limits
 
-## Next Steps
-- Await carrier quotes
-- Maintain availability for any clarifying questions from carriers
+### Action Items for Harper
+- [ ] Share any carrier questions with Alex if they arise
+- [ ] Send quotes to Alex as they come in from carriers
+- [ ] Monitor application with carriers
+
+### Action Items for Alex
+- ✓ Completed: Upload documents via secure link
+- ✓ Completed: Confirm COI limits
+
+### Next Steps
+- Carrier quotes pending (timeline not specified)
+- Harper will reach out if carriers have questions
 - No specific follow-up date mentioned
 
-## Tone/Sentiment
-Positive and professional — smooth call with all confirmations obtained successfully
+### Call Sentiment
+- **Tone**: Positive, professional, efficient
+- **Customer Satisfaction**: High (cooperative, no concerns raised)
+
+---
+
+**Call Date/Time**: December 6, 2025 @ 4:05 PM UTC  
+**Duration**: 1 minute 30 seconds  
+**Agent**: Mia (Harper)

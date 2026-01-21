@@ -10,62 +10,50 @@
 
 ## Business Details
 
-**Company Information:**
-- **Business Name:** Lakeview Junction Bar & Grill
-- **Industry:** Food & Beverage / Hospitality (Bar & Grill)
-- **Broker/Agency:** Harper Global Enterprises, Inc.
-
-**Coverage & Quote Information:**
+- **Company Name (Applicant):** Lakeview Junction Bar & Grill
+- **Industry:** Food & Beverage (Bar & Grill)
+- **Broker Company:** Harper Global Enterprises, Inc.
+- **Quote Number:** MCP025D9XXX
 - **Carrier:** USLI (United States Liability Insurance Company)
-- **Quote Reference Number:** MCP025D9XXX
 - **Documents Provided:** 
-  - Carrier version of quote letter (attached)
-  - Applicant version of quote letter (attached)
-  - Quote summary accessible via portal link
-
-**Portal Access:**
-- URL: https://portal.usli.example/quote/MCP025D9XXX
-
----
+  - Carrier version of quote letter
+  - Applicant version of quote letter
+  - Quote summary accessible via portal
 
 ## Personal Details
 
-**Sender:**
-- **Name:** Lauren Smith
-- **Title/Role:** USLI Representative/Underwriter
-- **Email:** lauren.smith@usli.com
-
-**Recipient:**
-- **Contact:** Harper Employee (generic title - specific name not provided)
-- **Email:** submissions@harperinsure.com
-- **Organization:** Harper Global Enterprises, Inc.
-
----
+- **Sender/Carrier Contact:** Lauren Smith
+- **Sender Email:** lauren.smith@usli.com
+- **Sender Role:** USLI Representative
+- **Recipient:** Harper Employee (specific name not provided)
+- **Recipient Email:** submissions@harperinsure.com
+- **Contact Method:** Email or direct contact with underwriter (listed in attachments)
 
 ## Conversation Context
 
-**Email Purpose:**
-- Delivery of a formal insurance quote from USLI carrier for Lakeview Junction Bar & Grill
+- **Main Purpose:** Delivery of insurance quote for Lakeview Junction Bar & Grill
+- **Quote Status:** Quote ready for review
+- **Documents Attached:** Two versions of quote letter (carrier and applicant versions)
+- **Portal Access:** Quote summary available online at https://portal.usli.example/quote/MCP025D9XXX
+- **Tone/Sentiment:** Professional, courteous, standard carrier communication
 
-**Key Details:**
-- Quote submission is complete and ready for review
-- Attachments included (carrier and applicant versions of quote letter)
+## Action Items
 
-**Tone/Sentiment:**
-- Professional and courteous
-- Standard/routine quote delivery
+### For Harper (Broker):
+- Review attached quote letters (both versions)
+- Verify all attachments were received; contact Lauren Smith if any are missing
+- Present quote to Lakeview Junction Bar & Grill client
+- Address any client questions
+- Determine next steps (acceptance, counter-proposal, or continued shopping)
 
-**Action Items for Harper:**
-1. Review attached quote documents (both carrier and applicant versions)
-2. Access detailed quote summary via portal link
-3. Contact Lauren Smith with any questions or clarifications needed
-4. Alert USLI if any attachments are missing
+### For USLI/Carrier:
+- None explicit; standing by for Harper's response
 
-**Action Items for Customer:**
-- None explicitly stated; awaiting Harper's review and next steps
+## Follow-Up Timeline
 
-**Follow-Up Timeline:**
-- None specified; appears to be awaiting Harper's response/request for clarification if needed
+- **No specific deadline mentioned** - implies standard quote review period applies
+- Further communication needed if attachments are missing or questions arise
 
-**Outstanding Information:**
-- Premium amounts, deductibles, and coverage limits (contained in attached documents, not in email
+---
+
+**Note:** Critical premium amounts, deductibles, coverage limits, and other specific policy details are in the attached quote letter and portal link, not in this

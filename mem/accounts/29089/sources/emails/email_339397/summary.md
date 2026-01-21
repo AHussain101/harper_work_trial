@@ -6,49 +6,48 @@
 **From:** daniel.park@harperinsure.com
 **To:** marisol.gomez@regalfreights.com
 
-# Insurance Intake Summary: Regal Freight Logistics
+# Email Summary: Regal Freight Logistics Insurance Intake
 
 ## Business Details
 - **Company Name:** Regal Freight Logistics
 - **Industry:** Freight/Logistics
-- **Status:** Lead intake received, shopping phase initiated
+- **Status:** Lead intake received and logged into system
+- **Coverage Shopping:** In progress with carrier partners
 
 ## Personal Details
 - **Contact Name:** Marisol Gomez
 - **Contact Email:** marisol.gomez@regalfreights.com
-- **Harper Agent:** Daniel Park (daniel.park@harperinsure.com)
+- **Harper Representative:** Daniel Park (daniel.park@harperinsure.example)
 
 ## Conversation Context
 
 ### Main Topic
-- Initial intake confirmation for new prospect account
-- Beginning carrier shopping process
+- Initial intake confirmation for new business lead (Regal Freight Logistics)
+- Notification that account shopping process has begun
 
 ### Key Actions Completed
-- Lead logged in Harper's system
-- Account confirmed with client
+- Lead confirmed and logged by Harper Insurance
+- Account submitted to carrier partners for quote shopping
 
-### Pending Actions
+### Action Items for Harper
+- Obtain and review carrier quotes within 24-48 hours
+- Prepare update communication for Marisol
 
-**For Harper:**
-- Shop account with carrier partners
-- Provide quote update to client within 24-48 hours
+### Action Items for Customer (Marisol/Regal Freight)
+- Be prepared to upload additional documents if needed via portal link
+- Await quote update within 24-48 hours
 
-**For Client (Marisol Gomez):**
-- Upload any additional documents via portal if needed
-- Await quote updates from Harper
-
-### Timeline
-- **Email Date:** December 4, 2025
-- **Expected Update:** Within 24-48 hours
-
-### Important Resources
+### Important Links/Resources
 - **Document Upload Portal:** https://portal.harperinsure.example/upload
 
 ### Tone/Sentiment
-- Professional, friendly, efficient
-- Client appears responsive and cooperative
+- Professional and efficient
+- Positive/confirmatory
+- Reassuring timeline provided
+
+### Follow-Up Timeline
+- **Expected Next Contact:** 24-48 hours (quote update)
 
 ---
 
-**Note:** Limited details available in this intake confirmation email. Additional business specifics (employee count, revenue, coverage needs, premium amounts, deductibles, limits, claims history, renewal dates, etc.) will likely be provided in follow-up communications or uploaded documents.
+**Note:** No specific coverage types, premium amounts, deductibles, limits, or claims history were mentioned in this email. This appears to be an initial confirmation stage. Additional details will likely emerge when quotes are provided or documents are uploaded.

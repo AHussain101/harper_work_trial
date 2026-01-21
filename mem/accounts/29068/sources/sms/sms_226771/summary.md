@@ -6,37 +6,36 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Quotes Pending**: Waiting for carrier responses on insurance quotes
-- **Number of Carriers**: Multiple carriers involved (plural "carriers")
-- **Timeline**: Expected carrier response within 48-72 hours
+- **Coverage Status**: Quotes pending from carriers
+- **Timeline**: Awaiting carrier responses for quote delivery
 
 ## Personal Details
 - **Contact Name**: Scott
-- **Communication Method**: Email (quotes will be sent via email)
+- **Preferred Communication Method**: Email (for quote delivery)
 
 ## Conversation Context
-- **Main Topic**: Following up on insurance quote requests
-- **Purpose**: Confirming that quotes will be sent once carriers respond
-- **Status**: Quotes not yet received from carriers - pending response
-- **Key Message**: Managed expectation for delivery timeline
+- **Main Topic**: Follow-up on insurance quotes
+- **Purpose**: Confirming next steps after quote request
+- **Key Message**: Quotes will be sent via email once carriers respond
 
 ### Action Items for Harper
-- [ ] Monitor for carrier responses
-- [ ] Send quotes to Scott via email once received from carriers
-- [ ] Complete delivery within 48-72 hour window
+- Send email quotes to Scott once carriers respond
+- Monitor carrier responses and compile quotes
 
 ### Action Items for Customer (Scott)
-- [ ] Expect email with quotes within 48-72 hours
-- [ ] Review quotes upon receipt
+- Expect email with quotes within 48–72 hours
+- Monitor email for quote delivery
 
-## Follow-up Timeline
-- **Expected Update**: Within 48-72 hours from message date (sent 2025-12-05)
-- **Expected Delivery Window**: By approximately 2025-12-08
+### Follow-up Timeline
+- **Expected Update**: 48–72 hours from message date (by approximately 2025-12-08)
 
-## Tone/Sentiment
-- **Professional and reassuring** - Managing expectations clearly with specific timeline
-- **Responsive** - Quick acknowledgment of Scott's previous request
+### Tone/Sentiment
+- Professional and reassuring
+- Clear timeline provided
 
 ---
 
-**Note**: This appears to be a brief status update message. More context from prior SMS/emails would clarify what specific coverage or policies Scott requested quotes for.
+## Notes
+- This appears to be a confirmation message following a prior quote request conversation (not included in this SMS)
+- No specific policy types, coverage amounts, or carrier names mentioned in this message
+- No urgency flags present

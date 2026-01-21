@@ -6,31 +6,44 @@
 # SMS Summary for Harper
 
 ## Conversation Context
-- **Direction:** Outgoing message from Harper to customer
-- **Date/Time:** December 4, 2025 at 9:11 PM
-- **Main Topic:** Setting expectations for next steps in the insurance quote/coverage process
-- **Tone/Sentiment:** Professional, helpful, reassuring
 
-## Key Message Points
-- Carrier options are being reviewed/processed
-- An agent will contact the customer by phone to finalize coverage once options are received
-- Customer is encouraged to reach out with any questions before the agent call
-- Multiple contact methods available: text or call
+### Main Topic/Purpose
+- Outbound message to customer confirming next steps in the insurance quote/coverage process
+- Setting expectations for follow-up communication
 
-## Action Items for Customer
-- Await call from agent to finalize coverage
-- Contact Harper with any questions before agent call (via text or phone)
+### Key Message
+- Carrier options have been submitted for review
+- An agent will contact the customer by phone to finalize coverage details once review is complete
 
-## Action Items for Harper
-- Review carrier options
-- Coordinate with agent to schedule call with customer to finalize coverage
-- Ensure agent has customer's contact information for follow-up call
-- Monitor for customer questions/follow-ups via text or phone
+### Questions & Answers
+- No questions asked in this message
+- This is a one-way informational/confirmational message
 
-## Follow-up Timeline
-- **Next Step:** Agent call (timeline not specified in message)
-- **Customer Contact Methods:** Phone or text (preferred methods indicated)
+### Communication Preferences Indicated
+- Customer can reach out via text or phone if questions arise before agent call
+- Agent will follow up via phone call
+
+## Action Items
+
+### For Harper/Team
+- **Pending:** Review carrier options (appears to be in progress)
+- **Pending:** Schedule agent call with customer to finalize coverage
+- **Monitor:** Watch for customer text or call inquiries before formal follow-up
+
+### For Customer
+- **Wait for contact:** Expect agent phone call once carrier review is complete
+- **Optional:** Reach out proactively via text or phone if questions arise during waiting period
+
+## Timeline & Next Steps
+- **Current Status:** Awaiting carrier review
+- **Next Step:** Agent phone call (timeline not specified - "when we receive and review")
+- **Follow-up:** No specific deadline mentioned; appears to be pending internal review completion
+
+## Tone/Sentiment
+- Professional, reassuring
+- Friendly and accommodating (offering multiple contact methods)
+- Not urgent
 
 ---
 
-**Note:** This appears to be a template or standard follow-up message. No specific business details, personal identifying information beyond "you/customer," policy details, carriers, or premium amounts were mentioned in this SMS.
+**Note:** This message lacks specific business/policy details, customer name, contact information, and timeline specifics. If this is a continuation of prior conversations, cross-reference previous SMS or notes for complete context.

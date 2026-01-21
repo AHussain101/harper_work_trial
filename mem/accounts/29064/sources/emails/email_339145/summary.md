@@ -6,62 +6,60 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** contact@summitbiodev.com
 
-# Harper Insurance - Summit BioDevices Quote Follow-Up Summary
+# Email Summary: Summit BioDevices Insurance Quote Update
 
 ## Business Details
 
 **Company Information:**
-- Company Name: Summit BioDevices
-- Industry: Medical devices/biotech
-- Business Type: Device manufacturing/development with lab operations
+- Company name: Summit BioDevices
+- Industry: Medical device/biotech manufacturing
+- Business type: Device manufacturer with lab operations
 
-**Coverage Needs & Policy Status:**
+**Coverage & Application Status:**
 - Application submitted to underwriter network
-- Expected preliminary quotes timeline: 48–72 hours from email date (by 12/7/2025)
-- Specific coverage limits and requirements may be client-specific (awaiting documentation)
-- Contract/tenant Certificate of Insurance (COI) requirements mentioned as possible need
+- Expected timeline: Initial interest and preliminary quotes within 48–72 hours
+- Contract/tenant COI (Certificate of Insurance) requirements mentioned as potential need
+- Specific coverage limits to be determined based on client needs
 
 **Documents Requested:**
 - Prior insurance loss runs (last 3 years)
-- Contract or tenant COI requirements documentation
+- Contract/tenant COI requirements documentation
+- Specific coverage limit requirements (if applicable)
 - Product specification sheets
-- Lab handling procedures
-- Documents to be uploaded to secure portal: https://portal.harperinsure.com/upload/summit-xxxx
-
----
+- Basic lab handling procedures
+- Upload portal provided: https://portal.harperinsure.com/upload/summit-xxxx
 
 ## Personal Details
 
-**Primary Contact:**
-- Name: Becca (last name not provided in email)
-- Email: contact@summitbiodev.com
-- Harper Representative: Jordan Kim
-  - Title: Insurance Broker (Harper Insurance)
-  - Phone: +1 (470) 731-4971
-  - Email: jordan.kim@harperinsure.com
+**Contact Information:**
+- Name: Becca (first name only, full name not provided)
+- Company email: contact@summitbiodev.com
+- Harper contact: Jordan Kim
+- Jordan's phone: +1 (470) 731-4971
+- Jordan's email: jordan.kim@harperinsure.com
 
-**Communication Preferences:**
-- Client has secure portal access for document uploads
-- Option to reply via email for assistance or questions
-
----
+**Communication Notes:**
+- Becca recently had an initial consultation call with Harper team
+- Collaborative tone; client willing to provide additional documentation
+- Jordan offering assistance with document retrieval if needed
 
 ## Conversation Context
 
 **Main Purpose:**
-- Follow-up email after initial consultation call with Becca regarding insurance quote for Summit BioDevices
+- Follow-up email after initial consultation call regarding commercial insurance quote for Summit BioDevices
 
-**Key Information Shared:**
-- Becca provided overview of device and operations during call
-- Application already submitted to Harper's underwriter network
+**Key Points Discussed:**
+- Reviewed device overview and client operations during call
+- Application forwarded to underwriter network
+- Preliminary quotes expected within 48–72 hours
 
-**Action Items for Customer (Becca/Summit BioDevices):**
-- [ ] Upload prior insurance loss runs (last 3 years) to secure portal
-- [ ] Submit contract/tenant COI requirements or description
-- [ ] Provide product specification sheets
-- [ ] Provide lab handling procedures documentation
-- [ ] Contact Harper if assistance needed gathering documents
+**Action Items for Customer (Becca):**
+- [ ] Upload prior insurance loss runs (last 3 years) via secure portal
+- [ ] Provide contract/tenant COI requirements or written description
+- [ ] Submit product specification sheets
+- [ ] Submit basic lab handling procedures
+- [ ] Contact Jordan if assistance needed gathering/retrieving documents
 
 **Action Items for Harper (Jordan Kim):**
-- [ ] Monitor for preliminary quotes from underwriter network (expected within 48–72 hours)
-- [ ] Be prepared to assist
+- [ ] Monitor underwriter responses for preliminary quotes (48–72 hour window)
+- [ ] Follow up with Becca if documents not received within

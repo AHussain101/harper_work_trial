@@ -6,32 +6,28 @@
 **From:** daniel.park@harperinsure.com
 **To:** marisol.gomez@regalfreights.com
 
-# Insurance Application Summary for Harper
+# Insurance Application Summary - Regal Freight Logistics, Inc.
 
 ## Business Details
 
 **Company Information:**
-- Company Name: Regal Freight Logistics, Inc.
+- Company name: Regal Freight Logistics, Inc.
 - Industry: Freight/Logistics
-- Business Type: Freight logistics company
+- Type: Transportation/Freight Services
 
-**Coverage & Application Status:**
-- Application Status: Submitted to carrier network
-- Expected Timeline: Initial carrier responses expected shortly
-- Policy Type: Not specified (appears to be general commercial coverage for freight logistics)
-- Premium, Deductibles, Limits: Not mentioned in email
+**Coverage & Underwriting:**
+- Application status: Submitted to carrier network
+- Expected timeline: Initial carrier responses pending (imminently)
+- Policy types: Not explicitly specified (inferred: likely Commercial Auto/Liability for freight operations)
+- Premium amounts: Not yet discussed
+- Deductibles/Limits: Not yet specified
+- Claims history: Requested (loss runs - last 3 years)
 
 **Documents Requested:**
-- Loss runs (last 3 years, if available)
-- Certificate of insurance (if required by contract)
-- Payroll records or driver rosters
-- Submission Method: Secure portal upload - https://portal.harperinsure.example/upload
-
-**Claims History:**
-- Loss runs pending (to be provided by client)
-
-**Renewal/Effective Dates:**
-- Not mentioned in email
+- Loss runs (last 3 years, if available) - **PENDING**
+- Certificate of insurance (if required by contract) - **PENDING**
+- Payroll or driver rosters - **PENDING**
+- Upload method: Secure portal at https://portal.harperinsure.example/upload
 
 ---
 
@@ -39,35 +35,33 @@
 
 **Primary Contact:**
 - Name: Marisol Gomez
+- Title/Role: Not specified (likely decision-maker or insurance contact)
 - Email: marisol.gomez@regalfreights.com
-- Role/Title: Not specified (likely decision-maker or HR/Operations contact)
+- Preferred contact method: Email and text (per Daniel's offer)
 
-**Harper Representative:**
+**Harper Insurance Representative:**
 - Name: Daniel Park
-- Title: Harper Insurance (Agent/Broker)
-- Email: daniel.park@harperinsure.com
+- Title: Insurance Agent/Broker
 - Phone: (470) 731-49XX
-- Contact Method: Email or text preferred per Daniel's offer
+- Email: daniel.park@harperinsure.com
+- Website: www.harperinsure.com
 
 ---
 
 ## Conversation Context
 
-**Main Purpose:**
-- Follow-up on insurance application submission for Regal Freight Logistics
-- Request for supporting documentation to expedite carrier underwriting
+**Purpose/Topic:**
+- Follow-up to recent phone conversation regarding insurance quote for Regal Freight Logistics
+- Application submission confirmation and document collection
 
-**Key Points:**
-- Recent phone conversation occurred (referenced: "thank you for speaking with us today")
-- Application actively submitted to carrier network
-- Timeline is expedited if documents are provided promptly
+**Key Actions Completed:**
+- ✅ Initial phone conversation held between Daniel and Marisol
+- ✅ Application submitted to carrier network
 
 **Action Items for Customer (Marisol):**
-- [ ] Upload loss runs (last 3 years) to secure portal
-- [ ] Upload certificate of insurance (if contract-required)
-- [ ] Upload payroll/driver roster records to secure portal
-- Contact Daniel if assistance needed obtaining documents
+- Upload loss runs (last 3 years) to secure portal
+- Upload certificate of insurance (if contract-required)
+- Upload payroll or driver roster information
+- Contact Harper team if assistance needed obtaining documents
 
-**Action Items for Harper (Daniel):**
-- Monitor carrier responses from submitted application
-- Provide support
+**Action Items for Harper (Daniel)

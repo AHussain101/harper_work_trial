@@ -4,68 +4,70 @@
 **Duration:** 4m 12s
 **Direction:** Incoming
 
-# Call Summary - Harper's Insurance Broker Notes
+# Call Summary - Harper Insurance Broker
 
-## Call Details
-- **Direction:** Incoming call
+## Call Metadata
+- **Call Type:** Incoming
+- **Date:** December 4, 2025
+- **Time:** 8:25 PM - 8:29 PM UTC
 - **Duration:** 4 minutes 12 seconds
-- **Date & Time:** December 4, 2025 at 8:25 PM UTC
-- **Completion Time:** 8:29 PM UTC
 
 ---
 
-## Customer Information
-- **Contact Name:** Not specified in call transcript
-- **Role/Title:** Not specified
-- **Phone Number:** Not provided
-- **Email:** Not provided
-- **Preferred Contact Method:** Callback requested
-- **Availability:** Requested callback at 5:00 PM (customer's local time)
+## Personal Details
+
+### Contact Information
+- **Contact Method:** Phone (incoming call)
+- **Preferred Contact Method:** Callback
+- **Callback Time Requested:** 5:00 PM (customer local time)
+
+### Personality Notes
+- **Tone/Sentiment:** Frustrated
+- **Communication Style:** Direct, expressed concern about process efficiency
+- **Key Concern:** Frustration with repeating information multiple times during the insurance process
 
 ---
 
-## Business Details
-- **Company Name:** Not mentioned
-- **Industry/Business Type:** Not specified
-- **Number of Employees:** Not mentioned
-- **Revenue:** Not mentioned
-- **Years in Operation:** Not mentioned
-- **Coverage Needs:** Not specified
-- **Policy Types:** Not specified
-- **Premium Amounts:** Not mentioned
-- **Deductibles/Limits:** Not mentioned
-- **Carriers/Quotes:** Not mentioned
+## Conversation Context
 
----
+### Main Topic/Purpose
+- Document review status follow-up
+- Customer experiencing frustration with repeated information requests
 
-## Current Situation & Status
-- **Main Issue:** Document review in progress
-- **Status:** Documents under review; escalation initiated for prompt handling
-- **Documents Requested:** Unspecified - agent confirmed required documents but details not provided in transcript
+### Key Issues Discussed
+- Customer had to provide information multiple times
+- Request for status update on document review process
+- Concern about process efficiency and coordination
 
----
-
-## Customer Sentiment & Concerns
-- **Tone:** Frustrated
-- **Primary Complaint:** Customer expressed frustration about having to repeat information multiple times
-- **Communication Style:** Direct; customer is impatient and prefers efficiency
-- **Agent Response:** Apologized for repetition and reviewed current status
+### Decisions Made
+- ✅ Callback scheduled for 5:00 PM (customer local time)
+- ✅ Agent committed to escalating case for prompt handling
+- ✅ Customer agreed to wait for callback once documents are reviewed
 
 ---
 
 ## Action Items
 
-### For Harper:
+### For Harper (Agent)
 - [ ] Confirm all required documents are complete
 - [ ] Submit documents to underwriting
-- [ ] Schedule callback at 5:00 PM (customer's local time)
-- [ ] Ensure prompt handling given customer escalation
-- [ ] Obtain missing customer details (name, company, contact info, etc.) for records
+- [ ] Schedule and execute callback at 5:00 PM (customer local time)
+- [ ] Escalate case internally to ensure prompt handling
+- [ ] Consolidate customer information to prevent future repetition
 
-### For Customer:
-- [ ] Awaiting callback at 5:00 PM to confirm document status
-- [ ] Ensure all required documentation is submitted and complete
+### For Customer
+- [ ] Await callback at 5:00 PM (local time)
+- [ ] Be available to discuss document status and next steps
 
 ---
 
 ## Follow-Up Timeline
+- **Immediate Action:** Confirm documents and submit to underwriting
+- **Next Contact:** Callback at 5:00 PM (customer local time)
+- **Status:** Pending document review completion
+
+---
+
+## Notes for Future Reference
+- **Priority:** Medium-High (customer expressed frustration - requires attentive follow-up)
+- **Escalation Status:** Case escalated for prompt handling

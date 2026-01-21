@@ -4,51 +4,55 @@
 **Duration:** 1m 38s
 **Direction:** Outgoing
 
-# Insurance Call Summary for Harper
+# Call Summary: Boardman Diner & Café - General Liability Quote Follow-Up
 
 ## Business Details
 - **Company Name:** Boardman Diner & Café
-- **Business Type:** Diner & Café (Food Service/Restaurant)
-- **Coverage Type:** General Liability
-- **Prior Quote Amount:** ~$15,000 (deemed too high by client)
-- **Status:** Quote to be re-run with corrected information
+- **Business Type:** Diner/Café (Food Service/Restaurant)
+- **Industry:** Food Service/Hospitality
+- **Coverage Needed:** General Liability
+- **Premium Information:**
+  - Previous quote: ~$15,000 (client indicated this seemed high/unexpected)
 - **Documents Needed:**
   - Updated payroll figures
   - Loss runs/claims history
 
 ## Personal Details
-- **Contact Name:** Not provided in transcript
-- **Contact Role/Title:** Owner/Decision-maker (implied)
-- **Phone Number:** Not provided
-- **Email:** Not provided
-- **Preferred Contact Method:** Not specified
-- **Personality Notes:** 
-  - Cooperative and willing to work through correction process
-  - Concerned about quote amount being higher than expected
-  - Responsive and agreeable to providing additional documentation
-  - Brief, professional communication style
+- **Contact Name/Title:** Not provided (business owner)
+- **Contact Method:** Phone
+- **Communication Style:** Cooperative, willing to provide corrected information
+- **Availability:** Flexible - agreed to send documentation
 
 ## Conversation Context
-- **Call Purpose:** Follow-up on incomplete general liability application; client reported prior quote was likely based on incorrect information
-- **Main Issue:** Previous quote (~$15k) seemed unexpectedly high to client; client suspects earlier information provided was inaccurate
-- **Key Points Discussed:**
-  - Earlier quote came back much higher than client expected
-  - Client acknowledged providing wrong/incorrect information in initial conversation
-  - Client agreed to provide corrected details for re-quote
-- **Tone/Sentiment:** Cooperative, friendly; client motivated to resolve and get accurate pricing
 
-## Action Items for Harper
-- [ ] Re-run quote with corrected exposures once client provides information
-- [ ] Request and collect updated payroll figures from client
-- [ ] Request and collect loss runs/claims history from client
-- [ ] Follow up with client after re-pricing submission
-- [ ] Document corrected information in application
+### Main Topic
+Follow-up call regarding incomplete general liability insurance application for Boardman Diner & Café. Client reported that initial quote (~$15k) was higher than expected and indicated previous information provided may have been inaccurate.
 
-## Action Items for Client (Boardman Diner & Café)
-- [ ] Provide updated/corrected payroll figures
-- [ ] Provide recent loss runs/claims history
-- [ ] Send documentation to Harper agent
+### Key Points Discussed
+- Client previously spoke with Harper agent but provided incorrect information
+- Initial quote of approximately $15,000 came back higher than client's expectations
+- Client acknowledged the need to provide corrected details
+- Client is willing to proceed with re-quoting process
 
-## Follow-up Timeline
-- Next steps pending receipt of corrected payroll and loss runs
-- Follow-up timing not specified; recommen
+### Decisions Made
+- ✅ Client agreed to provide corrected exposures and documentation
+- ✅ Harper will re-run quote with updated information
+
+### Action Items for Harper
+- [ ] Re-run quote with corrected exposures
+- [ ] Obtain and review updated payroll figures from client
+- [ ] Obtain and review loss runs/claims history from client
+- [ ] Re-price submission
+- [ ] Follow up with client with revised quote
+
+### Action Items for Client (Boardman Diner & Café)
+- [ ] Send updated payroll figures to Harper
+- [ ] Send loss runs/claims history to Harper
+
+### Next Steps
+- Client to provide corrected payroll and loss run documentation
+- Harper to re-run quote and follow up with revised pricing
+
+### Tone/Sentiment
+- **Client:** Cooperative, positive (willing to correct information and try again)
+-

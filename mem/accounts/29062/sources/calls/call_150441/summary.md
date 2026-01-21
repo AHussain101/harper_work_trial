@@ -8,66 +8,63 @@
 
 ## Business Details
 
-**Company Information**
-- Company Name: QuickAssist Roadside Services
-- Industry: Mobile Roadside Assistance
-- Business Type: Service-based, mobile-only operations
-- Years in Operation: Under 1 year (new business)
-- Number of Employees: 1 (owner-operated)
+**Company Information:**
+- **Business Name:** QuickAssist Roadside Services
+- **Industry:** Mobile Roadside Assistance
+- **Business Stage:** New business (under one year in operation)
+- **Ownership Structure:** Solo operator (owner operates the business alone)
+- **Operating Model:** Mobile-only, app-based dispatch
 
-**Coverage & Policy Details**
-- Coverage Type Requested: General Liability
-- Policy Limits: Standard minimum GL limits as required by marketplace
-- Service Offerings:
-  - Tire changes
-  - Jump starts
-  - Lockout services
-  - Flat tire repairs
-- **Exclusions/Limitations:**
-  - No towing services
-  - No vehicle storage
-  - No overnight vehicle holding
-  - No racing exposures
-  - No fuel or tire sales
+**Services Provided:**
+- Tire changes
+- Jump starts
+- Vehicle lockout assistance
+- Flat tire repair
+- **Services NOT provided:** Towing, vehicle storage, overnight vehicle holding, fuel/tire sales, racing-related services
 
-**Safety Practices**
-- Uses traffic cones on-site
-- Deploys safety lights on service vehicle
-- All work performed on-site, mobile basis
+**Coverage Needs:**
+- **Policy Type:** General Liability (GL)
+- **Coverage Limits:** Standard minimum GL limits as required by marketplace
+- **Premium:** Not quoted yet (pending underwriting)
+- **Deductibles:** Not discussed
+- **Claims History:** Not discussed
 
-**Documents & Next Steps**
-- Customer information being submitted to underwriting for formal quote
-- No documents were exchanged during call (underwriting phase)
+**Safety Practices:**
+- Deploys traffic cones at job sites
+- Safety lights mounted on service vehicle
+- On-site service only (no facility-based operations)
 
 ---
 
 ## Personal Details
 
-**Contact Information**
-- Name: Daniel Martinez
-- Role/Title: Owner/Operator
-- Preferred Contact Methods: Call or text
-- Contact Hours: 7:00 AM – 6:00 PM
-- Phone Number: Not provided in transcript
-- Email: Not provided in transcript
+**Primary Contact:**
+- **Name:** Daniel Martinez
+- **Role/Title:** Owner/Operator of QuickAssist Roadside Services
+- **Phone:** Not explicitly provided (but prefers contact via call or text)
+- **Email:** Not provided
+- **Preferred Contact Method:** Call or text
+- **Availability:** 7:00 AM – 6:00 PM (preferred contact window)
 
-**Communication Style & Preferences**
-- Tone: Professional, cooperative, concise
-- Receptive to process and next steps
-- No expressed concerns or objections
+**Personality/Communication Style:**
+- Cooperative and responsive
+- Brief, direct answers to underwriting questions
+- Professional tone
 
 ---
 
 ## Conversation Context
 
-**Call Purpose**
-- Incoming inquiry for General Liability insurance quote for new mobile roadside assistance business
+**Call Details:**
+- **Direction:** Incoming
+- **Duration:** 7 minutes 53 seconds
+- **Agent:** Sophia (Harper Insurance)
+- **Tone/Sentiment:** Professional, straightforward, positive
 
-**Key Questions Asked & Answered**
-1. ✓ Coverage type needed? → General Liability
-2. ✓ Operates alone? → Yes, solo operator via mobile app
-3. ✓ Vehicle storage or overnight holding? → No
-4. ✓ Racing exposures or fuel/tire sales? → No
-5. ✓ Safety protocols in place? → Yes (cones and safety lights)
+**Purpose:**
+- Initial inquiry and qualification for General Liability insurance for a new mobile roadside assistance business
 
-**Decisions Made**
+**Key Questions Asked & Answered:**
+1. ✅ Does the business operate solo? → Yes
+2. ✅ Is there vehicle storage or overnight holding? → No
+3. ✅ Are there racing

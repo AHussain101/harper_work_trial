@@ -5,44 +5,54 @@
 
 # SMS Summary for Harper
 
+## Message Overview
+- **Direction:** Incoming
+- **Date/Time:** December 4, 2025 at 11:06 PM
+- **Tone/Sentiment:** Professional, straightforward, procedural
+
+---
+
 ## Business Details
-- **No business details mentioned**
+- **Documents:** Customer has uploaded documents (specific type/quantity not detailed in this message)
+- **Status:** Documents have been submitted and are awaiting confirmation of receipt
+
+---
 
 ## Personal Details
-- **Contact name/role:** Not identified in this message
-- **Communication preference:** SMS
-- **Tone/Personality notes:** Professional, direct, concise
+- **Contact Name:** Not provided in this SMS
+- **Communication Style:** Direct, concise, action-oriented
+- **Preference:** Expects acknowledgment/confirmation of document receipt
+
+---
 
 ## Conversation Context
 
 ### Main Topic
-- Customer confirmation of document upload completion
+- Document submission and receipt confirmation
 
-### Key Actions & Decisions
+### Key Actions
+**Customer Action Items:**
+- ✅ Uploaded documents (completed)
+- Awaiting confirmation
 
-#### Customer Action Items (Completed)
-- ✅ Uploaded documents (completion confirmed in this message)
-
-#### Customer Action Items (Pending)
-- Awaiting confirmation from Harper that documents were received
-
-#### Harper Action Items (Required)
-- **URGENT:** Download/access uploaded documents
-- **URGENT:** Review uploaded documents for completeness
-- **REQUIRED:** Send confirmation message to customer once documents are received and reviewed
-- Identify what documents were uploaded and verify they match what was requested
+**Harper's Action Items:**
+- ⚠️ **PRIORITY:** Confirm receipt of uploaded documents
+- Verify all documents were received completely
+- Review submitted documents for completeness
+- Communicate confirmation back to customer
 
 ### Follow-up Timeline
-- **Expected response time:** Should be prompt (customer is waiting for confirmation)
-- **Sentiment:** Neutral/professional
-- **Urgency level:** Medium - customer is actively following up on document submission
-
-### Missing Context
-- **Not specified:** What documents were uploaded
-- **Not specified:** What policy/account this relates to
-- **Not specified:** Previous conversation context about document request
+- **Expected Response:** Should confirm receipt promptly to maintain customer satisfaction
+- No specific deadline mentioned, but timely confirmation is implied as important
 
 ---
 
-## ⚠️ Notes for Harper
-This appears to be a follow-up message. You likely previously requested documents from this customer. Check your communication history for the original request to understand what documents should have been uploaded.
+## Missing Information
+- **Specific documents uploaded:** Not specified (could be loss runs, financial statements, applications, etc.)
+- **Customer identity/contact details:** Not included in this message
+- **Previous context:** Refers to prior conversation about document submission
+
+---
+
+## Notes for Harper
+This appears to be a follow-up to a previous conversation where documents were requested. Customer is waiting for acknowledgment, so respond promptly to maintain engagement.

@@ -4,13 +4,12 @@
 **Duration:** 0m 17s
 **Direction:** Outgoing
 
-# Call Summary for Harper
+# Call Summary - December 4, 2025
 
 ## Call Details
-- **Direction:** Outgoing call from Harper
-- **Date:** December 4, 2025
-- **Time:** 20:38:32 UTC
+- **Direction:** Outgoing (Harper initiated)
 - **Duration:** 17 seconds
+- **Date & Time:** December 4, 2025 at 8:38 PM
 - **Status:** Completed
 
 ---
@@ -18,55 +17,46 @@
 ## Contact Information
 - **Harper's Name:** Avery
 - **Role:** Insurance Broker/Agent
+- **Client Name:** Not specified in transcript
 
 ---
 
 ## Business Context
-
-### Current Status
-- **Stage:** Underwriting completed
-- **Action Taken:** Underwriters have finished their review
-
-### Documents & Next Steps
-- **Documents Sent:** Policy documents emailed to client
-- **Client Action Required:** 
-  - Review underwriting email
-  - Confirm signature on e-docs (electronic documents)
-  - Provide any necessary signatures or confirmations
+- **Purpose of Call:** Notification that underwriting review has been completed
+- **Status:** Underwriting process has moved forward and been completed
 
 ---
 
-## Conversation Summary
-
-### Main Purpose
-- Notification call to inform client that underwriting review is complete
-- Delivery of policy documents via email
-- Request for client to review and execute required signatures
-
-### Key Points Discussed
-1. Underwriting process has moved forward successfully
-2. Policy documents have been emailed to client
-3. Client acknowledgment received
-
-### Tone/Sentiment
-- **Positive/Neutral** - Routine notification call, no concerns indicated
+## Key Details Discussed
+- Underwriters have completed their review of the application/policy
+- Policy documents have been emailed to the client
+- Client acknowledged receipt of information
+- Client will review the emailed underwriting documents
 
 ---
 
-## Action Items
+## Documents & Action Items
 
-### For Harper/Avery
-- ☐ Monitor for client's e-signature confirmation on policy documents
-- ☐ Follow up if signatures/confirmations not received within reasonable timeframe
+### For Client:
+- ✅ **Review underwriting email** - sent by Harper/underwriting team
+- ✅ **Review policy documents** - emailed to client
+- ✅ **Sign e-docs** - confirm signature on electronic documents as needed
+- ⏳ **Respond with any questions or required confirmations**
 
-### For Client
-- ☐ Review the underwriting email
-- ☐ Review policy documents
-- ☐ Confirm signature on e-docs
-- ☐ Return any required confirmations or signatures
+### For Harper (Avery):
+- ⏳ Wait for client confirmation on e-doc signatures
+- ⏳ Follow up if client doesn't respond within expected timeframe
 
 ---
 
-## Notes
-- Very brief call (17 seconds) - appears to be a notification/confirmation check-in
-- Client was receptive and acknowledged the action items
+## Tone & Sentiment
+- **Professional and straightforward**
+- No complications or concerns noted
+- Process appears to be progressing normally
+
+---
+
+## Next Steps
+- Client will review underwriting email and documents
+- Client will confirm signature on e-docs
+- Await client response before proceeding to policy issuance

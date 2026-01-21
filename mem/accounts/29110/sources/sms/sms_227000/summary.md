@@ -3,44 +3,40 @@
 **Date:** 2025-12-04T23:33:10+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# Insurance Quote Submission Summary
 
 ## Business Details
-- **Coverage Type**: Not specified - awaiting documentation
+- **Coverage Type**: Not specified (file submitted to market for underwriting)
 - **Documents Requested**:
   - Loss runs
   - Testing reports
-- **Portal/Process**: File submitted to market for underwriting review
+- **Required Action**: Upload to carrier portal before underwriting can proceed
 - **Portal Link**: https://portal.example-insure.com/uploads/quote-xyz
-- **Quote Reference**: quote-xyz
 
 ## Personal Details
 - **Contact Name**: Neil
-- **Broker Contact**: Harper Employee (name not specified in message)
-- **Communication Method**: SMS
+- **Harper Contact**: Harper Employee (name not specified)
+- **Harper Company**: Harper Insurance
+- **Preferred Contact Method**: SMS (this message)
 
 ## Conversation Context
-- **Main Topic/Purpose**: Request for customer to submit required documentation to complete underwriting process
+- **Main Topic**: File submission to insurance market and document request
+- **Purpose**: Moving forward with quote process; underwriter review pending
 - **Key Actions Required**:
-  - Neil must upload loss runs to portal
-  - Neil must upload testing reports to portal
-- **Status**: File has been submitted to market; awaiting customer documentation before underwriters can proceed
-- **Next Steps**: 
-  - Underwriting will proceed once documents are received and reviewed
-  - No specific timeline provided
-- **Tone/Sentiment**: Professional, procedural, actionable
+  - **Neil's Action Items** (URGENT):
+    - Upload loss runs to portal
+    - Upload testing reports to portal
+    - Complete upload before underwriting can proceed
+  - **Harper's Action Items**:
+    - Monitor portal for document upload
+    - Follow up with Neil if documents not received by deadline
+    - Submit to underwriters once documents are received
+- **Next Steps**: Underwriting review will proceed once documents are uploaded
+- **Tone/Sentiment**: Professional, clear instruction; time-sensitive
+- **Status**: **PENDING** — waiting on Neil to upload required documents
 
-## Action Items
-
-### For Customer (Neil):
-- [ ] Upload loss runs to portal at https://portal.example-insure.com/uploads/quote-xyz
-- [ ] Upload testing reports to portal at https://portal.example-insure.com/uploads/quote-xyz
-- [ ] Timeline: ASAP to expedite underwriting
-
-### For Harper:
-- [ ] Monitor portal for document uploads from Neil
-- [ ] Follow up with Neil if documents not received within reasonable timeframe
-- [ ] Review submitted documents and forward to underwriters
-
----
-**Note**: Limited information available; additional context about Neil's business type, coverage needs, and other details would be helpful for complete file management.
+## Missing Information
+- Specific carrier name(s)
+- Quote reference or policy number
+- Deadline for document submission
+- Expected timeline for underwriting decision

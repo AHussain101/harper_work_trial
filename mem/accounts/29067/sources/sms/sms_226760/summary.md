@@ -3,46 +3,52 @@
 **Date:** 2025-12-04T22:03:30.137000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Carrier Quote and Next Steps Notification
-
-## Business Details
-- **Coverage/Documents**: Carrier quote provided
-- **Communication Method**: Email (primary delivery method)
-
-## Personal Details
-- **Contact Status**: Recipient identity not specified in SMS
-- **Preferred Contact Method**: Email (as evidenced by quote delivery method)
+# SMS Summary for Harper
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- Notification that carrier quote and next steps documentation have been emailed to customer
+**Main Topic/Purpose:**
+- Follow-up message confirming that a carrier quote and next steps documentation have been sent via email
+- Request for customer acknowledgment/confirmation of receipt
 
-### Key Actions Taken by Harper
-- ✅ Prepared and sent carrier quote via email
-- ✅ Prepared next steps documentation via email
+**Key Actions:**
+- ✅ Harper Action (Completed): Emailed carrier quote and next steps to customer
+- ⏳ Customer Action (Pending): Review email materials and confirm receipt
 
-### Pending Customer Actions
-- ⏳ Review emailed carrier quote and next steps documentation
-- ⏳ Confirm receipt of email
-
-### Follow-up Timeline
-- Expected response: "when you can" (flexible, non-urgent timeline)
-- No specific deadline mentioned
-
-### Tone/Sentiment
-- **Professional, courteous, and straightforward**
-- Friendly but brief
-- No urgency indicated
+**Tone/Sentiment:**
+- Professional, straightforward, routine follow-up
+- Casual but organized ("Hi —")
 
 ---
 
-## ⚠️ Missing Information
-- **Customer name** - Not identified in SMS
-- **Specific carrier name(s)** - Not mentioned
-- **Policy type/coverage details** - Not specified
-- **Premium amounts or quote specifics** - Not included
-- **Business type/industry** - Not mentioned
-- **Any decision timeline** - Not specified
+## Business Details
 
-**Note for Harper**: This appears to be a brief notification SMS. Reference the original email thread or customer file for complete quote and next steps details.
+- **Carrier Quote:** Sent via email (specific carrier name not mentioned in SMS)
+- **Documents Sent:** 
+  - Carrier quote
+  - Next steps documentation
+- **Status:** Awaiting customer review and confirmation
+
+---
+
+## Personal Details
+
+- **Contact Method:** Email (primary documented method in this exchange)
+- **Communication Preference Note:** Customer can "confirm receipt when you can" suggests flexibility in timing
+
+---
+
+## Outstanding Items
+
+**Pending:**
+- Customer confirmation that email was received
+- Customer review of quote and next steps materials
+- No specific deadline mentioned - appears flexible/at customer's convenience
+
+---
+
+## Notes for Follow-Up
+
+- Monitor inbox for customer's receipt confirmation
+- If no response within reasonable timeframe (suggest 2-3 business days), may need to follow up again
+- Be prepared to discuss next steps once customer confirms receipt and review

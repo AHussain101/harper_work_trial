@@ -5,37 +5,45 @@
 
 # SMS Summary for Harper's Records
 
-## Message Type
-- **Direction:** Outgoing (Harper → Customer)
-- **Date/Time:** December 4, 2025 at 8:45 PM
-- **Purpose:** Contact information confirmation/establishment
+## Business Details
+- **No business details mentioned** in this message
 
-## Content Overview
-This is a service message informing the recipient that they should save Harper's phone number as the primary point of contact for all future insurance-related communications.
+## Personal Details
+- **Contact Method**: SMS/Text messaging established as primary communication channel
+- **Communication Preference**: Customer prefers one clear point of contact
+- **Contact Information**: This specific phone number is the designated line for all future communications
 
-## Key Information
+## Conversation Context
 
-### Communication Protocol
-- **Primary Contact Method:** SMS/Phone
-- **Contact Purpose:** Updates, questions, and insurance quotes
-- **Benefit Stated:** One clear, centralized contact point at Harper
-- **Message Tone:** Professional, helpful, service-oriented
+### Purpose
+- **Main Topic**: Establishing communication protocol and setting expectations for future interactions
 
-## Action Items
+### Key Messages
+- Harper is setting up a dedicated contact number for this customer
+- This number will be used for:
+  - Updates
+  - Questions
+  - Quotes
+  
+### Tone/Sentiment
+- **Professional and organized** - establishing clear boundaries and processes
+- **Proactive** - helping customer understand how they'll be contacted going forward
 
-### For Customer
-- Save the provided phone number to contacts
-- Use this number for all future communications regarding their insurance needs
-- Expect updates, quotes, and responses from this line
+### Action Items
 
-### For Harper
-- Follow up with substantive insurance information using this same contact channel
-- Monitor this line for customer responses and inquiries
-- Maintain consistent communication from this number going forward
+#### For the Customer
+- Save the provided phone number for future reference
+- Use this number as their primary contact point with Harper
+
+#### For Harper
+- Ensure all future communications (updates, questions, quotes) are sent from this specific number
+- Maintain consistency with this single point of contact
+
+### Follow-up Timeline
+- **Ongoing** - This protocol applies to all future interactions
+
+---
 
 ## Notes
-- **Status:** Initial contact establishment
-- **Sentiment:** Professional and welcoming
-- **No specific customer details, business information, or policy details mentioned yet** — this appears to be an introductory/onboarding message
-- No follow-up timeline specified in this message
-- Sets expectation for future detailed communications to come
+- This appears to be an introductory/setup message setting expectations for the business relationship
+- **No specific business coverage, quotes, or deadlines are mentioned** - this seems to be initial contact establishment

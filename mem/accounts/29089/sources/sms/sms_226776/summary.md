@@ -3,40 +3,33 @@
 **Date:** 2025-12-04T22:11:55.694000+00:00
 **Direction:** Outgoing
 
-# SMS Summary
+# SMS Summary for Harper Insurance
 
-## Sender Information
-- **Name:** Daniel Park
-- **Title/Role:** Representative at Harper Insurance
-- **Company:** Harper Insurance
-
-## Message Content
-- **Direction:** Outgoing (from Harper Insurance to customer)
-- **Date & Time:** December 4, 2025 at 10:11 PM
-- **Tone/Sentiment:** Professional, appreciative, reassuring
-
-## Key Message Points
-- Introduction/identification of sender
-- Expression of gratitude for customer's business
-- Reassurance that Harper Insurance is actively working on the customer's matter
+## Personal Details
+- **Contact Name:** Daniel Park
+- **Role/Title:** Representative at Harper Insurance
+- **Message Direction:** Outgoing (sent by Daniel Park)
+- **Timestamp:** December 4, 2025 at 10:11 PM
 
 ## Conversation Context
-- **Purpose:** Initial outreach or acknowledgment message
-- **Status:** Opening communication with a customer
+- **Main Topic/Purpose:** Brief acknowledgment and reassurance message
+- **Tone/Sentiment:** Professional, friendly, reassuring
+- **Key Message:** Confirmation that Harper Insurance has received the customer's business and is actively working on their account
+
+## Business Details
+- **Company Name:** Harper Insurance
+- **Message Content:** Generic acknowledgment—no specific policy details, coverage types, premiums, or client business information included in this message
 
 ## Action Items
-### Harper's Actions
-- Follow-up communication expected to address specific insurance needs/details
-- Working on customer's insurance matter (details pending)
 
-### Customer Actions
-- Awaiting next steps from Harper Insurance
+### For Harper/Daniel Park
+- Follow up with specific details about the customer's policy/coverage
+- Provide next steps or timeline for completion of work
 
-## Follow-up Notes
-- **Next Steps:** Unclear from this message alone - appears to be an introductory/acknowledgment message
-- **Pending Information:** Specific insurance details, coverage needs, quotes, or documents not yet mentioned in this exchange
-- **Missing Context:** Customer name, business details, specific insurance products/needs, and quote/policy information not provided in this SMS
+### For the Customer
+- Await further communication with specific policy details and next steps
 
----
-
-**⚠️ Note for Harper:** This appears to be the initial message in a conversation. Subsequent SMS messages or conversations will contain critical business and personal details needed for full context.
+## Notes
+- This appears to be an **initial outreach or confirmation message** with minimal specific details
+- No coverage needs, premium amounts, documents, or renewal dates mentioned
+- Additional context from prior communications would be needed for complete picture of the customer's insurance needs

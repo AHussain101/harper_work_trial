@@ -6,31 +6,41 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Coverage/Quote Status**: Quote has been generated and sent
-- **Documents**: Quote posted to client's email
+- **Coverage Type**: Quote generated (specific policy type not mentioned)
+- **Status**: Quote prepared and sent
 
 ## Personal Details
 - **Contact Name**: Ethan
-- **Preferred Contact Method**: Email (quote sent), SMS (message received)
-- **Communication Style**: Appears responsive to email-based communication
+- **Contact Method**: Email (primary method used)
+- **Communication Style**: Casual, brief
 
 ## Conversation Context
-- **Main Topic/Purpose**: Following up on insurance quote delivery
-- **Action Completed**: 
-  - Quote prepared and emailed to Ethan
-- **Pending Actions for Harper**:
-  - Schedule a meeting/call with Ethan to review the quote together
-  - Confirm Ethan's availability for review
-- **Pending Actions for Customer (Ethan)**:
-  - Review quote received via email
-  - Respond with available times to discuss quote together
-- **Next Steps**: 
-  - Wait for Ethan to confirm his availability
-  - Schedule call/meeting to walk through quote details
-- **Tone/Sentiment**: Professional, friendly, collaborative (suggests "let us know" - inviting dialogue)
+- **Main Topic**: Quote delivery and scheduling review meeting
+- **Key Actions Completed**:
+  - Quote has been prepared
+  - Quote has been posted/sent to Ethan's email
+  
+- **Pending Actions**:
+  - **For Ethan**: 
+    - Review the quote
+    - Provide availability for review meeting
+    - Confirm good time to discuss
+  
+  - **For Harper**:
+    - Await Ethan's response with preferred meeting time
+    - Schedule review call/meeting with Ethan
+    - Be prepared to discuss quote details at scheduled time
+
+- **Next Steps**: Waiting for Ethan to respond with his availability
+
+- **Tone/Sentiment**: Professional, friendly, collaborative
 
 ---
 
-## Notes
-- **Missing Information**: No specific details about business type, coverage types, premium amounts, or policy details were mentioned in this SMS
-- This appears to be a brief follow-up message in an ongoing conversation
+## ⚠️ Missing Information
+- Specific policy type/coverage needs
+- Company details (if B2B)
+- Quote amount/premium details
+- Deadline or urgency level
+- Ethan's email address (for records)
+- Preferred review method (call, video, in-person)

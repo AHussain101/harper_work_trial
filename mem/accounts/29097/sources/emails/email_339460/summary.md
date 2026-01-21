@@ -6,51 +6,52 @@
 **From:** dakota@harperinsure.com
 **To:** amanda.porter@oakridgenutrition.com
 
-# Insurance Quote Follow-up Summary for Harper
+# Email Summary: Oakridge Nutrition Clinic Insurance Quote
 
 ## Business Details
-
 - **Company Name:** Oakridge Nutrition Clinic
 - **Industry:** Healthcare/Nutrition Services
+- **Business Type:** Clinic
 - **Coverage Status:** Application submitted to carrier network
 - **Documents Requested:**
   - Recent loss runs
   - Certificates of Insurance (COI)
   - Licensing documents
 - **Document Upload Portal:** https://portal.example-insure.com/uploads/clinic-abc123
-- **Additional Support:** Harper can assist with obtaining loss runs from prior carrier if needed
 
 ## Personal Details
-
 - **Contact Name:** Amanda Porter
+- **Title/Role:** Unknown (likely decision-maker/owner)
 - **Email:** amanda.porter@oakridgenutrition.com
-- **Role/Title:** Not specified (likely owner or decision-maker)
-- **Harper Representative:** Dakota Reed, Account Manager
-- **Dakota's Contact:** dakota@harperinsure.com
+- **Harper's Representative:** Dakota Reed, Account Manager
+- **Representative Email:** dakota@harperinsure.com
+- **Representative Phone/Contact:** Not provided
 
 ## Conversation Context
+- **Email Type:** Follow-up to previous conversation/quote discussion
+- **Main Purpose:** Request supporting documentation to expedite quote process
+- **Key Message:** Application has been submitted; waiting for carrier responses
 
-- **Purpose:** Follow-up on insurance application for Oakridge Nutrition Clinic after initial consultation
-- **Main Action:** Application has been submitted to carrier network; awaiting initial quotes
-- **Timeline:** Initial carrier responses expected soon (no specific date provided)
-- **Tone/Sentiment:** Professional, helpful, collaborative
+### Action Items for Harper
+- Monitor for carrier responses to submitted application
+- Assist with obtaining loss runs from prior carriers if customer requests help
 
-## Action Items
-
-### Harper (Dakota) Will:
-- Monitor for carrier responses to the submitted application
-- Stand by to assist Amanda with obtaining loss runs from prior carriers if needed
-- Follow up once carrier quotes are received
-
-### Customer (Amanda/Oakridge Nutrition) Must:
-- Upload available documents to the secure portal:
+### Action Items for Customer (Amanda Porter)
+- **Upload supporting documents** via secure portal:
   - Recent loss runs
-  - Certificates of Insurance
+  - Certificates of Insurance (COI)
   - Licensing documents
-- Reach out if assistance needed obtaining prior loss runs
+- Request assistance from Harper if needed for obtaining prior loss runs
 
-## Next Steps
+### Next Steps & Timeline
+- Initial carrier responses expected soon (timeline not specified)
+- No specific follow-up date mentioned
 
-- **Pending:** Awaiting initial carrier responses
-- **Follow-up Timeline:** TBD (dependent on carrier response timeline)
-- **Note:** Document submission will help expedite quoting process
+## Tone & Sentiment
+- **Tone:** Professional, helpful, collaborative
+- **Sentiment:** Positive; customer was receptive in previous conversation
+- **Urgency Level:** Standard - expedited if documentation provided
+
+---
+
+**Note:** Important details not yet provided - need to confirm renewal date, coverage types needed, policy limits, premium estimates, and claims history.

@@ -3,53 +3,54 @@
 **Date:** 2025-12-05T03:06:30.000000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
+# SMS Summary
 
 ## Conversation Context
 
-**Main Topic/Purpose:**
-- Acknowledgment that client documents have been successfully received and uploaded
-- Confirmation that materials will be forwarded to underwriting team
+### Main Topic
+- Confirmation of document uploads received
+- Moving forward with underwriting review process
 
-**Key Points:**
-- Documents/uploads have been received and identified by Harper's team
-- Next step is underwriting review
-- Harper will follow up with confirmation of any remaining required items
+### Key Actions & Next Steps
 
-**Tone/Sentiment:**
-- Professional, reassuring
-- Confirmatory and action-oriented
+#### Harper's Actions (Completed)
+- ✅ Received document uploads from customer
 
----
+#### Harper's Actions (Pending)
+- Share uploaded documents with underwriting team
+- Review for any outstanding/missing items
+- Confirm outstanding items status with customer
+- Provide confirmation to customer
 
-## Action Items for Harper
+#### Customer's Actions
+- ⏳ Awaiting confirmation of outstanding items from Harper
 
-- [ ] Share uploaded documents with underwriting team
-- [ ] Review materials for any outstanding/missing items needed for underwriting
-- [ ] Confirm with client about any outstanding items (timing not specified)
+### Timeline
+- **Message Sent:** December 5, 2025 at 3:06 AM
+- **Follow-up Expected:** Shortly (unspecified timeframe - should clarify timeline)
 
----
-
-## Action Items for Customer
-
-- None explicitly stated at this time
-- Awaiting Harper's confirmation of any additional items needed
-
----
-
-## Follow-Up Timeline
-
-- **Next Steps Timing:** "Shortly" (vague timeline - underwriting review and confirmation expected soon)
-- No specific deadline mentioned
+### Tone/Sentiment
+- Professional and reassuring
+- Positive progress (documents received successfully)
+- Casual but businesslike
 
 ---
 
-## Missing Context
+## Missing/Incomplete Information
 
-⚠️ **Note:** This appears to be a middle-of-conversation message. The following details are **not available** in this SMS and should be referenced from prior communications:
-- Client/customer name
-- Business details
-- Specific documents uploaded
-- Coverage types being quoted
-- Premium amounts or policy details
-- Deadline for underwriting completion
+⚠️ **Note for Harper:** The following details are NOT included in this SMS and should be clarified:
+
+- **Customer Name/Contact:** Unknown
+- **Business Details:** Unknown
+- **Policy Type/Coverage:** Unknown
+- **Specific Documents Uploaded:** Not itemized
+- **Exact Timeline for Confirmation:** "Shortly" is vague - consider specifying hours/days
+- **Underwriting Status:** Not detailed
+
+---
+
+## Recommended Next Actions
+
+1. **Set internal reminder** to follow up with underwriting within 24-48 hours
+2. **Prepare list** of potential outstanding items that might be needed
+3. **Schedule follow-up communication** with customer before timeline becomes unclear

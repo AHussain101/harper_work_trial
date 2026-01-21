@@ -6,34 +6,44 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **Coverage Type Discussed**: Auto/Fleet insurance (implied by "driver list")
+- **Coverage Type**: Auto/Fleet insurance (inferred from "driver list")
 - **Documents Provided**: 
   - Loss runs (uploaded to portal)
   - Driver list (uploaded to portal)
 
 ## Personal Details
-- **Contact Name**: Not provided
+- **Contact Name**: Not specified
 - **Communication Method**: SMS
-- **Contact Status**: Responsive and cooperative
+- **Contact Preference**: Portal uploads preferred for document sharing
 
 ## Conversation Context
-- **Main Topic**: Customer confirming completion of document upload task
-- **Key Action Completed**: 
-  - Loss runs uploaded to portal ✓
-  - Driver list uploaded to portal ✓
-- **Tone/Sentiment**: Positive, cooperative, straightforward
-- **Communication Style**: Brief, professional, confirmatory
 
-## Action Items for Harper
-- [ ] Review uploaded loss runs for claims history
-- [ ] Review uploaded driver list for policy setup/underwriting
-- [ ] Follow up with next steps in the quoting/underwriting process
-- [ ] Determine if additional documentation is needed
+### Main Topic
+- Customer confirming completion of document upload task
 
-## Action Items for Customer
-- None currently pending (documents provided as requested)
+### Key Actions Completed
+- ✅ Loss runs uploaded to portal
+- ✅ Driver list uploaded to portal
 
-## Notes
-- Customer is engaged and responsive to requests
-- No urgent concerns or issues indicated
-- Ready to move forward with the process once Harper reviews submitted documents
+### Action Items for Harper
+- Review uploaded loss runs for claims history analysis
+- Review driver list for underwriting purposes
+- Follow up with next steps in quote/renewal process (if applicable)
+
+### Action Items for Customer
+- None at this time
+
+### Tone/Sentiment
+- **Tone**: Cooperative, brief, professional
+- **Sentiment**: Positive/Compliant (customer acknowledged request and completed task promptly)
+
+### Follow-up Timeline
+- No specific timeline mentioned
+- Awaiting Harper's next communication regarding document review
+
+---
+
+## Notes for Harper
+- Customer is responsive and organized (proactive portal usage)
+- Indicates this is likely part of an ongoing quote, renewal, or underwriting process
+- Consider reaching out with next steps once documents are reviewed

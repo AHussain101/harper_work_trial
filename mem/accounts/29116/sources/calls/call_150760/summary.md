@@ -6,56 +6,74 @@
 
 # Call Summary for Harper
 
-## Business Details
-- **Industry:** Safety consulting
-- **Location:** Illinois
-- **Coverage Type Needed:** Workers' compensation
-- **Company Name:** Not provided
-- **Company Size:** Unknown
-- **Revenue/Years in Operation:** Not discussed
-- **Policy Details:** Not yet discussed (quote stage only)
-- **Premium/Deductibles/Limits:** Not yet discussed
-- **Claims History:** Not discussed
-- **Renewal/Effective Dates:** Not discussed
-
-## Personal Details
-- **Referrer Contact Name:** Mike
-- **Referrer Organization:** Tivoli (referring partner)
-- **Referrer Role:** Partner/Account handler
-- **Prospect Name:** Not provided
-- **Prospect Contact Information:** Not obtained
-- **Prospect Title/Role:** Not provided
-
-## Conversation Context
-- **Call Purpose:** Incoming transfer of prospective client from referral partner (Tivoli) for workers' compensation quote
-- **Call Type:** Lead transfer attempt (unsuccessful)
-- **Tone/Sentiment:** Professional and cooperative; minor technical issue
-- **Main Issue:** Customer was disconnected during the transfer handoff before Harper could establish direct contact
-
-## Key Points
-- Mike at Tivoli called with a qualified referral for Illinois workers' comp coverage
-- Prospect works in the safety consulting business
-- Transfer attempt failed due to caller disconnect on prospect's end
-- Harper's policy requires the prospective customer to be on the line to officially accept the transfer
-
-## Action Items
-
-**For Harper:**
-- Stand by for callback from Mike at Tivoli
-- Be prepared to accept the lead transfer once the prospect is successfully connected
-- Obtain all necessary prospect contact information upon reconnection
-
-**For Referring Partner (Mike/Tivoli):**
-- Attempt to reconnect/call back the prospect
-- Retry the transfer with Harper once customer is on the line
-- Call Harper back to re-initiate the transfer
-
-## Follow-Up Timeline
-- **Next Steps:** Pending callback from Tivoli with customer on the line
-- **Urgency:** Moderate (lead transfer in progress)
-- **Status:** Incomplete/Pending
+## Call Details
+- **Direction:** Incoming
+- **Duration:** 1 minute 54 seconds
+- **Date/Time:** December 5, 2025 at 12:07 AM UTC
+- **Harper Agent:** Jordan
+- **Call Status:** Incomplete - customer disconnected during transfer
 
 ---
 
-**Call Date:** December 5, 2025  
-**
+## Referral Partner Details
+- **Partner Name:** Mike
+- **Partner Company:** Tivoli
+- **Contact Method:** Phone transfer
+
+---
+
+## Prospect Information
+- **Location:** Illinois
+- **Industry:** Safety consulting business
+- **Coverage Type Needed:** Workers' compensation
+- **Status:** Not yet connected to Harper; prospect identity unknown at this time
+
+---
+
+## Business Details
+- **Company Type:** Safety consulting business
+- **Service/Product:** Workers' compensation insurance quote needed
+- **Coverage Requested:** Workers' compensation (Illinois)
+- **No other business details available** (prospect not reached)
+
+---
+
+## Conversation Context
+- **Purpose:** Lead transfer/referral from Tivoli partner
+- **Main Issue:** Customer disconnected during handoff process
+- **Key Discussion Points:**
+  - Mike attempted to transfer prospect to Harper
+  - Connection was lost during transfer
+  - Harper clarified policy: customer must be on the line to accept lead transfer
+  
+---
+
+## Decisions & Outcomes
+- **Decision Made:** Lead cannot be accepted without prospect on the call
+- **Status:** Pending — awaiting reconnection
+
+---
+
+## Action Items
+
+### For Tivoli/Mike:
+- [ ] Call prospect back and reconnect
+- [ ] Re-initiate transfer call to Harper
+- [ ] Ensure customer is on the line before transferring
+
+### For Harper (Jordan):
+- [ ] Standby for callback from Mike with prospect on the line
+- [ ] Accept lead once customer is connected
+- [ ] Prepare to discuss workers' compensation quote for Illinois safety consulting business
+
+---
+
+## Follow-Up Timeline
+- **Next Step:** Awaiting callback from Mike (Tivoli) with prospect reconnected
+- **Timeline:** As soon as Mike can reconnect the customer
+- **Urgency:** Moderate (referral pending)
+
+---
+
+## Tone & Sentiment
+- **

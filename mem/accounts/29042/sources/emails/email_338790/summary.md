@@ -6,72 +6,57 @@
 **From:** jordan.kim@harperinsure.com
 **To:** info@maplestoneworks.com
 
-# Email Summary: Maple Stoneworks Insurance Application Follow-up
+# Harper Insurance - Maple Stoneworks Insurance Quote Update
 
 ## Business Details
-
-**Company Information:**
-- Company name: Maple Stoneworks
-- Business type/industry: Stoneworks (construction/masonry)
-- Email: info@maplestoneworks.com
-
-**Coverage & Policy Details:**
-- Application submitted to carrier network
-- Initial quotes expected soon
-- Contract/lease-specific coverage requirements may apply
-- COIs (Certificates of Insurance) needed for contracts or leases
-- Loss run reports may be needed from prior carrier
-
-**Documents Requested:**
-- Loss runs
-- Certificates of Insurance (COIs)
-- Signed applications
-- Any additional coverage requirements documentation
-- Documents can be uploaded via secure portal: https://portal.example-insure.com/doc-upload/abc123
-
-**Renewal/Timeline:**
-- Application recently submitted
-- Initial quotes expected imminently
+- **Company Name:** Maple Stoneworks
+- **Business Type/Industry:** Stoneworks (construction/masonry-related)
+- **Coverage Status:** Application submitted to carrier network; quotes pending
+- **Documents Needed:**
+  - Loss runs (from prior carrier)
+  - Certificates of Insurance (COI) - required for contracts/leases
+  - Signed applications
+  - Any contract-specific or additional coverage requirements
 
 ## Personal Details
-
-**Contact Information:**
-- Name: Marcus (last name not provided)
-- Title/Role: Decision-maker/contact for Maple Stoneworks
-- Email: info@maplestoneworks.com
-- Harper contact: Jordan Kim
-- Jordan's phone: (470) 731-4971
-- Jordan's email: jordan.kim@harperinsure.com
+- **Primary Contact:** Marcus (last name not provided in email)
+- **Contact Email:** info@maplestoneworks.com
+- **Harper Insurance Representative:** Jordan Kim
+  - **Title:** Insurance Agent/Broker
+  - **Phone:** (470) 731-4971
+  - **Email:** jordan.kim@harperinsure.com
+- **Communication Method:** Email and secure portal for document submission
 
 ## Conversation Context
 
-**Purpose:**
-- Follow-up to recent phone conversation with Marcus
-- Facilitate faster processing of insurance application
+### Main Purpose
+Follow-up to insurance application submission with request for outstanding documentation to expedite quote process
 
-**Key Actions Completed:**
-- ✅ Application submitted to carrier network by Harper
+### Key Actions Completed
+- Application submitted to carrier network
+- Phone consultation held with Marcus
 
-**Outstanding Action Items for Customer (Marcus/Maple Stoneworks):**
-- Upload loss runs, COIs, and signed applications via secure portal
-- Provide any additional coverage needs or contract-specific requirements
-- Request help from Harper if unable to obtain loss run reports from prior carrier
+### Documents/Information Requested from Customer
+- Loss runs from prior insurance carrier
+- Certificates of Insurance (COI) for any active contracts or leases
+- Any additional coverage needs or contract-specific insurance requirements
+- Signed applications (if not already submitted)
 
-**Outstanding Action Items for Harper (Jordan):**
-- Monitor for initial quotes from carrier network
-- Stand by to assist with loss run report procurement if requested
-- Review submitted documents once received
-- Process quotes and follow up with Marcus
+### Action Items for Harper
+- Monitor carrier responses for initial quotes
+- Assist with obtaining loss run reports if Marcus requests help
 
-**Follow-up Timeline:**
-- Initial quotes expected soon (timeline not specified)
-- Awaiting document uploads from Marcus
+### Action Items for Maple Stoneworks (Marcus)
+- **Upload documents** via secure portal: https://portal.example-insure.com/doc-upload/abc123
+- Provide certificates of insurance if required by contracts/leases
+- Identify any additional coverage needs or contract-specific requirements
+- Request assistance from Harper if help needed obtaining loss runs from prior carrier
 
-**Tone/Sentiment:**
-- Professional and helpful
-- Proactive and efficient
-- Positive and collaborative
+### Timeline
+- Initial quotes expected **soon** (no specific date provided)
+- Tone: Professional, collaborative, helpful
 
----
-
-##
+### Notes
+- Email indicates urgency to move quickly with process
+- Harper is positioned to help with obtaining documentation if needed
+- Privacy notice included regarding information sharing with carriers for underwriting

@@ -6,45 +6,48 @@
 **From:** jordan.kim@harperinsure.com
 **To:** marcus.johnson@elmstreettaxi.com
 
-# Email Summary: Elm Street Transit LLC Insurance Submission
+# Email Summary: Elm Street Transit LLC - Document Request
 
 ## Business Details
 - **Company Name:** Elm Street Transit LLC
 - **Business Type:** Taxi/Transportation service
-- **Industry:** Ground Transportation
-- **Coverage Status:** New venture (no prior insurance history expected)
+- **Industry:** Ground transportation
+- **Coverage Type:** Auto/Vehicle insurance (taxi)
+- **Status:** New venture/New business submission
 - **Documents Requested:**
   - Vehicle registration for the taxi
-  - Copy of driver's license (Marcus Johnson)
   - Recent maintenance records (past 6 months)
-  - Prior insurance declaration page (optional/not required for new ventures)
-- **Submission Status:** In progress with carriers
-- **Upload Portal:** https://portal.example-insure.com/upload/elm-1234
+  - Prior insurance declaration page (if available - noted as not required for new ventures)
 
 ## Personal Details
 - **Primary Contact:** Marcus Johnson
-- **Contact Email:** marcus.johnson@elmstreettaxi.com
-- **Harper Agent:** Jordan Kim (jordan.kim@harperinsure.com)
-- **Preferred Contact Methods:** Email or text to Harper office
+- **Title/Role:** Owner/Key driver
+- **Email:** marcus.johnson@elmstreettaxi.com
+- **Documents Needed From Him:** Copy of driver's license
 
 ## Conversation Context
-- **Main Purpose:** Follow-up communication requesting documentation to move insurance submission forward with carriers
-- **Previous Interaction:** Marcus and Harper had a prior conversation/meeting (referenced as "speaking with us earlier")
-- **Key Request:** Submission of required documents via secure portal
-- **Tone/Sentiment:** Professional, helpful, collaborative
-- **Assistance Offered:** Jordan Kim offered to help Marcus collect or locate documents if needed
-- **Next Steps:** 
-  - Marcus to upload documents when available
-  - If assistance needed, Marcus should reply via email or text to Harper office
-  - Once documents received, submission can proceed with carriers
+- **Main Topic:** Follow-up on insurance submission with document collection
+- **Purpose:** Moving the insurance submission forward with carriers
+- **Previous Interaction:** Marcus and Harper had a prior conversation/meeting ("thanks for speaking with us earlier")
+- **Tone:** Professional, helpful, supportive
 
 ## Action Items
 
-**For Marcus Johnson (Customer):**
-- Upload vehicle registration, driver's license copy, and maintenance records to secure portal
-- Contact Harper office if assistance needed locating/collecting documents
+### For Customer (Marcus Johnson/Elm Street Transit LLC):
+- [ ] Upload vehicle registration for taxi to secure portal
+- [ ] Upload copy of driver's license (Marcus Johnson)
+- [ ] Upload recent maintenance records (past 6 months)
+- [ ] Upload prior insurance dec page if available (optional)
+- **Upload Location:** https://portal.example-insure.com/upload/elm-1234
+- **Contact Method if Assistance Needed:** Reply to email OR text the office
 
-**For Harper/Jordan Kim:**
-- Monitor for document uploads
-- Assist Marcus if requested
-- Process submission with carriers once documents received
+### For Harper (Jordan Kim):
+- [ ] Follow up if documents not received within reasonable timeframe
+- [ ] Be available to assist Marcus with document collection if he requests help
+- [ ] Submit complete file to carriers once all documents are received
+
+## Important Notes
+- This is a **new venture** - prior insurance documentation is not mandatory
+- Secure upload portal is available for all documents
+- Harper has offered support/assistance if Marcus needs help gathering documents
+- **Sent Date:** December 4, 2025

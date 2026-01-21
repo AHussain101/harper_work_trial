@@ -6,58 +6,63 @@
 **From:** HARPER EMPLOYEE <harper_employee@harperinsure.com>
 **To:** owner@lakeviewjunction.com
 
-# Email Summary: Insurance Quote for Lakeview Junction Bar & Grill
+# Email Summary for Harper Insurance Broker
 
 ## Business Details
 
-**Company Information:**
-- **Business Name:** Lakeview Junction Bar & Grill
-- **Industry:** Food & Beverage (Bar & Grill)
+### Client Business Information
+- **Company Name:** Lakeview Junction Bar & Grill
+- **Industry:** Food & Beverage / Bar & Grill Restaurant
 - **Business Type:** Restaurant/Bar establishment
 
-**Coverage & Quote Details:**
-- **Quote Status:** Prepared and ready
-- **Premium (carrier):** ~$8,900
-- **Harper Brokerage Service Fee:** ~$450
-- **Total Quote Amount:** ~$9,400
-- **Coverage Type:** General business insurance (tailored to bar & grill operations)
-- **Underwriters:** Multiple carriers were solicited for competitive options
+### Coverage & Quote Details
+- **Quote Status:** Personalized quote ready and delivered
+- **Premium Breakdown:**
+  - Insurance premium and carrier fees: ~$8,900
+  - Harper brokerage service fee: ~$450
+  - **Total quote amount: ~$9,400**
+- **Payment Options Offered:**
+  - **Full payment:** ~$9,400 upfront
+  - **Installment plan:** ~$2,000 down payment + ~$800/month for approximately 10 months
+- **Payment Portal:** https://payments.example-insure.com/quote-abc123 (synthetic/example link)
+- **Carrier Information:** Underwriters involved (specific carrier names not listed in quote)
 
-**Payment Options Offered:**
-1. **Payment Plan Option:**
-   - Down payment: ~$2,000
-   - Monthly installments: ~$800/month for approximately 10 months
-2. **Full Payment Option:** ~$9,400 (lump sum)
+### Important Notes
+- Coverage is NOT effective until written confirmation received from agency and carrier
+- Payment does not guarantee coverage activation
 
-**Important Note:** Coverage is NOT effective until written confirmation is received from both the agency (Harper Insurance) and the carrier. Payments do not guarantee coverage activation.
+---
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Marcus
+### Contact Information
+- **Primary Contact Name:** Marcus
 - **Email:** owner@lakeviewjunction.com
-- **Role:** Owner (implied)
+- **Company Contact:** Harper Insurance Employee
+  - Phone: 470-664-1345
+  - Email: harper_employee@harperinsure.com
 
-**Harper Agent Information:**
-- **Name:** Harper Employee
-- **Phone:** 470-664-1345
-- **Email:** harper_employee@harperinsure.com
+### Role/Title
+- Marcus appears to be owner/decision-maker for Lakeview Junction Bar & Grill
+
+---
 
 ## Conversation Context
 
-**Purpose:** Delivery of personalized insurance quote to business owner
+### Email Purpose
+- Delivery of completed personalized insurance quote for Lakeview Junction Bar & Grill
+- Introduction of coverage options and payment arrangements
 
-**Action Items for Customer (Marcus):**
-- Review the quote and payment options
-- Reply with any questions or concerns
-- Select preferred payment method (plan vs. full payment)
-- Proceed to secure payment portal if ready to move forward: https://payments.example-insure.com/quote-abc123
-- Wait for written confirmation from Harper Insurance and carrier before coverage becomes effective
+### Key Information
+- Quote was prepared in collaboration with underwriters
+- Coverage is tailored/customized for this specific business
 
-**Action Items for Harper:**
-- Monitor for customer response/questions
-- Process payment once submitted
-- Deliver written confirmation of coverage to customer once carrier approves
-- Maintain follow-up contact with Marcus
+### Action Items for Customer (Marcus)
+- **Review** the quote details
+- **Decide** on payment method (full vs. installment)
+- **Contact Harper** with any questions
+- **Submit payment** via secure portal once decision made
+- **Await** written confirmation from agency and carrier before coverage becomes effective
 
-**Tone/Sentiment:** Professional, clear, helpful — quote presentation is straightforwar
+### Action Items for Harper
+- **Monitor** for customer response

@@ -3,41 +3,47 @@
 **Date:** 2025-12-04T20:38:14.843000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary for Harper Insurance Broker
 
 ## Business Details
 - **Company Name:** Lincoln Auto Traders
-- **Industry:** Auto Trading/Automotive
-- **Coverage Type:** Auto/Vehicle-related insurance (inferred from company name)
-- **Current Status:** Submission received, awaiting quotes
+- **Industry/Type:** Auto Trading/Automotive
+- **Coverage Type:** Auto insurance (implied from company name)
+- **Status:** Submission received, quotes pending
 
 ## Personal Details
 - **Contact Name:** Alex
-- **Broker Name:** Samira Khan
-- **Company:** Harper Insurance
+- **Broker/Sender:** Samira Khan
+- **Broker Title:** Insurance Broker at Harper Insurance
 - **Communication Method:** SMS
 
 ## Conversation Context
-- **Main Topic/Purpose:** Initial contact following insurance submission for Lincoln Auto Traders
-- **Key Actions Completed:**
-  - Submission received and acknowledged
-  - Relationship established with new client
-  - Client confirmed trust in Harper Insurance
+- **Purpose:** Initial confirmation message following receipt of insurance submission
+- **Main Topic:** New business submission acknowledgment for Lincoln Auto Traders
+- **Key Message:** Quotes will be provided shortly
 
-- **Pending Actions:**
-  - Obtain and send insurance quotes to Alex
-  
-- **Action Items for Harper/Samira:**
-  - Generate quotes for Lincoln Auto Traders
-  - Follow up with Alex with quote details "shortly"
-  
-- **Action Items for Customer (Alex):**
-  - Await quotes from Harper Insurance
-  
-- **Tone/Sentiment:** Professional, friendly, appreciative
-- **Timeline:** Quotes expected soon (no specific deadline provided)
+### Decisions Made/Status
+- Submission accepted and under review
 
-## Notes
-- This appears to be an initial outreach/confirmation message
-- No specific coverage limits, deductibles, premiums, or renewal dates mentioned at this stage
-- No loss history or claims information discussed yet
+### Action Items for Harper/Team
+- Obtain and send insurance quotes to Alex for Lincoln Auto Traders
+- Timeline: "shortly" (no specific date provided)
+
+### Action Items for Customer
+- Await quotes from Harper Insurance team
+
+### Next Steps
+- Harper team to follow up with quote(s) within reasonable timeframe
+
+### Tone/Sentiment
+- **Tone:** Professional, courteous, reassuring
+- **Sentiment:** Positive - customer has submitted, broker acknowledges trust and commits to timely follow-up
+
+---
+
+## Notes for File
+- This is an initial acknowledgment message
+- No specific policy details, premium amounts, deductibles, or coverage limits discussed yet
+- No documents mentioned as received or requested
+- No carriers or specific quote details available at this stage
+- Follow-up expected but no specific deadline mentioned

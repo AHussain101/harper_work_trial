@@ -10,70 +10,66 @@
 
 **Company Information**
 - **Company Name:** Summit BioDevices
-- **Industry:** Medical device manufacturing (benchtop laboratory equipment)
+- **Industry:** Medical device manufacturing (research/laboratory equipment)
 - **Business Type:** Small device company
 - **Location:** Utah
-- **Number of Employees:** Not specified
-- **Revenue:** Not specified
-- **Years in Operation:** Not specified
+- **Product:** Benchtop research device for laboratory use
+  - Compact plastic unit
+  - Processes small biological samples
+  - Uses single-use consumable chips
 
 **Coverage Needs**
-- General Liability insurance
-- Workers' Compensation insurance
+- General Liability
+- Workers' Compensation
 
-**Products/Operations**
-- Manufactures compact plastic benchtop research device for laboratory use
-- Device processes small biological samples
-- Uses single-use consumable chips
-- Targets laboratory/research market
-
-**Policy Details**
-- Premium amounts: Not discussed
-- Deductibles: Not discussed
-- Policy limits: Not discussed
-- Renewal date: Not specified
-- Effective date: Not specified
-- Claims history: Not discussed (loss runs requested to determine history)
+**Employee Count & Financial Details**
+- Not discussed on call
 
 **Documents Requested**
 - Product specification sheet
 - Sample handling instructions
-- Prior loss runs (if any exist)
-
----
+- Prior loss runs (if applicable)
 
 ## Personal Details
 
 **Primary Contact**
-- **Name:** Becca (owner)
-- **Title:** Owner
-- **Phone/Email:** Not provided
-- **Preferred Contact Method:** Not specified
+- **Name:** Becca (owner/decision-maker)
+- **Role:** Owner/Operator of Summit BioDevices
+- **Location:** Utah
 
-**Referral Contact**
-- **Name/Title:** Tivoli representative (name not provided)
-- **Role:** Referred Summit BioDevices as a new client to Harper Insurance
+**Referral Source**
+- **Referred By:** Tivoli representative (name not provided)
+- **Relationship:** Tivoli rep called on behalf of their client (Becca)
 
-**Communication Style/Notes**
-- Becca was cooperative and responsive
-- Straightforward in describing business operations
-- No concerns or hesitations expressed
-
----
+**Communication Style**
+- Professional and cooperative
+- Brief, direct responses
+- Receptive to requests for documentation
 
 ## Conversation Context
 
 **Call Purpose**
-- New client intake call to gather business information and initiate insurance application for Summit BioDevices
-- Referral from Tivoli representative
+- Initial insurance inquiry and application intake for a new business client referred by Tivoli
 
-**Key Information Gathered**
-- Product description obtained for accurate application submission
-- Specific wording captured for submission: "compact plastic unit that processes small biological samples and uses single‑use consumable chips"
-- Customer confirmed willingness to provide supporting documentation
+**Key Discussion Points**
+1. Company identified as Summit BioDevices manufacturing benchtop research devices
+2. Coverage needs confirmed: General Liability & Workers' Comp
+3. Product description obtained for accurate application submission
+4. Documentation requirements communicated
 
 **Decisions Made**
-- Application process initiated for both general liability and workers' comp coverage
+- Proceed with application submission for Summit BioDevices
+- Use provided product description language in formal submission
 
-**Action Items for Harper (Stacia)**
-- [ ] Pull correct application template based on product
+## Action Items
+
+**For Harper (Stacia)**
+- [ ] Verify and process application for Summit BioDevices
+- [ ] Pull correct application forms for medical device manufacturing
+- [ ] Submit application to carriers
+- [ ] Request prior loss runs from Becca (if available)
+- [ ] Request product specification sheet from Becca
+- [ ] Request sample handling instructions from Becca
+- [ ] Monitor for initial carrier responses (expect 2–3 business days)
+
+**For Customer (Becca)**

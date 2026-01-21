@@ -3,33 +3,43 @@
 **Date:** 2025-12-04T23:23:33.366000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Jordan from Harper Insurance
+# SMS Summary for Harper Insurance
 
 ## Business Details
 - **Status**: Application in progress
-- **Quotes**: Pending (awaiting quote generation)
+- **Quote Status**: Pending (quotes not yet received from carriers)
 
 ## Personal Details
 - **Contact Name**: Maya
 - **Harper Representative**: Jordan
-- **Company**: Harper Insurance
+- **Communication Method**: SMS
 
 ## Conversation Context
-- **Purpose**: Follow-up on insurance application submission
-- **Main Topic**: Application acknowledgment and quote status
-- **Key Message**: Thanking Maya for initiating the application process
-- **Tone/Sentiment**: Professional, friendly, reassuring
-- **Next Steps**: 
-  - Harper will follow up with Maya once quotes are received/prepared
-  - Timeline: Not specified
-- **Action Items for Harper**:
-  - Generate/obtain quotes for Maya's application
-  - Contact Maya once quotes are ready
-- **Action Items for Customer (Maya)**:
-  - Await follow-up communication from Harper with quotes
 
-## Important Notes
-- This is an initial acknowledgment message
-- No specific insurance product details, premium amounts, or business information provided in this message
-- Maya has already started an application (indicating prior conversation or online submission)
-- Follow-up communication expected but timeline not specified
+### Main Topic
+- Follow-up notification regarding a pending insurance application
+
+### Key Points
+- Maya has initiated an insurance application
+- Quotes from carriers are being prepared/awaited
+- Next communication will occur once quotes are available
+
+### Action Items
+
+**For Harper/Jordan:**
+- [ ] Obtain quotes from carriers
+- [ ] Follow up with Maya once quotes are ready
+- [ ] Provide Maya with quote details and recommendations
+
+**For Maya (Customer):**
+- Await follow-up communication from Harper Insurance once quotes are received
+- No immediate action required
+
+### Tone/Sentiment
+- Professional and courteous
+- Reassuring and efficient
+- Routine/standard follow-up communication
+
+---
+
+**Note**: This is a brief confirmation message. Limited details are available. Recommend obtaining full application details, coverage types needed, and specific quote timeline for more complete records.

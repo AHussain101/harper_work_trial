@@ -6,46 +6,51 @@
 **From:** donotreply@mail.onlinemga.com
 **To:** submissions@harperinsure.com
 
-# Email Summary: Underwriter Notice for Application 48-1032
+# Email Summary: Underwriter Notice - Application 48-1032
 
 ## Business Details
-- **Carrier/MGA:** Integrated MGA
-- **Application Number:** 48-1032
-- **Status:** Under active review
-- **Portal Link:** https://portal.example-example.com/applications/48-1032
+- **Carrier/MGA**: Integrated MGA
+- **Application Number**: 48-1032
+- **Status**: Under active review
+- **Documents Needed**: Signed documents (not yet received)
+- **Effective Date**: Needs confirmation from Harper
 
 ## Personal Details
-- **Sender:** Integrated MGA (automated system)
-- **Recipient:** submissions@harperinsure.com (Harper's submission email)
-- **Contact Method:** Automated notice (not a direct person)
+- **Sender**: Automated notice from Integrated MGA (donotreply@mail.onlinemga.com)
+- **Recipient**: Harper Insurance submissions team (submissions@harperinsure.com)
+- **Contact Method**: Portal access provided
 
 ## Conversation Context
 
 ### Main Topic
-- Underwriter acknowledgment and status update for a pending insurance application
+- Underwriter notification regarding pending application status
 
-### Key Information Needed from Harper
-1. **Signed documents** - Need to be uploaded to the portal
-2. **Effective date confirmation** - Requested by underwriter
-
-### Action Items for Harper
-- [ ] Upload signed documents to the portal (Application 48-1032)
-- [ ] Confirm/provide the requested effective date to the underwriter
-- [ ] Access the application portal to view full details and requirements
-- [ ] Follow up with customer to obtain any missing documentation if needed
-
-### Action Items for Customer
-- *To be determined by Harper based on what documents are needed*
+### Key Information
+- Application 48-1032 has been received by underwriter
+- Currently in active review process
+- **Action items for Harper**:
+  - [ ] Upload signed documents to portal
+  - [ ] Confirm requested effective date with client
+  - [ ] Access application portal: https://portal.example-mga.com/applications/48-1032
 
 ### Tone/Sentiment
-- **Neutral/Routine** - Standard automated underwriter notification
-- **Status:** Application actively being processed (positive sign)
+- Routine/administrative
+- No urgency indicated, but action required to move forward
 
-### Important Notes
-- This is an **automated notice** - no direct underwriter contact information provided
-- Harper will need to use the portal link to access specific document requirements
-- Timeline unclear - no deadline specified for document submission
+### Missing Information
+- **Client/business name** - not specified in notice
+- **Coverage type/policy details** - not specified
+- **Specific signed documents required** - not detailed
+- **Timeline** - no deadline provided for document submission
+- **Client contact details** - not included
+
+### Next Steps
+1. Identify which client this application belongs to
+2. Gather signed documents as required
+3. Confirm effective date with client
+4. Upload documents via portal
+5. Monitor application status for underwriter decision
 
 ---
 
-**Next Step:** Harper should log into the MGA portal to review application details and determine what signed documents are outstanding and what effective date to confirm.
+**Note**: This is an automated system notification. Harper will need to cross-reference Application 48-1032 with their client records to determine who this belongs to and what specific documents/dates are needed.

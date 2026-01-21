@@ -6,63 +6,50 @@
 **From:** jordan.kim@harperinsure.com
 **To:** sonia.alvarez@seabreezechdev.com
 
-# Email Summary: Seabreeze Child Development Center Insurance Quote Update
+# Email Summary: Seabreeze Child Development Center Insurance Quote
 
 ## Business Details
-
-**Company Information:**
-- **Business Name:** Seabreeze Child Development Center
+- **Company Name:** Seabreeze Child Development Center
 - **Industry:** Child Development/Childcare Services
-- **Business Type:** Child development center (likely requires specialized licensing and insurance)
-
-**Coverage & Policy Information:**
-- **Application Status:** Submitted to carrier network
-- **Expected Timeline:** Initial carrier responses anticipated soon
-- **Coverage Needs Discussed:** 
-  - Insurance requirements (COIs - Certificates of Insurance or contractual limits)
-  - Program requirement letter referenced
-  - Additional coverage gaps to be addressed
+- **Business Type:** Child development center (requires licensing documentation)
+- **Coverage Status:** Application submitted to carrier network
 - **Documents Requested:**
-  - Loss runs (from prior/current insurer)
+  - Loss runs (from prior insurer if needed)
   - Licensing documentation
   - Program requirement letter
-  - Certificates of Insurance (COIs) or contractual insurance limits
-  - Any additional coverage needs documentation
-
-**Claims History:**
-- Loss runs requested (indicates prior coverage history to be reviewed)
-
----
+  - Insurance requirements/Certificates of Insurance (COIs)
+  - Contractual insurance limits documentation
+  - Any additional coverage needs or gap analysis
 
 ## Personal Details
-
-**Contact Information:**
-- **Primary Contact:** Sonia Alvarez
+- **Contact Name:** Sonia Alvarez
+- **Title/Role:** Appears to be decision-maker/owner at Seabreeze
 - **Email:** sonia.alvarez@seabreezechdev.com
-- **Harper Contact:** Jordan Kim
-- **Jordan's Email:** jordan.kim@harperinsure.com
-- **Jordan's Title:** Harper Insurance team member
-
----
+- **Harper Representative:** Jordan Kim
+  - Email: jordan.kim@harperinsure.com
+  - Company: Harper Insurance
 
 ## Conversation Context
+- **Purpose:** Follow-up on insurance application and quote process for childcare center
+- **Main Topic:** Requesting outstanding documentation needed to complete carrier quotes
+- **Recent Activity:** Sonia recently spoke with Harper's team (phone/meeting today)
+- **Current Status:** Application submitted to carrier network; awaiting initial responses from carriers
+- **Key Requests:**
+  1. Upload loss runs (with Harper's assistance available if needed from prior insurer)
+  2. Upload licensing documentation
+  3. Upload program requirement letter
+  4. Provide insurance requirements and contractual limits
+  5. Identify any coverage gaps or additional needs
+- **Timeline:** Expects carrier responses "soon" (no specific date given)
+- **Support Offered:** Harper can assist with obtaining loss runs from prior insurer if needed
+- **Tone/Sentiment:** Professional, collaborative, helpful
 
-**Purpose:** Follow-up on insurance application submission and request for supporting documentation
+## Action Items for Harper
+- Monitor for carrier responses to submitted application
+- Assist Sonia with obtaining loss runs if she requests help from prior insurer
+- Process documents once Sonia uploads them
+- Address any coverage gaps once identified
 
-**Key Points:**
-- Application was recently submitted to Harper's carrier network
-- Initial quotes expected imminently
-- Documentation submission will help expedite the process
-- Harper can assist with obtaining loss runs from prior insurer if needed
-
-**Action Items for Customer (Sonia/Seabreeze):**
-- [ ] Upload requested documents (loss runs, licensing documentation, program requirement letter)
-- [ ] Provide insurance requirements (COIs or contractual insurance limits)
-- [ ] Identify any additional coverage needs or gaps
-- [ ] Contact Harper if assistance needed obtaining prior loss runs
-
-**Action Items for Harper (Jordan):**
-- [ ] Monitor carrier responses from submitted application
-- [ ] Assist Seabreeze with obtaining loss runs if requested
-- [ ] Review all submitted documentation upon receipt
-- [ ] Follow up with quotes once carriers
+## Action Items for Customer (Sonia)
+- Upload requested documents to Harper (loss runs, licensing docs, program requirement letter)
+-

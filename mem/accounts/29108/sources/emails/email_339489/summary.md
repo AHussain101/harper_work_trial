@@ -10,40 +10,40 @@
 
 ## Business Details
 - **Company Name:** Green Shield Healthcare
+- **Industry:** Healthcare
 - **Coverage Type:** Workers' Compensation
-- **Current Status:** Application submitted to carrier network
+- **Application Status:** Submitted to carrier network
 - **Expected Next Step:** Initial quotes coming shortly
 - **Documents Needed:**
   - Loss runs (if available)
   - Certificates of Insurance (COIs)
   - Contract requirements
-- **Document Upload Portal:** https://portal.example-insure.com/upload/ghc-123
+- **Document Submission:** Secure portal available at https://portal.example-insure.com/upload/ghc-123
 
 ## Personal Details
 - **Contact Name:** Maya
 - **Email:** maya@greenshieldcare.com
-- **Insurance Agent:** Jordan Kim
-- **Agent Contact:** 
-  - Phone: (470) 731-4971
-  - Email: jordan.kim@harperinsure.com
-  - Company: Harper Insurance
-  - Website: https://www.harperinsure.com
+- **Harper Agent:** Jordan Kim
+  - **Title:** Insurance Broker at Harper Insurance
+  - **Phone:** (470) 731-4971
+  - **Email:** jordan.kim@harperinsure.com
+  - **Communication Style:** Professional, helpful, responsive
+- **Preferred Contact Method:** Email (based on correspondence)
 
 ## Conversation Context
-- **Main Topic:** Workers' compensation application follow-up
-- **Previous Interaction:** Phone call/meeting with Maya on same day
-- **Key Points:**
-  - Application has been submitted to Harper's carrier network
-  - Initial quotes are pending and expected soon
-  - Maya needs to provide supporting documents to speed up processing
+- **Main Topic:** Follow-up on workers' compensation insurance application submission
+- **Previous Interaction:** Maya spoke with Jordan today
+- **Key Action Completed:** Workers' comp application already submitted to carrier network
+- **Key Questions/Needs:**
+  - Obtaining loss runs
+  - Completing required documents
+- **Pending Decisions:** Awaiting carrier quotes
+- **Action Items for Harper:**
+  - Monitor carrier responses for quotes
+  - Be available to assist Maya with document acquisition or completion
+  - Follow up when quotes arrive
 - **Action Items for Customer (Maya):**
-  - Upload loss runs, COIs, and contract requirements to secure portal
-  - Contact Harper if assistance needed with obtaining documents
-- **Action Items for Harper (Jordan):**
-  - Monitor carrier network for incoming quotes
-  - Be available to assist with document procurement if requested
-- **Follow-up Timeline:** No specific deadline mentioned; quotes expected "shortly"
-- **Tone:** Professional, helpful, collaborative
-
----
-**Note for Harper:** This is an outbound email from Jordan Kim to a client, so you may want to track the application status and follow up if quotes don't arrive within a reasonable timeframe.
+  - Upload requested documents to secure portal (loss runs, COIs, contract requirements)
+  - Contact Harper if assistance needed with documents
+- **Tone/Sentiment:** Professional, positive, cooperative
+- **Next Steps:** Maya to submit documents; Harper to provide quotes once received from carriers

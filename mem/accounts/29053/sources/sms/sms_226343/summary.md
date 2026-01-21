@@ -5,32 +5,41 @@
 
 # SMS Summary for Harper
 
-## Contact Information
-- **Name:** Jordan
-- **Contact Method:** SMS
-- **Date/Time:** December 5, 2025 at 2:18 PM
+## Personal Details
+- **Contact Name:** Jordan
+- **Communication Style:** Brief, professional, appreciative
+- **Preferred Contact Method:** SMS
 
 ## Conversation Context
-- **Message Type:** Incoming acknowledgment/confirmation
-- **Main Topic:** Review and response to materials (likely documents, quotes, or information)
-- **Tone/Sentiment:** Professional, cooperative, positive
 
-## Action Items
+### Main Topic/Purpose
+- Customer acknowledging receipt of materials/information from Harper
+- Confirmation of understanding and commitment to review
 
-### For the Customer (Jordan)
-- *(Implied - already completed or in progress)* Submitted materials/documents for Harper's review
+### Key Points
+- Jordan has received something from Harper (likely documents, quotes, or policy information)
+- Jordan will review the materials and provide a response
 
-### For Harper
-- **Review materials** (likely insurance quotes, policy documents, loss runs, or other insurance-related paperwork)
-- **Respond to Jordan** with feedback/next steps
-- **Timeline:** Same day (before end of business)
+### Action Items
 
-## Key Details
-- No specific business details, coverage types, premium amounts, or policy information mentioned in this message
-- No personal details beyond contact name
-- No specific documents identified
-- No dates, deadlines, or renewal information specified
+**For Jordan (Customer):**
+- Review materials received from Harper
+- Respond to Harper with feedback/decisions
+- **Timeline:** Same day (12/5/2025)
+
+**For Harper:**
+- Await Jordan's response on reviewed materials
+- Be prepared to address any questions or concerns when Jordan responds
+
+### Tone/Sentiment
+- Positive and cooperative
+- Professional and efficient
+- No concerns or urgency expressed
 
 ---
 
-**Note:** This appears to be a brief confirmation message. Harper should reference previous SMS exchanges or email threads with Jordan to understand what specific materials were sent for review.
+## ⚠️ Note for Harper
+This is a minimal message with limited context. You may want to reference your prior conversation thread with Jordan to understand:
+- What specific documents/quotes were sent
+- What coverage or policy is under discussion
+- What deadline or decision point is expected after Jordan's review

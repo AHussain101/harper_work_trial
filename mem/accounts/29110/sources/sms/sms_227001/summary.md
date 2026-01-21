@@ -3,41 +3,42 @@
 **Date:** 2025-12-05T00:45:22+00:00
 **Direction:** Incoming
 
-# SMS Summary - Insurance Broker Context
+# SMS Summary for Harper
 
-## Contact Information
-- **Direction:** Incoming message
-- **Date/Time:** December 5, 2025 at 12:45 AM
-- **Contact Name:** Unknown (not provided in message)
-- **Contact Role/Title:** Unknown (not provided in message)
+## Business Details
+- **Documents to be provided:**
+  - Testing reports (to be uploaded)
+  - Subsidiary list (to be confirmed)
+
+## Personal Details
+- **Contact name/role:** Not specified in message
+- **Communication style:** Professional, brief, action-oriented
+- **Preferred contact method:** SMS (based on current communication)
 
 ## Conversation Context
-- **Main Topic:** Confirmation of document receipt and commitment to provide additional documentation
-- **Tone/Sentiment:** Professional, cooperative, prompt response
 
-## Documents & Information
-### Documents Mentioned
-- **Testing Reports** - Customer will upload this afternoon
-- **Subsidiary List** - Customer will confirm this afternoon
+### Main Topic
+- Customer acknowledging receipt of previous communication from Harper
+- Customer committing to provide outstanding documentation
 
-### Status
-- Customer has received previous communication/request from Harper
-- Customer acknowledging receipt and committing to action
+### Key Actions & Timeline
 
-## Action Items
+**Action Items for Customer:**
+- [ ] Upload testing reports (afternoon of 2025-12-05)
+- [ ] Confirm subsidiary list (afternoon of 2025-12-05)
 
-### For Customer
-- [ ] Upload testing reports (today - afternoon timeframe)
-- [ ] Confirm subsidiary list (today - afternoon timeframe)
+**Action Items for Harper:**
+- [ ] Expect testing reports and subsidiary list confirmation this afternoon
+- [ ] Review and process submitted documents when received
+- [ ] Follow up if documents are not received by end of business day
 
-### For Harper
-- [ ] Monitor for testing reports upload (expected afternoon of 12/5/2025)
-- [ ] Monitor for subsidiary list confirmation (expected afternoon of 12/5/2025)
-- [ ] Review documents once received
+### Follow-Up Timeline
+- **Expected delivery:** Same day (afternoon, 2025-12-05)
+- **Next action:** Harper should await documentation before proceeding
 
-## Timeline
-- **Expected Completion:** Same day afternoon (December 5, 2025)
+### Tone/Sentiment
+- **Positive/Cooperative** - Customer is responsive and confirming receipt; demonstrates commitment to timely document submission
 
 ---
 
-**Note:** This message lacks identifying details about the customer and business. Harper should reference previous communications or internal records to match this contact with the correct account file.
+**Note:** This appears to be a continuation of an earlier conversation. Previous context regarding what triggered the request for testing reports and subsidiary list information would be helpful for complete understanding.

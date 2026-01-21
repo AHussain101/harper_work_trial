@@ -4,64 +4,56 @@
 **Duration:** 4m 3s
 **Direction:** Outgoing
 
-# Insurance Call Summary for Harper
+# Harper Insurance Call Summary
 
 ## Business Details
 
 **Company Information**
-- Business Type: Window tinting shop
-- Services Offered: Window tinting only
-- Operations: No vehicle storage on premises
-- Work Distribution: 25% mobile work, 75% shop-based work
-
-**Location**
-- Shop Address: 12345 Elm St, Springfield
+- Business Type: Window tinting service shop
+- Services Offered: Window tinting only (no other services performed)
+- Location: 12345 Elm St, Springfield
+- Vehicle Storage: No (not applicable to operations)
 
 **Coverage Details**
-- Policy Type: General liability (inferred from coverage limits)
 - Coverage Limit: $1,000,000
 - Deductible: $500
-- Status: Quote pending
+- Mobile Work Percentage: 25% of work performed at customer locations
+
+**Quote Status**
+- Quotes to be emailed within 24-48 business hours
+- Email address on file will be used for quote delivery
 
 ## Personal Details
 
-**Primary Contact**
+**Contact Information**
 - Name: Marco
-- Title/Role: Shop owner/operator (inferred)
-- Email: On file with Harper (to be used for quote delivery)
-- Preferred Contact Method: Email for quotes; text via Harper's intake follow-up line
+- Preferred Contact Method: Email for quotes; text via Harper intake follow-up line for additional communication
 
 ## Conversation Context
 
 **Call Purpose**
-- Follow-up call to confirm details and finalize quote request for business insurance
+- Follow-up confirmation call to verify business details and coverage preferences before generating quotes
 
-**Key Details Confirmed**
+**Details Confirmed**
 - ✓ Shop address: 12345 Elm St, Springfield
-- ✓ Service type: Window tinting only
-- ✓ No vehicle storage operations
+- ✓ Service offerings: Window tinting only
 - ✓ Coverage limit: $1,000,000
 - ✓ Deductible: $500
 - ✓ Mobile work percentage: 25%
-- ✓ Contact email verified
+- ✓ Contact email confirmed on file
+
+**Action Items for Harper**
+- Email quotes to applicant within 24-48 business hours
+- Use Harper intake follow-up line for any text communications with Marco
+
+**Action Items for Marco (Customer)**
+- Await quotes via email (expected within 24-48 business hours)
+- Contact via intake follow-up line if questions arise
 
 **Tone/Sentiment**
 - Positive and cooperative
-- Marco confirmed all details without hesitation or concerns
-- Professional, efficient exchange
+- Marco confirmed all details without hesitation
+- Professional and efficient call
 
-## Action Items
-
-**For Harper (Alex)**
-- [ ] Email quotes to Marco's address on file within 24-48 business hours
-- [ ] Ensure intake follow-up line is available for text follow-ups with Marco
-- [ ] Have quotes ready reflecting $1M limit, $500 deductible, and 25% mobile operations
-
-**For Marco (Customer)**
-- [ ] Await quote delivery (24-48 hours)
-- [ ] Review quotes upon receipt
-- [ ] Respond via email or text to intake follow-up line with any questions
-
-## Timeline
-- **Call Date**: December 4, 2025
-- **Expected Quote Delivery**: December 5-6
+**Follow-up Timeline**
+- Quote delivery: 24-48 business hours from 12/4/2025

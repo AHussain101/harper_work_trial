@@ -3,47 +3,46 @@
 **Date:** 2025-12-04T20:34:04.555000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Outgoing Message (December 4, 2025)
-
-## Business Details
-- **Coverage Status:** Quote options pending
-- **Process Stage:** Pre-quote discussion phase
-
-## Personal Details
-- **Contact Method:** Text or phone call available
-- **Preferred Communication:** Flexible (text or call)
+# SMS Summary - Outgoing Message
 
 ## Conversation Context
 
 ### Main Topic
-- Notification to customer about upcoming quote delivery process
+- Setting expectations for next steps in the quote process
+- Informing customer about upcoming agent contact
 
-### Key Information
-- Quote options will be received at an unspecified future date
-- An agent will contact the customer via phone call once quotes arrive
-- Customer is invited to ask questions before quote options arrive
+### Key Message Points
+- Quote options will be received (timeline not specified)
+- An agent will call to finalize coverage details
+- Customer can reach out with questions via text or call before agent contact
 
 ### Action Items for Customer
-- Review upcoming quote options when received
-- Contact Harper (via text or phone) with any pre-quote questions
+- Wait for quote options to be received
+- Prepare for agent call to finalize coverage
+- Contact Harper (via text or phone) if any questions arise before agent calls
 
 ### Action Items for Harper
-- Prepare quote options for delivery
-- Schedule agent call with customer upon quote availability
-- Be available for text/phone inquiries before quotes arrive
-
-### Pending Decisions
-- Which quote option customer will select (awaiting quote delivery)
-- Coverage details to be finalized during agent call
-
-### Follow-up Timeline
-- Next step: Quote options delivery → Agent phone call → Coverage finalization
-- Timeline not specified
+- Obtain and send quote options to customer
+- Arrange for agent call to finalize coverage
+- Ensure customer has clear contact method for pre-call questions
 
 ### Tone/Sentiment
-- **Professional and reassuring** - friendly closing tone
-- **Customer-service oriented** - emphasizes accessibility and support
+- Professional and courteous
+- Reassuring and accessible
+- Clear communication of process
 
 ---
 
-**Note:** This appears to be a standard process confirmation message. No specific policy details, company information, or customer name is mentioned in this SMS.
+## Missing Information
+⚠️ **Note:** This message contains limited details as it appears to be a routine procedural message. The following information is **NOT provided** in this SMS:
+
+- Customer name/contact details
+- Business details (company name, type, size, industry)
+- Coverage types or policy specifics
+- Premium amounts or deductibles
+- Quote timeline
+- Carrier names
+- Any previous conversation context
+- Specific availability/scheduling details
+
+**Recommendation:** Reference previous SMS or customer file for full context on coverage needs and business details.

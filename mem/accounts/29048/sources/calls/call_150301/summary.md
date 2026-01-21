@@ -4,56 +4,66 @@
 **Duration:** 14m 40s
 **Direction:** Incoming
 
-# Call Summary for Harper Insurance Broker
+# Insurance Call Summary for Harper
+
+**Date:** December 4, 2025  
+**Call Duration:** 14m 40s (18:44–18:59 UTC)  
+**Call Type:** Incoming  
+**Agent:** Ashley
+
+---
 
 ## Business Details
 
-**Company Information:**
+**Company Information**
 - **Company Name:** Brookside Botanicals LLC
-- **Business Type:** Artisan handmade soap manufacturing
-- **Industry:** Consumer goods / Personal care products
-- **Product Mix:** Primary product is handmade soaps; secondary products include accessory items (soap dishes)
-- **Projected Annual Revenue:** $750,000 (next year)
-- **Annual Payroll:** $100,500
+- **Industry:** Artisan soap manufacturing
+- **Business Type:** Handmade soap production with accessory resale
+- **Product Description:** Artisan handmade soaps (primary product); resells accessory items (e.g., soap dishes)
 - **Years in Operation:** Not specified
-- **Number of Employees:** Not specified (but $100.5k payroll suggests likely 1-2 part-time or 1 full-time employee)
+- **Projected Annual Revenue:** ~$750,000 (next year)
+- **Payroll:** $100,500
 
-**Coverage & Policy Details:**
-- **Existing Coverage:** General Liability with Great American Alliance Insurance Company (Certificate of Insurance on file)
-- **Coverage Needed:** Professional Liability + Umbrella coverage
-- **Coverage Limits Requested:**
-  - Umbrella: $2.0M excess (occurrence basis)
-  - Professional Liability: $1.0M per claim
-- **Claims History:** No prior claims on record
-- **Purpose of Coverage:** Required by third-party fulfillment program participation
-- **Current Fulfillment Provider:** Third-party fulfillment provider being used (details not provided)
+**Current Coverage**
+- **Existing Policy:** General Liability with Great American Alliance Insurance Company
+- **Claims History:** No prior claims on file
+
+**Coverage Needs & Quotes Requested**
+- **Professional Liability:** $1.0M per claim
+- **Umbrella Coverage:** $2.0M excess, occurrence basis
+- **Purpose:** Required to participate in third-party fulfillment program
+- **Expected Quote Timeline:** 24–48 hours (marked as urgent submission)
+
+**Additional Notes**
+- Client uses a third-party fulfillment provider
+- Submission marked as **URGENT** for carrier shopping
 
 ---
 
 ## Personal Details
 
-**Primary Contact:**
-- **Name:** Olivia Grant
+**Primary Contact**
+- **Name:** Olivia (Last name: Grant, based on email)
 - **Title/Role:** Business owner
-- **Company:** Brookside Botanicals LLC
+- **Company Email:** olivia.grant@brooksidebotanicals.com
 - **Location:** Connecticut
-- **Email:** olivia.grant@brooksidebotanicals.com
-- **Phone:** Not provided
 - **Preferred Contact Method:** Email
 
-**Referral/Call Routing:**
-- Initial contact came through Jessica at Tivoli (third-party program representative)
+**Referral Source**
+- Jessica at Tivoli facilitated the initial connection/transfer
+
+**Communication Style/Personality Notes**
+- Professional and courteous
+- Appreciative of assistance
+- Clear and direct in communicating needs
 
 ---
 
 ## Conversation Context
 
-**Call Purpose:**
-- Obtain professional liability and umbrella coverage quotes to meet third-party fulfillment program requirements
+**Main Topic/Purpose**
+- Obtaining professional liability and umbrella coverage quotes to meet third-party fulfillment program requirements
 
-**Key Information Discussed:**
-- Company manufactures artisan handmade soaps with some resale items
-- Currently insured for general liability only
-- No claims history
-- Seeking to expand through third-party fulfillment partnership
-- Specific coverage limits set by program requirements
+**Key Information Exchanged**
+- Confirmed company name and product line
+- Verified existing general liability coverage

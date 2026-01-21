@@ -10,60 +10,43 @@
 
 ## Business Details
 
-### Company Information
 - **Company Name:** Summit Ridge Roofing & Exteriors
 - **Industry:** Roofing & Exteriors
 - **Application Number:** 48-1032
-
-### Policy Details
-- **Effective Date:** December 4, 2025
-- **Status:** Application in e-signature process
-
-### Documents & Portal
-- **Portal Link:** https://portal.example-mga.com/applications/48-1032
-- **Document Status:** E-sign documents opened and ready for signature
-
----
+- **Effective Date:** 2025-12-04 (December 4, 2025)
+- **Policy Status:** E-sign documents opened and in signing process
 
 ## Personal Details
 
-### Contact Information
 - **Insured Name:** David Mercer
-- **Broker Email:** avery.collins@harperinsure.com
-
----
+- **Role/Title:** Insured/Business Owner
+- **Contact Method:** E-sign portal link
 
 ## Conversation Context
 
 ### Main Topic
-- Automated notification that insured has opened e-sign documents for policy application
+- Notification that David Mercer has opened the e-signature link for application documents
 
-### Key Status Update
-- David Mercer has accessed the e-signature link for Application #48-1032
-- Documents are ready to be signed
+### Key Information
+- E-sign documents have been accessed and signing process has begun
+- Application is active and moving toward completion
 
-### Action Items
-
-**For Harper:**
-- Monitor for completion of signed documents
+### Action Items for Harper
+- Monitor application portal for document completion status
 - Follow up if documents are not signed within reasonable timeframe
-- Ensure documents are fully executed and returned
+- Prepare for policy issuance once signatures are complete
 
-**For Customer (David Mercer):**
-- Complete e-signature of all required documents
-- Return signed documents to finalize policy
+### Action Items for Customer
+- Complete signing of all required e-sign documents
+- Submit signed documents via the provided portal link
 
-### Next Steps
-- Await completion of document signatures
-- Process fully executed documents once returned
+### Portal Access
+- Application Portal Link: https://portal.example-mga.com/applications/48-1032
 
 ### Tone/Sentiment
-- **Tone:** Neutral/Procedural (automated system notification)
-- **Sentiment:** Positive progress - customer is actively engaging with application
+- **Professional/Neutral** - Automated notification from MGA system
 
----
-
-## Additional Notes
-- This is an automated notification from the online MGA system
-- No manual communication or questions from customer in this message
-- Application is progressing through the enrollment process
+### Important Notes
+- This is an automated notification from the online MGA platform (donotreply@onlinemga.com)
+- Notification sent to Avery Collins (avery.collins@harperinsure.com)
+- No additional documents or information requested at this time

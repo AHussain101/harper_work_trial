@@ -3,33 +3,39 @@
 **Date:** 2025-12-05T14:25:00.000000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Quote Review Call Request
+# SMS Summary for Harper
 
 ## Conversation Context
-- **Main Topic:** Scheduling a call to review an insurance quote
-- **Purpose:** Quote discussion and review
-- **Tone/Sentiment:** Professional, straightforward
-- **Urgency Level:** Same-day scheduling (sent on 2025-12-05)
 
-## Action Items for Customer
-- **Pending Decision:** Confirm availability for 3:30 PM call today (2025-12-05)
-- **Expected Duration:** 15-minute call
-- **Purpose of Call:** Review quote details
+### Main Topic/Purpose
+- **Purpose:** Scheduling a call to review an insurance quote
+- **Type:** Quick availability check/meeting request
 
-## Action Items for Harper
-- **Pending:** Awaiting customer response regarding 3:30 PM availability
-- **Next Step:** If confirmed, prepare for quote review call at 3:30 PM today
-- **If Declined:** Offer alternative time slots for scheduling
+### Key Details
+- **Proposed Meeting Time:** 3:30 PM today (2025-12-05)
+- **Duration:** 15 minutes
+- **Meeting Type:** Phone call
+- **Meeting Purpose:** Quote review
 
-## Missing Information
-⚠️ **Note:** This SMS lacks the following context details needed for complete understanding:
-- Business details (company name, type, size, coverage needs)
-- Which quote is being reviewed (carrier, policy type, premium amount)
-- Customer name and contact information
-- Whether this is a new quote, renewal, or revision
-- Any specific quote concerns or questions from the customer
-- Previous correspondence about this quote
+### Action Items
+- **For Harper:** Await customer response to confirm 3:30 PM availability
+- **For Customer:** Confirm whether 3:30 PM works or suggest alternative time
+
+### Next Steps
+- Pending customer response on availability
+- Call scheduled contingent on confirmation
+
+### Tone/Sentiment
+- **Tone:** Professional, casual, efficient
+- **Sentiment:** Neutral/friendly
+- **Urgency Level:** Moderate (scheduling same-day call)
 
 ---
 
-**Recommendation:** Review customer file and recent quote documents before the call to ensure preparedness if customer confirms availability.
+## Missing Information
+⚠️ **Note:** This SMS lacks customer context details. The following information should be added to the file for complete context:
+- Customer/contact name and company name
+- Previous quote details (coverage types, premium amounts)
+- Policy type being quoted
+- Customer's preferred contact method confirmation
+- Any outstanding documents or information needed before the call

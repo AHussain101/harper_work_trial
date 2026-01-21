@@ -3,39 +3,47 @@
 **Date:** 2025-12-04T22:03:30.137000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Policy Documents Delivery
+# SMS Summary for Harper
 
-## Conversation Context
-- **Main Topic:** Confirmation of policy document delivery via email
-- **Direction:** Outgoing message from Harper to customer
+## Message Overview
+- **Direction:** Outgoing (from Harper/Harper's team)
 - **Date & Time:** December 4, 2025 at 10:03 PM
-- **Tone/Sentiment:** Professional, routine administrative follow-up
-
-## Action Items
-
-### For Harper
-- ✓ Sent full policy documents via email (completed)
-- ⏳ **Pending:** Await customer confirmation of receipt and successful attachment download
-
-### For the Customer ("team")
-- **Required:** Confirm receipt of email with attachments
-- **Required:** Verify all attachments downloaded successfully
-
-## Documents Discussed
-- Full policy documents (specific policy types not detailed in this message)
-- Multiple attachments included in email
-
-## Business Details
-- Coverage type(s): Not specified in this message
-- Carrier name: Not mentioned
-- Policy specifics: Not detailed
-
-## Key Notes
-- Message is directed to "team" (suggests multiple recipients or organizational contact)
-- Uses informal greeting style ("Hey team")
-- Simple, transactional nature of communication
-- No urgency indicated, but confirmation requested
+- **Type:** Follow-up notification regarding policy documentation
 
 ---
 
-**⚠️ Note:** This message lacks substantial detail. Recommend reviewing the actual email sent and attachments for complete policy information, effective dates, renewal dates, premium amounts, and specific coverage details.
+## Business Details
+- **Documents Sent:** Full policy documents (via email)
+- **Document Status:** Awaiting confirmation of receipt
+
+---
+
+## Personal Details
+- **Recipient:** Referred to as "team" (suggests multiple recipients or a business contact)
+- **Contact Method Used:** Email (primary) + SMS (confirmation/reminder)
+
+---
+
+## Conversation Context
+- **Main Purpose:** Confirm delivery and receipt of policy documents
+- **Key Action:** Harper sent full policy documents via email and is requesting acknowledgment
+- **Pending Response:** Confirmation from recipient that attachments were received successfully
+- **Tone/Sentiment:** Professional, straightforward, action-oriented
+
+---
+
+## Action Items
+
+### For Customer/Team:
+- ✋ **Confirm receipt** of emailed policy documents and attachments
+
+### For Harper:
+- ⏳ Await confirmation from customer regarding document receipt
+- 📋 Follow up if no confirmation received within reasonable timeframe (suggest 24-48 hours)
+- 📁 Be prepared to re-send documents if attachment delivery failed
+
+---
+
+## Follow-Up Notes
+- No specific renewal date, effective date, or carrier details mentioned in this message
+- This appears to be a routine administrative follow-up in an ongoing client relationship

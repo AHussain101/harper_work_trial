@@ -3,61 +3,41 @@
 **Date:** 2025-12-05T14:22:05.000000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper
-
-## Message Type
-- **Direction:** Outgoing (Harper → Customer)
-- **Date/Time:** December 5, 2025 at 2:22 PM
-- **Purpose:** Notification of received carrier quote with offer to review
-
----
+# SMS Summary - Insurance Quote Review
 
 ## Business Details
-- **Carrier Quote Status:** Just received
-- **Quote Review Needed:** Yes - pending Marcus's preference
-
----
+- **Quote Status:** Carrier quote received and ready for review
+- **Coverage/Policy:** Not specified in message (details unknown)
+- **Next Step:** Quote review call needed
 
 ## Personal Details
 - **Contact Name:** Marcus
-- **Role/Title:** Not specified
-- **Communication Method:** SMS (Harper initiated direct contact)
-- **Availability Preference:** Being asked to choose between:
-  - Quick call now (immediate)
-  - Quick call later today (deferred)
-
----
+- **Communication Method:** SMS (text message)
+- **Preferred Contact:** Offering flexibility - call now or later today
+- **Personality Notes:** Appears responsive and ready to move forward on quote review
 
 ## Conversation Context
+- **Main Topic:** Follow-up on received carrier quote and scheduling review call
+- **Purpose:** Present and discuss quote numbers with client
+- **Key Question Asked:** Does Marcus want to review the quote immediately or at a later time today?
+- **Tone/Sentiment:** Professional, efficient, customer-focused (offering flexibility)
 
-### Main Topic
-- Carrier quote has been received and is ready for review discussion
+## Action Items
+### For Harper:
+- [ ] Prepare quote details/numbers for discussion
+- [ ] Be available for call now or later today (per Marcus's preference)
+- [ ] Have all relevant quote documentation ready to reference during call
 
-### Key Actions/Decisions Pending
-- **Decision Required from Marcus:**
-  - Timing preference for quote review call (now vs. later today)
+### For Marcus (Customer):
+- [ ] Decide on timing: call now or later today
+- [ ] Respond with preferred call time
+- [ ] Prepare any questions about the quote numbers
 
-### Action Items for Harper
-- [ ] Await Marcus's response on preferred timing
-- [ ] Prepare for quick call to review quote numbers with Marcus
-- [ ] Have quote details accessible for discussion
-
-### Action Items for Customer (Marcus)
-- [ ] Respond with preferred timing (now or later today)
-- [ ] Be available for quick call at chosen time
-
-### Follow-up Timeline
-- **Next Steps:** Dependent on Marcus's response - call should occur same day (December 5, 2025)
-
-### Tone/Sentiment
-- Professional and proactive
-- Offering flexibility to customer
-- Time-sensitive (same-day review being offered)
+## Missing Information
+- Specific carrier name(s)
+- Coverage type(s) or policy details
+- Premium amounts or specific quote numbers
+- Previous communication context or client background
 
 ---
-
-## Missing/Incomplete Information
-- Specific carrier name not mentioned
-- Quote details/numbers not included in message
-- Business type, size, or coverage details not discussed yet
-- No mention of what type of insurance quote this is
+**Note:** This is an initial outreach awaiting response. Follow-up call timing is pending Marcus's reply.

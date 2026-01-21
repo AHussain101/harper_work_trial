@@ -4,73 +4,61 @@
 **Duration:** 2m 20s
 **Direction:** Outgoing
 
-# Call Summary: Marcus - Quote Finalization & Documentation
+# Call Summary for Harper Insurance Broker
+
+## Contact Information
+- **Name:** Marcus
+- **Role/Title:** Not specified
+- **Company:** Not specified
+- **Preferred Contact Method:** Text or email
+- **Phone/Email:** Not provided in call
 
 ## Business Details
-- **Coverage Type:** Not explicitly specified (general commercial insurance implied)
-- **Current Status:** Quote in progress with multiple carriers
-- **Expected Quote Timeline:** Initial carrier terms within 24-48 hours
-- **Documents Needed:**
-  - Loss runs (last 3 years)
-  - Current Certificate of Insurance (COI)
-  - **Submission Method:** Secure portal (link previously sent)
+- **Company Name:** Not mentioned
+- **Industry/Business Type:** Not mentioned
+- **Number of Employees:** Not mentioned
+- **Revenue:** Not mentioned
+- **Years in Operation:** Not mentioned
 
----
+## Coverage & Policy Information
+- **Policy Types Discussed:** Not specified
+- **Coverage Limits:** To be reviewed after carrier quotes received
+- **Deductibles:** Not mentioned
+- **Premium Amounts:** Not mentioned
+- **Renewal Date:** Not mentioned
+- **Effective Date:** Not mentioned
+- **Loss Runs:** Last 3 years needed (Marcus to provide)
+- **Current Certificate of Insurance (COI):** Marcus to provide
+- **Carriers:** Not named specifically; awaiting initial terms
 
-## Personal Details
-- **Contact Name:** Marcus
-- **Role/Title:** Decision-maker/Account owner
-- **Preferred Contact Methods:** 
-  - Text message
-  - Email
-  - Phone (call)
-- **Communication Style:** Cooperative, responsive, efficient
+## Call Details
+- **Date/Time:** December 5, 2025 at 2:10 AM UTC
+- **Duration:** 2 minutes 20 seconds
+- **Direction:** Outgoing call from Harper
+- **Harper Agent:** Shanika
+- **Tone/Sentiment:** Professional, cooperative, friendly
 
----
+## Key Discussion Points
+- Review of incoming quote
+- Next steps for quote finalization
+- Timeline for carrier response
 
-## Conversation Context
+## Action Items for Marcus (Customer)
+- [ ] Upload loss runs (last 3 years) via secure portal **Tonight**
+- [ ] Upload current certificate of insurance via secure portal **Tonight**
 
-### Purpose
-Review incoming insurance quote and establish next steps for policy finalization
+## Action Items for Harper/Shanika
+- [ ] Monitor secure portal for Marcus's uploads
+- [ ] Submit documents to carriers
+- [ ] Obtain initial carrier terms
+- [ ] Call Marcus to review payment options and coverage limits once carrier terms received
 
-### Key Points Discussed
-- Documentation requirements to finalize carrier quotes
-- Expected timeline for carrier response (24-48 hours)
-- Next call will cover payment options and coverage limits
+## Timeline & Next Steps
+- **Expected Carrier Response:** 24-48 hours from document submission
+- **Follow-up:** Phone call after carrier terms received to discuss payment options and coverage limits
+- **Ongoing Communication:** Via text or email as needed
 
-### Decisions Made
-- Marcus agreed to upload required documents tonight
-- Harper will submit documents to carriers and track quote timing
-
-### Action Items
-
-**For Marcus (Customer):**
-- [ ] Upload loss runs (last 3 years) to secure portal tonight
-- [ ] Upload current Certificate of Insurance to secure portal
-- [ ] Await Harper's call regarding carrier terms, payment options, and coverage limits
-
-**For Harper/Shanika:**
-- [ ] Submit Marcus's documentation to carriers once received
-- [ ] Confirm carrier quote timing and track 24-48 hour window
-- [ ] Schedule follow-up call to review:
-  - Initial carrier terms
-  - Payment options
-  - Coverage limits
-- [ ] Monitor secure portal for document uploads
-
-### Follow-Up Timeline
-- **Documentation Upload:** Tonight (expected)
-- **Carrier Response:** Within 24-48 hours
-- **Next Contact:** After carriers return terms (phone call planned)
-
----
-
-## Tone & Sentiment
-- **Overall Tone:** Professional, positive, collaborative
-- **Customer Sentiment:** Cooperative and responsive
-- **Urgency Level:** Standard/routine (not marked as urgent)
-
----
-
-## Call Metadata
-- **
+## Missing Information for Future Reference
+- Marcus's email address and phone number
+- Company name and business type
+- Specific carriers

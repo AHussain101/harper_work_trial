@@ -7,48 +7,33 @@
 
 ## Conversation Context
 
-**Main Topic/Purpose**
-- Acknowledgment of receipt of information from Marcus
-- Confirmation of next steps in the underwriting/quote process
+### Main Topic
+- Confirmation message acknowledging receipt of information from Marcus
+- Indication that Harper is now managing carrier communication for additional details
 
-**Key Points**
-- Harper is confirming receipt of materials/information provided by Marcus
-- Harper will proactively communicate with Marcus when carriers request additional information or details
+### Key Points
+- Message tone: **Professional and reassuring**
+- Harper is confirming that information has been received
+- Harper will serve as the point of contact for any carrier requests going forward
 
-**Decisions Made**
-- Harper will handle carrier communication and notify Marcus as needed (rather than having Marcus contact carriers directly)
+### Action Items for Harper
+- Monitor for additional detail requests from carriers
+- Contact Marcus when/if carriers require more information
+- Proactively communicate with Marcus about any carrier follow-ups
 
-**Action Items for Harper**
-- Monitor for carrier requests for additional details
-- Proactively contact Marcus when carriers need more information
-- Keep Marcus informed throughout the underwriting process
+### Action Items for Customer
+- None explicitly stated in this message
+- Implied: Stand by for potential follow-up requests from Harper/carriers
 
-**Action Items for Customer (Marcus)**
-- No immediate action required; awaiting Harper's follow-up
-- Be available to provide additional information if/when carriers request it
-
-**Follow-up Timeline**
-- No specific timeline mentioned
-- Contact will occur when carriers request additional details
-
-**Tone/Sentiment**
-- Professional, reassuring, and collaborative
-- Positive tone indicating smooth progress
+### Pending Status
+- Awaiting potential carrier requests for additional information
+- No immediate action required from customer
 
 ---
 
-## Personal Details
-
-**Contact Name(s) and Role/Title**
-- **Marcus** - role/title not specified in this message
-
-**Preferred Contact Method**
-- SMS (this is the communication channel being used)
-
----
-
-## Notes
-
-- This appears to be a mid-process message in an ongoing insurance quoting/underwriting conversation
-- Context of what "details" Marcus provided is not clear from this message alone
-- No specific business, coverage types, or financial details mentioned in this particular SMS
+## Missing Information
+⚠️ **Note:** This is a brief confirmation message with limited details. To provide more comprehensive context, the following information would be helpful:
+- What information was previously received from Marcus (documents, application details, etc.)?
+- What type of insurance/coverage is being quoted?
+- Which carriers are involved?
+- What is the timeline for carrier review?

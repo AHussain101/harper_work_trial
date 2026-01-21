@@ -5,62 +5,47 @@
 
 # SMS Summary for Harper Insurance
 
-## Message Overview
-- **Direction:** Outgoing (from Harper Insurance to client)
-- **Date & Time:** December 4, 2025 at 10:14 PM
-- **Sender:** Maya Brooks, Senior Producer at Harper Insurance
-- **Recipient:** Isabella
-
----
+## Business Details
+- **Company/Application Status**: Application submitted (specific business details not yet provided in this message)
+- **Coverage Information**: Not yet discussed
+- **Policy Details**: Pending review
 
 ## Personal Details
-- **Contact Name:** Isabella
-- **Harper Representative:** Maya Brooks
-  - **Title:** Senior Producer
-  - **Organization:** Harper Insurance
-
----
+- **Contact Name**: Isabella
+- **Sender**: Maya Brooks
+- **Sender Title/Role**: Senior Producer at Harper Insurance
+- **Communication Method**: SMS
+- **Tone/Personality Notes**: Professional, courteous, responsive
 
 ## Conversation Context
 
-### Purpose
-- Acknowledgment of received application submission
-- Status update to client regarding application processing
+### Main Topic
+- Initial acknowledgment of Isabella's insurance application submission
+- Confirmation that the application is being processed
 
 ### Key Messages
-- Application has been successfully received
-- Application is currently under review/being processed
-- Follow-up communication will be provided in the future
+- Application has been received
+- Application is currently under review by Harper Insurance team
+- Follow-up communication will be sent to Isabella
+
+### Status
+- **Current Action**: Application in process/under review
+- **Pending Items**: 
+  - Complete application review
+  - Follow-up communication to Isabella
+
+### Action Items
+- **For Harper/Maya**: Review Isabella's application and send follow-up communication with next steps/requirements
+- **For Isabella**: Await follow-up contact from Harper Insurance
+
+### Next Steps
+- Maya Brooks will follow up with Isabella soon (timeline not specified)
 
 ### Tone/Sentiment
-- Professional and courteous
-- Reassuring (indicating work is in progress)
-- Friendly but formal
+- Professional, friendly, and reassuring
+- No concerns or red flags indicated
+- Proactive outreach to acknowledge receipt and set expectations
 
 ---
 
-## Action Items
-
-### For Harper/Maya Brooks
-- [ ] Process and review Isabella's application
-- [ ] Prepare follow-up communication for Isabella
-- [ ] Determine timeline for next contact with Isabella
-
-### For Isabella
-- [ ] Await follow-up from Harper Insurance regarding application status
-
----
-
-## Outstanding Information Needed
-- Application details (coverage type, business/personal details, requested limits, etc.)
-- Expected timeline for follow-up
-- Preferred contact method for Isabella
-- Additional documentation that may be required
-
----
-
-## Notes
-- This is an initial acknowledgment message
-- No specific coverage details, premium amounts, or policy information mentioned
-- No claims history or previous relationship context provided
-- More detailed information will emerge in follow-up communications
+**Note**: This is an initial outreach message. Additional business and coverage details will emerge in subsequent communications.

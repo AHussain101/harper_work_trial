@@ -4,44 +4,53 @@
 **Duration:** Unknown
 **Direction:** Outgoing
 
-# Call Summary - Document Upload & Information Confirmation
+# Call Summary
 
 ## Call Details
+- **Direction:** Outgoing
 - **Date:** December 4, 2025
-- **Time:** 22:42 UTC
-- **Direction:** Outgoing (Harper initiated)
-- **Duration:** ~9 seconds
-- **Status:** Voicemail left (no live contact)
-
-## Purpose of Call
-Harper attempted to reach client to:
-1. Confirm document upload completion
-2. Discuss next steps in insurance process
-3. Obtain clarification on staffing numbers
-4. Obtain clarification on service locations
-
-## Action Items - Harper
-- ✅ Left voicemail requesting client callback
-- ⏳ **Pending:** Receive confirmation that documents were uploaded
-- ⏳ **Pending:** Obtain staffing numbers from client
-- ⏳ **Pending:** Obtain service location details from client
-- ⏳ **Pending:** Determine next steps once information is received
-
-## Action Items - Client
-- **Required:** Return Harper's call
-- **Required:** Confirm document upload status
-- **Required:** Provide staffing numbers
-- **Required:** Provide service location information
-
-## Follow-Up Timeline
-- **Status:** Awaiting client callback
-- **No specific timeline mentioned** - likely immediate follow-up expected
-
-## Notes
-- Voicemail was left (call did not connect with live person)
-- Client information such as name, contact number, company details, and coverage specifics were not discussed on this call
-- This appears to be part of an ongoing insurance quote/renewal process
+- **Time:** 10:42 PM (22:42)
+- **Duration:** 9 seconds (approximately)
+- **Status:** Voicemail left (call not answered)
 
 ---
 
-**⚠️ Note:** Limited information captured due to voicemail being left rather than live conversation. Refer to previous call notes or CRM for client and business details.
+## Purpose
+- Confirm document upload status
+- Discuss and confirm next steps with client
+
+---
+
+## Action Items - Harper
+- **Pending:** Await client callback to voicemail
+- **Required Information:** Obtain confirmation from client regarding:
+  - Staffing numbers
+  - Service locations
+
+---
+
+## Action Items - Client
+- **Return voicemail** left by Harper
+- **Confirm:** Staffing numbers
+- **Confirm:** Service locations
+- **Verify:** Document upload completion
+
+---
+
+## Key Questions/Information Needed
+- Current staffing count
+- All service locations (number and details)
+- Confirmation that required documents have been uploaded
+
+---
+
+## Notes
+- Client did not answer; message was left on voicemail
+- Follow-up required - awaiting client response
+- Tone: Professional, informational
+
+---
+
+## Follow-Up Timeline
+- **Next Step:** Wait for client to return voicemail call
+- **No specific callback deadline mentioned**

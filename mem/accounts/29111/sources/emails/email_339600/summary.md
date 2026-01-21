@@ -12,59 +12,56 @@
 
 ### Company Information
 - **Company Name:** Sentinel Patrol Services
-- **Industry:** Unarmed Security Services
-- **Business Type:** Contract security and patrol services
+- **Business Type:** Unarmed security patrol services
+- **Industry:** Contract security and patrol services
 - **Location:** Nevada (NV)
-- **Years in Operation:** Startup/Pre-launch (owner finalizing legal filings)
-- **Business Status:** Preparing to launch operations
+- **Current Status:** Owner finalizing legal filings; preparing to launch operations
 
-### Operations & Services
-- Unarmed security patrols (no weapons or firearms on premises)
-- Site checks and inspections
-- Contract guard services
-- Mobile patrols and static site coverage
+### Operations
+- **Services Offered:**
+  - Unarmed security patrols
+  - Site checks
+  - Contract guard services
+  - Mobile patrols
+  - Static site coverage
+- **Security Measures:** No weapons or firearms on premises
 
-### Financial Information
+### Financial & Staffing Information
 - **Estimated Annual Revenue:** ~$51,000
-- **Initial Staffing:** Up to 5 agents (mix of part-time and seasonal workers)
+- **Initial Staffing Plan:** Up to 5 agents during first year
+- **Employment Mix:** Combination of part-time and seasonal workers
+- **Growth Timeline:** First-year staffing ramp-up
 
-### Coverage Requested
+## Coverage Details
+
+### Requested Coverage
 - **Primary Coverage:** General Liability (GL)
-- **Secondary Need:** Workers' Compensation guidance (pending employee classification decision)
+- **Secondary Coverage:** Workers' Compensation (pending employee classification)
 
-### Documents & Information Provided
-- Initial submission details provided
-- Staffing structure information provided
-- Workers' compensation employee classification inquiry submitted
+### Premium & Limits
+- Not specified in submission
 
----
+### Outstanding Questions
+- **Employee Classification Decision Pending:** W-2 vs. 1099 status for five workers
+- **Workers' Comp:** Guidance requested; awaiting employee classification determination
 
-## Personal Details
+## Action Items
 
-### Contact Information
-- **Submitter:** Harper Submissions (on behalf of Harper insurance broker)
-- **Submission Source Email:** submissions@harperinsure.com
-- **Intended Recipient:** underwriting@harperinsure.com
+### For Harper
+- [ ] Provide cost comparison analysis for W-2 vs. 1099 employment structures
+- [ ] Issue recommendation on best approach for Nevada employment classification
+- [ ] Prepare General Liability quote for unarmed security patrol operations
+- [ ] Obtain Workers' Compensation quote once employment classification is finalized
+- [ ] Follow up with client on employment structure decision
 
-### Client Contact Role
-- Business owner (specific name not provided in this submission email)
+### For Client (Sentinel Patrol Services)
+- [ ] Finalize legal business filings
+- [ ] Decide on W-2 vs. 1099 employment structure for initial 5 agents
+- [ ] Return cost comparison analysis and recommendation once received from Harper
 
----
+## Contact & Communication
 
-## Conversation Context
-
-### Main Purpose
-This is an internal insurance submission/routing email from Harper's submissions team to underwriting for a new client seeking general liability coverage with supplemental workers' compensation guidance.
-
-### Key Details & Questions
-- Client requires guidance on employee classification: **W-2 vs. 1099 status** for five workers
-- Client wants cost comparisons between employment classification options
-- Harper to recommend best approach for Nevada compliance
-
-### Action Items for Harper
-- [ ] Provide cost comparisons for W-2 vs. 1099 employee classifications
-- [ ] Make recommendation on best employment classification approach for Nevada context
-- [ ] Obtain General Liability quote for unarmed security patrol business
-- [ ] Provide Workers' Compensation guidance once employment structure is determined
-
-### Action Items
+### Submission Information
+- **Submitted by:** Harper Submissions
+- **Submission Date:** December 4, 2025 (11:40 PM UTC)
+- **Submission Channel:** Harper

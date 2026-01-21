@@ -4,71 +4,73 @@
 **Duration:** 11m 12s
 **Direction:** Incoming
 
-# Call Summary - Maple Ridge Home Care
+# Call Summary: Maple Ridge Home Care
 
 ## Business Details
 
 **Company Information**
 - Company Name: Maple Ridge Home Care
 - Business Type: Non-medical home care agency
-- Industry: Home care services for individuals with developmental disabilities
-- Years in Operation: New business
+- Industry: Healthcare/Social Services
+- Primary Service: Serving individuals with developmental disabilities
+- Status: New business
+
+**Staffing & Operations**
 - Number of Employees: 2 full-time staff
-- Revenue: Discussed/estimated for quote purposes (specific amount not noted)
-- Payroll: Discussed for quote purposes (specific amount not noted)
+- Client Transportation: Employees use personal vehicles to transport clients
+- Background Checks: Will be provided
+- Motor Vehicle Records (MVRs): Will be provided
 
-**Coverage Needs & Policy Types**
-- General Liability insurance
-- Hired/Non-Owned Auto coverage (critical need - staff transport clients in employees' personal vehicles)
+**Coverage Needs**
+- General Liability insurance (quote requested)
+- Hired/Non-Owned Auto insurance (quote requested)
+- Reason for hired/non-owned auto: Staff transport clients in their personal vehicles
 
-**Underwriting Status**
-- Application status: Submitted for carrier review
-- Quote timeline: Expected within 24–48 hours
-- Background checks: To be provided
-- Motor Vehicle Records (MVRs): To be provided
+**Financials**
+- Estimated revenue: Discussed for quote purposes (specific amount not noted in summary)
+- Estimated payroll: Discussed for quote purposes (specific amount not noted in summary)
 
-**Renewal/Effective Dates**
-- Not mentioned
-
-**Premium, Deductibles, Limits**
-- Not yet quoted
-
-**Carrier Information**
-- Specific carrier names: Not mentioned
-- Quotes: Pending from carrier(s)
+**Application Status**
+- Intake: Completed
+- Application: Submitted for carrier review
+- Expected Quote Timeline: Within 24–48 hours
+- Quote Status: Pending
 
 ---
 
 ## Personal Details
 
-**Primary Contacts**
-- **Amelia Rivera** - Role: Likely owner/manager of Maple Ridge Home Care
-  - Phone: Not provided
-  - Email: Not provided
-  - Preferred contact method: Not specified
+**Primary Contact: Amelia Rivera**
+- Title/Role: Representative of Maple Ridge Home Care
+- Organization: Maple Ridge Home Care
 
-- **Marisol Garcia** - Role: Representative from Community Insurance Center (county referral partner assisting with insurance)
-  - Phone: Not provided
-  - Email: Not provided
+**Secondary Contact: Marisol Garcia**
+- Title/Role: Representative of Community Insurance Center
+- Organization: Community Insurance Center (county referral partner)
 
-**Harper Representative**
-- Jordan Kim - Insurance agent who conducted the call
+**Harper Contact: Jordan Kim**
+- Title/Role: Insurance agent
+- Action: Connected with clients on this call
 
-**Communication Style/Notes**
-- Amelia appeared cooperative and engaged during intake process
-- No personality notes or concerns flagged
-- No family/personal details shared
+**Contact Methods**
+- None specified in call notes
 
 ---
 
 ## Conversation Context
 
 **Call Purpose**
-- Initial intake and quote process for new home care business
-- Assess coverage needs specific to transportation of clients in personal vehicles
-- Submit application to carriers for underwriting review
+- Initial consultation and quote request for new home care business startup
+- Intake and application submission for insurance coverage
 
 **Key Discussion Points**
-- Business model involves staff using personal vehicles to transport clients (key risk factor)
-- Need for background checks and MVRs for all staff
-- Revenue and payroll estimates provided for under
+- Business model: Non-medical home care serving individuals with developmental disabilities
+- Transportation risk: Employees using personal vehicles to transport clients
+- Staffing details: 2 full-time employees
+- Documentation to be provided: Background checks and MVRs
+
+**Decisions Made**
+- Proceed with quote submission for general liability and hired/non-owned auto coverage
+- Application submitted to carrier for review
+
+**Action Items

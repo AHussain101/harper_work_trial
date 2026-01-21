@@ -6,43 +6,41 @@
 # SMS Summary for Harper
 
 ## Business Details
-- **None mentioned**
+- **No business details mentioned**
 
 ## Personal Details
-- **Contact Information:** Unknown
-- **Current Status:** Customer is currently online and waiting for someone
-- **Communication Style:** Brief, casual tone
+- **Contact Information:**
+  - No name, phone, or email provided
+  - Message appears to be from an unknown contact
+- **Personality Notes:**
+  - Minimal communication; unclear intent
+  - No preferences or concerns expressed
 
 ## Conversation Context
+- **Main Topic/Purpose:**
+  - Vague statement indicating the sender is currently online and waiting for someone
+  - Unclear if this message is intended for Harper or sent in error
 
-### Main Topic
-- Customer has sent an initial/opening message indicating they are online and available
+- **Key Questions/Answers:**
+  - No specific questions or answers provided
 
-### Key Points
-- Customer is **actively available** at this moment
-- They are waiting for someone (unclear if waiting for Harper or another party)
-- No specific insurance business discussed yet
+- **Decisions Made:**
+  - None evident
 
-### Action Items for Harper
-- **URGENT:** Respond promptly - customer is actively online and waiting
-- Clarify who they are waiting for and what they need assistance with
-- Gather full context about their insurance needs
-- Collect customer name, business details, and contact preferences
+- **Action Items:**
+  - **For Harper:** Clarify the purpose of this message and confirm the sender's identity/what they need
+  - **For Customer:** Provide context about why they're waiting and what they need assistance with
 
-### Action Items for Customer
-- Provide additional details about insurance needs once Harper responds
+- **Follow-up Timeline:**
+  - Immediate clarification needed due to ambiguous nature of message
 
-### Follow-up Timeline
-- **Immediate response needed** - customer is currently online and waiting
-
-### Tone/Sentiment
-- Neutral/casual
-- Responsive and available
+- **Tone/Sentiment:**
+  - Neutral/unclear; insufficient information to determine sentiment or urgency
 
 ---
 
-## ⚠️ Notes for Harper
-This appears to be an initial contact or reconnection. **No substantive business information has been provided yet.** Respond quickly to capture this customer while they are online and engaged. Request full details on:
-- Their name and company
-- Type of business/coverage needed
-- Preferred contact method going forward
+## ⚠️ Notes
+This message lacks context and appears incomplete. **Recommend:**
+- Responding promptly to clarify the sender's identity and insurance needs
+- Confirming if this is related to a current client relationship
+- Asking how Harper can assist them

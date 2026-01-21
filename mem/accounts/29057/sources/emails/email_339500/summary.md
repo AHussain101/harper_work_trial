@@ -6,46 +6,53 @@
 **From:** Avery Collins <avery.collins@harperinsure.com>
 **To:** contact@summitridgeroof.com
 
-# Email Summary: COI & Policy Distribution Follow-up
+# Email Summary for Harper Insurance
 
 ## Business Details
 - **Company Name:** Summit Ridge Roof
-- **Business Type:** Roofing contractor
-- **Coverage Need:** Subcontractor work coverage
-- **Documents Requested/Provided:**
-  - Certificate of Insurance (COI) to be prepared
-  - PDF declarations page for records
-- **Turnaround Time:** 24-hour delivery commitment once information is received
+- **Contact Email:** contact@summitridgeroof.com
+- **Business Type:** Roofing (has subcontractor work)
+- **Coverage Needs:** 
+  - Certificate of Insurance (COI) for subcontractor work
+  - Policy declarations page needed for records
 
 ## Personal Details
 - **Contact Name:** David
-- **Contact Email:** contact@summitridgeroof.com
-- **Harper Representative:** Avery Collins
-  - Email: avery.collins@harperinsure.com
+- **Role/Title:** Not specified
+- **Email:** contact@summitridgeroof.com (company email)
+- **Communication Preference:** Email
 
 ## Conversation Context
 
 ### Main Topic
-Follow-up email confirming next steps for preparing and distributing a Certificate of Insurance and policy documentation for subcontractor work
+Preparation and delivery of insurance documentation (COI and declarations page) for upcoming subcontractor work
 
-### Key Information Needed from Customer
-Harper is awaiting confirmation of:
-1. Subcontractor name
-2. Certificate holder address
-3. Any specific wording required by the contract
+### Key Questions/Information Needed from Customer
+- Subcontractor name (must be confirmed)
+- Certificate holder address (must be confirmed)
+- Any specific wording required by the contract (must be confirmed)
 
-### Action Items for Harper
-- Prepare COI once customer provides required information
-- Prepare PDF of declarations page
-- Email both documents to customer within 24 hours of receiving the needed details
+### Action Items for Harper (Avery Collins)
+- [ ] Prepare Certificate of Insurance (COI) for subcontractor work
+- [ ] Prepare PDF of declarations page
+- [ ] Wait for customer confirmation of:
+  - Subcontractor name
+  - Certificate holder address
+  - Required contract wording
+- [ ] Email both COI and declarations page within 24 hours of receiving confirmation
 
 ### Action Items for Customer (David/Summit Ridge Roof)
-- Confirm subcontractor name
-- Provide certificate holder address
-- Specify any contract-required wording for the COI
+- [ ] Confirm subcontractor name
+- [ ] Confirm certificate holder address
+- [ ] Provide any specific wording required by the contract
+
+### Timeline
+- **Email Date:** December 4, 2025
+- **Delivery Timeline:** Within 24 hours of receiving required confirmations
 
 ### Tone/Sentiment
-Professional and efficient; routine administrative follow-up
+Professional, efficient, follow-up oriented
 
-### Next Steps
-Awaiting customer's response with the three required details before proceeding with document preparation
+---
+
+**Note:** This appears to be an outbound email from Harper Insurance to the customer, so Avery is waiting on David's response with the requested information.

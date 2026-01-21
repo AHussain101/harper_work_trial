@@ -4,62 +4,56 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary: Brightview Adult Day Center Quote Follow-Up
+# Call Summary: Brightview Adult Day Center Quote Follow-up
 
 ## Business Details
 - **Company Name:** Brightview Adult Day Center
-- **Industry:** Adult Day Care Services
-- **Coverage Type:** Commercial Insurance (specific lines not detailed)
-- **Quote Status:** Estimated quote sent earlier on 2025-12-05
+- **Business Type:** Adult Day Center
+- **Coverage Status:** Quote provided, pending binding
 - **Documents Required:**
   - Signed application form
   - Loss runs from prior carrier
-- **Payment Plan Preference:** Monthly billing (vs. single annual bill)
-- **Next Steps:** Premium finalization pending document receipt
-
----
+- **Premium & Payment:**
+  - Estimated quote sent earlier today
+  - Payment preference: **Monthly plan** (confirmed)
+  - Final premium to be confirmed upon receipt of required documents
+- **Next Steps Timeline:**
+  - Loss runs may take approximately 1 day to obtain from prior carrier
+  - Final paperwork with payment options to be sent via email
 
 ## Personal Details
 - **Contact Name:** Emma
-- **Title/Role:** Not specified (appears to be decision-maker/owner)
-- **Agent Name:** Lia Park (Harper Insurance)
-- **Preferred Contact Method:** Email
-- **Communication Style:** Cooperative, responsive, efficient
-- **Availability:** Available for calls (agreed to "a few minutes")
-
----
+- **Contact Role/Title:** Not specified (likely decision-maker for Brightview)
+- **Communication Preference:** Email for follow-up documentation
+- **Personality Notes:** 
+  - Responsive and cooperative
+  - Quick decision-making (agreed to monthly plan immediately)
+  - Familiar with process (knows to request loss runs from prior carrier)
 
 ## Conversation Context
+- **Call Purpose:** Outbound follow-up to review initial quote and confirm binding process
+- **Call Type:** Outgoing
+- **Call Duration:** 1 minute 35 seconds
+- **Date & Time:** December 5, 2025 at 07:20 UTC
 
-### Purpose
-Outbound follow-up call to review initial quote and confirm binding procedures and next steps
-
-### Key Points Discussed
-- Estimated quote was sent earlier the same day
-- Loss runs and signed application are required to bind coverage quickly
-- Monthly payment plan is preferred over single annual payment
-- Final communication will be via email
-
-### Documents Status
-| Document | Status | Timeline |
-|----------|--------|----------|
-| Signed Application | Client will upload | Immediate/ASAP |
-| Loss Runs | Client will request from prior carrier | ~1 day |
+### Key Discussion Points
+- Confirmation of quote receipt
+- Documentation requirements for binding
+- Payment plan preference
 
 ### Decisions Made
-- ✅ Monthly payment plan selected for final policy
+✅ Monthly payment plan selected (vs. single bill option)
 
-### Action Items for Harper (Lia Park)
-- [ ] Wait to receive signed application and loss runs from Emma
-- [ ] Finalize premium amount once documents arrive
+### Action Items for Harper
+- [ ] Await signed application form from Emma
+- [ ] Await loss runs from Brightview's prior carrier
+- [ ] Finalize premium amount once documents received
 - [ ] Prepare final paperwork with monthly payment options
-- [ ] Follow up with Emma via email with payment options and next steps
-- [ ] Bind policy once all documents and information are confirmed
+- [ ] Send final documents and payment options via email
 
-### Action Items for Client (Emma)
+### Action Items for Customer (Emma/Brightview)
 - [ ] Upload signed application form
-- [ ] Request loss runs from prior carrier
-- [ ] Provide documents to Harper within ~1 day
+- [ ] Request and provide loss runs from prior carrier (~1 day)
 
-### Follow-Up Timeline
-- **Expected document delivery:** ~1 day from call date (
+### Tone/Sentiment
+Positive and collaborative - no concerns raised, smooth interaction

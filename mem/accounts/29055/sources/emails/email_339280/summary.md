@@ -13,59 +13,58 @@
 **Company Information**
 - **Company Name:** Sentinel Shield Security
 - **Business Type:** Security consulting business
-- **Industry:** Security Services
-- **Years in Operation:** 5 years
+- **Industry:** Security services (armed and unarmed personnel)
 - **Business Structure:** Sole proprietorship
-- **Number of Employees:** 0 (owner operates solo)
+- **Years in Operation:** 5 years
 - **Annual Revenue:** $61,000 (actual)
-- **Payroll:** None reported
+- **Number of Employees:** 0 (no employees)
+- **Payroll Expenses:** None reported
 
-**Coverage & Policy Details**
-- **Coverage Type:** General Liability (GL)
-- **Status:** New insurance purchase — currently uninsured
+**Coverage & Policy Information**
+- **Coverage Type Needed:** General Liability (GL)
+- **Status:** New insurance purchase - currently uninsured
 - **Geographic Scope:** South Carolina and nationwide
-- **Services Offered:** Armed and unarmed security consulting; contract-based personnel on-site security coverage
-- **Customer Base:** Private and commercial clients
+- **Services Provided:** 
+  - Armed security consulting
+  - Unarmed security consulting
+  - Contract-based security personnel services
+  - On-site security coverage
+  - Services vary by client and location
+- **Client Base:** Private and commercial clients
 
-**Specific Risk Characteristics**
-- Contracts vary by client and location
-- On-site security delivery model
-- Both armed and unarmed personnel deployment
-
-**Underwriting Notes**
-- Requested minimum coverage limits (specific amounts not detailed in submission)
+**Underwriting Requirements & Notes**
+- Prior insurance documentation or loss runs required
+- Owner has 5 years of industry experience
 - Underwriter subjectivities pending
-- Prior insurance documentation or loss runs required when available (none currently on file)
+- Requested minimum coverage limits
+- No claims history or loss runs mentioned as available
 
 ## Personal Details
 
-**Key Contact**
-- **Name:** Marcus Thompson
-- **Title/Role:** Owner
-- **Contact Method:** Submissions received via Harper Insure submissions portal
+**Contact Information**
+- **Primary Contact:** Marcus Thompson
+- **Contact Role/Title:** Owner/sole proprietor
 
-**Submission Contact**
-- **Name:** David Park
-- **Role:** Harper Submissions Department
-- **Email:** submissions@harperinsure.com
+**Communication**
+- **Email Submission To:** shannon.hurst@rtspecialty.com
+- **Submitted By:** David Park (Harper Submissions)
+- **Submission Date:** December 4, 2025
 
 ## Conversation Context
 
 **Main Purpose**
-Initial insurance submission for new General Liability coverage for a previously uninsured security consulting business seeking to establish prompt coverage.
+- Initial insurance submission for new General Liability coverage for uninsured security consulting business
+- Urgent need: business is currently uninsured and seeking prompt coverage establishment
 
-**Key Information Provided**
-- 5 years of industry experience (owner)
-- Actual revenue documentation: $61,000
-- No prior insurance history to reference
+**Key Points**
+- This is a new business customer with no existing policy
+- Low revenue business ($61k annually) with no payroll costs
+- Underwriting approval pending
 
-**Pending Items**
-- Underwriter subjectivities/final requirements
-- Confirmation of specific coverage limits
-- Carrier selection and quote
+**Pending Actions for Harper/Underwriter**
+- Obtain prior insurance documentation or loss runs
+- Review and finalize underwriter subjectivities
+- Confirm coverage limits requested by owner
+- Process General Liability quote and approval
 
-**Action Items for Harper**
-- Obtain prior insurance documentation or loss runs (if available from any previous carriers)
-- Clarify exact coverage limits requested by client
-- Complete underwriting review and address pending subjectivities
-- Obtain
+**Tone/Sentiment**

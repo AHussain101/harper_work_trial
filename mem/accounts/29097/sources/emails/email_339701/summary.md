@@ -6,60 +6,50 @@
 **From:** jordan.kim@harperinsure.com
 **To:** amanda.porter@oakridgenutrition.com
 
-# Email Summary: Oakridge Nutrition Clinic Quote Packet
+# Email Summary: Oakridge Nutrition Clinic Insurance Quote
 
 ## Business Details
-
-### Company Information
-- **Business Name:** Oakridge Nutrition Clinic
+- **Company Name:** Oakridge Nutrition Clinic
 - **Industry:** Healthcare/Nutrition Services
 - **Business Type:** Clinic
+- **Coverage Details:** Quote packet prepared (specific policy types not detailed in email)
 
-### Coverage & Pricing
+## Premium & Cost Information
 - **Estimated Premium + Fees/Taxes:** ~$3,200
-- **Harper Brokerage Fee (if applicable):** ~$120
+- **Harper Brokerage Fee:** ~$120
 - **Estimated Total Cost:** ~$3,300
 - **Payment Portal:** https://payments.example-insure.com/quote-oxc123 (secure)
 
-### Timeline
-- **Potential Effective Date:** Early December 2025
-- **Email Date:** December 5, 2025
-
 ## Personal Details
-
-### Contact Information
 - **Primary Contact:** Amanda Porter
-- **Email:** amanda.porter@oakridgenutrition.com
-- **Harper Contact:** Jordan Kim (Producer)
-  - Email: jordan.kim@harperinsure.com
-  - Company: Harper Insurance
+- **Contact Email:** amanda.porter@oakridgenutrition.com
+- **Harper Producer:** Jordan Kim
+- **Producer Email:** jordan.kim@harperinsure.com
 
 ## Conversation Context
+- **Purpose:** Delivery of formal quote packet for insurance coverage
+- **Main Topic:** Insurance quote presentation and next steps toward binding
 
-### Purpose
-- Delivery of formal quote packet prepared by underwriters for Oakridge Nutrition Clinic
+## Key Questions & Decisions Pending
+- Customer needs to confirm preferred effective date (Harper suggests early December)
+- Customer must confirm billing method preference
 
-### Key Information Provided
-- Complete quote packet attached
-- Breakdown of estimated costs (premium, fees/taxes, brokerage fee)
-- Secure payment portal link provided
-- Option to proceed with binding coverage
+## Action Items for Customer (Amanda Porter)
+- [ ] Review attached quote packet
+- [ ] Reply with preferred effective date (target: early December)
+- [ ] Confirm billing method
+- [ ] Reply to proceed with binding (if ready)
 
-### Pending Decisions
-- Whether Amanda will accept the quote and proceed with binding
-- Effective date selection (flexible, targeting early December)
-- Billing method confirmation
+## Action Items for Harper (Jordan Kim)
+- [ ] Await customer response on effective date and billing method
+- [ ] Process binding once confirmation received
+- [ ] Set up payment via secure portal if customer proceeds
 
-### Action Items for Harper
-- Await response from Amanda on binding decision
-- Process binding once confirmation received with effective date and billing method
+## Follow-Up Timeline
+- Expected response timeframe: Not specified - awaiting customer reply
+- Target effective date: Early December
 
-### Action Items for Customer (Amanda)
-- Review quote packet
-- Reply with preferred effective date if proceeding
-- Confirm billing method preference
-- Access payment portal if ready to proceed
-
-### Tone/Sentiment
+## Tone/Sentiment
 - Professional, straightforward, helpful
-- Casual but business-appropriate tone
+- Clear next steps provided
+- No urgency indicated but prompt response implied

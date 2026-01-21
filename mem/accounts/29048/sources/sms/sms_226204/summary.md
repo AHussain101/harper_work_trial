@@ -3,60 +3,42 @@
 **Date:** 2025-12-04T18:45:21.863000+00:00
 **Direction:** Outgoing
 
-# SMS Summary for Harper Insurance
+# SMS Summary - Brookside Botanicals
 
 ## Business Details
-
-### Company Information
 - **Company Name:** Brookside Botanicals
-- **Industry:** Botanical/Plant-based (specific business type not detailed)
-- **Status:** Currently under submission review
-
-### Coverage & Policy Status
-- **Current Status:** Submission in progress
-- **Action:** Harper Insurance team is actively working on the submission
-
----
+- **Industry:** Botanicals (plant-based business)
+- **Coverage Status:** Submission currently in progress
+- **Carrier:** Harper Insurance (handling submission)
 
 ## Personal Details
+- **Contact Name:** Olivia
+- **Harper Representative:** Ashley Myers
+  - **Title:** Senior Producer
+  - **Company:** Harper Insurance
+  - **Communication Method:** SMS
 
-### Contact Information
-- **Name:** Olivia (last name not provided)
-- **Role/Title:** Not specified
-- **Contact Method:** SMS (demonstrated as preferred)
+## Conversation Context
+- **Main Topic/Purpose:** Introduction and acknowledgment of new client engagement; initiating insurance submission process
+- **Key Points:**
+  - Olivia has entrusted Harper Insurance with Brookside Botanicals coverage
+  - Submission is actively being worked on
+  - Relationship-building/reassurance message
+- **Tone/Sentiment:** Professional, warm, reassuring, welcoming
 
-### Communication Details
-- **From:** Ashley Myers
-- **Ashley's Title:** Senior Producer at Harper Insurance
-- **From Business:** Harper Insurance
+## Action Items
+### For Harper (Ashley Myers)
+- Complete the submission for Brookside Botanicals
+- Determine next steps in underwriting process
 
-### Personality Notes
-- **Tone Observed:** Professional, courteous, appreciative
-- **Client Sentiment:** Appears trusting (message references "thanks for trusting us")
-- **Communication Style:** Direct, concise
+### For Customer (Olivia)
+- Awaiting next communication from Harper regarding submission progress
+- Likely will need to provide additional documents/information as requested
+
+## Follow-up Timeline
+- No specific timeline mentioned
+- Awaiting next contact regarding submission status and requirements
 
 ---
 
-## Conversation Context
-
-### Main Purpose
-- Introduction/reassurance message acknowledging receipt of Brookside Botanicals insurance submission
-- Building rapport and confirming work has begun
-
-### Key Points Communicated
-- Ashley Myers is the assigned Senior Producer
-- Harper Insurance has received and is actively processing the submission
-- Client is appreciated for choosing Harper Insurance
-
-### Action Items for Harper
-- **Active:** Continue processing Brookside Botanicals submission
-- **Pending:** Next steps/timeline not specified in this message
-
-### Action Items for Customer (Olivia)
-- None specified in this message
-
-### Follow-Up Timeline
-- **Next Steps:** Not mentioned; unclear when Olivia should expect further contact
-
-### Tone/Sentiment
-- **Positive, professional, reassuring** — establishes confidence and active service
+**Note:** This appears to be an initial outreach/confirmation message. Additional details about coverage types, policy limits, premiums, deductibles, effective dates, and specific submission requirements will likely be established in subsequent communications.

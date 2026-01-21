@@ -10,71 +10,61 @@
 
 ## Business Details
 
-### Company Information
-- **Company Name:** Lakeside Landworks LLC
-- **Industry/Business Type:** Land development and residential subdivision
-- **Coverage Type:** General Liability
+**Company Information**
+- Company Name: Lakeside Landworks LLC
+- Industry/Type: Land development and residential subdivision
+- Coverage Type: General Liability
 
-### Coverage & Submission Details
-- **Coverage Needed:** General Liability insurance
-- **Documents Submitted:**
-  - Business operations and scope documentation
+**Coverage Submission Details**
+- Policy Type: General Liability
+- Documents Submitted:
   - Project details
   - Estimated lot activity information
   - Basic site controls documentation
-  - Recent safety initiatives details:
-    - Erosion controls
-    - Signage
+  - Business operations and scope information
+  - Recent safety initiatives (erosion controls, signage)
   - Estimated annual receipts (rounded figures)
 
-### Submission Status
-- **Submission Date:** December 5, 2025
-- **Current Status:** Submitted to carriers awaiting quotes
-- **Carriers:** Currently awaiting responses from underwriters
+**Current Status**
+- Submission Date: December 5, 2025
+- Status: Awaiting carrier quotes and responses
+- Carriers: Multiple (not specified in email)
 
-## Personal Details
+## Submission Context
 
-### Primary Contact
-- **Name:** Michael Chen
-- **Title:** Underwriting Liaison
-- **Company:** Harper Insurance
-- **Email:** michael.chen@harperinsure.com
-- **Role in This Matter:** Submitted application on behalf of customer (internal submission to carriers)
+**Purpose**
+- Initial General Liability insurance submission to multiple carriers
+- Carriers requested to provide quotes and identify any subjectivities
 
-### Additional Contact
-- **Department Email:** underwriting@harperinsure.com (internal underwriting team)
+**Key Information Highlights**
+- Business focus on land development and residential subdivision projects
+- Recent proactive safety initiatives implemented (erosion controls and signage in place)
+- Estimated annual receipts provided (rounded)
+- Lot activity has been estimated and detailed
 
-## Conversation Context
+## Pending Items & Next Steps
 
-### Purpose
-Internal communication to underwriting department confirming submission of Lakeside Landworks LLC to carriers for General Liability quote
+**Anticipated Carrier Requests**
+- Site photographs (likely)
+- Additional contract language clarifications (possible)
 
-### Key Actions Taken
-- Application submitted to carriers
-- All required documentation packaged and submitted
-- Quote request made from carriers
-- Request for any subjectivities from carriers
+**Action Items for Harper**
+- Track any requests from underwriters/carriers
+- Coordinate and share any additional documentation requests with client
+- Follow up on carrier quote returns and subjectivities
 
-### Pending Actions
-- **For Underwriters/Carriers:**
-  - Return quotes
-  - Identify and communicate any subjectivities
-  - Potentially request site photos
-  - Potentially request additional contract language
+**Timeline**
+- Next steps pending carrier responses
+- No specific follow-up deadline mentioned in email
 
-- **For Harper Insurance (underwriting team):**
-  - Track any carrier requests
-  - Share any additional documentation requests with client
+## Internal Contact Information
 
-### Follow-Up Timeline
-- No specific deadline mentioned
-- Standard underwriting timeline expected
-
-### Tone/Sentiment
-- Professional and straightforward
-- Routine submission process
-- Organized and systematic approach
+**Harper Insurance Contact**
+- Name: Michael Chen
+- Title: Underwriting Liaison
+- Email: michael.chen@harperinsure.com
+- Department: Underwriting
 
 ---
 
-**Note for Harper:** This is an internal submission notification. The actual client contact information for Lakeside
+**Note for Harper:** This is an internal underwriting submission notification. Direct client contact information for Lakeside Landworks LLC is not included in this email. Follow up with Michael Chen for any client communication needs.

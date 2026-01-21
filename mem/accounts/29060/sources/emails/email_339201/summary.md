@@ -10,41 +10,40 @@
 
 ## Business Details
 - **Company Name:** Lakeside Landworks
-- **Business Type:** Landscaping/Land development (inferred from "lot conditions," "erosion controls," "grading plan")
-- **Coverage Type Under Review:** Property/Liability (underwriting in progress)
+- **Industry:** Landscaping/Land Management (based on company name and lot/grading plan reference)
+- **Coverage Type:** Commercial property/liability (inferred from underwriting requirements)
 - **Documents Requested:**
-  - Site photographs (access points, erosion controls, typical lot conditions)
+  - Site photos (specifically: access points, erosion controls, typical lot conditions)
   - Lot plan or grading plan (copy)
-- **Submission Method:** Online portal upload or in-person site visit option
+- **Underwriting Status:** Active underwriting in progress; awaiting documentation for approval
 
 ## Personal Details
 - **Contact Name:** Karen Martinez
 - **Contact Email:** karen.martinez@lakesidelandworks.com
-- **Contact Role:** Appears to be key contact for Lakeside Landworks
-- **Communication Preference:** Flexible (email response or site visit arrangement)
+- **Natalie Kim's Role:** Insurance broker/agent at Harper Insurance
+- **Natalie's Email:** natalie.kim@harperinsure.com
+- **Preferred Communication Method:** Email (primary); open to in-person site visit as alternative
 
 ## Conversation Context
-- **Main Topic:** Underwriting requirements for property/liability insurance policy
-- **Purpose:** Gather site documentation needed by underwriters to proceed with coverage decision
-- **Key Information:**
-  - Underwriters have specific documentation requests
-  - Portal access already provided to customer (previous communication)
-  - Flexible options offered for document submission
-- **Documents to Obtain:**
-  - Photographs showing: access points, erosion controls, lot conditions
-  - Grading plan or lot plan documentation
-- **Submission Portal:** https://portal.example-insure.com/upload/abcd
+- **Main Topic:** Request for documentation required to complete underwriting process
+- **Specific Requests:**
+  1. Site photos showing:
+     - Access points
+     - Erosion controls
+     - Typical lot conditions
+  2. Lot plan or grading plan copy
+- **Submission Method:** Online portal (https://portal.example-insure.com/upload/abcd)
+- **Alternative Option:** Natalie can arrange on-site agent visit if document submission is difficult
+- **Tone/Sentiment:** Professional, helpful, and accommodating
+- **Urgency Level:** Moderate (underwriters waiting for documents, but no explicit deadline stated)
 
 ## Action Items
-**For Harper (Natalie Kim):**
-- Follow up if Karen doesn't submit documents within reasonable timeframe
-- Be prepared to coordinate site visit if customer requests one
+- **For Karen/Lakeside Landworks:**
+  - Upload site photos and lot/grading plan to portal
+  - OR contact Natalie to schedule site visit for photos
+- **For Harper (Natalie):**
+  - Await document submission or site visit coordination
+  - Prepare for potential site visit if Karen requests it
 
-**For Customer (Karen Martinez):**
-- Upload site photos and lot/grading plan to portal
-- OR respond to email to schedule site visit with Harper agent
-
-## Tone & Sentiment
-- **Tone:** Professional, helpful, accommodating
-- **Sentiment:** Positive; offering flexible options to reduce friction in underwriting process
-- **Urgency:** Moderate (underwriting is awaiting these materials)
+## Follow-Up Timeline
+- No specific deadline mentioned; follow-up expected once Karen submits documents or responds

@@ -3,54 +3,52 @@
 **Date:** 2025-12-04T22:12:13.561000+00:00
 **Direction:** Outgoing
 
-# SMS Summary - Insurance Quote Follow-Up
+# SMS Summary for Harper
 
 ## Conversation Context
 
-### Main Topic/Purpose
-- Follow-up message regarding pending insurance quote options
-- Setting expectations for next steps in the quoting process
-- Providing contact instructions for any interim questions
+**Main Topic/Purpose:**
+- Follow-up message confirming next steps in the quote review and coverage finalization process
+- Reassuring customer about upcoming communication and providing contact instructions
 
-### Key Messages
-- Quote options have been submitted/are being prepared for review
-- An agent will contact the customer via phone call once quotes are reviewed
-- Customer is invited to reach out with questions before agent contact
+**Key Message Points:**
+- Quote options have been (or will be) received and reviewed
+- An agent will contact the customer by phone to finalize coverage details
+- Customer is invited to reach out with any questions before that call
 
-### Action Items for Customer
-- Wait for phone call from agent regarding quote finalization
-- Contact Harper's office via text or phone if questions arise before agent call
-
-### Action Items for Harper
-- Receive and review quote options when they arrive
-- Schedule agent call with customer to finalize coverage
-- Be prepared to answer pre-call questions via text or phone
-
-## Personal Details
-
-### Contact Method Preference
-- **Preferred channels:** Text message and/or phone call
-- **Context:** Customer is receptive to both communication methods
-
-## Important Notes
-
-### Tone/Sentiment
+**Tone/Sentiment:**
 - Professional and friendly
-- Reassuring (emphasizing support availability)
-- Efficient (clear next steps outlined)
-
-### Timeline
-- **Message sent:** December 4, 2025 at 10:12 PM
-- **Next action trigger:** Receipt and review of quote options
-- **Expected next contact:** Phone call from agent (specific date/time not mentioned)
-
-### Missing Information (Not Provided in SMS)
-- Customer name/company name
-- Specific coverage types being quoted
-- Premium amounts or policy details
-- Exact timeline for agent callback
-- Quote carrier names or options
+- Reassuring and accessible
+- Open communication stance
 
 ---
 
-**Note:** This appears to be a templated closing message. Ensure customer name and relevant policy details are documented elsewhere in the file.
+## Action Items
+
+### For Harper/Agency:
+- Monitor for quote submissions/receipt
+- Review quote options when received
+- Schedule agent call with customer to finalize coverage
+- Prepare coverage recommendation based on quote options
+
+### For Customer:
+- Await phone call from agent for coverage finalization
+- Reach out with any questions via text or phone before the agent call
+- Be prepared to make coverage decisions when agent calls
+
+---
+
+## Important Notes
+
+**Communication Preferences:**
+- Customer is comfortable with text or phone contact
+- Prefers two-way communication channel for questions
+
+**Timeline:**
+- Pending: Quote review completion
+- Pending: Agent call to finalize coverage
+- No specific deadline mentioned
+
+**Outstanding Items:**
+- Quote options (status unclear - may still be in process or awaiting review)
+- Coverage finalization details (to be discussed on follow-up call)

@@ -12,53 +12,59 @@
 
 ### Company Information
 - **Business Name:** Lakeview Junction Bar & Grill
-- **Business Type:** Bar and Taproom
-- **Industry:** Food & Beverage / Hospitality / Alcohol Service
+- **Business Type:** Bar and taproom
+- **Industry:** Food & Beverage / Hospitality
 - **Location:** Anytown, Indiana
 - **Years in Operation (Current Ownership):** 3 years
 - **Ownership Structure:** Shared ownership - Marcus Lee and Sara Lee (50/50 split)
 
 ### Operations & Services
-- **Primary Services:** On-premise beer, wine, and spirits sales
-- **Secondary Services:** Limited food offerings, live entertainment (karaoke, local bands), merchandise sales
+- **Primary Services:** 
+  - On-premise alcohol service (beer, wine, spirits)
+  - Limited food offerings
+  - Live entertainment (karaoke, local bands)
+  - Merchandise sales (modest)
 - **Customer Base:** Local residents and seasonal visitors
-- **Special Events:** Occasionally hosts live entertainment
+- **Licensing:** Active liquor license for on-premise service (required for operations)
 
 ### Financial Information
 - **Annual Revenue:** ~$120,300
 - **Annual Payroll:** ~$15,000
-- **Employees:** 2 full-time tipped employees
+- **Number of Employees:** 2 full-time tipped employees
 
-### Coverage Needs
-- **Policy Types Requested:** 
+### Real Estate
+- **Building Ownership Status:** Owners are in process of purchasing the building
+
+### Coverage Needs & Policies
+- **Coverage Types Sought:**
   - General Liability (GL)
   - Liquor Liability (LL)
   - Workers' Compensation (WC)
-- **Current Status:** Currently insured; seeking more cost-effective options
-- **Premium Amounts:** Not specified
-- **Deductibles/Limits:** Not specified
-
-### Risk Profile & Loss History
+- **Current Insurance Status:** Currently insured (exploring more cost-effective options)
 - **Claims History:** No claims reported
-- **Risk Management Measures in Place:**
-  - Video surveillance
-  - ID checks for alcohol sales
-- **Industry Requirements:** Active liquor license for on-premise service (confirmed active)
 
-### Property Details
-- **Building Status:** Owners in process of purchasing the building (not currently owned)
+### Risk Management Measures
+- Video surveillance in place
+- ID checks for alcohol sales
 
 ---
 
-## Personal/Contact Details
+## Contact Information
 
-### Primary Contacts
-- **Contact Name:** Emily Juhls
-- **Email:** emily.juhls@usli.com
-- **Role/Title:** Not specified (appears to be carrier/underwriter contact)
+### Primary Contact
+- **Email:** emily.juhls@uslis.com (recipient of submission - appears to be USLI carrier contact)
+- **Associated Contacts:** Marcus Lee, Sara Lee (owners)
 
-### Business Owners
-- **Owner 1:** Marcus Lee (50% ownership)
-- **Owner 2:** Sara Lee (50% ownership)
-- **Phone Numbers:** Not provided
-- **Preferred Contact Method:** Not specifie
+---
+
+## Conversation Context
+
+### Purpose of Communication
+- Insurance broker (Harper) submitting risk to carrier (USLI) for quote/underwriting consideration
+- Client seeking more competitive insurance rates while maintaining necessary coverage
+
+### Key Information Provided
+- Complete business profile with 3-year history
+- Financial snapshot (revenue and payroll)
+- Detailed risk assessment and operations summary
+- Claims history

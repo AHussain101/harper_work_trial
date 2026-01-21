@@ -9,56 +9,62 @@
 # Email Summary: Lakeside Landworks LLC Insurance Quote Update
 
 ## Business Details
+
 - **Company Name:** Lakeside Landworks LLC
-- **Industry:** Landscaping/Land Services (inferred from company name)
-- **Coverage Status:** Application submitted to carrier network
+- **Industry:** Landscaping/Land works (based on company name)
+- **Current Status:** Insurance application submitted to carrier network
 - **Documents Requested:**
   - Loss runs (past 3 years preferred)
   - Certificates of Insurance (COIs)
   - Contract-specific insurance requirements
-  - Any additional coverage needs/gaps documentation
-- **Upload Portal:** https://portal.example-insure.com/upload/abcd (secure portal provided)
+  - Any additional coverage needs or gaps documentation
+- **Upload Portal:** https://portal.example-insure.com/upload/abcd (secure)
+
+---
 
 ## Personal Details
-- **Contact Name:** Karen Martinez
-- **Title:** Appears to be decision-maker/owner contact for Lakeside Landworks
-- **Email:** karen.martinez@lakesidelandworks.com
-- **Communication Preference:** Email (outbound communication used)
-- **Contact from Harper:** Natalie Kim, Account Executive
 
-## Contact Information
-- **Natalie Kim (Harper Insurance)**
-  - Title: Account Executive
+- **Contact Name:** Karen Martinez
+- **Email:** karen.martinez@lakesidelandworks.com
+- **Harper Representative:** Natalie Kim (Account Executive)
   - Email: natalie.kim@harperinsure.com
-  - Company: Harper Insurance
-  - Website: www.harperinsure.com
+  - Phone/direct contact: Not provided
+
+---
 
 ## Conversation Context
 
 ### Main Topic
-- Follow-up on insurance application submission for Lakeside Landworks LLC
-- Request for supporting documentation to expedite quote process
+- Follow-up to insurance application submitted following a phone conversation with Karen
 
-### Key Actions Completed
-- Application submitted to carrier network by Harper
-- Initial quotes expected shortly
+### Key Information
+- **Application Status:** Submitted to carrier network; initial quotes expected shortly
+- **Tone:** Professional, helpful, collaborative
+- **Urgency Level:** Moderate (requests timely document submission to speed process)
 
 ### Action Items for Customer (Karen Martinez)
-- [ ] Upload loss runs (past 3 years) to secure portal
-- [ ] Upload Certificates of Insurance (if available)
-- [ ] Provide contract-specific insurance requirements
-- [ ] Document any additional coverage needs or identified gaps
+- [ ] Upload loss runs (3-year history) to secure portal
+- [ ] Upload Certificates of Insurance to portal
+- [ ] Provide any contract-specific insurance requirements
+- [ ] Identify and communicate any coverage gaps or additional coverage needs
 - [ ] Contact Harper if assistance needed obtaining loss runs
 
 ### Action Items for Harper (Natalie Kim)
 - [ ] Monitor carrier network for incoming quotes
-- [ ] Be prepared to assist Karen with obtaining loss runs if requested
+- [ ] Provide support to Karen if she needs help obtaining loss runs
+- [ ] Follow up once documents are received and quotes come in
 
-### Tone/Sentiment
-- Professional and helpful
-- Courteous follow-up
-- Efficient process focus ("speed the process")
-- Supportive/collaborative ("we can help")
+### Next Steps
+- Awaiting document uploads from Karen
+- Awaiting initial quotes from carrier network
+- Implied follow-up communication once quotes received
 
-### Next Steps Timeline
-- Initial quotes expected "shortly" (no specific
+### Timeline
+- **Email Date:** December 4, 2025
+- **Expected Timeline:** Quotes expected "shortly" (specific timeline not defined)
+
+---
+
+## Notes for Harper
+- This is a new application in process
+- Customer appears cooperative (participated in

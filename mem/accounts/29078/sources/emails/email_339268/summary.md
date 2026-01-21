@@ -10,66 +10,69 @@
 
 ## Business Details
 
-**Company Information**
-- Company Name: Maple Home Home Care Services, LLC
+**Company Information:**
+- Company Name: Maple Home Care Services, LLC
 - Industry: Home Care Services
-- Business Type: Home care provider
+- Business Type: Health/Medical Services
 
-**Coverage & Application Status**
-- Application Status: Submitted to carrier network
-- Expected Timeline: Initial carrier responses anticipated shortly
-- Documents Portal: https://portal.example-insure.com/uploads/maple-home-001
+**Coverage & Application Status:**
+- Application submitted to Harper Insurance carrier network
+- Expected to receive initial carrier responses shortly
+- Policy type not explicitly stated but appears to be general/commercial liability for home care provider
 
-**Documents Requested**
-- Loss runs (or alternative documentation if unavailable)
+**Documents Requested:**
+- Loss runs (from prior carriers)
 - Prior policies
 - Certificates of Insurance (COIs)
-- Employee background check details
-- Employee training program information
-- Service location details (if multiple locations)
+- Employee background check documentation/details
+- Employee training program documentation/details
+- Details on any additional service locations
 
-**Additional Information Needed**
-- Details on any additional coverage needs
-- Information on service locations (number and addresses if applicable)
-- Any contracts or partner organizations requiring specific insurance requirements
+**Upload Portal:**
+- Secure portal available: https://portal.example-insure.com/uploads/maple-home-001
+
+---
 
 ## Personal Details
 
-**Contact Information**
+**Contact Information:**
 - Name: Emily Patterson
 - Email: emily.patterson@maplehomecareservices.com
-- Role: Decision-maker/Account contact at Maple Home Care Services
+- Role: Decision-maker/Primary contact for Maple Home Care Services
 
-**Harper Contact**
+**Harper Insurance Contact:**
 - Name: Jackson Smythe
 - Title: Senior Producer
 - Email: jackson.smythe@harperinsure.com
-- Company: Harper Insurance
-- Website: www.harperinsure.com
+- Phone: Not provided
+
+---
 
 ## Conversation Context
 
-**Purpose of Email**
-- Follow-up to initial consultation call regarding insurance quote for Maple Home Care Services
-- Request for supporting documentation to expedite carrier response
+**Main Purpose:**
+- Follow-up on insurance application for Maple Home Care Services after initial consultation call
 
-**Key Actions for Customer (Emily)**
+**Key Actions Taken:**
+- Application submitted to carrier network
+- Initial consultation call completed (referenced as "today")
+
+**Action Items for Customer (Emily Patterson):**
 - Upload requested documents via secure portal
-- Provide loss runs OR notify if unavailable (Harper will request alternatives)
-- Submit any COIs required by contracts/partners
+- Provide loss runs or alternative documentation if not available from prior carriers
+- Share any COIs required by contracts/partner organizations
 - Provide details on employee background checks and training programs
-- Clarify any additional coverage needs
-- Provide service location information
+- Clarify any additional coverage needs or additional service locations
 
-**Key Actions for Harper (Jackson)**
-- Monitor carrier responses from submitted application
-- Follow up if documents not received by reasonable deadline
-- Provide guidance on obtaining loss runs if customer cannot locate them
-- Review submitted documentation once received
-- Prepare quotes based on carrier responses
+**Action Items for Harper (Jackson Smythe):**
+- Monitor for carrier responses to submitted application
+- Assist with alternative documentation if loss runs unavailable
+- Provide guidance on obtaining loss runs from prior carriers if needed
 
-**Timeline**
-- Application submitted: 2025-12-04
-- Next Steps: Await initial carrier responses; obtain customer documentation
+**Pending Timeline:**
+- Carrier responses expected "shortly" (no specific date given)
+- Follow-up timeline not explicitly stated
 
-**Tone
+**Tone/Sentiment:**
+- Professional and collaborative
+- Positive (thanking Emily for her time

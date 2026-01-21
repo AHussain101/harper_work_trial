@@ -5,47 +5,43 @@
 
 # SMS Summary for Harper
 
-## Business Details
-- **Business Type:** Healthcare/Medical (appears to be a clinic based on portal reference)
-- **Business Identifier:** "clinic-abc123" (suggests client name or ID is "ABC123 Clinic")
-- **Coverage Needs:** Not yet specified in this message
-- **Documents:** Being requested/collected via secure portal
-
-## Personal Details
-- **Contact Name:** Not mentioned in this SMS
-- **Communication Method:** SMS preferred
-- **Preferred Channel:** Secure online portal for document uploads
-
-## Conversation Context
-
-### Main Topic/Purpose
-- Document submission request for insurance purposes
-- Providing secure portal access to client for uploading required documents
-
-### Key Actions/Next Steps
-
-**Action Items for Customer:**
-- Upload required documents to the secure portal link provided
-- Contact Harper if assistance is needed with the upload process
-
-**Action Items for Harper:**
-- Monitor portal for document uploads
-- Follow up if documents are not received within expected timeframe
-- Review submitted documents once received
-
-### Tone/Sentiment
-- **Professional and helpful** - Clear, concise instruction with offer of assistance
-
-### Important Notes
-- This appears to be a **follow-up message** in an ongoing insurance process
-- The secure portal suggests documents may include: business financials, loss history, coverage applications, or claims documentation
-- Client has been provided support option if needed
-- No response from client yet indicated in this message
+## Message Overview
+- **Direction:** Outgoing (Harper → Client)
+- **Date & Time:** December 4, 2025 at 10:55 PM
+- **Type:** Document submission request
+- **Tone:** Professional, helpful, service-oriented
 
 ---
 
-**⚠️ Missing Information to Clarify:**
-- Specific documents required
-- Deadline for document submission
-- Which insurance policies/coverages are being discussed
-- Client's contact name and direct contact information
+## Business Details
+- **Business Type:** Clinic (medical/healthcare facility)
+- **Business Identifier:** "clinic-abc123" (likely internal reference code)
+
+---
+
+## Action Items
+
+### For Client
+- **Primary Action:** Upload required documents using the secure portal link
+- **Link Provided:** `https://portal.example-insure.com/uploads/clinic-abc123`
+- **Instructions:** Reply if assistance is needed with upload process
+
+### For Harper
+- **Monitor:** Await client response and document uploads
+- **Support:** Be available to assist if client encounters technical difficulties or has questions about the upload process
+- **Follow-up:** Likely need to review submitted documents once received
+
+---
+
+## Key Context
+- Secure portal being used for document transmission (indicates sensitive insurance-related documents)
+- Proactive customer service offered ("Reply if you need assistance")
+- No specific documents are detailed in this message - may reference previous conversation or standard clinic insurance requirements (likely: loss runs, financial statements, coverage details, applications, etc.)
+
+---
+
+## Missing Information to Investigate
+- What specific documents are being requested?
+- What is the deadline for document submission?
+- Is this a new policy, renewal, or claims-related submission?
+- What is the client's name/contact person?

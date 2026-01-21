@@ -6,54 +6,39 @@
 **From:** maya.patel@harperinsure.com
 **To:** contact@harborshield.com
 
-# Email Summary: Harbor Shield Security - Documentation Request
+# Email Summary: Harbor Shield Security - Underwriting Documentation Request
 
 ## Business Details
 - **Company Name:** Harbor Shield Security
-- **Business Type:** Security services (guard/warehouse accounts)
-- **Industry:** Security/Loss prevention
-- **Coverage Needs:** Warehouse account coverage (implied from service agreement request)
-- **Current Status:** In underwriting submission phase
+- **Industry:** Security Services (warehouse accounts)
+- **Coverage Type:** Commercial liability/security services coverage
+- **Documents Requested:**
+  - Federal EIN (Employer Identification Number)
+  - Current guard license (if available)
+  - Sample service agreement/contract for warehouse accounts
+- **Submission Status:** Pending underwriting submission (awaiting documents)
+- **Expected Timeline:** Initial underwriter feedback within 24-48 hours after document submission
 
 ## Personal Details
 - **Contact Name:** Steven
-- **Contact Method:** Phone (already used for confirmation call) and secure upload portal
-- **Email:** contact@harborshield.com
-- **Communication Style:** Professional, responsive (already confirmed details verbally)
-
-## Documents Requested
-The following items are still needed to complete underwriting submission:
-1. **Federal EIN** (Employee Identification Number)
-   - Note: Sensitive data - can be partially redacted if sent via text
-2. **Current Guard License** (if available)
-3. **Sample Service Agreement or Contract** used for warehouse accounts
-
-**Upload Method:** Secure portal at https://portal.example-insure.com/upload/harbor-shield
+- **Company Email:** contact@harborshield.com
+- **Communication Method:** Phone confirmed details; secure upload preferred for sensitive documents
+- **Communication From:** Maya Patel (Underwriting Intake, Harper Insurance)
+- **Maya's Contact Info:**
+  - Email: maya.patel@harperinsure.com
+  - Role: Underwriting Intake Specialist
 
 ## Conversation Context
-- **Main Topic:** Obtaining missing documentation to move underwriting submission forward
-- **Prior Interaction:** Steven confirmed business details in a phone conversation with Maya
-- **Current Stage:** Post-phone confirmation, pre-underwriting review
-- **Next Steps (Timeline):**
-  - Steven to upload documents via secure portal
-  - Upon receipt, Maya will submit to underwriters
-  - Initial underwriting feedback expected within **24-48 hours**
-
-## Action Items
-
-### For Harper (Maya Patel)
-- ✓ Wait for document uploads from Steven
-- Monitor for document receipt
-- Submit file to underwriters once all three documents received
-- Follow up with underwriting feedback within 24-48 hours
-
-### For Customer (Steven/Harbor Shield)
-- Upload the three required documents via secure portal
-- May redact EIN digits if sending via alternative method
-- Provide current guard license copy
-- Provide sample warehouse service agreement/contract
-
-## Tone & Sentiment
-- **Professional, collaborative, and efficient**
-- Friendly but concise
-- Clear expectations set for timeline and next steps
+- **Main Purpose:** Request missing documentation needed to complete underwriting submission
+- **Previous Interaction:** Phone call occurred where Steven confirmed business details
+- **Action Items for Customer (Steven/Harbor Shield):**
+  - Upload Federal EIN (can redact digits for text; use secure portal preferred)
+  - Provide copy of current guard license
+  - Provide sample service agreement/contract for warehouse accounts
+  - Use secure upload portal: https://portal.example-insure.com/upload/harbor-shield
+- **Action Items for Harper (Maya):**
+  - Receive and review submitted documents
+  - Push complete file to underwriters
+  - Follow up with underwriter feedback within 24-48 hours
+- **Tone:** Professional, helpful, efficient
+- **Urgency:** Moderate - documents needed to proceed but no explicit rush indicated

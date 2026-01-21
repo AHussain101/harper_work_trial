@@ -139,10 +139,7 @@ mem/skills/
 │   ├── tool_reference.md     # Detailed tool usage (on-demand)
 │   ├── reading_sources.md    # How to read source files (on-demand)
 │   ├── formatting.md         # Answer formatting rules (on-demand)
-│   ├── examples.md           # Example exploration flows (on-demand)
-│   └── scripts/
-│       ├── count_sources.py  # Deterministic source counter
-│       └── search_summaries.py # Search across summaries
+│   └── examples.md           # Example exploration flows (on-demand)
 ├── router/
 │   ├── SKILL.md              # Intent classification instructions
 │   └── confirmation.md       # New account flow details
@@ -195,20 +192,6 @@ def load_skill_context(self, skill_name: str, context_file: str) -> str:
     """Load additional context file for progressive disclosure."""
     context_path = self.mem_path / "skills" / skill_name / context_file
     return context_path.read_text()
-```
-
-#### Helper Scripts
-
-Skills can include deterministic Python scripts that agents can execute:
-
-```bash
-# Count sources for an account
-python mem/skills/search/scripts/count_sources.py mem/accounts/29040
-# Output: {"emails": 4, "calls": 2, "sms": 11, "total": 17}
-
-# Search across summaries
-python mem/skills/search/scripts/search_summaries.py mem/accounts/29040 "renewal"
-# Output: {"matches": [...], "total_searched": 17}
 ```
 
 #### Backward Compatibility

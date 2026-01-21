@@ -8,30 +8,37 @@
 ## Conversation Context
 
 ### Main Topic/Purpose
-- Outgoing message setting expectations about the quote review and finalization process
-- Informing recipient about next steps in the insurance quote workflow
+- Informing customer about next steps in the quote review and coverage finalization process
+- Setting expectations for upcoming agent contact
 
-### Key Message
-- An agent will call to finalize coverage once quote options are received and reviewed
-- Recipient is invited to reach out with any questions before that call via text or phone
+### Key Messages Communicated
+- Quote options have been (or will be) received and reviewed
+- An agent will initiate contact via phone call to finalize coverage details
+- Customer is invited to reach out with any questions before that call
 
-### Action Items
+### Action Items for Customer
+- Await phone call from agent to finalize coverage
+- Contact Harper's team via text or call if questions arise before the agent's call
 
-#### For the Customer
-- Await call from agent for coverage finalization
-- Submit any questions via text or phone call before agent contact
+### Action Items for Harper
+- Receive and review quote options (pending)
+- Schedule and execute phone call with customer to finalize coverage
 
-#### For Harper/Team
-- Review quote options when received
-- Schedule and conduct call with customer to finalize coverage details
+### Next Steps / Follow-up Timeline
+- Timeline: Agent call to occur after quote review is complete
+- Specific date/time: Not specified in this message
+- Communication method for follow-up: Phone call (primary), text or phone (alternative for questions)
 
-## Communication Details
-
-### Contact Method
-- **Preferred contact methods:** Text or phone call
-- **Tone/Sentiment:** Professional, helpful, reassuring
+### Tone/Sentiment
+- Professional and helpful
+- Reassuring (offering open communication channel)
+- Neutral/matter-of-fact
 
 ---
 
-## ⚠️ Note
-**Limited Information:** This is a brief transactional message. No specific business details, personal information, coverage types, premium amounts, or customer identification was included in this SMS.
+## Notable Gaps
+- **No specific customer/contact details mentioned** in this message
+- **No business details provided** (company name, industry, type of coverage)
+- **No premium amounts, deductibles, or policy specifics mentioned**
+- **No quoted carrier names or amounts**
+- **No specific timeline for when quote review will be complete**

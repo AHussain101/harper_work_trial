@@ -12,59 +12,55 @@
 
 **Company Information**
 - Company Name: Summit BioDevices
-- Industry: Biodevices/Medical Devices
-- Business Type: Product manufacturing (inferred from "end-user environment" and "product spec sheet" references)
+- Industry: Biodevices/Medical devices
+- Coverage Types Requested: General Liability (GL) and Workers' Compensation (WC)
+- Application Status: Submitted and uploaded to carrier portal
 
-**Coverage & Policies**
-- Coverage Types Requested:
-  - General Liability (GL)
-  - Workers' Compensation (WC)
-- Status: Application submitted and uploaded to carrier portal
+**Coverage & Documentation**
+- Policies Being Quoted: General Liability and Workers' Compensation
+- Requested Supporting Documents:
+  - Loss run report (if available)
+  - Product specification sheet
+  - Short description of end-user environment
+  - Any contract Certificate of Insurance (COI) requirements
 
-**Documents & Information Status**
-- Application: ✅ Received and uploaded to carrier portal
-- Loss Run Report: ⏳ Requested (if available)
-- Product Spec Sheet: ⏳ Requested
-- End-User Environment Description: ⏳ Requested
-- Contract COI (Certificate of Insurance) Requirements: ⏳ Requested
-
-**Timeline & Next Steps**
-- Underwriter Response Expected: 48-72 hours from submission date (12/04/2025)
-- Updates will be shared as requests or preliminary terms arrive
-
----
+**Underwriting Timeline**
+- Expected Initial Response: 48–72 hours from submission date (December 4, 2025)
 
 ## Personal Details
 
-**Contact Information**
-- Contact Name: Becca (first name only)
-- Contact Email: contact@summitbiodev.com
-- Harper Agent: Jordan Kim
-  - Email: jordan.kim@harperinsure.com
-  - Role: Insurance Broker/Agent
+**Primary Contact**
+- Name: Becca
+- Email: contact@summitbiodev.com
+- Role/Title: Not specified (likely company representative or decision-maker)
 
-**Communication Preferences**
-- Can reply via email with attachments
-- Option to use secure upload portal: https://portal.harperinsure.com/upload/summit-xxxx
-
----
+**Harper Contact**
+- Name: Jordan Kim
+- Title: Insurance Broker (Harper Insurance)
+- Email: jordan.kim@harperinsure.com
+- Phone: Not provided
 
 ## Conversation Context
 
-**Main Purpose**
-- Submission confirmation for GL and WC coverage applications for Summit BioDevices
+**Purpose**
+- Confirmation of receipt for GL & WC insurance application submission for Summit BioDevices
 
 **Key Messages**
-- Application successfully received and processed
-- Underwriters expected to respond within 48-72 hours
-- Additional documentation will expedite placement process
-
-**Action Items for Harper**
-- Monitor carrier portal for underwriter responses
-- Follow up if no initial contact within 72 hours
-- Review and process any requested documents from Becca
+- Application successfully received and uploaded to carrier portal
+- Underwriters will respond with initial interest within 48–72 hours
+- Submission can be expedited with additional documentation
 
 **Action Items for Customer (Becca/Summit BioDevices)**
-- Provide loss run report (if available)
-- Provide product spec sheet
--
+- Provide loss run report if available
+- Submit product specification sheet
+- Provide description of end-user environment
+- Submit any contract COI requirements
+- Can reply via email with attachments OR use secure upload portal link: https://portal.harperinsure.com/upload/summit-xxxx
+
+**Action Items for Harper (Jordan Kim)**
+- Monitor carrier responses (expected within 48–72 hours)
+- Share underwriter requests or preliminary terms with customer when received
+
+**Next Steps/Follow-up Timeline**
+- Initial carrier response expected: 48–72 hours (by approximately December 6–7, 2025)
+- Harper will proactively communicate

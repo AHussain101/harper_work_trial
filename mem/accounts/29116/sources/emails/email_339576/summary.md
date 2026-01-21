@@ -6,63 +6,52 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** owner@safeguardsolutions.co
 
-# Email Summary for Harper Insurance Broker
+# Email Summary: SafeGuard Solutions LLC — Workers' Compensation Quote Request
 
 ## Business Details
+- **Company Name:** SafeGuard Solutions LLC
+- **Industry/Type:** Not specified
+- **Employees:** Unknown — awaiting confirmation of full-time and part-time staff count
+- **Annual Payroll:** Unknown — awaiting estimated W-2 payroll information
+- **Coverage Type:** Workers' Compensation
+- **Years in Operation:** Not mentioned
+- **Revenue:** Not mentioned
 
-**Company Information**
-- Company Name: SafeGuard Solutions LLC
-- Industry/Type: Not specified
-- Coverage Type: Workers' Compensation
-- Employee Count: Not yet provided (requested: FT/PT breakdown)
-- Annual Payroll: Not yet provided (estimated W-2 payroll requested)
-- State(s) of Operation: Not yet provided (requested)
-- Years in Operation: Not specified
-- Prior Coverage: Possibly available (declarations pages requested)
+### Coverage Information Needed
+- State(s) where employees are located (not yet provided)
+- Estimated annual payroll for W-2 employees (not yet provided)
+- Approximate number of full-time staff (not yet provided)
+- Approximate number of part-time staff (not yet provided)
 
-**Coverage & Policy Details**
-- Policy Type: Workers' Compensation
-- Carrier: Not yet assigned
-- Premium Amount: TBD (awaiting quote)
-- Deductible: TBD
-- Coverage Limits: TBD
-- Renewal/Effective Date: Not mentioned
-- Claims History: Not yet discussed
+### Documents Requested
+- Prior policy declarations pages (optional; can be attached to email reply)
+
+### Quote Status
+- Quote process initiated but pending customer information
+- Underwriting team will follow up once details are received
 
 ## Personal Details
-
-**Contact Information**
-- Name: Marcus (first name only)
-- Company Email: owner@safeguardsolutions.co
-- Role/Title: Owner (implied from "owner@" email address)
-- Phone: Not provided
-- Preferred Contact Method: Email (indicated as reply option)
-
-**Communication Style**
-- Tone: Professional, welcoming communication from Harper side
-- No personality notes yet (first contact)
+- **Primary Contact:** Marcus (first name only; appears to be owner/decision-maker)
+- **Company Email:** owner@safeguardsolutions.co
+- **Contact Method:** Email preferred (no phone provided)
+- **Harper Representative:** Jordan Kim (jordan.kim@harperinsure.com)
 
 ## Conversation Context
+- **Purpose:** Initial outbound welcome email to new customer; kickoff for workers' compensation quote process
+- **Tone:** Friendly, professional, welcoming
+- **Sentiment:** Positive; proactive onboarding approach
 
-**Email Purpose**
-- Outbound welcome/onboarding email from Harper to new client
-- Initial information gathering for workers' comp quote
+### Key Questions Asked
+1. What state(s) have employees?
+2. What is the estimated annual payroll for W-2 employees?
+3. What is the approximate number of full-time and part-time staff?
 
-**Information Requested**
-1. State(s) where employees are located
-2. Estimated annual payroll for W-2 employees
-3. Approximate number of full-time and part-time staff
-4. Prior policy declarations pages (optional, if available)
+### Action Items for Customer (Marcus)
+- [ ] Confirm state(s) where employees are located
+- [ ] Provide estimated annual payroll for W-2 employees
+- [ ] Provide approximate number of full-time staff
+- [ ] Provide approximate number of part-time staff
+- [ ] Optional: Attach prior policy declarations pages to email reply
 
-**Action Items for Customer (Marcus)**
-- [ ] Reply with: states of operation, annual payroll estimate, FT/PT staff count
-- [ ] Optional: Attach prior policy declarations pages
-
-**Action Items for Harper**
-- [ ] Receive information from Marcus
-- [ ] Assign underwriting team member to follow up
-- [ ] Prepare workers' comp quote once details are received
-
-**Pending Decisions**
-- Quote not yet generated (awaiting customer information)
-- Carrier assignment TBD
+### Action Items for Harper
+- [ ] Wait for Marcus to reply with

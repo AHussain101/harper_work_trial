@@ -4,79 +4,76 @@
 **Duration:** 16m 51s
 **Direction:** Incoming
 
-# Call Summary - Asif Khan
+# Call Summary: Asif Khan - Tire Sales & Service Business
 
 ## Call Details
-- **Date & Time:** December 4, 2025 at 7:30 PM UTC
+- **Date:** December 4, 2025
+- **Time:** 7:30 PM - 7:47 PM UTC
 - **Duration:** 16 minutes 51 seconds
-- **Direction:** Incoming call
-- **Status:** Completed
-
----
-
-## Contact Information
-- **Client Name:** Asif Khan
-- **Role/Title:** Business Owner
-- **Communication Method:** Phone
-- **Personal Identifiers Provided:** Driver's license and DOB (verbal; redacted in notes)
+- **Call Type:** Incoming
+- **Harper Agent:** Jordan Kim
 
 ---
 
 ## Business Details
+
+### Company Information
 - **Business Type:** Tire sales and service
-- **Industry:** Automotive/Retail
-- **Years in Operation:** Started in 2023 (approximately 2 years)
-- **Number of Employees:** Not specified
-- **Estimated Gross Revenue:** ~$81,000
-- **Property Details:** Fenced and gated property
+- **Years in Operation:** Started in 2023
+- **Annual Gross Revenue:** ~$81,000
+- **Property Description:** Fenced/gated property
+
+### Coverage Discussed
+- General liability insurance
+- Property insurance
+
+### Insurance History
+- **Prior Policy History:** None reported by client
+
+### Timeline
+- **Underwriter Turnaround:** Expected 1-2 business days
+- **Initial Quotes Expected:** Within 24-48 hours
 
 ---
 
-## Coverage & Policy Discussion
-- **Coverage Types Discussed:**
-  - General Liability
-  - Property Insurance
-- **Prior Policy History:** None (no prior coverage)
-- **Premium Amounts:** Not specified
-- **Deductibles:** Not specified
-- **Policy Limits:** Not specified
-- **Renewal Date:** Not specified
-- **Effective Date:** Not specified
+## Personal Details
+
+### Contact Information
+- **Name:** Asif Khan
+- **Contact Method:** Phone (used for this call)
+- **Verification:** Driver's license and date of birth provided verbally during call
+  - *Note: Details redacted in call notes per standard procedure*
 
 ---
 
-## Claims History
-- **Loss Runs:** Not discussed
-- **Claims History:** No prior claims mentioned
+## Conversation Context
+
+### Purpose
+Initial consultation to explore insurance options for new tire sales and service business
+
+### Topics Covered
+- Business operations overview (tire sales and service confirmed)
+- Property characteristics (fenced and gated facility noted)
+- Revenue assessment (~$81k gross)
+- Insurance coverage options (general liability and property)
+- Timeline expectations for quotes and underwriting
+
+### Key Information Gathered
+- Client has no existing insurance policies
+- Business is relatively new (2-year-old startup)
+- Facility has security features (fenced/gated)
+
+### Decisions Made
+- **Proceed with application submission** - Jordan approved moving forward with underwriter submission
 
 ---
 
-## Documents & Information
-- **Documents Provided:** Driver's license and DOB (verbal)
-- **Documents Needed:** Application materials for underwriter submission
+## Action Items
 
----
+### Harper/Jordan Kim
+- [ ] Submit complete application to underwriters
+- [ ] Monitor underwriter response (expect 1-2 business days)
+- [ ] Follow up with Asif Khan if carrier has questions during underwriting process
+- [ ] Contact client when initial quotes received (expected 24-48 hours)
 
-## Agent Details
-- **Insurance Agent/Broker:** Jordan Kim (Harper agent)
-
----
-
-## Next Steps & Action Items
-
-### Harper's Action Items
-- [ ] Submit application to underwriters
-- [ ] Follow up with client if any carrier questions arise
-- [ ] Monitor for initial carrier quotes (expected within 24-48 hours)
-
-### Client Action Items
-- None specified at this time
-
-### Expected Timeline
-- **Underwriter Turnaround:** 1-2 business days
-- **Initial Quotes Expected:** 24-48 hours
-- **Follow-up Contact:** As needed if carriers have questions
-
----
-
-## Call Tone & Sentiment
+### Client

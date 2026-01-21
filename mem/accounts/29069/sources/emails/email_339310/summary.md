@@ -6,43 +6,61 @@
 **From:** terry.blake@metroguardservices.com
 **To:** Jordan Kim <jordan.kim@harperinsure.com>
 
-# Email Summary for Harper Insurance
+# Email Summary for Harper Insurance Broker
 
 ## Business Details
-- **Company Name:** Metro Guard Services, LLC
-- **Industry:** Security/Guard Services (inferred from company name)
-- **Coverage Type:** Professional liability or similar policy (inferred from RFP/government contract questions)
-- **Documents Provided:** Quote and attachments sent by Harper team
-- **Policy Features Under Review:**
-  - Government contract coverage eligibility
-  - RFP (Request for Proposal) work coverage
-  - Retroactive/preceding acts date options
+
+**Company Information**
+- Company Name: Metro Guard Services, LLC
+- Industry: Security/Guard Services (implied from company name)
+- Business Type: Service-based company performing contracts and RFP work
+- Employee count, revenue, years in operation: *Not mentioned*
+
+**Coverage & Policy Details**
+- Policy Type: Not explicitly stated, but discussion involves coverage for government contracts and RFP work
+- Coverage Question: Does policy extend to government contracts and work performed under RFPs?
+- Retroactive/Preceding Acts: Customer wants confirmation of date options and prefers to keep these dates active
+- Quote Status: Quote and attachments have been received and reviewed by customer
+- Premium, deductibles, limits: *Not mentioned*
+- Renewal/Effective dates: *Not mentioned*
+- Claims history: *Not mentioned*
+
+**Carrier Information**
+- Carrier name(s): *Not mentioned*
 
 ## Personal Details
-- **Contact Name:** Terry Blake
-- **Title/Role:** Appears to be decision-maker/owner for Metro Guard Services
-- **Email:** terry.blake@metroguardservices.com
-- **Phone:** (not provided)
-- **Preferred Contact Method:** Email only (explicitly stated preference)
-- **Communication Style:** Professional, direct, efficient
+
+**Contact Information**
+- Name: Terry Blake
+- Title/Role: Principal contact for Metro Guard Services (likely owner or manager)
+- Email: terry.blake@metroguardservices.com
+- Phone: Not provided
+- **Communication Preference: Email only** ⭐
+
+**Personality/Preferences**
+- Professional and direct communication style
+- Appreciative of quick service turnaround
+- Organized (numbered questions)
+- Prefers to avoid phone calls
 
 ## Conversation Context
-- **Main Topic:** Review and clarification of insurance quote previously sent
-- **Key Questions Asked:**
-  1. Does the policy extend coverage to government contracts and work performed under RFPs?
-  2. Can retroactive/preceding acts date options be confirmed? (Terry has a preference to keep these)
-- **Decisions Made:** None yet - awaiting clarification
-- **Decisions Pending:** 
-  - Coverage confirmation for government/RFP work
-  - Retroactive acts date selection
-- **Action Items for Harper (Jordan Kim):**
-  - Answer whether policy covers government contracts and RFP work
-  - Provide/confirm retroactive and preceding acts date options
-  - Respond via email (per customer preference)
-- **Action Items for Customer:** Awaiting Harper's responses
-- **Tone/Sentiment:** Positive and professional; appreciative ("Appreciate the quick turnaround")
-- **Urgency Level:** Moderate - customer has questions before proceeding
 
----
+**Purpose**
+- Follow-up to insurance quote previously sent by Jordan Kim
+- Customer seeking clarification on two specific policy coverage questions
 
-**Note to Harper:** Respond promptly via email only. Focus on clarifying government/RFP coverage and retroactive acts options.
+**Key Questions from Customer**
+1. Does the policy extend to government contracts and work performed under RFPs?
+2. Can you confirm the retroactive/preceding acts date options?
+
+**Decisions Made**
+- Customer wants to maintain retroactive/preceding acts coverage (specific dates to be confirmed)
+- Customer prefers email-only communication going forward
+
+**Pending Items**
+- Confirmation that policy covers government contracts and RFP work
+- Details on retroactive/preceding acts date options available
+
+**Action Items for Harper (Jordan Kim)**
+- [ ] Confirm whether current quote includes government contract coverage
+- [ ] Confirm whether current quote includes

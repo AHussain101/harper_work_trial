@@ -4,63 +4,61 @@
 **Duration:** 47m 5s
 **Direction:** Outgoing
 
-# Insurance Intake Summary – Erin Morales
+# Insurance Intake Summary for Harper
 
 ## Business Details
 
-**Company Information:**
-- **Business Type:** Health & Wellness Services (multi-disciplinary clinic)
+### Company Information
+- **Business Type:** Wellness/Healthcare Services (multi-service clinic)
 - **Services Offered:**
   - Yoga/Pilates classes
   - Massage therapy
   - Chiropractic sessions
   - Prenatal/postpartum services
   - Elective non-diagnostic ultrasounds
-- **Staffing:** Mix of part-time and independent contractors
-  - Independent contractors carry their own professional liability coverage
-- **Facility:** Leased (does not own building)
-- **EIN:** 48-1032
+- **Building/Lease Status:** Leases building (does not own)
+- **Contractor Relationships:** Employs independent contractors who carry their own professional liability coverage separately
+- **Employment Structure:** Part-time schedule mentioned
+- **EIN:** 48-1032 (synthetic sample)
 
-**Coverage Details:**
+### Coverage Details
 - **Policy Type:** Business Owners Policy (BOP)
-- **Liability Limit Recommended:** $1,000,000 occurrence limit (starting point; adjustable if needed)
-- **Prior Coverage:** No existing commercial insurance
-- **Claims History:** No claims on record
-- **Status:** Application submitted to carriers
-
-**Application Stage:**
-- Initial intake completed
-- Quotes pending from carriers
-- Awaiting email delivery of quotes and follow-up text communication
+- **Recommended Liability Limit:** $1,000,000 per occurrence
+- **Claims History:** No prior commercial coverage; no claims on record
+- **Application Status:** Submitted to carriers
 
 ---
 
 ## Personal Details
 
-**Contact Information:**
+### Contact Information
 - **Name:** Erin Morales
 - **Title/Role:** Business Owner
-- **Preferred Contact Method:** Email and text (noted for follow-up)
+- **Preferred Contact Method:** Email and text notification
+- **Communication Style:** Professional, responsive, cooperative
 
-**Communication Notes:**
-- Professional and cooperative demeanor
-- Quick to confirm details and accept recommendations
-- Appreciative tone
+### Personality Notes
+- **Tone/Sentiment:** Positive, appreciative
+- **Approach to Decisions:** Receptive to recommendations; agreed to suggested $1M liability limit without hesitation
 
 ---
 
 ## Conversation Context
 
-**Call Summary:**
-- **Date/Time:** December 4, 2025, 9:51 PM – 10:38 PM UTC
+### Call Details
+- **Direction:** Outgoing call from Harper to prospect
 - **Duration:** 47 minutes 5 seconds
-- **Direction:** Outgoing call from Harper
+- **Date/Time:** December 4, 2025 at 9:51 PM
 - **Agent:** Elena Park (Harper Insurance)
-- **Purpose:** Business Owners Policy intake interview and needs assessment
+- **Purpose:** Initial intake interview for Business Owners Policy quote
 
-**Key Topics Discussed:**
-1. Verification of services provided (yoga, Pilates, massage, chiropractic, prenatal/postpartum, elective ultrasounds)
-2. Contractor relationships and their separate professional coverage
-3. Facility ownership status (lease confirmation)
-4. Commercial coverage history and claims background
-5. EIN verification for
+### Key Topics Discussed
+1. Confirmation of services offered (yoga, Pilates, massage, chiropractic, prenatal/postpartum, elective ultrasounds)
+2. Contractor/clinician coverage arrangements
+3. Building ownership/lease status
+4. Prior commercial coverage and claims history
+5. EIN verification
+6. Liability limit recommendations
+
+### Decisions Made
+- ✅ Approved $1,000,000 per occurrence

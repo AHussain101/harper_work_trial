@@ -4,60 +4,60 @@
 **Duration:** 1m 35s
 **Direction:** Outgoing
 
-# Call Summary - Khalil Vehicle Insurance Follow-up
+# Call Summary - Khalil Vehicle Insurance Binding Follow-up
 
 ## Business Details
-- **Type of Business:** Not explicitly stated (appears to be personal/commercial vehicle-related)
-- **Coverage Type:** Auto/Vehicle Insurance
-- **Policy Status:** Pre-binding stage
-- **Documents Requested:**
-  - Vehicle title (copy)
-  - Driver MVR (Motor Vehicle Record)
-- **Next Steps:** Final carrier quotes pending document receipt
+- **Coverage Type**: Vehicle insurance (truck purchase)
+- **Policy Status**: Pre-binding stage
+- **Documents Needed**:
+  - Vehicle title
+  - Driver Motor Vehicle Record (MVR)
+- **Next Steps**: Final carrier quotes will be provided once documents are received
 
 ## Personal Details
-- **Contact Name:** Khalil
-- **Harper Agent:** Mia
-- **Preferred Contact Method:** Email (for document uploads and quotes)
-- **Personality/Communication Style:** Responsive, cooperative, brief communication
+- **Contact Name**: Khalil
+- **Harper Agent**: Mia
+- **Communication Method**: Email (preliminary estimate sent via email)
+- **Personality Notes**: 
+  - Responsive and cooperative
+  - Brief, efficient communication style
+  - Professional tone
 
 ## Conversation Context
-- **Call Purpose:** Follow-up confirmation call
-- **Main Topics:**
-  - Confirm receipt of preliminary estimate (sent via email)
-  - Request outstanding documents needed for binding
-  - Outline next steps in binding process
 
-- **Key Details Discussed:**
-  - Khalil has received the preliminary estimate
-  - Vehicle purchase is still being finalized by client
-  - Documents will be uploaded after truck purchase is completed
+### Call Purpose
+Follow-up call to confirm receipt of preliminary estimate and request required documents for policy binding
 
-- **Decisions Made:** None finalized yet
+### Key Points Discussed
+- Preliminary estimate was successfully received by Khalil
+- Two critical documents needed to proceed:
+  1. Vehicle title
+  2. Driver MVR (Motor Vehicle Record)
 
-- **Pending Decisions:**
-  - Document submission (dependent on truck purchase completion)
-  - Final carrier quote selection
+### Timeline & Conditions
+- **Call Date/Time**: December 5, 2025 at 2:20 PM UTC
+- **Duration**: 1 minute 35 seconds
+- **Khalil's Condition for Document Submission**: Will upload documents after finalizing truck purchase (purchase not yet complete)
 
-## Action Items
+### Decisions Made
+- Khalil confirmed receipt of preliminary estimate
+- Khalil agreed to upload required documents post-purchase
 
-### Harper/Mia:
-- [ ] Await vehicle title and driver MVR upload from Khalil
-- [ ] Upon receipt of documents, send final carrier quotes
-- [ ] Provide binding next steps once documents received
+### Action Items
 
-### Khalil (Client):
-- [ ] Complete truck purchase
-- [ ] Upload copy of vehicle title
+**For Harper (Mia)**:
+- [ ] Await document uploads from Khalil (vehicle title & driver MVR)
+- [ ] Once documents received: Send final carrier quotes
+- [ ] Provide next steps for binding
+
+**For Khalil**:
+- [ ] Finalize truck purchase
+- [ ] Upload vehicle title
 - [ ] Upload driver MVR
-- [ ] Review final carrier quotes when provided
 
-## Timeline & Follow-up
-- **Call Date/Time:** December 5, 2025 at 2:20 PM UTC
-- **Call Duration:** 1 minute 35 seconds
-- **Next Contact:** Pending document upload (no specific date set)
-- **Sentiment:** Positive, cooperative, efficient
+### Follow-up Timeline
+- No specific timeline committed; contingent on Khalil completing truck purchase
+- Harper will proceed immediately upon document receipt
 
----
-
-**Notes:** Client is waiting on finalization of truck purchase before submitting required documents. Once documents are received, binding process can move forward quickly.
+### Tone/Sentiment
+- **Positive** - Cooperative, straightforward interaction with no concerns or friction expressed

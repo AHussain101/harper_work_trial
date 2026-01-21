@@ -6,43 +6,38 @@
 # SMS Summary for Harper
 
 ## Message Type
-- **Direction:** Outgoing (Harper → Client)
-- **Date/Time:** December 4, 2025 at 10:14 PM
-- **Purpose:** Instructional/Informational message
+- **Direction:** Outgoing (from Harper/insurance broker team to customer)
+- **Date & Time:** December 4, 2025 at 10:14 PM
+- **Message Type:** Informational/Instructional
 
 ## Key Message Content
-- Client is being directed to save Harper's phone number
-- This number will be the **single point of contact** for all communications
-- All future communications will come through this channel, including:
-  - Updates
-  - Questions
-  - Quotes
+- Customer is being instructed to save the phone number from which this SMS was sent
+- This number will serve as the **single point of contact** for all future communications
 
-## Communication Strategy Indicated
-- **Approach:** Centralized communication
-- **Purpose:** Provide clarity and streamline interactions
-- **Emphasis:** "One clear line to our team"
-
-## Action Items
-
-### For Client
-- Save the provided phone number for future reference
-- Use this number as primary contact method going forward
-- Know to expect all communications through this channel
-
-### For Harper
-- Ensure consistent follow-up through this number
-- Monitor this line for client responses and questions
-- Be prepared to deliver updates and quotes via SMS/this contact method
+## Communication Channels & Expectations
+- **Primary Contact Method:** SMS/Text messaging
+- **Updates:** All insurance updates will come through this number
+- **Questions:** Customer should direct questions to this number
+- **Quotes:** All quotes will be delivered via this number
+- **Purpose:** Establishing one clear, consolidated communication line
 
 ## Conversation Context
-- This appears to be an **initial setup/onboarding message**
-- Tone: Professional, clear, service-oriented
-- This is likely a **first point of contact or early engagement** with a new prospect
+- **Main Purpose:** To establish communication protocol and provide customer with contact information
+- **Tone/Sentiment:** Professional, organizational, instructional
+- **Key Message:** Emphasizing streamlined, single-channel communication approach
 
-## Notable Gaps
-- ⚠️ No specific business or personal details mentioned in this message
-- No specific coverage needs, quotes, or policy information included
-- No client name or company information referenced
+## Action Items
+### For Customer:
+- Save the provided phone number
+- Use this number as primary contact for all insurance-related communication
+- Expect all future updates, questions responses, and quotes through this channel
 
-**Note:** This is a template/standard message. Expect detailed business and personal information to follow in subsequent communications through this number.
+### For Harper:
+- Ensure all customer communications going forward originate from this established number
+- Maintain this as the dedicated customer contact line
+- Use for: updates, answering questions, and delivering quotes
+
+## Notes
+- No specific business or personal details mentioned in this message
+- No policy specifics, premium amounts, or coverage details discussed
+- This appears to be an early-stage communication establishing baseline expectations

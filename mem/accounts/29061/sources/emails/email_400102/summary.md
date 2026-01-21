@@ -6,67 +6,80 @@
 **From:** submissions@northstarbrokers.com
 **To:** submissions@rps.com
 
-# Email Summary: North Star Towing & Recovery Insurance Submission
+# Email Summary for Harper
 
 ## Business Details
 
-**Company Information:**
-- **Company Name:** North Star Towing & Recovery
-- **Business Type:** Tow operator (owner-operator model)
-- **Industry:** Towing and roadside assistance
-- **Fleet Size:** 4 power units (owner-operator plus 3 additional trucks)
-- **Annual Revenue:** Lower hundreds of thousands (estimated)
-- **Years in Operation:** Not specified
+**Company Information**
+- Company Name: North Star Towing & Recovery
+- Business Type: Tow operator
+- Industry: Towing and roadside assistance services
+- Size: Small fleet operation (owner-operator plus 3 additional trucks = 4 power units total)
 
-**Coverage & Policy Details:**
-- **Requested Coverage Types:**
-  - Commercial Auto Liability
-  - Garagekeeper's/Physical Damage
-  - General Liability
-- **Premium Amounts:** Not provided
-- **Deductibles:** Not specified
-- **Policy Limits:** Not specified
+**Service Offerings**
+- Local towing
+- Roadside assistance
+- Vehicle recovery
 
-**Claims & Loss History:**
-- **Claims History:** No recent claims reported in past 5 years
-- **Safety Program:** Informal safety program in place
-- **Loss Control Features:** 
-  - GPS tracking on all trucks
-  - Routine maintenance logs
+**Financial Information**
+- Estimated Annual Receipts: Lower hundreds of thousands (approximate figure provided)
+- Fleet Size: 4 power units
 
-**Documents Provided:**
-- Application form (uploaded)
-- Vehicle roster (uploaded via secure portal)
-- Additional documents available upon request: VIN details and driver MVRs
+**Coverage Needs**
+- Commercial Auto Liability
+- Garagekeeper's/Physical Damage
+- General Liability
 
-**Renewal/Effective Dates:** Not mentioned
+**Loss/Claims History**
+- No recent claims reported in the past 5 years
+
+**Safety & Operational Details**
+- Owner reports informal safety program
+- GPS tracking installed on all trucks
+- Routine maintenance logs maintained
+
+**Documentation Status**
+- Application submitted
+- Vehicle roster provided
+- Documents uploaded via secure portal
+- Additional information potentially needed: VIN details, driver MVRs
+
+---
 
 ## Personal Details
 
-**Contact Person:**
-- **Name:** Alex Park
-- **Title:** North Star Brokerage (broker/submission contact)
-- **Email:** submissions@northstarbrokers.com
-- **Communication Method:** Email via secure portal
+**Contact Information**
+- Contact Name: Alex Park
+- Title/Role: North Star Brokerage (Submissions contact)
+- Email: submissions@northstarbrokers.com
 
-**Owner Details:**
-- Owner is identified as operating the company but specific name/contact not provided in this submission
+**Communication**
+- Tone: Professional, straightforward
+- Contact Method: Email submission to RPS
+
+---
 
 ## Conversation Context
 
-**Purpose:** 
-Insurance submission for commercial coverage quotes for a small towing operation
+**Purpose**
+- Insurance submission for new commercial auto and general liability coverage
 
-**Key Information Provided:**
-- Owner self-reported informal safety program with GPS tracking and maintenance logs
-- Clean loss history (5 years)
-- Small, stable fleet operation
+**Key Information Provided**
+- Business operation overview and fleet composition
+- Safety practices and operational procedures documented
+- Claims history (clean - no losses in 5 years)
 
-**Documents Status:**
-- Application and vehicle roster already submitted via secure portal
-- Ready to provide additional documentation (VINs, driver MVRs) if needed
+**Documents Attached/Needed**
+- Application form ✓ (attached)
+- Vehicle roster ✓ (attached)
+- Additional potential needs: VIN details, driver MVRs (not yet provided)
 
-**Action Items for Harper (Insurance Broker):**
+**Action Items for Harper**
 - Review submitted application and vehicle roster
-- Request additional information as needed:
-  - Detailed VIN information for all
+- Request VIN details if needed for underwriting
+- Request driver MVRs (Motor Vehicle Reports) if required
+- Obtain quotes from appropriate carriers
+- Respond to Alex Park with next steps
+
+**Action Items for North Star/Owner**
+- Provide additional VIN details if requested

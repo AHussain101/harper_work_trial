@@ -6,49 +6,45 @@
 **From:** support@harperinsure.com
 **To:** erin@lakesidehealth.com
 
-# Email Summary for Harper
+# Email Summary for Harper Insurance Broker
 
 ## Business Details
-
 - **Company Name:** Lakeside Health
 - **Industry:** Healthcare (inferred from company name)
-- **Coverage Status:** Policy pending binding - awaiting signed application
-- **Policy Effective Date:** Early December 2025
-- **Underwriting Status:** Underwriting has approved; documents ready for signature to bind coverage
+- **Policy Status:** Pending binding - awaiting signed application from underwriting
+- **Effective Date:** Early December 2025
+- **Documents:** Application requiring e-signature for policy binding
 
 ## Personal Details
-
 - **Contact Name:** Erin
-- **Contact Email:** erin@lakesidehealth.com
-- **Communication Preference:** Flexible - offered option for e-signature OR phone walkthrough
+- **Email:** erin@lakesidehealth.com
+- **Preferred Contact Method:** E-signature portal available; option for phone/walkthrough discussion offered
 
 ## Conversation Context
 
 ### Main Topic
-- **Purpose:** Request for signed application to bind insurance coverage
+- Final step to bind insurance coverage: obtaining signed application from client
 
-### Key Details
-- Underwriting approval has been obtained
-- Documents are ready for signature
-- E-signature portal provided with direct link (Reference: 48-1032)
+### Key Actions Required
+**For Customer (Erin/Lakeside Health):**
+- Review and e-sign application documents via portal link
+- Link: https://portal.harperinsure.com/esign/48-1032
+- Alternatively, request walkthrough call with Harper team to review documents before signing
 
-### Action Items for Customer (Erin)
-- Review and e-sign documents via portal link: https://portal.harperinsure.com/esign/48-1032
-- **Alternative:** Reply to request a walkthrough of documents with Harper team before signing
+**For Harper:**
+- Monitor for e-signature completion
+- Be available for document walkthrough if customer requests it
+- Finalize policy once documents are signed
 
-### Action Items for Harper
-- Monitor for signed application submission
-- Be prepared to guide Erin through documents if she requests walkthrough
-- Finalize policy once signatures received
-
-### Next Steps
-- Await Erin's e-signature or response
-- Once signed, finalize policy effective early December 2025
+### Timeline
+- **Effective Date:** Early December 2025
+- **Urgency:** Moderate - documents needed soon to activate coverage at target effective date
 
 ### Tone/Sentiment
-- **Professional and accommodating** - offering flexible options for signature completion
-- **Urgent but respectful** - time-sensitive (effective date approaching) but not pressuring
+- Professional, helpful, efficient
+- Provides alternative option (phone walkthrough) if customer prefers guidance
+- Straightforward process communication
 
----
-
-**Note:** No claims history, premium amounts, deductibles, limits, or specific carrier information included in this email.
+### Status
+- **Pending:** Customer signature on application
+- **Next Step:** Policy binding once documents are executed

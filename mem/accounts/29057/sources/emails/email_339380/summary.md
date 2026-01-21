@@ -6,47 +6,52 @@
 **From:** Avery Collins <avery.collins@harperinsure.com>
 **To:** contact@summitridgeroof.com
 
-# Email Summary: Policy Documents & COI Instructions
+# Email Summary for Harper Insurance
 
 ## Business Details
 - **Company Name:** Summit Ridge Roof
 - **Industry:** Roofing
-- **Coverage Type:** General liability/commercial insurance (inferred from COI request mention)
-- **Policy Documents:** Attached to email
+- **Contact Email:** contact@summitridgeroof.com
+- **Coverage Type:** General liability insurance (implied by COI request capability)
 
 ## Personal Details
 - **Contact Name:** David
-- **Email:** contact@summitridgeroof.com
-- **Harper Representative:** Avery Collins
-  - Email: avery.collins@harperinsure.com
-  - Phone: (470) 664-1345
+- **Role/Title:** Not specified (likely owner/manager of Summit Ridge Roof)
+- **Email:** contact@summitridgeroof.com (business email)
+- **Preferred COI Contact Method:** certificates@harperinsure.com for certificate requests
+
+## Avery Collins Details (Harper Insurance Agent)
+- **Name:** Avery Collins
+- **Title:** Insurance Agent at Harper Insurance
+- **Email:** avery.collins@harperinsure.com
+- **Phone:** (470) 664-1345
+- **Website:** www.harperinsure.com
 
 ## Conversation Context
 
 ### Main Purpose
-Delivery of policy documents and instructions for obtaining certificates of insurance (COI)
+- Delivery of policy documents to client
+- Communication of instructions for future certificate of insurance (COI) requests
 
 ### Key Information Provided
-- Policy documents have been generated and attached
-- COI requests can be submitted in two ways:
-  1. Reply directly to Avery with certificate details
-  2. Send request to: certificates@harperinsure.com
-- COI will be generated and emailed promptly upon request
+- Policy documents are attached to this email
+- COI can be requested either by:
+  - Replying directly to Avery with certificate details, OR
+  - Sending request to dedicated email: certificates@harperinsure.com
+- Certificates will be generated and emailed promptly upon request
 
-### Action Items for Customer (David/Summit Ridge Roof)
-- [ ] Review attached policy documents
-- [ ] Submit COI requests as needed for projects or subcontractors (using either contact method)
+### Action Items for Customer (David)
+- Review attached policy documents
+- Use provided instructions when COI is needed for projects or subcontractors
 
 ### Action Items for Harper (Avery)
-- [ ] Monitor for COI requests from David
-- [ ] Generate and send COI when requested
-
-### Follow-Up Timeline
-- No specific follow-up scheduled; response expected only if David needs COI
+- ✅ Completed: Send policy documents
+- Future: Process COI requests as they arrive (either via direct reply or certificates email)
 
 ### Tone/Sentiment
-Professional, helpful, efficient
+- Professional, courteous, and efficient
+- Helpful and service-oriented
 
----
-
-**Note:** This appears to be a routine administrative email confirming policy delivery and establishing COI request procedures.
+### Follow-up Timeline
+- No specific follow-up scheduled
+- On an as-needed basis (when client requires COI)

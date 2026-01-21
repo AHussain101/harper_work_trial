@@ -6,48 +6,61 @@
 **From:** underwriting@atlanticmutual.example
 **To:** submissions@harperinsure.com
 
-# Email Summary: Workers' Compensation Quote for Lakeside Freight & Logistics LLC
+# Email Summary: Workers' Compensation Quote - Lakeside Freight & Logistics LLC
 
 ## Business Details
 
-**Company Information:**
+**Company Information**
 - Company name: Lakeside Freight & Logistics LLC
-- Industry: Freight & Logistics (Transportation)
+- Industry: Freight & Logistics
 - Operations: Local routes only in North Carolina (NC)
-- Staffing: One part-time driver
+- Staffing: One part-time driver (noted in quote)
 
-**Coverage Details:**
+**Coverage Details**
 - Policy type: Workers' Compensation
 - Carrier: Atlantic Mutual
 - Coverage limits: State-mandated limits for North Carolina
-- Annual premium estimate: ~$1,800 (including fees and taxes)
+- Geographic scope: Local operations only
+- Annual premium estimate: ~$1,800 (includes fees and taxes)
 
-**Underwriting Notes:**
-- Rate is provisional and assumes one part-time driver with limited local routes
-- Final premium is subject to payroll verification
-- Subject to full underwriting review
+**Quote Conditions & Notes**
+- Rate is based on assumption of one part-time driver with limited local routes
+- Final premium is **subject to:**
+  - Payroll verification
+  - Underwriting review
+- Quote is not finalized pending documentation
 
-## Documents & Information Needed
-
+## Documents Needed
 - Proof of payroll (required for confirmation)
-- Effective date confirmation (pending from client)
 
 ## Conversation Context
 
-**Purpose:** Atlantic Mutual has provided a workers' compensation quote for Lakeside Freight & Logistics LLC
+**Email Purpose**
+- Atlantic Mutual providing workers' compensation quote for new/renewal business
 
-**Current Status:** Quote provided and awaiting client response
+**Key Information Requested from Harper/Client**
+1. Confirmation of acceptable effective date
+2. Upload of proof of payroll documentation
 
-**Action Items for Harper:**
-- Confirm effective date with client (Lakeside Freight & Logistics)
-- Request and collect proof of payroll from client
-- Submit payroll verification to Atlantic Mutual for final premium confirmation
-- Follow up on client acceptance/decision regarding the quote
+**Pending Items**
+- Client acceptance/confirmation of quote terms
+- Effective date confirmation
+- Payroll verification documentation submission
+- Final underwriting review by Atlantic Mutual
 
-**Action Items for Client:**
-- Confirm acceptable effective date
-- Provide proof of payroll documentation
+**Next Steps**
+1. **Harper's action items:**
+   - Contact Lakeside Freight & Logistics LLC with quote details
+   - Obtain confirmation on whether quote is acceptable
+   - Request effective date preference
+   - Collect proof of payroll documentation from client
+   - Return payroll docs to Atlantic Mutual for underwriting completion
 
-**Next Steps:** Once client provides effective date and payroll proof, Harper should submit to Atlantic Mutual for final underwriting review and premium confirmation
+2. **Client action items:**
+   - Confirm if quote is acceptable
+   - Provide effective date preference
+   - Submit proof of payroll to Harper
 
-**Tone/Sentiment:** Professional, routine quote submission with standard underwriting requirements
+**Tone/Sentiment**
+- Professional, routine quote submission
+- Standard underwriting conditions noted
