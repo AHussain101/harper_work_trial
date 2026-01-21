@@ -7,6 +7,7 @@ Includes speed testing functionality with sample query buttons.
 """
 
 import os
+import threading
 import time
 from pathlib import Path
 
@@ -203,51 +204,111 @@ def get_orchestrator() -> Orchestrator:
 
 
 def run_query(query: str):
-    """Run a query through the orchestrator with timing."""
+    """Run a query through the orchestrator with timing and live progress."""
     orchestrator = get_orchestrator()
     
-    with st.spinner("Exploring filesystem memory..."):
-        start_time = time.perf_counter()
+    # Storage for thread results
+    thread_result = {"result": None, "error": None, "done": False}
+    
+    def run_in_thread():
+        """Execute the query in a background thread."""
         try:
-            result = orchestrator.run(query)
-            end_time = time.perf_counter()
-            execution_time = end_time - start_time
-            
-            st.session_state.last_result = result
-            st.session_state.last_execution_time = execution_time
-            
-            # Store timing data
-            timing_entry = {
-                "query": query,
-                "execution_time": execution_time,
-                "timestamp": time.time(),
-                "success": True
-            }
-            st.session_state.query_timings.append(timing_entry)
-            
-            # Update query history with timing
-            st.session_state.query_history.append({
-                "query": query,
-                "result": result,
-                "execution_time": execution_time
-            })
+            thread_result["result"] = orchestrator.run(query)
         except Exception as e:
-            end_time = time.perf_counter()
-            execution_time = end_time - start_time
+            thread_result["error"] = e
+        finally:
+            thread_result["done"] = True
+    
+    # Start the query in a background thread
+    query_thread = threading.Thread(target=run_in_thread)
+    start_time = time.perf_counter()
+    query_thread.start()
+    
+    # Show live progress with timer
+    status_messages = [
+        "Searching for relevant accounts...",
+        "Reading account files...",
+        "Analyzing information...",
+        "Preparing response...",
+    ]
+    
+    with st.status("Processing query...", expanded=True) as status:
+        timer_placeholder = st.empty()
+        message_placeholder = st.empty()
+        
+        message_idx = 0
+        last_message_change = start_time
+        
+        # Update timer while query runs
+        while not thread_result["done"]:
+            elapsed = time.perf_counter() - start_time
             
-            st.error(f"Error running query: {e}")
-            st.session_state.last_result = None
-            st.session_state.last_execution_time = execution_time
+            # Update the timer display
+            timer_placeholder.markdown(f"⏱️ **Elapsed: {elapsed:.1f}s**")
             
-            # Record failed query timing
-            timing_entry = {
-                "query": query,
-                "execution_time": execution_time,
-                "timestamp": time.time(),
-                "success": False,
-                "error": str(e)
-            }
-            st.session_state.query_timings.append(timing_entry)
+            # Cycle through status messages every 2 seconds
+            if elapsed - (message_idx * 2) >= 2 and message_idx < len(status_messages) - 1:
+                message_idx += 1
+            message_placeholder.markdown(f"_{status_messages[message_idx]}_")
+            
+            time.sleep(0.1)  # Update every 100ms
+        
+        # Query finished
+        end_time = time.perf_counter()
+        execution_time = end_time - start_time
+        
+        if thread_result["error"]:
+            status.update(label=f"Query failed after {execution_time:.1f}s", state="error")
+            timer_placeholder.empty()
+            message_placeholder.empty()
+        else:
+            # Check if from cache
+            from_cache = thread_result["result"].get("from_cache", False)
+            if from_cache:
+                status.update(label=f"Completed in {execution_time:.1f}s (cached)", state="complete")
+            else:
+                status.update(label=f"Completed in {execution_time:.1f}s", state="complete")
+            timer_placeholder.empty()
+            message_placeholder.empty()
+    
+    # Wait for thread to fully complete
+    query_thread.join()
+    
+    # Process results
+    if thread_result["error"]:
+        st.error(f"Error running query: {thread_result['error']}")
+        st.session_state.last_result = None
+        st.session_state.last_execution_time = execution_time
+        
+        # Record failed query timing
+        timing_entry = {
+            "query": query,
+            "execution_time": execution_time,
+            "timestamp": time.time(),
+            "success": False,
+            "error": str(thread_result["error"])
+        }
+        st.session_state.query_timings.append(timing_entry)
+    else:
+        result = thread_result["result"]
+        st.session_state.last_result = result
+        st.session_state.last_execution_time = execution_time
+        
+        # Store timing data
+        timing_entry = {
+            "query": query,
+            "execution_time": execution_time,
+            "timestamp": time.time(),
+            "success": True
+        }
+        st.session_state.query_timings.append(timing_entry)
+        
+        # Update query history with timing
+        st.session_state.query_history.append({
+            "query": query,
+            "result": result,
+            "execution_time": execution_time
+        })
 
 
 def render_answer_panel(result: dict):

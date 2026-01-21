@@ -33,12 +33,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Budget constants
-MAX_TOOL_CALLS = 15
-MAX_READ_FILE = 8
-MAX_SEARCH = 6
+# Budget constants - balanced for speed + multi-source queries
+MAX_TOOL_CALLS = 10  # Enough for multi-source queries (was 15)
+MAX_READ_FILE = 6    # Enough to read multiple sources (was 8)
+MAX_SEARCH = 4       # Reduced from 6
 MAX_FILE_SIZE = 200 * 1024  # 200KB
-MAX_SEARCH_RESULTS = 50
+MAX_SEARCH_RESULTS = 20  # Reduced from 50
 
 
 @dataclass
@@ -579,12 +579,23 @@ class Orchestrator:
         for attempt in range(max_retries + 1):
             response = self.client.messages.create(
                 model=self.model,
-                max_tokens=2048,
+                max_tokens=1024,  # Reduced from 2048 - responses are small JSON
                 system=cached_system,
                 messages=messages
             )
             
             content = response.content[0].text
+            
+            # Log cache usage if available
+            if hasattr(response, 'usage') and response.usage:
+                usage = response.usage
+                cache_read = getattr(usage, 'cache_read_input_tokens', 0) or 0
+                cache_create = getattr(usage, 'cache_creation_input_tokens', 0) or 0
+                if cache_read > 0:
+                    logger.info(f"Prompt cache HIT: {cache_read} tokens read from cache")
+                elif cache_create > 0:
+                    logger.info(f"Prompt cache MISS: {cache_create} tokens cached for next call")
+            
             logger.debug(f"Claude response (attempt {attempt + 1}): {content[:200]}...")
             
             try:

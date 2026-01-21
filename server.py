@@ -63,6 +63,7 @@ class QueryResponse(BaseModel):
     citations: list[str]
     notes: str
     trace_summary: list[str]
+    from_cache: bool = False
 
 
 @app.post("/query", response_model=QueryResponse)
@@ -85,7 +86,8 @@ async def query(request: QueryRequest):
             answer=result.get("answer", ""),
             citations=result.get("citations", []),
             notes=result.get("notes", ""),
-            trace_summary=result.get("trace_summary", [])
+            trace_summary=result.get("trace_summary", []),
+            from_cache=result.get("from_cache", False)
         )
     except Exception as e:
         logger.error(f"Query failed: {e}")
@@ -96,6 +98,19 @@ async def query(request: QueryRequest):
 async def health():
     """Health check endpoint."""
     return {"status": "ok"}
+
+
+@app.post("/cache/clear")
+async def clear_cache():
+    """Clear the query result cache."""
+    try:
+        orchestrator = get_orchestrator()
+        orchestrator.clear_cache()
+        logger.info("Cache cleared via API")
+        return {"status": "ok", "message": "Cache cleared"}
+    except Exception as e:
+        logger.error(f"Failed to clear cache: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 if __name__ == "__main__":
