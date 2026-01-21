@@ -411,6 +411,7 @@ class Orchestrator:
         if not api_key:
             raise ValueError("ANTHROPIC_API_KEY not found in environment or constructor")
         self.client = anthropic.Anthropic(api_key=api_key)
+        logger.info(f"Using Anthropic model: {model}")
         
         # Cache system rules
         self._system_rules: Optional[str] = None
@@ -565,8 +566,7 @@ class Orchestrator:
         
         logger.debug(f"Calling Claude with {len(messages)} messages")
         
-        # Use prompt caching for the system prompt to reduce latency
-        # The system prompt is passed as a list with cache_control
+        # Use prompt caching for the system prompt
         cached_system = [
             {
                 "type": "text",
@@ -579,7 +579,7 @@ class Orchestrator:
         for attempt in range(max_retries + 1):
             response = self.client.messages.create(
                 model=self.model,
-                max_tokens=1024,  # Reduced from 2048 - responses are small JSON
+                max_tokens=1024,
                 system=cached_system,
                 messages=messages
             )
@@ -604,12 +604,10 @@ class Orchestrator:
                 last_error = e
                 if attempt < max_retries:
                     logger.warning(f"JSON parse failed (attempt {attempt + 1}), retrying: {e}")
-                    # Add a hint to the messages for retry
-                    if attempt == 0:
-                        messages.append({
-                            "role": "user",
-                            "content": "Your previous response had invalid JSON syntax. Please respond with a valid JSON object only."
-                        })
+                    messages.append({
+                        "role": "user",
+                        "content": "Your previous response had invalid JSON syntax. Please respond with a valid JSON object only."
+                    })
                 else:
                     logger.error(f"JSON parse failed after {max_retries + 1} attempts")
         
