@@ -19,3 +19,9 @@ openai>=1.0.0
 # FastAPI for REST API server
 fastapi>=0.100.0
 uvicorn>=0.23.0
+
+# Progress bar and time estimation
+tqdm>=4.66.0
+
+# YAML parsing for Agent Skills
+PyYAML>=6.0.0

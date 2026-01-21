@@ -12,10 +12,17 @@ import os
 import re
 import subprocess
 import time
+
+# PyYAML for skill frontmatter parsing (optional)
+try:
+    import yaml
+    HAS_YAML = True
+except ImportError:
+    HAS_YAML = False
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Generator, Any
 
 import anthropic
 from dotenv import load_dotenv
@@ -413,15 +420,114 @@ class Orchestrator:
         self.client = anthropic.Anthropic(api_key=api_key)
         logger.info(f"Using Anthropic model: {model}")
         
-        # Cache system rules
+        # Cache skill content
+        self._skill_content: Optional[str] = None
+        self._skill_metadata: Optional[dict] = None
+        
+        # Legacy fallback
         self._system_rules: Optional[str] = None
         
         # Query result cache (query_hash -> (result, timestamp))
         self._query_cache: dict[str, tuple[dict, float]] = {}
         self._cache_ttl: float = 300.0  # 5 minute cache TTL
     
+    def _parse_skill_frontmatter(self, content: str) -> tuple[dict, str]:
+        """
+        Parse YAML frontmatter from a SKILL.md file.
+        
+        Returns:
+            Tuple of (metadata dict, body content)
+        """
+        if content.startswith('---'):
+            parts = content.split('---', 2)
+            if len(parts) >= 3:
+                try:
+                    if HAS_YAML:
+                        metadata = yaml.safe_load(parts[1])
+                    else:
+                        # Simple fallback parser for basic key: value pairs
+                        metadata = {}
+                        for line in parts[1].strip().split('\n'):
+                            if ':' in line:
+                                key, value = line.split(':', 1)
+                                metadata[key.strip()] = value.strip()
+                    body = parts[2].strip()
+                    return metadata or {}, body
+                except Exception as e:
+                    logger.warning(f"Failed to parse YAML frontmatter: {e}")
+        return {}, content
+    
+    def load_skill(self, skill_name: str = "search") -> str:
+        """
+        Load a skill from the skills directory.
+        
+        Args:
+            skill_name: Name of the skill folder (search, update, router)
+            
+        Returns:
+            The skill content (body without frontmatter)
+        """
+        skill_path = self.mem_path / "skills" / skill_name / "SKILL.md"
+        
+        if not skill_path.exists():
+            # Fallback to legacy system_rules.md
+            logger.warning(f"Skill not found at {skill_path}, falling back to system_rules.md")
+            return self.load_system_rules()
+        
+        content = skill_path.read_text(encoding='utf-8')
+        metadata, body = self._parse_skill_frontmatter(content)
+        
+        self._skill_metadata = metadata
+        logger.info(f"Loaded skill: {metadata.get('name', skill_name)}")
+        
+        return body
+    
+    def load_skill_context(self, skill_name: str, context_file: str) -> str:
+        """
+        Load additional context file from a skill directory.
+        
+        This enables progressive disclosure - loading extra context only when needed.
+        
+        Args:
+            skill_name: Name of the skill folder
+            context_file: Name of the context file (e.g., 'formatting.md')
+            
+        Returns:
+            Content of the context file
+        """
+        context_path = self.mem_path / "skills" / skill_name / context_file
+        
+        if not context_path.exists():
+            raise FileNotFoundError(f"Skill context not found: {context_path}")
+        
+        content = context_path.read_text(encoding='utf-8')
+        logger.info(f"Loaded skill context: {skill_name}/{context_file}")
+        return content
+    
+    def get_skill_metadata(self, skill_name: str = "search") -> dict:
+        """
+        Get just the metadata (name, description) from a skill.
+        
+        This is the first level of progressive disclosure - enough info
+        to decide if the skill should be loaded.
+        
+        Args:
+            skill_name: Name of the skill folder
+            
+        Returns:
+            Metadata dict with 'name' and 'description'
+        """
+        skill_path = self.mem_path / "skills" / skill_name / "SKILL.md"
+        
+        if not skill_path.exists():
+            return {"name": skill_name, "description": "Skill not found"}
+        
+        content = skill_path.read_text(encoding='utf-8')
+        metadata, _ = self._parse_skill_frontmatter(content)
+        return metadata
+    
     def load_system_rules(self) -> str:
-        """Load and cache system rules from mem/system_rules.md."""
+        """Load and cache system rules from mem/system_rules.md (legacy fallback)."""
         if self._system_rules is None:
             rules_path = self.mem_path / "system_rules.md"
             if not rules_path.exists():
@@ -430,9 +536,16 @@ class Orchestrator:
         return self._system_rules
     
     def build_system_prompt(self) -> str:
-        """Build the full system prompt for Claude."""
-        system_rules = self.load_system_rules()
-        return system_rules
+        """Build the full system prompt for Claude using the skill system."""
+        # Try to load from skills first
+        if self._skill_content is None:
+            try:
+                self._skill_content = self.load_skill("search")
+            except Exception as e:
+                logger.warning(f"Failed to load skill, using legacy system_rules: {e}")
+                self._skill_content = self.load_system_rules()
+        
+        return self._skill_content
     
     def build_messages(self, query: str, trace: Trace) -> list[dict]:
         """
@@ -800,6 +913,131 @@ class Orchestrator:
         logger.warning("Budget exhausted")
         trace.stop_reason = "budget_exhausted"
         return self.build_budget_exhausted_response(trace)
+    
+    def run_streaming(self, query: str) -> Generator[dict, None, None]:
+        """
+        Streaming version of run that yields exploration steps in real-time.
+        
+        Yields events:
+        - {"type": "start", "query": str}
+        - {"type": "thinking", "step": int, "tool": str, "args": dict, "reason": str}
+        - {"type": "tool_result", "step": int, "tool": str, "result": str, "error": str|None}
+        - {"type": "final", "answer": str, "citations": list, "notes": str, "trace": dict}
+        - {"type": "error", "message": str}
+        
+        Args:
+            query: User's question
+            
+        Yields:
+            Event dictionaries for each step of exploration
+        """
+        trace = Trace(question=query)
+        logger.info(f"Starting streaming exploration for query: {query}")
+        
+        # Emit start event
+        yield {
+            "type": "start",
+            "query": query,
+            "budget": {
+                "max_tool_calls": MAX_TOOL_CALLS,
+                "max_read_file": MAX_READ_FILE,
+                "max_search": MAX_SEARCH
+            }
+        }
+        
+        step = 0
+        while not trace.is_budget_exhausted():
+            try:
+                response = self.call_claude(query, trace)
+            except Exception as e:
+                logger.error(f"Claude API error: {e}")
+                trace.stop_reason = "error"
+                yield {
+                    "type": "error",
+                    "message": str(e),
+                    "trace": trace.to_dict()
+                }
+                return
+            
+            response_type = response.get("type")
+            
+            if response_type == "tool_call":
+                tool = response.get("tool")
+                args = response.get("args", {})
+                reason = response.get("reason", "")
+                step += 1
+                
+                logger.info(f"Tool call: {tool}({args}) - {reason}")
+                
+                # Emit thinking event (before execution)
+                yield {
+                    "type": "thinking",
+                    "step": step,
+                    "tool": tool,
+                    "args": args,
+                    "reason": reason,
+                    "budget_status": trace.get_budget_status()
+                }
+                
+                # Execute tool
+                tool_call = ToolCall(tool=tool, args=args, reason=reason)
+                
+                try:
+                    result = self.tool_executor.execute(tool, args)
+                    tool_call.result = result
+                    logger.debug(f"Tool result: {result[:200]}...")
+                except Exception as e:
+                    tool_call.error = str(e)
+                    logger.warning(f"Tool error: {e}")
+                
+                trace.add_tool_call(tool_call)
+                
+                # Emit tool result event
+                yield {
+                    "type": "tool_result",
+                    "step": step,
+                    "tool": tool,
+                    "args": args,
+                    "result": tool_call.result,
+                    "error": tool_call.error,
+                    "files_opened": trace.files_opened.copy(),
+                    "budget_status": trace.get_budget_status()
+                }
+                
+            elif response_type == "final":
+                logger.info("Received final answer")
+                trace.stop_reason = "final_answer"
+                result = self.build_response(response, trace)
+                
+                # Emit final event
+                yield {
+                    "type": "final",
+                    "answer": result["answer"],
+                    "citations": result["citations"],
+                    "notes": result["notes"],
+                    "trace_summary": result.get("trace_summary", []),
+                    "trace": trace.to_dict()
+                }
+                return
+            
+            else:
+                logger.warning(f"Unknown response type: {response_type}")
+                continue
+        
+        # Budget exhausted
+        logger.warning("Budget exhausted")
+        trace.stop_reason = "budget_exhausted"
+        result = self.build_budget_exhausted_response(trace)
+        
+        yield {
+            "type": "final",
+            "answer": result["answer"],
+            "citations": result["citations"],
+            "notes": result["notes"],
+            "trace_summary": result.get("trace_summary", []),
+            "trace": trace.to_dict(),
+            "budget_exhausted": True
+        }
 
 
 def main():
