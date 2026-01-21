@@ -1,0 +1,17 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T08:15:00+00:00
+Completed: 2025-12-05T08:16:35+00:00
+
+[SUMMARY]
+Next Steps:
+- Confirm carrier preferences and proceed to bind once paperwork is provided by the owner.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Ethan, this is Maya from Harper following up — we have preliminary quotes from RPS and USLI. Do you have a moment to discuss which option you prefer?
+EXTERNAL CONTACT: Yes, I can talk now.
+HARPER AGENT: RPS is lower premium, and USLI provides slightly broader standard wording for product liability. If you can upload the manufacturer's QA reports, we can clear the subjectivities quickly.
+EXTERNAL CONTACT: I'll upload the QA report today and confirm which carrier to move forward with.
+HARPER AGENT: Great — once we have that, we'll confirm binding steps and email the policy paperwork.
+EXTERNAL CONTACT: Sounds good, thanks.
+HARPER AGENT: Thank you, Ethan. We'll be in touch.

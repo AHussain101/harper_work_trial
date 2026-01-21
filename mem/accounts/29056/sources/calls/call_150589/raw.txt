@@ -1,0 +1,12 @@
+Direction: incoming
+Duration: 6m 56s
+Started: 2025-12-04T21:45:50.224000+00:00
+Completed: 2025-12-04T21:53:32.000000+00:00
+
+[SUMMARY]
+Next steps:
+- Email customer a summary of required documents and actions
+- Await customer's document uploads and underwriter response
+
+[TRANSCRIPT SUMMARY]
+Customer called asking about the quote status and next steps. Harper representative explained underwriting timeline, requested loss runs and COIs to expedite quoting, and offered to email a concise action list. Customer agreed to upload documents and to wait for follow-up.

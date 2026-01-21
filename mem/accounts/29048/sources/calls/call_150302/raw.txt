@@ -1,0 +1,20 @@
+Direction: outgoing
+Duration: 1m 15s
+Started: 2025-12-05T13:20:10+00:00
+Completed: 2025-12-05T13:21:25+00:00
+
+[SUMMARY]
+## Next Steps:
+- Confirm receipt of requested product label and SDS from client
+- Notify underwriting once documents received
+
+## Summary:
+Harper agent (Ashley) called Olivia to confirm the underwriter's request for product labels and an SDS and to offer assistance with secure upload. Client confirmed she will upload both items within the day.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Olivia, it's Ashley at Harper — just following up to confirm you saw our email requesting the product label and SDS.
+CLIENT (Olivia): Hi Ashley — yes, I saw it. I'll upload both this afternoon.
+HARPER AGENT: Great, thanks. Once we have those, we'll push to underwriting and update you on timing.
+CLIENT (Olivia): Sounds good. Appreciate the quick follow-up.
+HARPER AGENT: Talk soon — bye.
+

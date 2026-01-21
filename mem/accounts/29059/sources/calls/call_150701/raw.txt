@@ -1,0 +1,10 @@
+Direction: outgoing
+Duration: 2m 5s
+Started: 2025-12-05T04:05:00+00:00
+Completed: 2025-12-05T04:07:05+00:00
+
+[SUMMARY]
+Follow-up call: Harper agent checked in to confirm Erin received the quote and to answer questions about payment options and effective date.
+
+[NOTES]
+Left a brief voicemail and sent a follow-up text linking to the e-sign portal when Erin was unavailable. Confirmed Harper will assist with any landlord certificate requirements.

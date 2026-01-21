@@ -1,0 +1,17 @@
+Direction: incoming
+Duration: 7m 0s
+Started: 2025-12-05T01:35:10+00:00
+Completed: 2025-12-05T01:42:10+00:00
+
+[SUMMARY]
+- Client called to confirm application receipt and ask about typical coverage for daycare centers.
+- Agent to follow up with carrier requests for childcare endorsement and details on abuse/molestation coverage options.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi, this is Jordan at Harper Insurance — how can I help?
+CLIENT: Hi Jordan, this is Maya at Sunny Days Childcare. I just wanted to confirm you got our application and ask what the next steps are.
+HARPER AGENT: Yes — we received it and submitted to a few carriers. We'll ask for the childcare endorsements and any abuse/molestation wording. Can you confirm average daily attendance and staff counts?
+CLIENT: We typically have about 18–22 children and 5 staff on most days.
+HARPER AGENT: Great — that helps. If you can upload the staff background summaries and a brief safety plan, underwriting will review faster. Expect preliminary indications in 24–72 hours.
+CLIENT: Sounds good. I'll upload those today. Thanks.
+HARPER AGENT: Thank you, Maya. We’ll be in touch when the carriers respond.

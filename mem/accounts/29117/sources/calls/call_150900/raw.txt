@@ -1,0 +1,18 @@
+Direction: incoming
+Duration: 7m 0s
+Started: 2025-12-05T01:05:00+00:00
+Completed: 2025-12-05T01:12:00+00:00
+
+[SUMMARY]
+Agent collected additional information to complete underwriting: clarified employee count, weekend scheduling, and confirms no prior claims. Agent to upload supplemental documents and expect quotes in 24-48 hours.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi, this is Jordan with Harper Insurance — am I speaking with Ethan?
+CLIENT: Yes, this is Ethan Marshall.
+HARPER AGENT: Great — quick follow-up on your application. You mentioned 10 full-time staff — are subcontractors used for larger jobs?
+CLIENT: Occasionally, yes — we bring in two subcontract crews seasonally.
+HARPER AGENT: Perfect. Also confirming you maintain basic client waivers and use background-checked staff?
+CLIENT: Yes, we use a standard service agreement and require ID checks for contractors.
+HARPER AGENT: Thanks — I'll note that and upload the details. Expect quotes soon and we'll reach back to review options.
+CLIENT: Sounds good, appreciate it.
+

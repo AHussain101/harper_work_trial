@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-06T09:15:00+00:00
+
+Quick check: when is a good time tomorrow for a short call to review quotes? Reply with a preferred time window.

@@ -1,0 +1,27 @@
+Direction: incoming
+Duration: 11m 17s
+Started: 2025-12-04T19:05:00+00:00
+Completed: 2025-12-04T19:16:17+00:00
+
+[SUMMARY]
+Next steps: submitted application to underwriting, marked urgent for faster review. Expect carrier responses within 24–48 hours.
+
+[TRANSCRIPT]
+HARPER AGENT: Thank you for calling Harper, this is HARPER EMPLOYEE. How can I help?
+REFERRER: Hi — this is Marcus Lee at Sunrise Agency. I have a client in Arkansas for a day care general liability quote.
+HARPER AGENT: Great, thank you. Please transfer them when ready.
+HARPER AGENT: Hello, this is HARPER EMPLOYEE with Harper Insurance. May I confirm your business name?
+OWNER: Bright Futures Childcare Center, Inc.
+HARPER AGENT: And your address?
+OWNER: 789 South Oak Lane, Springfield, AR.
+HARPER AGENT: Thanks. Can you confirm hours, licensing, capacity and employees?
+OWNER: We operate roughly 7:00 AM to 5:30 PM. Licensed in state. Capacity ~47, average daily attendance ~22. We have 4 employees.
+HARPER AGENT: Any transport, animals, or special care programs?
+OWNER: No transport, no animals, no special medical programs currently.
+HARPER AGENT: What liability limit are you requesting?
+OWNER: We typically carry $500k per occurrence — we'd like that again.
+HARPER AGENT: Understood. When do you need the policy effective?
+OWNER: As soon as possible — current policy renews mid-month.
+HARPER AGENT: Okay, I'll mark this urgent and submit to underwriting. You'll receive an email with quotes; turnaround is usually 24–48 hours.
+OWNER: Perfect, email is best. Thank you.
+HARPER AGENT: You're welcome. Have a good day.

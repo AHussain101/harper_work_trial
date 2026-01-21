@@ -1,0 +1,23 @@
+Direction: incoming
+Duration: 8m 44s
+Started: 2025-12-05T00:32:00+00:00
+Completed: 2025-12-05T00:40:44+00:00
+
+[SUMMARY]
+Next steps: Provide a general liability quote within 24-48 business hours; confirm business contact details and document upload.
+Summary: Harper agent spoke with Blue Sky Homecare Services, LLC (contact: Alex Mendez). Blue Sky is a new in-home care business planning to send nurses and caregivers to client homes, using independent contractors who will be required to carry professional liability (requested limit: $1,000,000 per occurrence). Agent to submit applications to carriers and follow up with quote indications.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi, this is Michael from Harper. How are you today?
+ALEX: I'm doing well, thanks. This is Alex Mendez with Blue Sky Homecare Services.
+HARPER AGENT: Great. Can you confirm you provide in-home care with nurses, CNAs and personal care attendants?
+ALEX: Yes — a mix of skilled nursing and personal care, roughly split 50/50.
+HARPER AGENT: Do you require contractors to carry professional liability?
+ALEX: Yes — minimum $1,000,000 per occurrence.
+HARPER AGENT: Any criminal background checks or drug screening policy?
+ALEX: Yes. We run background checks and monthly/random drug screens as needed.
+HARPER AGENT: Got it. I have your email as contact@blueskyservices.com and your business address as 850 North Junction Parkway, Anytown, FL. Is that correct?
+ALEX: Yes, that's correct.
+HARPER AGENT: Perfect. We'll submit to carriers and expect an initial quote in about 24-48 business hours. We'll follow up by email and text once we have indications.
+ALEX: Thank you. I'll keep an eye out.
+HARPER AGENT: Thanks, Alex — talk soon.

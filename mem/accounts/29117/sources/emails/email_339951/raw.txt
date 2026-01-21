@@ -1,0 +1,21 @@
+Subject: Request for Loss Runs / COI - Lakeview Concierge Services
+From: Jordan Kim <jordan@harperinsure.com>
+To: ethan@lakeviewservices.com
+Date: 2025-12-05T08:20:00+00:00
+Direction: outbound
+
+Hi Ethan,
+
+To finalize the quote, underwriting has requested the following subjectivities be provided within 21 days of binding or sooner if available:
+- Loss runs covering the prior 3 years (or duration of prior coverage)
+- Any COIs or contract-specific insurance requirements
+
+Please upload documents here: https://portal.example-insure.com/upload/subjectivities-48-1032
+
+If you need help obtaining loss runs, let us know and we can assist.
+
+Thanks,
+Jordan Kim
+Harper Insurance
+jordan@harperinsure.com
+

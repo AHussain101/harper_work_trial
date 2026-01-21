@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-05T08:00:00.000000+00:00
+
+Reminder: if you have any loss history or supporting documents, please upload them here: https://files.example-insure.com/upload/elm-123

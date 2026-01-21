@@ -1,0 +1,19 @@
+Subject: Preliminary Quote AMQ-4821 for Sunny Days Childcare
+From: quotes@acmemutual.com
+To: jordan.kim@harperinsure.com
+Date: 2025-12-05T03:10:12+00:00
+Direction: inbound
+
+Carrier: Acme Mutual
+Contact: Underwriting Team
+Applicant: Sunny Days Childcare
+
+Dear Jordan,
+
+Attached is a preliminary indication for Sunny Days Childcare. Premium (est.): around $2.6k. Typical subjectivities include: proof of background checks for staff, written safety plan, and confirmation of playground surfacing where applicable. Quote reference: AMQ-4821 (synthetic ref.).
+
+Please advise if you want this packaged as a primary GL policy with the childcare endorsements.
+
+Thanks,
+Acme Mutual Underwriting
+quotes@acmemutual.com

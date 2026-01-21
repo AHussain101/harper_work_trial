@@ -1,0 +1,10 @@
+Direction: incoming
+Duration: 2m 5s
+Started: 2025-12-04T22:20:00+00:00
+Completed: 2025-12-04T22:22:05+00:00
+
+[SUMMARY]
+Client requested a certificate of insurance (COI) for a subcontractor and confirmed the binder effective date. Agent to send COI and declarations page.
+
+[DETAIL]
+Client (David Mercer) called to confirm effective date for the policy and asked Harper to issue a COI naming a local subcontractor as additional insured. Agent confirmed details and will send the COI and a copy of the declarations within 24 hours. Next steps: prepare COI, confirm certificate wording, and email a copy to the client.

@@ -1,0 +1,19 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T07:20:00+00:00
+Completed: 2025-12-05T07:21:35+00:00
+
+[SUMMARY]
+Outbound follow-up call to review initial quote and confirm next steps for binding.
+
+[CONCISE TRANSCRIPT - sanitized]
+Harper Agent: Hi Emma, this is Lia Park from Harper Insurance calling about your quote for Brightview Adult Day Center. Do you have a few minutes?
+Client: Yes, I do.
+Harper Agent: Great — we sent an estimated quote earlier today. I wanted to confirm that loss runs and a signed application will allow us to bind quickly. Do you have those documents available?
+Client: I can upload the signed form and request loss runs from the prior carrier; it may take a day.
+Harper Agent: That's perfect. Once we have those, we can finalize the premium and send payment options. Would you prefer a single bill or a monthly plan?
+Client: Monthly would be easier.
+Harper Agent: Noted. We'll include monthly payment options in the final paperwork and follow up by email.
+Client: Thanks, Lia.
+
+Privacy: specific phone numbers and license IDs were removed from this transcript.

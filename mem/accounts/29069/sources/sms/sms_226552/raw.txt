@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-04T20:48:58.928000+00:00
+
+Once we have quote options, an agent will call to finalize coverage. Any questions before then, just reply here or email jordan.kim@harperinsure.com.

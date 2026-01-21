@@ -1,0 +1,16 @@
+Direction: outgoing
+Duration: 2m 20s
+Started: 2025-12-05T02:10:00+00:00
+Completed: 2025-12-05T02:12:20+00:00
+
+[SUMMARY]
+Next Steps: Marcus to upload loss runs and current COI; Harper to submit to carriers and confirm quote timing.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marcus, this is Shanika from Harper — I wanted to review the incoming quote and next steps.
+EXTERNAL CONTACT: Hi Shanika, thanks. What do you need from me?
+HARPER AGENT: If you can upload loss runs (last 3 years) and any current certificate of insurance via the secure portal we sent, that will help finalize the quote. We expect initial carrier terms within 24-48 hours.
+EXTERNAL CONTACT: Okay, I'll upload those tonight.
+HARPER AGENT: Great — once carriers return terms we'll call to review payment options and coverage limits. If you have any questions in the meantime, text or email is fine.
+EXTERNAL CONTACT: Sounds good, thank you.
+HARPER AGENT: Thanks Marcus, talk soon.

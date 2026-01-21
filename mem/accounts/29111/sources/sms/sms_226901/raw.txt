@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-04T23:34:00.372000+00:00
+
+Reply STOP to unsubscribe. Unsubscribing will stop all messages from this number.

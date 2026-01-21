@@ -1,0 +1,21 @@
+Subject: Sentinel Field Security LLC - Application Received
+From: HARPER EMPLOYEE <harper_employee@harperinsure.com>
+To: ari.novak@sentinelfield.com
+Date: 2025-12-04T20:50:00+00:00
+Direction: outbound
+
+Hi Ari,
+
+Thanks for submitting your application for Sentinel Field Security LLC. We have received your details and submitted them to our underwriting partners. Expect initial feedback within 24–48 hours.
+
+Please upload copies of the following to our secure portal: business license, guard/PI licenses, and any prior loss history (if available).
+
+Secure upload: https://portal.example-insure.com/uploads/sentinel-req
+
+Best,
+HARPER EMPLOYEE
+Harper Insurance
+harper_employee@harperinsure.com
+www.harperinsure.com
+
+Privacy Notice: Harper uses necessary service providers and carriers to process quotes. For details visit our privacy page.

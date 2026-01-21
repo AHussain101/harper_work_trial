@@ -1,0 +1,16 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T14:30:00+00:00
+Completed: 2025-12-05T14:31:35+00:00
+
+[SUMMARY]
+Follow-up call to review preliminary carrier estimate and next steps.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Ethel, this is HARPER EMPLOYEE from Harper Insurance following up. We received a preliminary quote from a carrier.
+OWNER: Hi — yes, I saw an email. Can you summarize?
+HARPER AGENT: Estimated premium is about $3.6k annually for the requested $500k per occurrence. There are a couple of subjectivities: recent payroll/enrollment and confirmation of licensing docs. If you can upload those, underwriting can finalize.
+OWNER: I will upload the payroll and license today.
+HARPER AGENT: Great — once received we can finalize and, if you're ready, proceed to bind. We'll text/email when the final package is ready.
+OWNER: Thanks, appreciate it.
+HARPER AGENT: Thank you, talk soon.

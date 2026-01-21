@@ -1,0 +1,27 @@
+Direction: outgoing
+Duration: 9m 53s
+Started: 2025-12-04T22:12:24.153000+00:00
+Completed: 2025-12-04T22:22:26+00:00
+
+[SUMMARY]
+Next steps: Harper will finalize the intake and provide quote options within 24-48 hours. Client (Isabella) expects certificates for a partner network by the requested deadline.
+
+[CALL NOTES]
+Harper agent Ethan Park contacted Isabella Rivera to review her application for general liability, workers' comp, and disability insurance for a licensed home daycare in Los Angeles. Isabella reported capacity for 16 children, currently caring for one child and preparing to enroll more. Staffing currently includes the owner and one assistant; backup staff are available as required by license. Regular outdoor activities and local walks are part of the program. No prior claims or abuse allegations reported. The client requested liability limits in the $500k–$1M range. Harper advised 24–48 hour turnaround once underwriting receives the license and emergency contacts.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi, this is Ethan Park from Harper Insurance. I’m calling about your recent application.
+EXTERNAL CONTACT (Isabella): Hi — yes, I submitted an application.
+HARPER AGENT: Great. Can I confirm your location as Los Angeles, CA (address on file) and that you’re licensed as a home-based daycare?
+EXTERNAL CONTACT: Yes, I’m licensed and operating. I have capacity for 16 children but currently only one enrolled; planning to grow soon.
+HARPER AGENT: Okay. How many staff are actively working now?
+EXTERNAL CONTACT: Two active staff — myself and an assistant. We have additional backup staff listed for emergencies.
+HARPER AGENT: Any past claims, abuse allegations, or licensing actions?
+EXTERNAL CONTACT: No claims and no licensing actions.
+HARPER AGENT: Good. What liability limits are you considering?
+EXTERNAL CONTACT: I was thinking about $500k to $1M.
+HARPER AGENT: That’s within typical options — we’ll push this to underwriting. Please upload your state license and emergency contact list; underwriting usually returns quote options within 24–48 hours after receiving documents.
+EXTERNAL CONTACT: I have a deadline with a partner network; they need certificates by the sixth.
+HARPER AGENT: Understood — we’ll prioritize and stay in touch.
+HARPER AGENT: Thank you for your time. We’ll follow up tomorrow with next steps.
+EXTERNAL CONTACT: Thank you.

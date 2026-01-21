@@ -1,0 +1,20 @@
+Subject: Documents Received — Next Steps
+From: Jordan Kim <jordan.kim@harperinsure.com>
+To: Anthony Morales <anthony@harborwatchsecurity.com>
+Date: 2025-12-05T14:05:00+00:00
+Direction: outbound
+
+Hi Anthony,
+
+Thanks — we received the COI and the uploaded loss run. We'll share these with the underwriters and expect an initial response within 24–48 hours. If the underwriter requests anything else, we'll let you know immediately.
+
+Next steps:
+- Underwriter review (24–48 hours)
+- Preliminary quote shared via email
+- Agent follow-up to review and finalize coverage
+
+If anything changes or you have additional documents, reply to this thread or upload at: https://portal.example-insure.com/upload
+
+Regards,
+Jordan Kim
+Harper Insurance

@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 4m 0s
+Started: 2025-12-05T14:00:00+00:00
+Completed: 2025-12-05T14:04:00+00:00
+
+[SUMMARY]
+Follow-up call to confirm quote details and documents to bind.
+
+[TRANSCRIPT — sanitized]
+HARPER AGENT: Hi Marcus, this is Talia at Harper following up — we received a preliminary workers' comp estimate for your account.
+OWNER: Great, what's next?
+HARPER AGENT: We just need a recent payroll snapshot for your driver and your preferred effective date. Once received, underwriting will finalize and we can send binding instructions and a secure payment link.
+OWNER: I'll upload payroll today and confirm an effective date.
+HARPER AGENT: Perfect — I will watch for the upload and follow up once underwriting confirms. Thanks Marcus.

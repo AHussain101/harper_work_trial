@@ -1,0 +1,26 @@
+Subject: Preliminary Quotes Available for Johnson Engineering, LLC
+From: quotes@harperinsure.com
+To: brandon.johnson@johnsonengineering.com
+Date: 2025-12-05T02:00:00+00:00
+Direction: outbound
+
+Harper Insurance — Preliminary Quote
+
+Hello Brandon,
+
+We've received initial indications from carriers for the coverages you requested. Below is a high-level summary of one competitive option; final terms may change after underwriting review.
+
+Carrier: United Specialty (example)
+Coverage: Professional E&O ($1M/$2M), General Liability ($1M/$2M), Cyber Liability ($1M), Umbrella ($1M)
+Estimated premium and fees (rounded): premium and carrier fees ~ $4.3k, Harper service fee ~ around $200. Estimated total due ~ around $4.5k.
+
+Payment options: pay in full via secure portal or request a short-term installment plan. Secure payment link (synthetic): https://payments.example-insure.com/quote-johnson-01
+
+This is a preliminary quote — subjectivities and final pricing will be confirmed after carrier underwriting reviews application materials. If you want us to request a specific carrier or adjust limits/deductibles before binding, reply with details.
+
+Best regards,
+Alex Rivera
+Account Executive
+Harper Insurance
+alex.rivera@harperinsure.com
+

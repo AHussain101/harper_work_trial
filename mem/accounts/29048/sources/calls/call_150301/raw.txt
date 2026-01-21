@@ -1,0 +1,37 @@
+Direction: incoming
+Duration: 14m 40s
+Started: 2025-12-04T18:44:15.869000+00:00
+Completed: 2025-12-04T18:59:14+00:00
+
+[SUMMARY]
+## Next Steps:
+- Provide quotes for professional liability and umbrella limits requested by client's program
+- Request product labels and SDS (underwriter request already sent via email)
+- Follow up with Brookside Botanicals on any missing documentation
+
+## Summary:
+A Harper agent spoke with the business owner (Olivia) about needs for professional liability and umbrella coverage to satisfy a third-party program. The owner described artisan soap manufacturing, use of a third-party fulfillment provider, and an existing general liability policy with Great American Alliance. Harper marked the submission as urgent and will shop carriers. Client prefers email communications.
+
+[TRANSCRIPT]
+HARPER AGENT: Thank you for calling Harper. This is Ashley.
+EXTERNAL CONTACT: Hi, Ashley — this is Jessica at Tivoli. I have Olivia on the line in Connecticut; she's forming soap products under her own label.
+HARPER AGENT: Great — transfer her over and I'll assist.
+EXTERNAL CONTACT: Olivia? You're on with Ashley from Harper now.
+EXTERNAL CONTACT: Hello, Olivia?
+CLIENT (Olivia): Hi, Ashley — thanks for taking this. I'm looking for umbrella and professional liability so I can participate in a fulfillment program.
+HARPER AGENT: We can help. Can you confirm your company name and a quick product description?
+CLIENT (Olivia): Brookside Botanicals LLC — artisan handmade soaps. We also resell a few accessory items like soap dishes, but the soaps are our main product.
+HARPER AGENT: Okay. Do you currently carry general liability?
+CLIENT (Olivia): Yes — my COI lists Great American Alliance Insurance Company.
+HARPER AGENT: Any prior claims?
+CLIENT (Olivia): No claims.
+HARPER AGENT: Estimated revenue?
+CLIENT (Olivia): Projected around $750k next year.
+HARPER AGENT: Payroll?
+CLIENT (Olivia): About $100.5k.
+HARPER AGENT: Understood. The program you mentioned wants umbrella on an occurrence basis at roughly $2.0M excess and professional liability about $1.0M per claim — we can shop that but it may take 24–48 hours. We'll mark this urgent.
+CLIENT (Olivia): That would be great — thank you.
+HARPER AGENT: I'll submit and follow up via email. Expect an email from Harper with next steps.
+CLIENT (Olivia): Email is olivia.grant@brooksidebotanicals.com — thanks so much.
+HARPER AGENT: You're welcome. Have a good day.
+

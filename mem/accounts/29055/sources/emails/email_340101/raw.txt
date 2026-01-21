@@ -1,0 +1,19 @@
+Subject: RTS Specialty - Initial Quote for Sentinel Shield Security
+From: quotes@rtspecialty.com
+To: submissions@harperinsure.com
+Date: 2025-12-06T14:05:00+00:00
+Direction: inbound
+
+Inbound: Carrier Quote
+
+Carrier: RTS Specialty (representative)
+Applicant: Sentinel Shield Security
+
+We have an initial quote available for review. Premium magnitude: around $1.2k (annual premium estimate before fees and taxes). The carrier's quote portal is available to authorized brokers.
+
+View quote (broker portal): https://portal.example-mga.example/quotes/SS-2025-01
+
+If you want us to customize the applicant-facing version with a broker fee or payment options, reply and we'll prepare that copy.
+
+Regards,
+RTS Specialty Underwriting

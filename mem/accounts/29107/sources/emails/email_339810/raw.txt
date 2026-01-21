@@ -1,0 +1,21 @@
+Subject: Carrier Quote for Seabreeze Child Development Center
+From: lauren.smith@example-mga.com
+To: submissions@harperinsure.com
+Date: 2025-12-04T23:56:45+00:00
+Direction: inbound
+
+Carrier Quote Notification
+
+Carrier: Local MGA (example)
+Applicant: Seabreeze Child Development Center
+
+We are pleased to provide a quote for the requested General Liability and umbrella attachment. Please review the attached quote version intended for the applicant and the broker copy. If you do not see attachments, reply and we will resend.
+
+Quote portal (secure): https://portal.example-mga.com/applications/48-1032
+
+If you have questions, reply to this message or contact underwriting at underwriting@localmga.example.
+
+Thank you,
+Lauren Smith
+Local MGA
+lauren.smith@example-mga.com

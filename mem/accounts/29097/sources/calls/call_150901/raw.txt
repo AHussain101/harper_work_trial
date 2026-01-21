@@ -1,0 +1,15 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T03:30:00+00:00
+Completed: 2025-12-05T03:31:35+00:00
+
+[SUMMARY]
+Follow-up call to review preliminary quote and explain next steps for binding.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Amanda, Jordan Kim with Harper. Quick call to walk through the quote we emailed.
+CLIENT: Hi Jordan, yes I saw the email. What's the estimated out-of-pocket today to bind?
+HARPER AGENT: With the figures we have, total is around $3.3k annually. We can arrange monthly installments; down payment would be a portion of the first installment. Exact billing options are in the secure portal.
+CLIENT: Okay, I will review and reply by end of day. Please hold the effective date for December 5th.
+HARPER AGENT: Noted. We'll be on standby to finalize.
+

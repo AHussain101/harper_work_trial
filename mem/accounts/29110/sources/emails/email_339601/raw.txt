@@ -1,0 +1,18 @@
+Subject: Request: testing reports and recall plan for Brightside Playthings
+From: underwriter@example-carrier.com
+To: submissions@harperinsure.com
+Date: 2025-12-05T01:10:00+00:00
+Direction: inbound
+
+Underwriter inquiry
+
+Carrier underwriter asks for:
+- Recent product testing certificates for ABS components (third-party lab reports)
+- Loss runs for the last 3 years
+- A copy of the written product recall plan
+- Confirmation of subsidiaries to be included on the program
+
+Please upload documents to the secure portal or reply to this message with attachments.
+
+Regards,
+Carrier Underwriting (on behalf of market)

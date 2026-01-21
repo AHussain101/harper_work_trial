@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-05T05:20:00.000000+00:00
+
+Ethan — quick update: we received a preliminary quote from RPS. Check your email for details and let us know if you can upload the manufacturer's QA report.

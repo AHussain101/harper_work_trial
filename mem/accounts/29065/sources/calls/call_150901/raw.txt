@@ -1,0 +1,15 @@
+Direction: outgoing
+Duration: 1m 28s
+Started: 2025-12-05T14:05:10+00:00
+Completed: 2025-12-05T14:06:38+00:00
+
+[SUMMARY]
+Harper follow-up call to Meadowbank to confirm documents to attach to alternate submissions.
+
+[DETAILS]
+- Confirmed preferred effective date window for new submissions.
+- Requested signed management practices letter and most recent financial overview (rounded figures ok).
+- Client confirmed they will upload documents to the secure portal and expects an update within 48-72 hours.
+
+Agent: Maya Reed (Harper Operations)
+Outcome: Awaiting client upload; Harper to submit to targeted E&S markets once received.

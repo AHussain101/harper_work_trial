@@ -1,0 +1,13 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T16:05:00+00:00
+Completed: 2025-12-05T16:06:35+00:00
+
+[SUMMARY]
+Follow-up call to confirm details and next steps. Agent confirmed receipt of VIN fragment and asked Marcus to upload vehicle photos and any prior loss runs to the secure portal. Marcus confirmed the correct contact email and that he is the sole operator.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marcus, just following up — can you confirm you'll upload the loss runs and vehicle photos to the portal?
+MARCUS: Yes, I'll upload them today.
+HARPER AGENT: Great. We'll request quotes and be in touch within 48 hours with options.
+MARCUS: Appreciate it. Thanks.

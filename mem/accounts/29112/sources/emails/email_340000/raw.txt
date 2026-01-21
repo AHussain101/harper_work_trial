@@ -1,0 +1,20 @@
+Subject: Harper Insurance - Quote options for Blue Sky Technologies LLC
+From: HARPER EMPLOYEE <harper_employee@harperinsure.com>
+To: Ethan Morales <ethan.morales@blueskytechnologies.com>
+Date: 2025-12-05T05:15:00+00:00
+Direction: outbound
+
+Hi Ethan,
+
+We received initial responses from two carriers. Summary:
+- RPS: Premium around $4.8k (total cost about $5.1k) — General Liability $1M/$2M. Subjectivities include standard product liability disclosures and confirmation of manufacturers' quality testing.
+- USLI: Premium around $6.2k (total cost about $6.7k) — competitive option with similar limits.
+
+Both quotes are preliminary and subject to formal paperwork. You can review the carrier summaries on our portal: https://portal.example-insure.com/quotes/blue-sky-01
+
+Let me know which option you'd like us to move forward with or if you want us to seek additional appetite for broader product liability terms.
+
+Thanks,
+HARPER EMPLOYEE
+Harper Insurance
+harper_employee@harperinsure.com

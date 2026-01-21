@@ -1,0 +1,17 @@
+Subject: Wellpoint - LTSS Application Initial Review (summary)
+From: tnltssprovidercontracting@wellpoint.com
+To: maya@greenshieldcare.com
+Date: 2025-12-03T19:23:00+00:00
+Direction: inbound
+
+Wellpoint (TN LTSS) initial review summary:
+
+They identified missing or ineligible selections on the LTSS application and requested updated licensure or removal of certain services (assistive tech, minor home mods, respite inpatient, adult day care, adult care home, assisted living selections). They also requested proof of insurance and a corrected W-9.
+
+Insurance requirements requested by Wellpoint (summary):
+- Workers' Compensation & Employers Liability: minimum limit around $750k
+- Automobile Liability: minimum limit around $1,000,000
+
+Please reply to the Wellpoint provider contracting team with the requested documents by the stated deadline. For document uploads use: https://portal.example-mco.com/app/tn-ltss-xxxx
+
+Provider contact details (redacted here for privacy).

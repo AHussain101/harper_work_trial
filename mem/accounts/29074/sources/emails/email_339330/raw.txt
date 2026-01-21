@@ -1,0 +1,27 @@
+Subject: Fw: Required COI
+From: rachel.m@maplebridgestaffing.example
+To: yvonne@harperinsurance.com
+Date: 2025-12-04T21:40:42+00:00
+Direction: inbound
+
+Forwarded: Required COI and coverage summary
+
+Insurance coverages provided by client (summarized):
+- Employer's Liability (disease / each employee): ~ $1.0M
+- Professional Liability (per occurrence): ~ $2.0M
+- Commercial General Liability (per occurrence): ~ $1.0M
+- Workers' Compensation: statutory limits
+- Products & Completed Operations: included where required
+- General Liability aggregate: around $10M (client requires high aggregate)
+- Commercial Blanket Bond: ~ $2.0M
+- Commercial Auto Liability (CSL): ~ $1.0M
+
+Contact (as supplied):
+Rachel Manning, CEO
+MapleBridge Staffing
+123 Maple Ave, Cambridge, MA 02139
+Phone: 617-915-31XX
+rachel.m@maplebridgestaffing.example
+Website: https://maplebridgestaffing.example
+
+Please review contract requirements and advise if any carrier delegations or additional documents are needed.

@@ -1,0 +1,12 @@
+Direction: incoming
+Duration: 1m 34s
+Started: 2025-12-04T19:53:55.533000+00:00
+Completed: 2025-12-04T20:19:01.000000+00:00
+
+[SUMMARY]
+Next steps:
+- Follow up with Jasmine and Rachella regarding workers' compensation details
+- Ensure all necessary information is gathered for Harborwatch Security Solutions LLC
+
+[SUMMARY NOTES]
+Rachella Tate called to refer a customer seeking workers' compensation for unarmed security agents in Nebraska. Jasmine (spouse) was also on the line and was transferred to an agent for further assistance. The agent confirmed the business name (Harborwatch Security Solutions LLC) and began intake. There were minor technical issues during the call but all key details were captured.

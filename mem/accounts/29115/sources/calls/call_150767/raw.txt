@@ -1,0 +1,23 @@
+Direction: incoming
+Duration: 12m 2s
+Started: 2025-12-05T00:02:53.146560+00:00
+Completed: 2025-12-05T00:14:35+00:00
+
+[SUMMARY]
+Next Steps: submit applications to underwriting, await carrier quotes, follow up with insured via email/phone.
+
+Summary:
+A broker partner (Hartford) and a referral partner connected a Harper agent with the applicant for coverage including Cyber, General Liability, Professional E&O, and Umbrella for an engineering consulting firm in California. The Harper agent collected details on operations, limits requested, and cyber exposure, confirmed two owners/employees, and noted that the firm is primarily civil design work with some site inspections. Applications were completed and will be shopped to carriers.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi — this is the Harper representative. How are you today?
+REFERRAL PARTNER: Hi — this is the referral partner. I have the applicant on the line and have sent the lead details.
+HARPER AGENT: Great — thank you. We've got the submission and will proceed.
+BROKER PARTNER: Hello, I'm with a carrier partner and will assist with quoting.
+HARPER AGENT: To confirm, the business is Johnson Engineering, LLC in Sunnyvale, CA, address matches the application.
+APPLICANT: Correct.
+HARPER AGENT: For E&O, you mentioned limits roughly $1M per claim / $2M aggregate and a small deductible — noted. For cyber, you have basic protections (backup, encryption) and limited PII exposure; we'll include a $1M cyber limit option for quoting.
+APPLICANT: Yes — correct. Two principals only, primarily design work, occasional construction admin and inspections.
+HARPER AGENT: Good. We'll submit and expect initial quotes in 24–48 hours. We'll email you when quotes arrive and may call or text the phone on file (phone ending in 5146) to schedule a review.
+APPLICANT: Sounds good — thank you.
+HARPER AGENT: Thanks, we'll be in touch.

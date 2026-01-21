@@ -1,0 +1,15 @@
+Direction: outgoing
+Duration: 1m 30s
+Started: 2025-12-06T16:05:00+00:00
+Completed: 2025-12-06T16:06:30+00:00
+
+[SUMMARY]
+Follow-up call to confirm document upload and clarify COI limits for contractors.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Alex — this is Mia at Harper following up on your application. Did you receive the secure upload link?
+ALEX: Yes, I received it and uploaded the ACORD application and our background check policy.
+HARPER AGENT: Great — can you confirm contractors will carry $1,000,000 per occurrence professional liability?
+ALEX: Confirmed.
+HARPER AGENT: Excellent. We'll share any carrier questions if they arise and will send quotes as they come in. Thanks for confirming.
+ALEX: Thank you. Bye.

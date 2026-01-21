@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 0m 47s
+Started: 2025-12-06T15:20:00+00:00
+Completed: 2025-12-06T15:20:47+00:00
+
+[SUMMARY]
+Next Steps:
+- Harper to schedule internal follow-up call after carrier responses
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marcus — this is Jordan from Harper Insurance. Quick note: carriers have received the submission and we'll call when the first indications come in. Do you want the agent to call or text preferred times?
+EXTERNAL CONTACT: Call is fine; afternoons are best.
+HARPER AGENT: Great — we'll reach out after we hear back. Thanks!
+EXTERNAL CONTACT: Thanks!

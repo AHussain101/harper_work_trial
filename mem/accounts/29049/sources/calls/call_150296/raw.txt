@@ -1,0 +1,25 @@
+Direction: incoming
+Duration: 1m 54s
+Started: 2025-12-04T18:52:30.760000+00:00
+Completed: 2025-12-04T18:55:53+00:00
+
+[SUMMARY]
+Next Steps:
+- Attempt to reconnect with Ms. Myers to complete intake
+- Accept lead only when the applicant is on the line
+
+Summary:
+A referral contact called to deliver a vocational training lead for Blue Ridge Training. The applicant was disconnected during transfer. The Harper agent requested the caller reconnect the applicant and resend the lead when the applicant is available.
+
+[TRANSCRIPT]
+HARPER AGENT: Hello, this is Harper.
+EXTERNAL CONTACT: Hi, I'm calling from an affiliate with a customer on my back line in South Carolina.
+EXTERNAL CONTACT: This is for Ms. Myers, a vocational heavy-equipment training school.
+HARPER AGENT: Great — please transfer her or send the lead details. Do you have the lead code?
+EXTERNAL CONTACT: The lead code is LD-48-1001.
+HARPER AGENT: Thank you. Please transfer her when ready.
+EXTERNAL CONTACT: One moment... Ms. Myers? Are you still there?
+EXTERNAL CONTACT: I think she disconnected. Sorry about that.
+HARPER AGENT: No problem. We can't accept the lead unless the applicant is on the line. If you reconnect her, send the lead back over and we'll take care of it.
+EXTERNAL CONTACT: Absolutely — I'll reassign the lead. Thanks.
+HARPER AGENT: Thank you, have a good shift.

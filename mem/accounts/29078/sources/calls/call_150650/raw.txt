@@ -1,0 +1,14 @@
+Direction: incoming
+Duration: 5m 20s
+Started: 2025-12-05T15:10:00+00:00
+Completed: 2025-12-05T15:15:20+00:00
+
+[SUMMARY]
+Client called to clarify coverage for caregivers working part-time. Confirmed no prior claims on record and that background checks are performed for all caregivers. Client requested clarification on retroactive date options and preferred an email summary of quote components.
+
+[TRANSCRIPT SNIPPET]
+HARPER AGENT: Hi, this is Jackson from Harper. I have your submission here for Maple Home Care Services — can I confirm how many caregivers are on active schedules?
+CLIENT: Hi, yes — right now we have three regular caregivers and a rotating pool of two substitutes.
+HARPER AGENT: Great, thank you. We'll add that to the submission and request loss history; we should have updated quotes in 24–48 hours. We'll email a summary with the estimated premium ranges.
+CLIENT: Perfect, thanks. Appreciate it.
+

@@ -1,0 +1,13 @@
+Direction: incoming
+Duration: 12m 35s
+Started: 2025-12-04T21:26:03.374000+00:00
+Completed: 2025-12-04T21:39:02+00:00
+
+[SUMMARY]
+Next Steps:
+- Send a quote to Olivia at owner@harrisonauto.com
+- Follow up with underwriters for a formal term
+- Client to check old records for prior carrier and loss runs
+
+Summary:
+Olivia (owner) called through an intake partner seeking garage/general liability for a small used-car dealership in Mississippi. The dealer license is currently expired and needs renewal; client will provide an updated license. Prior insurance may have been with a small regional broker (client will confirm). Annual sales are roughly in the low tens of thousands (about $30k). No known recent claims. Security is an open lot with vehicle keys stored securely. Client prefers a $500 liability deductible and expects about two dealer plates. Quotes expected in 24-48 hours.

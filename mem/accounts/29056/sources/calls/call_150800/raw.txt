@@ -1,0 +1,10 @@
+Direction: outgoing
+Duration: 0m 45s
+Started: 2025-12-05T14:08:00+00:00
+Completed: 2025-12-05T14:08:45+00:00
+
+[SUMMARY]
+Outbound call to confirm document receipt and timeline.
+
+[NOTES]
+Harper agent (Jordan) called Anthony Morales to confirm we received the COI and loss runs, confirmed underwriting timeframe (24–48 hours), and offered to answer any immediate questions. Agent left a brief summary of next steps on the client's file.

@@ -1,0 +1,19 @@
+Subject: Next steps: Documents needed to complete underwriting
+From: Jordan Kim <jordan.kim@harperinsure.com>
+To: contact@blueskyservices.com
+Date: 2025-12-05T12:00:00+00:00
+Direction: outbound
+
+Hi Alex,
+
+Quick next steps to keep the underwriting moving:
+
+1) Upload completed and signed ACORD application (if not already provided) via: https://portal.example-insure.com/upload/blue-sky
+2) Provide proof of background checks and drug screening policy for staff/contractors
+3) If you will require contractors to carry professional liability, provide minimum COI limits (we note you prefer $1,000,000 per occurrence)
+
+Once we receive these items, carriers can finalize terms. Expect another update within 24-48 business hours after upload.
+
+Thanks,
+Jordan Kim
+Harper Insurance

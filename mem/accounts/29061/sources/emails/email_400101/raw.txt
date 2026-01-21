@@ -1,0 +1,15 @@
+Subject: North Star Towing - Application Received
+From: alex.park@northstarbrokers.com
+To: owner@northstartow.com
+Date: 2025-12-04T20:20:00+00:00
+Direction: outbound
+
+Thanks for submitting your application. We received the initial details for North Star Towing & Recovery. To complete intake, please upload a vehicle roster (VINs and model years) and a copy of your current auto liability declarations if available. You can securely upload documents here: https://portal.example-insure.com/uploads/NS-4821
+
+If you prefer, reply to this email with any attachments or questions. We'll review and start submission to carriers once we have the vehicle list.
+
+Best,
+Alex Park
+Account Executive
+North Star Brokerage
+alex.park@northstarbrokers.com

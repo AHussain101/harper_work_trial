@@ -1,0 +1,16 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T15:00:00+00:00
+Completed: 2025-12-05T15:01:35+00:00
+
+[SUMMARY]
+Follow-up call to confirm receipt of initial quote and schedule time to review options.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Chris — it's Mia at Harper following up. Did you receive the quote we emailed?
+EXTERNAL CONTACT: Yes, I saw the email.
+HARPER AGENT: Great. Do you have 15 minutes to review coverage details now or later today?
+EXTERNAL CONTACT: I can do 3:30 PM local time.
+HARPER AGENT: Perfect — I'll call then to walk through limits and payment options.
+EXTERNAL CONTACT: Sounds good. Thanks.
+HARPER AGENT: Talk soon.

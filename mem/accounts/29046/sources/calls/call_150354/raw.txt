@@ -1,0 +1,10 @@
+Direction: outgoing
+Duration: 0m 8s
+Started: 2025-12-04T19:30:52.578000+00:00
+Completed: 2025-12-04T19:31:38+00:00
+
+[SUMMARY]
+Left a brief message for Harborview Recovery Center requesting a callback with contact details and reason for inquiry.
+
+[TRANSCRIPT]
+AUTOMATED GREETING: Thank you for calling Harborview Recovery Center. Please leave your name, phone number, and reason for calling, and someone will return your call shortly.

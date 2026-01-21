@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-04T23:05:10.000000+00:00
+
+Quick reminder: you can upload EIN, license, and contracts securely here: https://portal.example-insure.com/upload/harbor-shield

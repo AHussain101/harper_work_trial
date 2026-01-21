@@ -1,0 +1,17 @@
+Subject: Underwriter request — sample label and SDS
+From: underwriting@carrier-requests.com
+To: olivia.grant@brooksidebotanicals.com
+Date: 2025-12-05T09:15:00+00:00
+Direction: inbound
+
+Hello Olivia,
+
+Underwriting review noted two quick items before finalizing terms:
+1) Please upload a high-resolution product label for the finished soap SKU(s). 
+2) Please provide a current Safety Data Sheet (SDS) for the primary soap formulation.
+
+Providing these will help expedite quoting. If you'd prefer, you can email the files directly to ashley.myers@harperinsure.com or upload via our portal.
+
+Thanks,
+Harper Underwriting (on behalf of carrier review team)
+

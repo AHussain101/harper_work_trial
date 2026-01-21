@@ -1,0 +1,10 @@
+Direction: outgoing
+Duration: 2m 0s
+Started: 2025-12-05T06:30:00+00:00
+Completed: 2025-12-05T06:32:00+00:00
+
+[SUMMARY]
+Follow-up call to confirm documents and next steps.
+
+Summary:
+A Harper agent called Michael Martinez to confirm the required licensing, training, and incident-reporting documents that underwriters requested. The agent reviewed how to upload documents to the secure portal and confirmed that Michael will upload licensing and a draft incident response policy within 48 hours. Agent noted a quote should arrive shortly and scheduled a callback to review the quote.

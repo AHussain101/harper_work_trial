@@ -1,0 +1,27 @@
+Direction: incoming
+Duration: 28m 46s
+Started: 2025-12-04T23:30:39.184000+00:00
+Completed: 2025-12-04T23:59:41+00:00
+
+[SUMMARY]
+Next steps: proceed with application submission; provide loss runs and third-party testing reports; confirm subsidiaries and target countries for multinational coverage.
+Summary:
+Discussion about general and product liability for Brightside Playthings LLC (toy manufacturer/distributor). Client requests a multinational program covering select markets (USA, Australia, UK/Europe, Taiwan, South Africa) and is seeking a consolidated program to reduce current program cost. Target program limit discussed: around $10.5M. Revenue noted at about $1.5M, with U.S. revenue a smaller portion.
+
+[TRANSCRIPT - sanitized]
+HARPER AGENT: This is HARPER EMPLOYEE from Harper.
+EXTERNAL CONTACT: Hi — this is Shawana from Tivoli, I have the client on the line.
+HARPER AGENT: Great, connect me through.
+EXTERNAL CONTACT: Hello, are you Neil? Thanks for holding. We need worldwide product liability for toys — can Harper support global coverage for selected countries?
+HARPER AGENT: We can provide worldwide endorsements with geographic exclusions (sanctioned or high-risk areas are typically excluded). Tell me which countries are essential.
+EXTERNAL CONTACT: Australia, Taiwan, UK/Europe, South Africa and the USA.
+HARPER AGENT: Okay. We can structure the program to prioritize those markets; premium will reflect the expanded territory. What limits are you seeking?
+EXTERNAL CONTACT: About $10.5M total program limit.
+HARPER AGENT: Understood. Some markets will require subjectivities: loss runs, product testing certificates, recall plan, and subsidiary details. Do you have a U.S. EIN on file?
+EXTERNAL CONTACT: Yes — we provided a redacted EIN to intake; full EIN will be supplied securely.
+HARPER AGENT: Great. Also confirm estimated revenue and units sold.
+EXTERNAL CONTACT: Revenue about $1.5M; roughly 20k units per year; approximately $300k of that is U.S. revenue.
+HARPER AGENT: Thanks. We'll submit to market and follow up with a list of required documents and anticipated timing. Expect initial feedback within 24-48 hours.
+EXTERNAL CONTACT: Perfect — appreciate it.
+HARPER AGENT: We'll be in touch.
+

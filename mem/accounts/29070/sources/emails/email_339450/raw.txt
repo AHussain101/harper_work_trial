@@ -1,0 +1,18 @@
+Subject: Harper - Follow up & next steps for Smith Freight Lines
+From: harper_employee@harperinsure.com
+To: Marcus Bell <owner@smithfreight.example>
+Date: 2025-12-05T14:22:00+00:00
+Direction: outbound
+
+Hello Marcus,
+
+We received an initial carrier response and have a couple of follow-ups before finalizing quotes:
+- Please confirm the vehicle ownership (personal vs business)
+- Upload proof of prior insurance / loss runs if available
+- Confirm whether any additional drivers need to be added
+
+Once we have those items, we can finalize the best carrier option for long-haul coverage and cargo limits.
+
+Thanks,
+HARPER EMPLOYEE
+Harper Insurance

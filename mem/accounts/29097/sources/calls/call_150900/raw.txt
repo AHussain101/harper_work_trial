@@ -1,0 +1,17 @@
+Direction: incoming
+Duration: 7m 0s
+Started: 2025-12-04T22:35:00+00:00
+Completed: 2025-12-04T22:42:00+00:00
+
+[SUMMARY]
+Initial intake call from clinic owner to Harper to confirm service lines and staff exposure for E&O quote.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi, this is Jordan from Harper Insurance. How can I help?
+CLIENT: Hi Jordan, this is Amanda Porter from Oakridge Nutrition Clinic. I wanted to confirm you received our application and discuss limits for professional liability.
+HARPER AGENT: Yes, we have it. Can you confirm number of clinicians and annual patient visits?
+CLIENT: We have 10 full-time clinicians, 1 part-time, and roughly 6,000 patient encounters annually. No prior malpractice claims in the last 7 years.
+HARPER AGENT: Great. We'll present the standard limits (per-claim and aggregate) and the underwriters' estimated premium. Expect a quote by tomorrow.
+CLIENT: Thank you, please email me the packet and a secure payment link when ready.
+HARPER AGENT: Will do. Talk soon.
+

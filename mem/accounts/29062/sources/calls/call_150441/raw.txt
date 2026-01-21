@@ -1,0 +1,33 @@
+Direction: incoming
+Duration: 7m 53s
+Started: 
+Completed: 
+
+[SUMMARY]
+Next Steps:
+- Submit customer information to underwriting for a formal quote
+- Underwriting will text before calling to review options
+
+Summary:
+Caller (Daniel Martinez) requested General Liability for a mobile roadside assistance business. Business is new (under one year). Services are mobile-only (tire change, lockout, jump start, flat repair). No towing or vehicle storage.
+Preferred contact: call or text between 7AM and 6PM.
+Minimum limits requested: standard minimum GL limits as required by marketplace.
+
+[TRANSCRIPT]
+HARPER AGENT: This is Sophia with Harper Insurance.
+EXTERNAL CONTACT: Hi, this is Daniel Martinez.
+EXTERNAL CONTACT: I'm calling about QuickAssist Roadside Services.
+HARPER AGENT: Great — you're looking for General Liability for a mobile roadside business?
+EXTERNAL CONTACT: Yes. No towing, just on-site service: tire changes, jump starts, and lockouts.
+HARPER AGENT: Do you operate alone?
+EXTERNAL CONTACT: Yes, I run it myself via mobile apps.
+HARPER AGENT: Any vehicle storage or overnight holding of vehicles?
+EXTERNAL CONTACT: No.
+HARPER AGENT: Any racing exposures or sales of fuel/tires?
+EXTERNAL CONTACT: No.
+HARPER AGENT: Do you use cones and safety signage when working on site?
+EXTERNAL CONTACT: Yes, I deploy cones and have safety lights on my vehicle.
+HARPER AGENT: Good. We'll submit to underwriting and they will reach out via text before they call to review quotes.
+EXTERNAL CONTACT: Sounds good. Thank you.
+HARPER AGENT: Thanks for your time — expect a follow-up in 24–48 hours.
+

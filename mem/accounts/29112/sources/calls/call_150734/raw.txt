@@ -1,0 +1,24 @@
+Direction: incoming
+Duration: 11m 12s
+Started: 2025-12-04T23:40:00+00:00
+Completed: 2025-12-04T23:51:12+00:00
+
+[SUMMARY]
+Next Steps:
+- Submit customer information for insurance quotes.
+- Follow up with customer in 24-48 hours with insurance options.
+
+Summary:
+Harper agent Cameron Long assisted the business owner regarding general liability for an eyewear manufacturing business in Florida. The owner operates a single-owner LLC, sources manufacturing overseas (primary vendor noted as Sensei Optical), exports most products internationally, and requests $1M per occurrence / $2M aggregate limits. Cameron will submit information for quotes and follow up in 24-48 hours.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi, this is Cameron from Harper.
+EXTERNAL CONTACT: Hello, I'm calling about insurance for my eyewear business.
+HARPER AGENT: Great — tell me a bit about operations and coverage needs.
+EXTERNAL CONTACT: We've been operating since 2016, owner-operated with no employees. Most sales are B2B and exported overseas; projected revenue is around $1.3M once the new partnership goes through.
+HARPER AGENT: Understood. Do you have any prior coverage or claims?
+EXTERNAL CONTACT: We had coverage in prior years with Hartford and no claims.
+HARPER AGENT: Do you source manufacturing overseas?
+EXTERNAL CONTACT: Yes — primary factory listed as Sensei Optical; they handle QA and third-party testing.
+HARPER AGENT: Perfect. We'll submit this to our carrier panel for GL and product liability consideration and get back to you with options in 24-48 hours.
+EXTERNAL CONTACT: Thank you — I appreciate it.

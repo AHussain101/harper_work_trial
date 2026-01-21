@@ -1,0 +1,33 @@
+Direction: incoming
+Duration: 11m 22s
+Started: 2025-12-04T17:54:33.699000+00:00
+Completed: 2025-12-04T18:06:19+00:00
+
+[SUMMARY]
+Next steps: process application for Lakeview Junction Bar & Grill; obtain any missing loss runs and confirm payroll details.
+
+Summary: Marcus (owner) spoke with a Harper agent to provide workers' comp info, ownership structure, staffing levels, and preferred coverage levels. Agent will upload application and expect initial quotes within 24-48 hours.
+
+[TRANSCRIPT]
+HARPER AGENT: This is Mia from Harper. How can I help?
+EXTERNAL CONTACT: Hi Mia — this is Brandy from a partner agency and I have Marcus Lee on the line in Indiana. He runs the bar and needs GL, liquor, and workers' comp.
+HARPER AGENT: Great, we can help. Please transfer Marcus.
+HARPER AGENT: Hi Marcus — I'm Mia. I'll get your workers' comp started. Do you have your EIN handy?
+EXTERNAL CONTACT: Yes — EIN ending in 5416.
+HARPER AGENT: Thanks. How long have you and your co-owner been running the business?
+EXTERNAL CONTACT: Three years under our ownership; the location has been around longer.
+HARPER AGENT: Ownership structure?
+EXTERNAL CONTACT: Marcus and Sara Lee, 50/50.
+HARPER AGENT: Do you want owners included on comp?
+EXTERNAL CONTACT: We want to be excluded.
+HARPER AGENT: Okay. Number of employees and payroll?
+EXTERNAL CONTACT: Two tipped employees; total payroll roughly $15k.
+HARPER AGENT: Any alcohol service specifics or entertainment?
+EXTERNAL CONTACT: We serve beer, wine, and spirits; karaoke occasionally and local bands sometimes. We have a three-way liquor license and basic ID checks and cameras.
+HARPER AGENT: Any claims history?
+EXTERNAL CONTACT: No prior claims.
+HARPER AGENT: Good. Preferred limits?
+EXTERNAL CONTACT: Let's quote for a $2M aggregate for GL and liquor liability.
+HARPER AGENT: Got it. I'll upload your application and request quotes; expect 24–48 hours. We'll email the quotes and follow up by text to schedule a call.
+EXTERNAL CONTACT: Perfect. Thanks for your help.
+HARPER AGENT: Thank you — talk soon.

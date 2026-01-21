@@ -1,0 +1,25 @@
+Direction: incoming
+Duration: 8m 44s
+Started: 2025-12-04T19:00:02.235000+00:00
+Completed: 2025-12-04T19:10:11+00:00
+
+[SUMMARY]
+Next Steps:
+ - Submit customer information to underwriting for quotes
+ - Confirm coverage limits required by partner/motor-club
+ - Follow up with client after quotes are available
+Summary:
+Client Marcus Allen is starting a new roadside assistance business in Ohio and needs general liability before operating. Client has long industry experience but is not offering towing at this time. He expects partner requirements to be around $100k–$300k in liability. Contact details on file were used to follow up.
+
+[TRANSCRIPT]
+Jordan (Harper): Hi, this is Jordan from Harper Insurance. How can I help you?
+External Contact (broker): I have Marcus on the line; he needs general liability for a new roadside assistance service in Ohio.
+Jordan (Harper): Great — we can help. Tell me about the operations.
+Marcus Allen: It's a brand-new roadside assistance business. I won't be towing; I'll handle on-site jumpstarts, tire changes, and lockouts.
+Jordan (Harper): Okay. Do you have personal auto insurance on the vehicle you will use?
+Marcus Allen: Yes.
+Jordan (Harper): Are you working with any motor-clubs or partners that require a specific limit?
+Marcus Allen: They indicated limits between about $100k and $300k.
+Jordan (Harper): Understood. We'll submit for general liability quoting and get back to you in 24–48 hours. Please upload proof of personal auto insurance and a signed application when convenient.
+Marcus Allen: Sounds good. Thank you.
+Jordan (Harper): Thank you — we'll be in touch.

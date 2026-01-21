@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-05T07:11:05.000000+00:00
+
+We've sent your preliminary quote to your email. Reply to confirm receipt or ask any questions.

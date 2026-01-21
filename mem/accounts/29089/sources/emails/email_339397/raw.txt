@@ -1,0 +1,13 @@
+Subject: Regal Freight Logistics — Intake Received
+From: daniel.park@harperinsure.com
+To: marisol.gomez@regalfreights.com
+Date: 2025-12-04T22:25:10+00:00
+Direction: outbound
+
+Hi Marisol,
+
+Thanks for confirming — we've logged your lead and will begin shopping the account with our carrier partners. Expect an update within 24-48 hours. If you need to upload documents later, use: https://portal.harperinsure.example/upload
+
+Regards,
+Daniel Park
+Harper Insurance

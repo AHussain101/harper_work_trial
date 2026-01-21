@@ -1,0 +1,21 @@
+Direction: incoming
+Duration: 6m 46s
+Started: 2025-12-04T20:02:26.586000+00:00
+Completed: 2025-12-04T20:09:31+00:00
+
+[SUMMARY]
+Next steps: submit application details to underwriting and await carriers' quotes (24-48 hours). Client is seeking state-minimum workers' compensation for a small local trucking business.
+
+[TRANSCRIPT — sanitized]
+HARPER AGENT: Thanks for calling Harper, this is Talia.
+EXTERNAL CONTACT (referring rep): Hi, I have the owner on the line for a local trucking lead.
+HARPER AGENT: Great — please transfer.
+HARPER AGENT: Hi — can you confirm the business name?
+OWNER: Lakeside Freight & Logistics LLC.
+HARPER AGENT: Thanks. When do you want the policy to start?
+OWNER: Within the next 30 days — just need state minimum workers' comp for one part-time driver.
+HARPER AGENT: Do you have an EIN we can use for the application?
+OWNER: Yes — it's a synthetic reference (redacted for privacy).
+HARPER AGENT: Understood. Please upload a payroll snapshot and we'll submit to underwriting. Expect quotes in about 24-48 hours.
+OWNER: Sounds good. My email is marcus.lee@lakesidefreight.com and phone on file is correct.
+HARPER AGENT: Thank you — we'll be in touch.

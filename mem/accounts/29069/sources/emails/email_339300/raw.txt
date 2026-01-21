@@ -1,0 +1,27 @@
+Subject: Harper Insurance Quote for Metro Guard Services, LLC
+From: Jordan Kim <jordan.kim@harperinsure.com>
+To: terry.blake@metroguardservices.com
+Date: 2025-12-05T14:20:00+00:00
+Direction: outbound
+
+Harper Insurance - Professional Liability Quote
+
+Hello Terry,
+
+Please find a preliminary quote for Professional Liability (Errors & Omissions) attached. This is an initial package from our underwriting partners; subjectivities and final pricing will be confirmed upon review of contracts and any requested loss history.
+
+Quote summary (estimates):
+- Carrier: Sentinel Liability Co.
+- Premium (carrier): around $2.3k
+- State fees/taxes: around $60
+- Harper service fee: about $75
+- Estimated total: around $2.45k
+
+Payment options and details are provided in the attached quote document. If you'd like to pay via our secure portal, use: https://payments.harperinsure.example/pay/tx-4821
+
+Please review and let us know if you need adjustments to limits or retroactive date. I can also walk through the contract wording and help identify any risk-transfer clauses that might affect coverage.
+
+Regards,
+Jordan Kim
+Harper Insurance
+jordan.kim@harperinsure.com

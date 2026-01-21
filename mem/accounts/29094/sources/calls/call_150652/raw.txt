@@ -1,0 +1,12 @@
+Direction: incoming
+Duration: 17m 3s
+Started: 2025-12-04T22:27:00+00:00
+Completed: 2025-12-04T22:44:00+00:00
+
+[SUMMARY]
+Next Steps:
+- Submit the application for a GL quote.
+- Notify Marcus when quotes are available (typically within 24 hours).
+
+Summary:
+Martina from Tivley transferred a lead to Harper. The business, 3A Media Productions (Marcus Reed), is a video production/AV company with gross revenue around $91k and no W-2 employees (contractors only). Marcus requested $1M GL limits to cover contracted production personnel for weekly church services and occasional one-day events out of state (a few times per year). The policy effective date preferred: 2026-01-01 (or first Sunday of the year).

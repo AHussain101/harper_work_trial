@@ -1,0 +1,28 @@
+Subject: USLI Quote QRY482103 for Riverbend Tire & Service
+From: lauren.smith@usli.com
+To: submissions@harperinsure.com
+Date: 2025-12-05T02:15:00+00:00
+Direction: inbound
+
+Customer: Harper Insurance
+Applicant: Riverbend Tire & Service
+
+Dear Harper Team,
+
+We are pleased to provide an initial quote for the applicant. Attached are the quote documents and an applicant-facing letter. If you have questions, reply or contact our underwriting desk.
+
+Quote portal: https://portal.example-insure.com/quote/QRY482103
+
+Quote snapshot (approx):
+- Premium: around $1.4k
+- Filing fee: about $85
+- Taxes: approximately $150
+- Total: about $1.6k
+
+Quote Number: QRY482103
+Valid until: 2026-02-02
+
+Regards,
+Lauren Smith
+United States Liability Insurance Company
+lauren.smith@usli.com

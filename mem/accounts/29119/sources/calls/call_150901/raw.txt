@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T03:25:00+00:00
+Completed: 2025-12-05T03:26:35+00:00
+
+[SUMMARY]
+- Harper outbound call to confirm document upload and answer a question about background checks.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Maya, this is Jordan from Harper Insurance following up — did you have a chance to upload the staff background summaries?
+CLIENT: Hey Jordan — yes, I uploaded a summary but not full files yet. Are summary reports sufficient?
+HARPER AGENT: For initial underwriting a summary noting dates and types of background checks is okay; final bind will need documentation. Please upload full copies when convenient.
+CLIENT: Understood — I'll upload full files by end of day.
+HARPER AGENT: Perfect. We'll note that in the file and proceed with carriers. Talk soon.

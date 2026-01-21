@@ -1,0 +1,43 @@
+Direction: outgoing
+Duration: 12m 51s
+Started: 2025-12-04T22:59:09.541000+00:00
+Completed: 2025-12-04T23:12:16+00:00
+
+[SUMMARY]
+Next Steps: Submit workers' compensation claim notice as discussed; complete and submit the general liability application; follow up with quote results in 24-48 hours via text/email/phone.
+
+Summary: Detailed intake call capturing facility size, staffing, license and prior insurance cancellation. Client requested standard GL limits and noted earlier cancellation due to missed billing; client confirmed hours, age groups, staff counts, and playground/fencing details.
+
+[TRANSCRIPT - SANITIZED]
+HARPER AGENT: Hello — is this Emily Rivera with Little Scholars Academy?
+EXTERNAL CONTACT: Hi, yes this is Emily.
+HARPER AGENT: Great. I have your address as 1234 Sample Street and we'll use that as the facility location. Are you operating as an LLC?
+EXTERNAL CONTACT: Yes, Little Scholars Academy LLC.
+HARPER AGENT: What age groups do you serve?
+EXTERNAL CONTACT: Six weeks to five years.
+HARPER AGENT: And hours of operation?
+EXTERNAL CONTACT: 7 AM to 5 PM, Monday through Friday.
+HARPER AGENT: How many children are enrolled and what's your licensed capacity?
+EXTERNAL CONTACT: Licensed capacity is 50; currently about 25 enrolled.
+HARPER AGENT: How many staff do you have?
+EXTERNAL CONTACT: Nine staff, ten if you count me.
+HARPER AGENT: Do you have outside play on premises and a perimeter fence?
+EXTERNAL CONTACT: Yes, we have outside play and a permanent fence around the play area. No permanent playground structures bolted in place.
+HARPER AGENT: Any students with special needs?
+EXTERNAL CONTACT: We have two children who are on the autism spectrum and require tailored support.
+HARPER AGENT: Have you had any claims or cancellations on the liability policy?
+EXTERNAL CONTACT: We had a cancellation in 2021 — it was billing-related, we stopped receiving notices and the policy lapsed. Prior carrier was Markel (and originally American Family years before).
+HARPER AGENT: Do you carry workers' compensation currently?
+EXTERNAL CONTACT: We have workers' comp in place but lost liability coverage; we'll provide those details.
+HARPER AGENT: What limits are you looking for on liability?
+EXTERNAL CONTACT: One million per occurrence / two million aggregate is fine.
+HARPER AGENT: Would you like abuse & molestation coverage added now or later?
+EXTERNAL CONTACT: Not today — we may add later. Is that possible?
+HARPER AGENT: Yes, you can add it later. We'll include that as an optional endorsement in the submission.
+HARPER AGENT: Last items — do you perform background checks on staff and maintain emergency contact info for every child?
+EXTERNAL CONTACT: Yes, background checks (including sex offender registry) and full emergency contact forms for each student.
+HARPER AGENT: Perfect. I have payroll estimated at about $24k per month (~$288k/year) — does that sound right?
+EXTERNAL CONTACT: Yes, that's correct.
+HARPER AGENT: Great. I'll submit this and we should have carrier responses and a quote package to you in 24-48 hours. We'll notify you by text and email when the quote is ready.
+EXTERNAL CONTACT: Thank you — I'll watch for the message.
+HARPER AGENT: Thanks, Emily. Talk soon.

@@ -1,0 +1,24 @@
+Direction: outgoing
+Duration: 1m 20s
+Started: 
+Completed: 
+
+[SUMMARY]
+Next Steps:
+- Record driving history and contact preferences in the file
+- Underwriting to proceed with quote based on provided details
+
+Summary:
+Harper agent confirmed that the applicant has a valid Texas driver's license and personal auto insurance. Applicant reports no accidents or violations in the past three years.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi — it's Sophia with Harper Insurance following up.
+EXTERNAL CONTACT: Hello.
+HARPER AGENT: Have you had any accidents or violations in the last three years?
+EXTERNAL CONTACT: No, nothing in the last three years.
+HARPER AGENT: Do you have personal auto insurance and an active license in Texas?
+EXTERNAL CONTACT: Yes, both.
+HARPER AGENT: Great — that's all I needed. We'll proceed and update underwriting.
+EXTERNAL CONTACT: Thank you.
+HARPER AGENT: Have a good day.
+

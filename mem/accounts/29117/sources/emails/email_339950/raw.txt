@@ -1,0 +1,22 @@
+Subject: Quote Ready for Lakeview Concierge Services
+From: Maya Patel <maya@harperinsure.com>
+To: ethan@lakeviewservices.com
+Date: 2025-12-05T05:10:00+00:00
+Direction: outbound
+
+Hello Ethan,
+
+Good news — our underwriters returned a competitive quote for Lakeview Concierge Services. Below is a high-level summary:
+- Carrier premium and fees: around $7.9k
+- Harper service fee: around $450
+- Estimated total due: around $8.4k
+
+You can review payment options and details at: https://payments.example-insure.com/quote-abc123
+
+If you'd like to discuss payment plans or adjust coverages, reply to this email or call us.
+
+Regards,
+Maya Patel
+Harper Insurance
+maya@harperinsure.com
+

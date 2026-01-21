@@ -1,0 +1,21 @@
+Direction: incoming
+Duration: 1m 54s
+Started: 2025-12-05T00:07:57.423000+00:00
+Completed: 2025-12-05T00:10:23+00:00
+
+[SUMMARY]
+## Next Steps:
+Request that the referring partner reconnect the customer so Harper can accept the lead.
+## Summary:
+A referral partner called to transfer a prospective client for a workers' compensation quote in Illinois. The caller attempted to transfer but the customer was disconnected during the handoff. Harper advised the partner that we require the client on the line to accept the transfer. The referring partner will try to reconnect the customer and re-initiate the transfer.
+
+[TRANSCRIPT]
+HARPER AGENT: Thank you for calling Harper. This is Jordan.
+REFERRER: Hi Jordan, this is Mike at Tivoli. I have a client in Illinois who needs workers' comp for a safety consulting business.
+HARPER AGENT: Okay, we can help. Can you place the customer on the line to transfer?
+REFERRER: Sure — one moment.
+HARPER AGENT: Great.
+REFERRER: Looks like the caller dropped. We're disconnected.
+HARPER AGENT: We can't accept the lead without the customer on the line. Can you try to call them back and transfer again?
+REFERRER: Yes, I'll try to reconnect and call you back.
+HARPER AGENT: Thanks, we'll standby.

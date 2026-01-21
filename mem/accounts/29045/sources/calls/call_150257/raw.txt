@@ -1,0 +1,12 @@
+Direction: incoming
+Duration: 8m 42s
+Started: 2025-12-04T18:28:13.624000+00:00
+Completed: 2025-12-04T18:38:18+00:00
+
+[SUMMARY]
+Next steps: shop workers' comp markets and follow up within 24–48 hours with preliminary indications. Request payroll verification and loss runs from insured.
+
+[CONVERSATION NOTES]
+Broker (Tivoli) transferred a client seeking workers' comp for an orchard operation. Harper agent completed intake for application: confirmed business name Green Valley Orchards, LLC, location in Maplewood, CA, orchard types (macadamia, avocado), one full-time farmworker, payroll ~ $45k, current carrier Berkshire Hathaway, no prior claims reported. Client reported a recent renewal increase to about $6.1k from about $4.0k last year. Agent advised Harper will shop carriers and follow up with quotes within 24–48 hours.
+
+Sensitive details: lead identifiers and tax IDs redacted. Underwriter to verify payroll and loss history before binding.

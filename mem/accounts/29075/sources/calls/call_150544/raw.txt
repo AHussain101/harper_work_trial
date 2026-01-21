@@ -1,0 +1,25 @@
+Direction: incoming
+Duration: 21m 36s
+Started: 2025-12-04T21:11:09+00:00
+Completed: 2025-12-04T21:33:05+00:00
+
+[SUMMARY]
+Next steps: follow up with Marco (Rising Transport LLC) regarding workers' comp and requested documents (prior policy, MCS-150, and legal correspondence). Underwriting may request additional detail related to the independent-contractor dispute.
+
+[TRANSCRIPT]
+HARPER AGENT: This is Jamie from Harper Insurance.
+EXTERNAL CONTACT: Hello — this is a rep from LeadPartner, I have Marco on the line. Sorry about the hold.
+HARPER AGENT: Hi Marco — thanks for waiting. I understand you're calling about workers' compensation for your flatbed trucking business.
+EXTERNAL CONTACT: Yes. I had a policy but it was canceled in May, and now there's an independent contractor dispute.
+HARPER AGENT: Got it. A few quick questions so we can get an initial quote. How many full-time employees do you have?
+EXTERNAL CONTACT: One full-time driver and a second part-time driver — total drivers two, power units three.
+HARPER AGENT: Do you operate solely in California?
+EXTERNAL CONTACT: Yes, just California.
+HARPER AGENT: Any subcontractors now?
+EXTERNAL CONTACT: Not currently — we had one in the past that is related to the claim, but not ongoing.
+HARPER AGENT: Understood. For our records, please upload your prior declarations page, any cancellation notice you received, your MCS-150, and the attorney letter regarding the dispute. Also note: we recorded your EIN as ending in 6182; please confirm by uploading the official document.
+EXTERNAL CONTACT: Sure — I'll upload those now.
+HARPER AGENT: Great. We'll get this to underwriting and follow up within 48 hours after they review the documents.
+EXTERNAL CONTACT: Thank you — phone is the best way to reach me.
+HARPER AGENT: Perfect. We'll call when we have updates.
+

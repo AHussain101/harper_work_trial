@@ -1,0 +1,11 @@
+Direction: outgoing
+Duration: 1m 25s
+Started: 2025-12-05T14:20:00+00:00
+Completed: 2025-12-05T14:21:25+00:00
+
+[SUMMARY]
+Next Steps:
+- Review the USLI quote with Marcus and confirm effective date.
+
+Summary:
+Harper agent called Marcus to review the initial quote details and confirm that contractors should be included as additional insureds when required by contract. Marcus confirmed venue address is West Coolwater Drive (Dallas) and prefers a 2026-01-01 start date. Agent to follow up by email with itemized quote and payment options.

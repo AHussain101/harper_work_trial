@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-04T21:26:10+00:00
+
+Please upload vehicle registration and your driver's license to our secure portal: https://portal.example-insure.com/upload/elm-1234

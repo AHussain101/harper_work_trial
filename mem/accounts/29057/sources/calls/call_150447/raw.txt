@@ -1,0 +1,10 @@
+Direction: outgoing
+Duration: 0m 17s
+Started: 2025-12-04T20:38:32.174000+00:00
+Completed: 2025-12-04T20:39:03.000000+00:00
+
+[SUMMARY]
+Next steps: review the underwriting email and confirm signature on e-docs.
+
+[TRANSCRIPT SUMMARY]
+Avery (Harper) called to notify the client that underwriters completed their review and that documents were emailed. Client acknowledged and will review. Key points: underwriting moved forward; agent sent policy documents and requested any needed signatures or confirmations.

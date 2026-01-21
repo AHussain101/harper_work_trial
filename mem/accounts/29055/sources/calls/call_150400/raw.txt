@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 0m 45s
+Started: 2025-12-05T11:00:00+00:00
+Completed: 2025-12-05T11:00:45+00:00
+
+[SUMMARY]
+Quick follow-up call to confirm receipt of requested documents and timeline for quote.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marcus — this is HARPER EMPLOYEE with Harper Insurance following up on your application. Did you get a chance to upload the prior policy or loss runs?
+EXTERNAL CONTACT: Yes, I uploaded the declarations page earlier today.
+HARPER AGENT: Perfect — underwriting will review and we should have an initial quote in about 24 hours. We'll send it to your email and follow up by text.
+EXTERNAL CONTACT: Sounds good. Thank you.
+HARPER AGENT: Thank you, Marcus. Bye.

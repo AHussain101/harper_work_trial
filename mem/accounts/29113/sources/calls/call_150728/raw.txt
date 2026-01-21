@@ -1,0 +1,14 @@
+Direction: incoming
+Duration: 6m 8s
+Started: 2025-12-04T23:44:00+00:00
+Completed: 2025-12-04T23:50:08+00:00
+
+[SUMMARY]
+Next steps: Provide state-minimum commercial auto quote and follow up via email/text. Verify VIN and ownership when purchased.
+
+[CALL NOTES]
+Harper agent Mia handled the intake for the new account, Riverbend Hauling Co. Owner Khalil Moreno (single-vehicle operator) provided business details: local hauling of sand/gravel, approx. 50-mile radius, no hazardous cargo, one vehicle, no prior commercial auto policy, no recent accidents reported.
+
+Sensitive details redacted: DOT and ID numbers masked for privacy.
+
+Agent recorded vehicle make/model (2018 Western Star), estimated vehicle value ~ $120k, and noted owner will finalize purchase next week. Quotes will be emailed; agent instructed client to upload vehicle title and MVR via secure portal.

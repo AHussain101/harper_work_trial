@@ -1,0 +1,26 @@
+Direction: incoming
+Duration: 4m 22s
+Started: 2025-12-04T23:32:15.632000+00:00
+Completed: 2025-12-05T00:28:03+00:00
+
+[SUMMARY]
+## Next Steps:
+- Verify and finalize documentation for Sentinel Patrol Services.
+- Provide Marcus with options for general liability limits (suggest $1M/$2M) and cost estimates for workers' compensation depending on W-2 vs contractor status.
+- Follow up with a submission to carriers and provide comparative costs for W-2 vs 1099 for five workers.
+
+## Summary:
+A referral from a partner introduced Marcus, owner of Sentinel Patrol Services, seeking general liability for an unarmed security agency in Nevada. Marcus is finalizing legal formation and asked for insurance guidance while he completes filings. Discussion covered whether staff should be W-2 employees or independent contractors; Harper to run cost comparisons. Quotes expected after submission.
+
+[TRANSCRIPT - sanitized]
+HARPER AGENT: Thank you for calling Harper Insurance. This is HARPER REP.
+EXTERNAL CONTACT: Hi, I have a customer out of Nevada needing general liability for an unarmed security agency.
+HARPER AGENT: Great — what's the business name?
+EXTERNAL CONTACT: Sentinel Patrol Services. The owner is Marcus Okoro; they're finalizing legal paperwork but want insurance options now.
+HARPER AGENT: Understood. How many people will be on payroll?
+EXTERNAL CONTACT: Five total — Marcus plus four others.
+HARPER AGENT: Okay. Do you plan to hire them as W-2 employees or as contractors?
+EXTERNAL CONTACT: Marcus is leaning toward W-2 if the cost is manageable; otherwise he may start with contractors.
+HARPER AGENT: We'll provide a comparison for Nevada and recommend the best approach. We'll also include suggested liability limits and next steps for binding once the legal docs are ready.
+EXTERNAL CONTACT: Sounds good. Thank you.
+HARPER AGENT: You're welcome. We'll follow up via email with submission confirmation and quotes.

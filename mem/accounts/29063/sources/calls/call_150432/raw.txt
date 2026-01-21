@@ -1,0 +1,27 @@
+Direction: incoming
+Duration: 2m 28s
+Started: 2025-12-04T20:23:19.668000+00:00
+Completed: 2025-12-04T20:26:08+00:00
+
+[SUMMARY]
+Next steps: Await client to provide federal EIN (masked) and then submit workers' comp application. Prepare workers' comp quote for Summit Care Services based on 3 W-2 employees and payroll ~ $44.8k.
+
+Summary:
+Referral called on behalf of the owner. Client is a New Jersey non-medical home care provider seeking workers' compensation for three employees. Intake agent (Avery, Harper) collected business details but could not complete submission without the EIN. Client will provide EIN and supporting documents via secure upload or call back.
+
+[TRANSCRIPT]
+HARPER AGENT (Avery): Thank you for calling Harper. This is Avery — how can I help?
+REFERRAL: Hi, this is Kristen from Tivoli calling for the owner. She is on the line.
+HARPER AGENT: Great, thanks for the transfer.
+HARPER AGENT: Hello — may I confirm the business name and address?
+CLIENT: Summit Care Services, 123 Main Street, Anytown, NJ.
+HARPER AGENT: And is this a new business?
+CLIENT: Yes, it's just started.
+HARPER AGENT: For workers' compensation I will need the federal EIN to submit applications. Are you able to provide that now?
+CLIENT: I'm driving and don't have it with me. I can call back or upload it.
+HARPER AGENT: No problem — you can call back or upload documents to our secure portal. We can't submit without the EIN.
+CLIENT: Okay, I'll call back with the EIN. Also we have three W-2 employees.
+HARPER AGENT: Perfect — we'll prepare the quote once we receive the EIN and payroll documentation. Expect an initial set of options in 24-48 hours after submission.
+CLIENT: Thank you.
+HARPER AGENT: Thanks — have a good day.
+

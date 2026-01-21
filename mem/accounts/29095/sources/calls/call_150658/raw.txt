@@ -1,0 +1,35 @@
+Direction: incoming
+Duration: 12m 44s
+Started: 2025-12-04T22:37:48+00:00
+Completed: 2025-12-04T22:50:32+00:00
+
+[SUMMARY]
+Next steps:
+- Request driving history report from prior carrier for underwriting
+- Watch for quote email from Harper and confirm preferred payment/coverage
+
+Summary:
+Mia from Harper guided Chris Mitchell through application details for Silver State Auto Services. Business operates 24/7, 4 employees, estimated payroll around $35k and gross revenue around $400.8k. Shop performs general repairs (diagnostics, brakes, electrical, replacements) and retains about eight customer vehicles on-site. Client prefers state-minimum liability and a basic workers' comp placement. Harper will submit application and follow up within 24-48 hours.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi, this is Mia from Harper. How can we help today?
+EXTERNAL CONTACT: Hi, this is Chris Mitchell with Silver State Auto Services. I'm looking for general liability and workers' comp.
+HARPER AGENT: Great — I see the application. Can I confirm your address is 1230 East Summit Road, Suite 204?
+EXTERNAL CONTACT: That's correct.
+HARPER AGENT: And your best email is chris.mitchell@silverstateautoservices.com?
+EXTERNAL CONTACT: Yes.
+HARPER AGENT: How many years have you been in business?
+EXTERNAL CONTACT: Three years under our ownership.
+HARPER AGENT: Perfect. What operations do you perform? Oil changes, brakes, diagnostics, electrical, some replacements?
+EXTERNAL CONTACT: All of the above — no tire sales, no painting. We don't loan cars or run tow operations.
+HARPER AGENT: How many vehicles on site on average?
+EXTERNAL CONTACT: About eight. Values range from low-cost daily drivers up to higher-value passenger cars.
+HARPER AGENT: And payroll for the four employees?
+EXTERNAL CONTACT: Roughly $35,000 a year total.
+HARPER AGENT: Do you have prior insurance with Travelers and any claims?
+EXTERNAL CONTACT: Yes, with Travelers — no recent claims.
+HARPER AGENT: For workers' comp, do owners want coverage or to be excluded?
+EXTERNAL CONTACT: Owners will be excluded.
+HARPER AGENT: Got it. We'll upload the application to carriers now. Expect quote options in 24-48 hours. Keep an eye out for an email from Harper and a follow-up text to schedule a call.
+EXTERNAL CONTACT: Appreciate it — we're on a bit of urgency, so please flag that.
+HARPER AGENT: Will do. Thank you for your time, Chris.

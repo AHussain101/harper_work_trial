@@ -1,0 +1,18 @@
+Direction: incoming
+Duration: 1m 35s
+Started: 2025-12-05T13:05:00+00:00
+Completed: 2025-12-05T13:06:35+00:00
+
+[SUMMARY]
+Next Steps:
+- Marcus to confirm a convenient time for state inspection scheduling
+- Harper to provide a short checklist of documents needed for licensing
+
+[TRANSCRIPT]
+EXTERNAL CONTACT: Hi, this is Marcus Hale.
+HARPER AGENT: Hi Marcus — thanks for calling back. I wanted to confirm:
+HARPER AGENT: Do you have a preferred window for the state inspection? We can share a checklist to help your inspector.
+EXTERNAL CONTACT: Morning inspections are best. Also, can you send that checklist to my email?
+HARPER AGENT: Absolutely. We'll email a short checklist and sample floor plan guidance today.
+EXTERNAL CONTACT: Perfect — appreciate it.
+HARPER AGENT: Talk soon.

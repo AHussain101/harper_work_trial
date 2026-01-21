@@ -1,0 +1,17 @@
+Direction: incoming
+Duration: 7m 0s
+Started: 2025-12-04T21:30:00+00:00
+Completed: 2025-12-04T21:37:00+00:00
+
+[SUMMARY]
+Intake call: Harper agent Jordan Kim completed an intake with Naomi Brooks to confirm services, staffing, and client profile. Agent requested staff training records and any existing policy documents. Underwriting will price once documents are uploaded.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Naomi, this is Jordan from Harper Insurance. Thanks for taking the time — can you confirm the primary services you will offer?
+CLIENT: Yes — non-medical personal care, transportation, and wellness checks for older adults.
+HARPER AGENT: Great. How many caregivers are you planning initially?
+CLIENT: Three caregivers plus owner oversight.
+HARPER AGENT: Perfect. We'll request training summaries and any documentation showing client agreements. Once we have those, underwriting can produce preliminary pricing within 48 hours.
+CLIENT: Thanks — I can upload those documents today.
+HARPER AGENT: Excellent. I'll follow up with a secure upload link.
+

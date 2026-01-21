@@ -1,0 +1,24 @@
+Direction: incoming
+Duration: 21m 27s
+Started: 2025-12-04T20:45:00+00:00
+Completed: 2025-12-04T21:06:00+00:00
+
+[SUMMARY]
+Next steps: finalize workers' comp classification and submit to carriers; confirm payroll and employee duties; follow up when quotes arrive.
+
+Summary:
+Call between Shoreline Flooring Co. owner (Scott Marino) and Harper intake representative (Yvonne). Discussed that the business is a flooring sales rep operation, predominantly residential, with all installations subcontracted. Confirmed one W-2 employee (full-time salesperson) and annual payroll around $31.3k. No prior claims reported. Harper to generate quotes and follow up via email and text.
+
+[TRANSCRIPT - sanitized]
+HARPER AGENT: Harper Insurance Agency, this is Yvonne.
+EXTERNAL CONTACT: Hi Yvonne, this is Darlene from Tivoli with a client on the line.
+HARPER AGENT: Great—thank you. Can you transfer Scott to me?
+EXTERNAL CONTACT: Sure, bringing him in now.
+HARPER AGENT: Hi Scott, thanks for holding. Can you confirm the best number to reach you? I have (908) 301-01XX on file.
+EXTERNAL CONTACT: Yes, that's correct.
+HARPER AGENT: Thank you. Quick recap: you've been in business about 11 years, mostly residential sales, you subcontract installs, and you have one full-time W-2 employee who does measurements and sales.
+EXTERNAL CONTACT: That's correct.
+HARPER AGENT: Payroll roughly $31k, no claims history, and you want workers' comp at state minimum. We can get you quoted—expect results in 24–72 hours. We'll email the quotes and then follow up by phone or text. Anything else you want us to note?
+EXTERNAL CONTACT: No, that's it—thank you.
+HARPER AGENT: Perfect. Happy holidays and we'll be in touch.
+EXTERNAL CONTACT: Thanks. Bye.

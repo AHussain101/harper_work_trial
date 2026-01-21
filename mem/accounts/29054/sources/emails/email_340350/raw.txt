@@ -1,0 +1,16 @@
+Subject: Reminder: e-signature and required loss runs
+From: Jordan Kim <jordan.kim@harperinsure.com>
+To: emma.johnson@brightviewadc.com
+Date: 2025-12-05T12:15:00+00:00
+Direction: outbound
+
+Hi Emma,
+
+Following up on the quote we sent earlier — when you have a moment, please review and e-sign the documents. We also still need loss run reports for the last three years to finalize the binding process.
+
+Quick link to e-sign: https://portal.example-insure.com/esign/brightview-001
+
+Thanks,
+Jordan Kim
+Harper Insurance
+jordan.kim@harperinsure.com

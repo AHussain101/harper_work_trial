@@ -1,0 +1,11 @@
+Direction: outgoing
+Duration: 0m 12s
+Started: 2025-12-04T21:36:24.901000+00:00
+Completed: 2025-12-04T21:36:49+00:00
+
+[SUMMARY]
+Next Steps:
+- Call back at requested time (5:30 PM local)
+
+Summary:
+Harper agent (Samir) called the business line. The owner was in a meeting and requested a callback at 5:30 PM. Harper noted the preferred callback time and will follow up then.

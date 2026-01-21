@@ -1,0 +1,27 @@
+Direction: incoming
+Duration: 22m 51s
+Started: 2025-12-04T20:48:20+00:00
+Completed: 2025-12-04T20:71:31+00:00
+
+[SUMMARY]
+Next steps: review submitted documents, underwriting to prepare an E&O quote, confirm retroactive date and contracts for government work, follow up via email as preferred by client.
+
+Summary: The call was a transfer from a referral partner to Harper. The client (Metro Guard Services, operated by Terry Blake) is seeking Professional Liability (E&O) coverage for safety consulting and vulnerability assessments. The owner is a retired law officer and a disabled veteran, operates primarily solo with occasional contractors, and has been in business about 14 years. No claims reported in the past five years. Gross annual revenue reported around $120k. Client prefers email contact and needs policy activation promptly.
+
+[TRANSCRIPT]
+REFERRER: Hi — I have a client in Florida looking for E&O for safety consulting work.
+HARPER AGENT: Thanks — I can take this. Hello, this is Jordan with Harper Insurance. How can I help you?
+CLIENT: Hi Jordan — this is Terry Blake with Metro Guard Services. I need professional liability for assessments and recommendations to schools and behavioral health facilities. No manual labor, just advisory reports.
+HARPER AGENT: Understood. How long have you been in business?
+CLIENT: About 14 years; we started in 2011.
+HARPER AGENT: Any claims in the last five years?
+CLIENT: No claims.
+HARPER AGENT: Do you use written contracts and include disclaimers/limits of liability?
+CLIENT: Yes, we use written agreements and include standard disclaimers. We also have legal review for contracts.
+HARPER AGENT: Revenue?
+CLIENT: Roughly $120k annually.
+HARPER AGENT: Do you anticipate changes or government contracting opportunities?
+CLIENT: We plan to pursue government contracts; want to ensure coverage will be appropriate.
+HARPER AGENT: Great — we'll submit to carriers for an initial quote, confirm retroactive options, and follow up by email with details and any subjectivities. Expect to hear from underwriting within 24–48 hours.
+CLIENT: Thank you — email is best for me.
+HARPER AGENT: Thank you, Terry. We'll be in touch.

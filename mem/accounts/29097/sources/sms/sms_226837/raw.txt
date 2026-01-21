@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-04T22:55:10.000000+00:00
+
+Secure upload link for documents: https://portal.example-insure.com/uploads/clinic-abc123. Reply if you need assistance.

@@ -1,0 +1,10 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T16:00:00+00:00
+Completed: 2025-12-05T16:01:35+00:00
+
+[SUMMARY]
+Harper agent called to review preliminary quote and answer questions.
+
+[CALL NOTES]
+Jordan Kim reviewed the carrier options with Amelia, explained hired/non-owned auto coverage for staff using personal vehicles, reviewed the documentation needed to bind (signed application, payment authorization, staff MVRs), and scheduled a follow-up call to finalize if Amelia wishes to bind. Amelia requested the e-sign packet be sent to her email.

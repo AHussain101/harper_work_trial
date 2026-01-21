@@ -1,0 +1,20 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-04T19:25:00+00:00
+Completed: 2025-12-04T19:26:35+00:00
+
+[SUMMARY]
+## Next Steps:
+- Email binding instructions and short-term cancellation details to client
+- Send secure invoice link (if client elects to bind)
+
+## Summary:
+Follow-up call from Harper (Chris) to Dr. Marcus Reed to review the biBERK workers' comp quote. Client asked about month-to-month billing and confirmed preference for an officer-excluded policy. Client requested the quote be emailed for internal review and will confirm by end of day.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Dr. Reed — this is Chris from Harper. I'm calling to walk through the quote we just sent.
+CLIENT: Hi — thanks for calling. I got the email. A few quick questions about billing and cancellation.
+HARPER AGENT: Sure — we'll include short-term cancellation policy details in the email. If you want to move forward, I can send a secure link to complete binding.
+CLIENT: Please email the documents and the cancellation info. I'll review and reply today.
+HARPER AGENT: Will do. Expect an email from Harper confirming next steps. Thanks for your time.
+CLIENT: Thank you. Bye.

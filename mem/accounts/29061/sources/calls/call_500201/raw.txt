@@ -1,0 +1,14 @@
+Direction: incoming
+Duration: 15m 5s
+Started: 2025-12-04T20:30:00+00:00
+Completed: 2025-12-04T20:45:05+00:00
+
+SUMMARY: Owner called to review application details and fleet info. Discussed number of trucks (4), types of tows (light duty / medium), GPS tracking, and maintenance records. Agent requested driver MVRs and VIN roster to complete underwriting. Timeline: agent expects carrier feedback in 24-72 hours after documents provided.
+
+TRANSCRIPT SNIPPET:
+AGENT: Hi, this is Alex with North Star Brokerage — thanks for calling. Can you confirm the number of tow trucks?
+OWNER: Yes, four active units, three operators aside from me.
+AGENT: Great. We'll need VINs and MVRs for the listed drivers. Also any past loss details — you mentioned no claims in recent years?
+OWNER: Correct, no claims in the past five years.
+AGENT: Perfect. Once we have those items we'll push to the carrier for formal pricing. Expect a quote within a couple of days.
+

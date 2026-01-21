@@ -1,0 +1,16 @@
+Direction: incoming
+Duration: 3m 2s
+Started: 2025-12-04T21:37:59.949000+00:00
+Completed: 2025-12-04T21:41:33+00:00
+
+[SUMMARY]
+Next Steps: Schedule a callback to continue application intake and confirm a few address and service details.
+
+[TRANSCRIPT]
+EXTERNAL CONTACT: Hi, this is Lindsay at the Commercial Insurance Center. I'm holding for Marcus Lee with Riverbend Tire & Service.
+HARPER AGENT: Hello, this is Shanika with Harper Insurance. How can I help?
+EXTERNAL CONTACT: Marcus, are you available? We show this is a used tire dealer and sometimes you do installations as well.
+EXTERNAL CONTACT: Can you confirm the exact address number and whether services are provided on-site?
+EXTERNAL CONTACT: Marcus: Yes, it's the one location and we do some installations occasionally.
+HARPER AGENT: Great — thank you. We'll finish intake and follow up for any missing documents. I'm going to call back in a minute because of audio issues.
+EXTERNAL CONTACT: Okay, thanks.

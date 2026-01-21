@@ -1,0 +1,21 @@
+Direction: incoming
+Duration: 26m 5s
+Started: 2025-12-04T19:28:00+00:00
+Completed: 2025-12-04T19:53:25+00:00
+
+[SUMMARY]
+Next steps: prepare GL/BOP quote based on facility details, request loss runs and confirm licensing docs. Follow up within 24-48 hours.
+
+[CONCISE TRANSCRIPT - sanitized]
+Harper Agent: Hi, this is Michael from Harper Insurance. How are you?
+Client: Hi, I'm Emma Johnson from Brightview Adult Day Center.
+Harper Agent: Thanks — I'll confirm your address and licensing details for the submission. Can you confirm the facility capacity and staffing?
+Client: Yes — licensed for up to 40 clients, typically 15–20 on a busy day. We have an RN on staff and several trained aides. Transportation is handled by third-party vendors.
+Harper Agent: Great. Do you have cameras, written evacuation plans, and CPR-trained staff?
+Client: Yes to all. We also require background checks and training for staff.
+Harper Agent: Any recent claims or incidents?
+Client: No claims in the last several years.
+Harper Agent: Perfect. We'll submit this to our carriers and expect initial quotes in 24–48 hours. We'll text and email you when quotes arrive.
+Client: Thank you.
+
+Note: license number and phone numbers have been redacted for privacy and replaced with internal references.

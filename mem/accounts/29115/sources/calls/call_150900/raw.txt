@@ -1,0 +1,16 @@
+Direction: outgoing
+Duration: 3m 5s
+Started: 2025-12-05T02:15:00+00:00
+Completed: 2025-12-05T02:18:05+00:00
+
+[SUMMARY]
+Follow-up call to review preliminary quote indications and confirm next steps.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Brandon, this is Alex Rivera from Harper Insurance — following up on the submission and preliminary quotes we emailed this morning.
+APPLICANT: Hi Alex, yes I saw the email, thanks.
+HARPER AGENT: Great — did you have questions on limits or payment options?
+APPLICANT: I'm good for now; I want to review the documents and compare the E&O wording to our prior policy.
+HARPER AGENT: Understood. I'll send the detailed quote packet and E&O sample wording to your primary email. If everything looks good, we can collect signatures and bind once underwriting clears subjectivities. I'll check back in two business days. Thanks for your time.
+APPLICANT: Appreciate it — talk soon.
+HARPER AGENT: Bye.

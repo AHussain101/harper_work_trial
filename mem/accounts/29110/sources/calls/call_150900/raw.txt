@@ -1,0 +1,15 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T09:15:00+00:00
+Completed: 2025-12-05T09:16:35+00:00
+
+[SUMMARY]
+Follow-up call from Harper to client to confirm documents and next steps.
+
+[TRANSCRIPT - sanitized]
+HARPER AGENT: Hi Neil, this is HARPER EMPLOYEE from Harper — just checking that you received the underwriter's request for testing certificates and loss runs.
+EXTERNAL CONTACT: Yes I did. I'm pulling the third-party test reports and will upload them to the portal.
+HARPER AGENT: Great — once we receive those we can firm up pricing and territory endorsements. We expect preliminary terms in 24-48 hours after submission.
+EXTERNAL CONTACT: Sounds good. I'll upload the documents and confirm the subsidiary list by end of day.
+HARPER AGENT: Thanks — we'll follow up with the initial quote and a short call to review.
+

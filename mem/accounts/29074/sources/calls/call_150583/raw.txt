@@ -1,0 +1,20 @@
+Direction: incoming
+Duration: 41m 58s
+Started: 2025-12-04T21:05:51.196000+00:00
+Completed: 2025-12-04T21:48:02+00:00
+
+[SUMMARY]
+Initial intake call for MapleBridge Staffing (temporary clerical/professional placements). Client seeks Cyber, Professional Liability, Employer's Liability, Crime, GL and a high-limit Umbrella for contract compliance. Underwriter submissions to follow after loss runs are received.
+
+[HIGHLIGHTS]
+- Caller introduced client and described staffing scope (clerical/professional only)
+- Confirmed business address and basic financials (annual revenue ~ $500k, payroll ~ $300k)
+- Client indicated need for multi-state capabilities and rapid COI issuance
+- Agent requested loss runs and confirmed next steps (carrier submission ~ 48–72 hours after documents received)
+
+[REDACTED/NOTES]
+- Personal phone numbers and system lead references have been redacted or generalized
+- EIN provided by client was recorded as EIN 33-410-XXXX (masked)
+
+Created: 2025-12-04T21:05:51+00:00
+Completed: 2025-12-04T21:48:02+00:00

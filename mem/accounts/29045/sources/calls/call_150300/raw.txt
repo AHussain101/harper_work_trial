@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 2m 2s
+Started: 2025-12-05T16:10:00+00:00
+Completed: 2025-12-05T16:12:02+00:00
+
+[SUMMARY]
+Harper agent called client to review the preliminary indication and next steps.
+
+[NOTES]
+Agent: Jordan (Harper)
+Client: Mary Cox (Green Valley Orchards)
+Discussion: Agent reviewed the carrier indication (estimated ~ $6.1k), explained subjectivities (signed app, payroll docs, loss runs), and scheduled a brief follow-up call after client locates payroll records. Client agreed to upload documents to the secure portal and to be available for a 10-minute call the following morning.
+
+No account numbers, links, or tax IDs were included in the call log; any identifiers are stored separately and redacted here.

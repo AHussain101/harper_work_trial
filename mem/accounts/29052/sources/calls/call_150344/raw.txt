@@ -1,0 +1,34 @@
+Direction: incoming
+Duration: 12m 22s
+Started: 2025-12-04T19:12:10+00:00
+Completed: 2025-12-04T19:24:12+00:00
+
+[SUMMARY]
+Next Steps:
+- Submit the gathered information for a quote.
+- Reach back out to Mr. Johnson within 24-48 hours with the insurance quote.
+- Ensure the quote includes the requested one-million-dollar GL requirement.
+
+Summary:
+Jordan Kim from Harper Insurance received a lead from a referral partner for a customer in Georgia seeking general liability insurance for a taxi business. Jordan gathered information from the customer, Marcus Johnson, regarding operations and insurance needs. The owner uses an interior/exterior camera system, plans to hire in the future, and requires a one-million-dollar policy. Jordan will submit the information and follow up with a quote in 24-48 hours.
+
+[TRANSCRIPT]
+HARPER AGENT: This is Jordan with Harper Insurance.
+REFERRAL PARTNER: Hi Jordan, I have a customer on the line in Georgia needing GL for a taxi business.
+HARPER AGENT: Great, go ahead and transfer him.
+REFERRAL PARTNER: One moment, here is the customer.
+HARPER AGENT: Hello, this is Jordan at Harper. How can I help you today?
+EXTERNAL CONTACT: Hi, I'm Marcus Johnson. I just started a taxi service in Woodstock.
+HARPER AGENT: Thanks, Marcus. Is this a scheduled service or street-haul taxi?
+EXTERNAL CONTACT: Scheduled rides, mostly local. I run about 10-20 trips a day.
+HARPER AGENT: Do you use the vehicle for any other purpose?
+EXTERNAL CONTACT: No, it's strictly for the taxi business and titled to me personally.
+HARPER AGENT: Any cameras or safety equipment?
+EXTERNAL CONTACT: Yes, we have interior and exterior recording cameras and I completed defensive driving training.
+HARPER AGENT: Great. Are you seeking a one-million-dollar general liability limit?
+EXTERNAL CONTACT: Yes, that's what is required for a few local contracts.
+HARPER AGENT: Got you. Let me confirm your contact details: email marcus.johnson@elmstreettaxi.com and phone (770) 555-0143. Is that correct?
+EXTERNAL CONTACT: Correct.
+HARPER AGENT: Perfect — I'll submit this for quotes and we'll follow up in 24-48 hours.
+EXTERNAL CONTACT: Thank you, Jordan.
+HARPER AGENT: You're welcome. Bye.

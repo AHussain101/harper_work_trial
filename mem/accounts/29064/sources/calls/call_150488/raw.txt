@@ -1,0 +1,23 @@
+Direction: incoming
+Duration: 2m 37s
+Started: 2025-12-04T20:31:00+00:00
+Completed: 2025-12-04T20:33:37+00:00
+
+[SUMMARY]
+Next steps: verify and process the application for Summit BioDevices; request prior loss runs and product specs as needed.
+
+[TRANSCRIPT]
+HARPER AGENT: Thank you for calling Harper Insurance — this is Stacia. How can I help?
+EXTERNAL CONTACT (Tivoli rep): Hello, I have a client for you. She's in Utah looking for general liability and workers' comp for a small device company.
+HARPER AGENT: Great — what's the company name?
+EXTERNAL CONTACT: Summit BioDevices (spelled out).
+HARPER AGENT: Perfect. Please transfer the owner over when ready.
+
+[TRANSFER TO OWNER]
+HARPER AGENT: Hi Becca, this is Stacia at Harper. Can you describe your operations so I pull the correct application?
+EXTERNAL CONTACT (Becca): Sure. We manufacture a small benchtop research device for laboratory use. It's a compact plastic unit that processes small biological samples and uses single‑use consumable chips.
+HARPER AGENT: That helps a lot — I'll use that wording for the submission. If you have a product spec sheet or sample handling instructions, please upload them. Also, loss runs (if any) will help speed carrier review.
+EXTERNAL CONTACT: Okay, I'll get those.
+HARPER AGENT: Thanks — we'll start the submission and expect initial responses in about 2–3 business days.
+EXTERNAL CONTACT: Appreciate it. Thank you.
+HARPER AGENT: You're welcome — have a good day.

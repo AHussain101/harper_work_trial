@@ -1,0 +1,15 @@
+Subject: Request: Site photos & lot plan for underwriting
+From: Natalie Kim <natalie.kim@harperinsure.com>
+To: karen.martinez@lakesidelandworks.com
+Date: 2025-12-05T02:45:00+00:00
+Direction: outbound
+
+Hi Karen,
+
+Underwriters have asked for a few site photos (access points, erosion controls, and typical lot conditions) and a short copy of the lot plan or grading plan if available. You can upload those to the same portal: https://portal.example-insure.com/upload/abcd
+
+If it's easier, reply to this email and we can arrange an agent to come by for a short site visit.
+
+Thanks,
+Natalie Kim
+Harper Insurance

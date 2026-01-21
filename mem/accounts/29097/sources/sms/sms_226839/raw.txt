@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-05T03:06:20.000000+00:00
+
+New quote available for review. We just emailed the packet and sent a secure payment link. Let us know a good time to discuss next steps.

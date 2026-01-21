@@ -1,0 +1,20 @@
+Subject: Initial estimate for Brightside Playthings LLC
+From: harper_employee@harperinsure.com
+To: neil.carter@brightsideplaythings.com
+Date: 2025-12-05T02:15:00+00:00
+Direction: outbound
+
+Harper Insurance Quote
+
+Hello Neil,
+
+We have an initial program estimate back from the market. High-level estimate: total program cost in the low tens of thousands per year (approximately $18k/year), depending on final territories and subjectivities. Carrier-specific terms and subjectivities still pending.
+
+Payment options and final premium will be provided on the formal quote. To complete the file, please upload requested documents (loss runs, product testing reports, recall plan) via: https://payments.example-insure.com/quote-abc123
+
+If you'd like to discuss the options, reply to this email or call your Harper contact.
+
+Best,
+HARPER EMPLOYEE
+Harper Insurance
+harper_employee@harperinsure.com

@@ -1,0 +1,15 @@
+Direction: outgoing
+Duration: 2m 0s
+Started: 2025-12-05T14:00:00+00:00
+Completed: 2025-12-05T14:02:00+00:00
+
+[SUMMARY]
+Follow-up call to review quote timing and next steps.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marcus, this is Jordan from Harper — just following up. We've submitted your application to a few carriers and expect initial quotes within 24-48 hours.
+EXTERNAL CONTACT: Okay, great — thanks for the update.
+HARPER AGENT: Once quotes arrive, we'll email the details and text to schedule a quick review call. Any questions in the meantime, reply to our email.
+EXTERNAL CONTACT: Perfect. Appreciate it.
+HARPER AGENT: Talk soon — bye.
+

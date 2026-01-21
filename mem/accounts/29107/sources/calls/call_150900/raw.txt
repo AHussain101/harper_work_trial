@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 4m 0s
+Started: 2025-12-05T01:05:00+00:00
+Completed: 2025-12-05T01:09:00+00:00
+
+[SUMMARY]
+Follow-up call to confirm receipt of licensing documents and program requirements; scheduled next steps to upload vehicle details and prior policy declaration pages.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Sonia, this is Jordan from Harper following up — did you get a chance to upload the licensing and requirement letter?
+EXTERNAL CONTACT: Yes, I uploaded the files to the secure portal a few minutes ago.
+HARPER AGENT: Great. Could you also send the vehicle year/make/model and we will record a masked VIN for quoting? We only need the last 4 digits for our initial submission.
+EXTERNAL CONTACT: Sure — I'll send that via the secure form.
+HARPER AGENT: Excellent. We'll move forward with submissions and call back with any clarifying questions.

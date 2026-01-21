@@ -1,0 +1,25 @@
+Direction: outgoing
+Duration: 4m 3s
+Started: 2025-12-04T18:33:28.610000+00:00
+Completed: 2025-12-04T18:37:46+00:00
+
+[SUMMARY]
+Next Steps:
+- Email quotes to the applicant within 24-48 business hours
+- Confirm contact details and follow-up line for intake
+
+Summary:
+Harper agent followed up with Marco to confirm shop address, operations (no vehicle storage), coverage limit and deductible preferences. Agent confirmed mobile percentage and contact email for quote delivery.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marco, this is Alex following up from Harper Insurance.
+EXTERNAL CONTACT: Hi.
+HARPER AGENT: Quick check — your shop address is 12345 Elm St, Springfield, and tinting is the only service performed, correct?
+EXTERNAL CONTACT: Correct.
+HARPER AGENT: And you want $1,000,000 limit with a $500 deductible?
+EXTERNAL CONTACT: Yes.
+HARPER AGENT: And 25% of work is mobile?
+EXTERNAL CONTACT: Yes.
+HARPER AGENT: Great — we will email quotes to the address we have on file and use our intake follow-up line for any texts. Expect the quotes in 24-48 hours.
+EXTERNAL CONTACT: Perfect, thank you.
+HARPER AGENT: Thanks Marco, have a good day.

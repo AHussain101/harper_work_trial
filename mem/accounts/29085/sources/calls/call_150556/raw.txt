@@ -1,0 +1,22 @@
+Direction: incoming
+Duration: 1m 37s
+Started: 2025-12-04T21:34:09.784000+00:00
+Completed: 2025-12-04T21:36:17+00:00
+
+[SUMMARY]
+Next Steps:
+- Harper to follow up with carrier intake if transfer fails
+- Confirm lead reference and attempt warm transfer again
+
+Summary:
+A referral partner called about a New York full-service restaurant and bar seeking General Liability. The partner (Maya at Tivoli) attempted to warm-transfer the owner but the line dropped before the handoff. Harper agent took the details and will reattempt contact using the referenced lead ref "L-4820".
+
+[TRANSCRIPT]
+HARPER AGENT: Insurance, this is Samir at Harper.
+EXTERNAL CONTACT: Hi — this is Maya from Tivoli. I have a customer in New York needing General Liability for a full-service restaurant and bar.
+HARPER AGENT: Great, thanks. Do you have the lead reference?
+EXTERNAL CONTACT: Yes — reference L-4820.
+HARPER AGENT: Perfect. We'll look that up. Would you like to try a transfer again?
+EXTERNAL CONTACT: I attempted, but the line dropped. I'll try reaching them again and call you back.
+HARPER AGENT: Sounds good — thanks for sending the referral.
+EXTERNAL CONTACT: Thanks, bye.

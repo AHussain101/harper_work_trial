@@ -1,0 +1,29 @@
+Direction: outgoing
+Duration: 14m 39s
+Started: 2025-12-04T20:30:06.106000+00:00
+Completed: 2025-12-04T20:44:57+00:00
+
+[SUMMARY]
+Next Steps:
+- Submit the insurance application for the group home
+- Await underwriter responses (24–48 business hours)
+- Review quotes and any carrier subjectivities
+
+Summary:
+Marcus (owner) is applying for general liability for a group home (Riverbend Care Homes). Facility currently set up for five licensed beds; Marcus anticipates expanding in the future and was advised to notify the broker when changes occur. One non-medical caregiver is planned as the initial employee. Smoke detectors, fire alarms, and exit door alarms are in place. A state inspection will follow once insurance is in place.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi — is this Marcus?
+EXTERNAL CONTACT: Yes.
+HARPER AGENT: This is James with Harper Insurance. How are you today?
+EXTERNAL CONTACT: Doing pretty good, thanks.
+HARPER AGENT: I see you were looking for general liability for a group home — I can help. We have your location at 9008 Kinsley Drive in Mapleton, Ohio.
+EXTERNAL CONTACT: That's right.
+HARPER AGENT: Are you currently operating with residents?
+EXTERNAL CONTACT: Not yet — we're preparing to license and need insurance first.
+HARPER AGENT: Got it. How many licensed beds are planned now?
+EXTERNAL CONTACT: Five, but we may expand down the road.
+HARPER AGENT: If you expand or change the resident profile, just let us know and we'll update the policy. For now we'll submit for the current operation and provide quotes shortly.
+EXTERNAL CONTACT: Sounds good — thank you.
+HARPER AGENT: We'll be in touch as carriers respond. Have a great day.
+EXTERNAL CONTACT: You too. Bye.

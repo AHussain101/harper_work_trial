@@ -1,0 +1,14 @@
+Subject: Insured completed e-signing for Application 48-1032
+From: donotreply@onlinemga.com
+To: avery.collins@harperinsure.com
+Date: 2025-12-04T20:47:57+00:00
+Direction: inbound
+
+Dear Avery,
+
+The insured, David Mercer, has completed signing the application documents via electronic signature for application 48-1032. These documents now require your signature to proceed.
+
+Company: Summit Ridge Roofing & Exteriors
+Effective Date: 2025-12-04
+
+Please review the application page and sign to finalize binding: https://portal.example-mga.com/applications/48-1032

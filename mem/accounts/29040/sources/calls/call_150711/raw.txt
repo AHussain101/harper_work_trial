@@ -1,0 +1,9 @@
+Direction: outgoing
+Duration: 1m 6s
+Started: 2025-12-04T23:28:20.933000+00:00
+Completed: 2025-12-04T23:29:42.000000+00:00
+
+[SUMMARY]
+Next steps: client to review emailed quote and call back to discuss payment options or bind.
+
+Summary: Harper agent called Marcus to confirm quote delivery and answer any immediate questions. Total proposal amount referenced as approximately $9.4k. Client will review and call back the next day.

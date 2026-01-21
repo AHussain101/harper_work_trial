@@ -1,0 +1,21 @@
+Subject: Harper Insurance — Initial Quote for Little Scholars Academy
+From: Jordan Kim <jordan.kim@harperinsure.com>
+To: emily.rivera@littlescholars.example
+Date: 2025-12-05T02:15:00+00:00
+Direction: outbound
+
+Hello Emily,
+
+Good news — we've received initial quotes from carriers for General Liability for Little Scholars Academy. Summary (approximate):
+- Carrier premium and fees: about $8.9k
+- Brokerage service fee: about $450
+- Estimated total due: about $9.4k
+
+You can review payment and billing options in your secure portal: https://payments.example-insure.com/quote-abc123
+
+This quote includes standard liability limits (1M per occurrence / 2M aggregate). If you'd like to add abuse & molestation coverage or adjust limits, reply and we can update the submission.
+
+Thanks,
+Jordan Kim
+Harper Insurance
+jordan.kim@harperinsure.com

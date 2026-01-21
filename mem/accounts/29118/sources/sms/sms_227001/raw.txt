@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-05T12:05:00+00:00
+
+Please upload required documents here: https://portal.example-insure.com/upload/blue-sky — this helps carriers finalize terms faster.

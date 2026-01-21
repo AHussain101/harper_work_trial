@@ -1,0 +1,11 @@
+Direction: outgoing
+Duration: 0m 37s
+Started: 2025-12-04T22:13:39.600000+00:00
+Completed: 2025-12-04T22:14:52+00:00
+
+[SUMMARY]
+Next Steps:
+- Client to review voicemail and call Harper during business hours if needed.
+
+Summary:
+James from Harper Insurance left a callback voicemail regarding Lakeside Landworks LLC's insurance inquiry and provided Harper's main line for follow up during business hours.

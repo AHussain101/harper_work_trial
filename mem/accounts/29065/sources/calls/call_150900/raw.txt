@@ -1,0 +1,15 @@
+Direction: incoming
+Duration: 5m 20s
+Started: 2025-12-04T22:10:00+00:00
+Completed: 2025-12-04T22:15:20+00:00
+
+[SUMMARY]
+Client (Harold Jensen) called to discuss the USLI declination and next steps. Harper agent explained eligibility reasons at a high level, recommended alternative carrier targets, and confirmed the client wants Harper to pursue specialty markets.
+
+[DETAILS]
+- Client asked why the submission was declined; agent summarized underwriting notes without reproducing sensitive carrier memos.
+- Agent suggested sending an expanded submission package to two specialty carriers and to include a management practices statement and more detailed revenue breakdowns.
+- Client authorized Harper to proceed and requested an email summary and timeline.
+
+Agent: Jordan Kim (Harper Operations)
+Outcome: Agent to prepare submissions to alternate markets within 48 hours and email summary to client.

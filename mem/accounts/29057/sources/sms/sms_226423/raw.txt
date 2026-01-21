@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-04T20:08:14.824000+00:00
+
+[image sent: policy-declarations.png]

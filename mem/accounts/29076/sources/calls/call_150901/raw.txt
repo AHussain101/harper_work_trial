@@ -1,0 +1,15 @@
+Direction: outgoing
+Duration: 3m 0s
+Started: 2025-12-06T15:00:00+00:00
+Completed: 2025-12-06T15:03:00+00:00
+
+[SUMMARY]
+Harper agent Priya Patel called to review the preliminary quote and payment options with Naomi. Discussed coverage limits and next steps to bind.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Naomi, this is Priya at Harper — I wanted to review the preliminary quote and your options.
+CLIENT: Hi Priya — yes, I saw the estimate in my email.
+HARPER AGENT: The estimate is a rounded figure; if you'd like higher professional limits or additional endorsements we can update the quote. When you upload the staff training and client agreements, underwriting can finalize the premium.
+CLIENT: Okay — I'll upload those this afternoon.
+HARPER AGENT: Great. Once underwriting signs off, we can proceed to bind and I'll send the policy documents.
+

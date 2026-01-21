@@ -1,0 +1,22 @@
+Subject: Please upload licensing & staffing documents
+From: harper_employee@harperinsure.com
+To: marcus.hale@riverbendcare.com
+Date: 2025-12-05T08:12:00+00:00
+Direction: outbound
+
+Document Request
+
+Hi Marcus,
+
+As a quick follow-up, please upload the following when available so we can address carrier subjectivities faster:
+- Any provisional licensing paperwork or pending inspection appointment details
+- A brief staffing roster (names not required; role and hours is sufficient)
+- Floor plan indicating exits and smoke detector locations
+
+Upload here: https://portal.example-insure.com/upload
+
+If you need help scanning or uploading, reply and we can assist.
+
+Thanks,
+HARPER EMPLOYEE
+harper_employee@harperinsure.com

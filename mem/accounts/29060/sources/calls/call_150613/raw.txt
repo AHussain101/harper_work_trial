@@ -1,0 +1,12 @@
+Direction: incoming
+Duration: 3m 43s
+Started: 2025-12-05T14:20:15+00:00
+Completed: 2025-12-05T14:24:58+00:00
+
+[SUMMARY]
+Next Steps:
+- Schedule a short site visit to document lot conditions.
+- Client to upload site photos to secure portal.
+
+Summary:
+Karen Martinez called to confirm coverage needs for lot-prep and site exposure. Agent discussed general liability limits (recommended starting coverages), confirmed that Heavy equipment exposures are included on application, and scheduled a site visit next week to gather photos for underwriting.

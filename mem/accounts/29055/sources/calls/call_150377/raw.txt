@@ -1,0 +1,31 @@
+Direction: incoming
+Duration: 8m 1s
+Started: 2025-12-04T19:44:00+00:00
+Completed: 2025-12-04T19:52:01+00:00
+
+[SUMMARY]
+Next Steps:
+- Wait for the insurance quote via email
+- Review the quote and contact Harper Insurance with questions
+
+Summary:
+Client called for a general liability quote for security consulting. Intake captured business details and requested minimum limits. Quote will be emailed within 24-48 hours.
+
+[TRANSCRIPT]
+HARPER AGENT: Thank you for calling Harper. This is HARPER EMPLOYEE. How can I help you?
+EXTERNAL CONTACT: Hi — this is Alicia from Tivoli, I have a customer in South Carolina who needs general liability for security work.
+HARPER AGENT: Okay, go ahead and transfer them when ready.
+EXTERNAL CONTACT: I'm transferring now.
+HARPER AGENT: Hello — are you Marcus?
+EXTERNAL CONTACT: Yes. I'm Marcus Thompson.
+HARPER AGENT: Great. We'll assist with a General Liability quote. Can you confirm your business address?
+EXTERNAL CONTACT: It's the address in Cedarville, South Carolina.
+HARPER AGENT: And your email we have on file is marcus.thompson@sentinelshield.com — is that correct?
+EXTERNAL CONTACT: Yes.
+HARPER AGENT: Do you have employees or are you doing consulting only?
+EXTERNAL CONTACT: No employees — I do consulting and contract security work; some sites require armed services.
+HARPER AGENT: Understood. What's your estimated annual revenue?
+EXTERNAL CONTACT: About $61,000.
+HARPER AGENT: Thanks — I'll submit this for underwriting. Expect an email from Harper or from one of our carrier partners in 24-48 hours.
+EXTERNAL CONTACT: Appreciate it, thank you.
+HARPER AGENT: You're welcome. Have a good day.

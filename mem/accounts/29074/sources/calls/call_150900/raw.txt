@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 1m 18s
+Started: 2025-12-05T08:15:00+00:00
+Completed: 2025-12-05T08:16:18+00:00
+
+[SUMMARY]
+Follow-up call from Harper to MapleBridge Staffing to confirm receipt of COI requirements and to request loss runs. Client confirmed they would upload the documents to the secure portal and noted an urgent contract deadline next week.
+
+[NOTES]
+- Advised client to upload loss runs and any client contract language to https://portal.example-insure.com/upload
+- Confirmed Harper will escalate to underwriting once documents arrive
+
+Created: 2025-12-05T08:15:00+00:00
+Completed: 2025-12-05T08:16:18+00:00

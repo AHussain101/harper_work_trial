@@ -1,0 +1,14 @@
+Subject: Workers' Compensation Quote - Lakeside Freight & Logistics LLC
+From: underwriting@atlanticmutual.example
+To: submissions@harperinsure.com
+Date: 2025-12-05T09:10:00+00:00
+Direction: inbound
+
+Carrier quote provided for Lakeside Freight & Logistics LLC (workers' compensation).
+
+Carrier: Atlantic Mutual (sample)
+Premium estimate (annual, incl. fees/taxes): around $1.8k
+Coverage: State-mandated workers' compensation limits for NC, local operations only
+Notes: Rate assumes one part-time driver, limited local routes; final premium subject to payroll verification and underwriting review.
+
+If acceptable, please confirm effective date and upload proof of payroll for confirmation.

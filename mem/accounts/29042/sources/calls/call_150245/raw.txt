@@ -1,0 +1,47 @@
+Direction: incoming
+Duration: 8m 52s
+Started: 2025-12-04T18:24:06.924000+00:00
+Completed: 2025-12-04T18:33:21+00:00
+
+[SUMMARY]
+## Next Steps:
+- Submit the insurance request for Maple Stoneworks.
+- Communicate with the customer via email and text for follow-ups.
+
+## Summary:
+Marcus Perez in Florida needs Workers' Compensation and General Liability for his stone fabrication and installation business.
+Operations: manufacture and install engineered stone surfaces (showers, walls, countertops).
+Been in business ~11 years; gross revenue around $250k.
+Requested limits: GL about $500k and Workers' Comp at $100k.
+One full-time employee with payroll around $34k; no prior workers' comp losses reported.
+
+[TRANSCRIPT]
+HARPER AGENT: This is Mia from Harper. How can I help you today?
+EXTERNAL CONTACT: Hi, this is Carlos with a partner agency. I have a customer in Florida needing GL and workers' comp; they fabricate and install marble/stone.
+HARPER AGENT: We can help. Can I transfer the caller?
+EXTERNAL CONTACT: Yes, thanks. Marcus, I'm going to transfer you.
+HARPER AGENT: Hi Marcus — I'm Mia and I'll assist you. You're requesting General Liability and Workers' Comp, correct?
+EXTERNAL CONTACT: Yes.
+HARPER AGENT: How long have you been in business?
+EXTERNAL_CONTACT: About eleven years under current ownership.
+HARPER_AGENT: Do you sell directly to customers or through contractors?
+EXTERNAL_CONTACT: Direct to customers and contractors.
+HARPER_AGENT: Do you manufacture everything in-house?
+EXTERNAL_CONTACT: Yes, all in-house.
+HARPER_AGENT: Any recalls or quality issues before?
+EXTERNAL_CONTACT: No.
+HARPER_AGENT: What limits are you looking for?
+EXTERNAL_CONTACT: We previously had a $1M policy but would be fine with $500k unless a specific job requires more.
+HARPER_AGENT: For Workers' Comp, do you have your EIN handy?
+EXTERNAL_CONTACT: Yes — EIN 48-1032 (synthetic).
+HARPER_AGENT: Do you want owners included on the comp policy?
+EXTERNAL_CONTACT: Exclude the owner.
+HARPER_AGENT: How many employees?
+EXTERNAL_CONTACT: One employee.
+HARPER_AGENT: Payroll for that employee?
+EXTERNAL_CONTACT: About $34k.
+HARPER_AGENT: Any prior claims?
+EXTERNAL_CONTACT: None.
+HARPER_AGENT: Great. I'll submit this for quotes; expect carrier responses in 24-48 hours. You'll receive emails from Harper and a text to schedule a follow-up call.
+EXTERNAL_CONTACT: Sounds good. Thank you.
+HARPER_AGENT: Thanks, Marcus. Have a great day.

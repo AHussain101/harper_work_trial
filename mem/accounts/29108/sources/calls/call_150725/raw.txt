@@ -1,0 +1,10 @@
+Direction: incoming
+Duration: 23m 19s
+Started: 2025-12-04T23:21:59.255000+00:00
+Completed: 2025-12-04T23:45:51+00:00
+
+[SUMMARY]
+Next steps: follow up with provider and referral partner to confirm contract requirements and finalize workers' comp adjustments by the next business day. Expect carrier quote within 24-48 hours.
+
+[CALL NOTES]
+Harper rep (Jordan Kim) spoke with referral partner and the business owner (Maya Thompson) about a workers' compensation application for home health aide services in Tennessee. Key points captured: business is newly operating (~1 year), owner is sole worker for now, prior policy exists but needs adjustment for contract requirements (request for higher employer liability limits). Owner will send the contract requirements and W-9; EIN and other sensitive identifiers were redacted from the transcript for privacy. Harper will submit to carriers and follow up with quotes.

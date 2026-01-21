@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-05T02:46:10.000000+00:00
+
+Quick reminder: please upload site photos and the lot plan (if available) at https://portal.example-insure.com/upload/abcd so underwriting can proceed.

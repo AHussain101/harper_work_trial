@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-04T22:27:46.727000+00:00
+
+When we have quote options, an agent will call to finalize coverage. Any questions before then, just reply here.

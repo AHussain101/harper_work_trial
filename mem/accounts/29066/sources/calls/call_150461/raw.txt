@@ -1,0 +1,35 @@
+Direction: incoming
+Duration: 10m 47s
+Started: 2025-12-04T20:34:56.836000+00:00
+Completed: 2025-12-04T20:46:13+00:00
+
+[SUMMARY]
+## Next Steps:
+- Provide a quote for approximately $1.0M general liability (estimate provided to support license application)
+- Confirm safety procedures, training plans, and license copies
+- Clarify hourly billing assumptions for guard services
+- Follow up with any additional licensing or underwriting subjectivities
+
+## Summary:
+Jonah from Tivoli called Harper Insurance to transfer a new lead for Sentinel Field Security LLC (Florida). The owner, Ari Novak, is seeking minimum coverage to support a licensing application and expects initial operations to be unarmed; armed services may be added later. Training programs, background checks, incident reporting, and record retention (approx. 7 years) are in place. Owner has prior experience managing security companies abroad.
+
+[TRANSCRIPT - sanitized]
+HARPER AGENT: Harper Insurance, this is HARPER EMPLOYEE.
+EXTERNAL CONTACT: Hi, HARPER EMPLOYEE. This is Jonah with Tivoli; I'm transferring Ari Novak from Sentinel Field Security.
+HARPER AGENT: Thanks, Jonah. Ari, are you there?
+OWNER: Yes, hi. I'm Ari.
+HARPER AGENT: You're applying for general liability to meet the licensing requirement in Florida — can you confirm the required limit?
+OWNER: The ticket says around one million; we primarily need the minimum to apply for the license.
+HARPER AGENT: Understood. Do you have a business address and contact on file?
+OWNER: Yes, 1234 Central Ave, Suite 900, and our business contact is contact@sentinelfield.com.
+HARPER AGENT: Any previous operations or discontinued businesses under a different entity?
+OWNER: I ran a similarly named company in the past under a different corporate form, but this LLC is new and was reactivated recently.
+HARPER AGENT: Any employees yet?
+OWNER: No, just myself for now.
+HARPER AGENT: Training and procedures?
+OWNER: We will maintain incident reports, do background checks and drug screening, have a drug & alcohol policy, and hold regular safety/training meetings. We expect training hours around 40/year and record retention in line with state requirements (about 7 years).
+HARPER AGENT: Will services be unarmed initially?
+OWNER: Yes, unarmed to start. We'll expand into armed services later once licensed.
+HARPER AGENT: Thanks. We'll upload the application and aim to return initial quotes in 24–48 hours.
+OWNER: Appreciate it. Thank you.
+HARPER AGENT: Bye.

@@ -1,0 +1,14 @@
+Direction: incoming
+Duration: 13m 42s
+Started: 2025-12-04T20:37:47+00:00
+Completed: 2025-12-04T20:51:49+00:00
+
+[SUMMARY]
+Next steps: Submit for dealer's plates / garage liability quote; provide terms within 24-48 hours; follow up with applicant for signed application and confirmation of number of dealer plates.
+
+Summary:
+A referral from a broker was transferred to Harper. The contact (Alex) described Lincoln Auto Traders as a small used car lot at 12345 Main St, Anytown, AL. They are doing an ownership transfer; the new owner is Emma Johnson. There will be two authorized drivers (owner and one employee). They plan to apply for a dealer's license and expect to request up to 6 dealer plates. Estimated annual sales are around $40k. No salvage vehicles, no in-house financing. They prefer state minimum coverage for now. Harper will prepare and submit the application to carriers and provide quotes within 24–48 hours.
+
+[NOTES]
+Sensitive details such as exact DOBs, driver's license numbers, and direct phone numbers have been redacted from this transcript.
+

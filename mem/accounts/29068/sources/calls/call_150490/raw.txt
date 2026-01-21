@@ -1,0 +1,16 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T14:30:00+00:00
+Completed: 2025-12-05T14:31:35+00:00
+
+[SUMMARY]
+Quick follow-up call to confirm document receipt and timing for quotes.
+
+[TRANSCRIPT - sanitized]
+HARPER AGENT: Hi Scott—this is Luis with Harper. I wanted to confirm we received your payroll and subcontractor agreement and that quotes are in process.
+EXTERNAL CONTACT: Yes, I uploaded them this morning.
+HARPER AGENT: Great. We expect preliminary quotes later today or tomorrow. Do you prefer email first or a quick call?
+EXTERNAL CONTACT: Email first, please.
+HARPER AGENT: Perfect—we'll send the quote email when it's ready. Thanks!
+EXTERNAL CONTACT: Thanks, Luis.
+HARPER AGENT: Bye.

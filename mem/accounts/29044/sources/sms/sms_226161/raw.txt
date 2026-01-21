@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-04T18:30:10+00:00
+
+Please save this number. Upload documents here when ready: https://portal.example-insure.com/upload

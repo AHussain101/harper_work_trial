@@ -1,0 +1,29 @@
+Direction: incoming
+Duration: 14m 50s
+Started: 2025-12-04T23:55:01.134000+00:00
+Completed: 2025-12-05T00:10:43+00:00
+
+[SUMMARY]
+Next Steps:
+- Finalize workers' compensation indication with selected carrier (Travelers)
+- Confirm payroll verification and PA employee details
+- Schedule follow-up once carrier provides final pricing
+
+Summary:
+Laura Benson of BrightPath Education Consulting called to arrange workers' compensation for a PA-based employee. Harper collected basic company details, verified payroll (~$100k) and annual revenue (~$750k), and noted the client requested the policy to start the next day. No prior comp claims reported.
+
+[TRANSCRIPT]
+HARPER AGENT: Harper Insurance, this is the intake team. How can I help?
+REFERRAL PARTNER: Hi — I have a client on the line for workers' comp.
+HARPER AGENT: Great, transfer them over.
+HARPER AGENT: Hello, this is Harper. Who am I speaking with?
+CLIENT: Hi, this is Laura Benson with BrightPath Education Consulting.
+HARPER AGENT: Thanks, Laura. You're looking for workers' comp for an employee in Pennsylvania, correct?
+CLIENT: Yes. I hired someone recently and PA requires coverage.
+HARPER AGENT: Got it. Can I confirm payroll and revenue for quoting purposes?
+CLIENT: Payroll is about $100,000 and projected revenue about $750,000.
+HARPER AGENT: Perfect — we'll request indications and aim to have an update within 24–48 hours. When would you like the policy to start?
+CLIENT: As soon as possible — ideally tomorrow.
+HARPER AGENT: Noted. We'll follow up by email with any outstanding items.
+CLIENT: Thank you.
+HARPER AGENT: Thank you, Laura. Bye.

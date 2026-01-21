@@ -1,0 +1,17 @@
+Subject: Welcome — Application Received for Little Scholars Academy
+From: Jordan Kim <jordan.kim@harperinsure.com>
+To: emily.rivera@littlescholars.example
+Date: 2025-12-04T23:05:00+00:00
+Direction: outbound
+
+Hi Emily,
+
+Thanks for submitting the application for Little Scholars Academy. We've received your information and have started the intake process. Our underwriting team will review and you can expect initial carrier interest within 24-48 hours.
+
+If we need any additional documentation (state license, enrollment roster, prior policy details), someone from our team will reach out. In the meantime, please verify the primary contact email and phone number on file.
+
+Best,
+Jordan Kim
+Harper Insurance
+jordan.kim@harperinsure.com
+www.harperinsure.com

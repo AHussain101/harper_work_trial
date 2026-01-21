@@ -1,0 +1,27 @@
+Direction: incoming
+Duration: 3m 21s
+Started: 2025-12-04T22:10:44.206000+00:00
+Completed: 2025-12-04T22:14:21+00:00
+
+[SUMMARY]
+Next steps: Harper to text the contact number on file and await additional business information.
+
+Summary:
+A referral contact connected a client in Arizona for a workers' compensation quote for a long-haul dry-van trucking business. Harper agent Sam picked up the transfer and confirmed basic info. Caller was driving and could not provide full details; Harper will follow up by text with the contact information on file.
+
+[TRANSCRIPT HIGHLIGHTS]
+HARPER AGENT: Thank you for calling Harper. This is Sam.
+EXTERNAL CONTACT: Hi, this is Linda with Tivley. I have a client on my back line in Arizona looking for workers' comp for a trucking business.
+HARPER AGENT: What's the lead reference?
+EXTERNAL CONTACT: It's lead ID 68-8XXX (referral code).
+HARPER AGENT: Got it — you can transfer them now.
+
+HARPER AGENT: Hello, can you hear me? What's your business name?
+EXTERNAL CONTACT: Regal Freight Logistics, Inc.
+HARPER AGENT: And the address?
+EXTERNAL CONTACT: 242 Lake Havasu Blvd, Unit 201, Anytown, AZ 86403 (to be confirmed).
+
+HARPER AGENT: We'll need your federal EIN and payroll details to finish intake. If you prefer, we'll text the number we have on file so you can call back when it's safe.
+EXTERNAL CONTACT: That would be perfect, I'm driving and don't have the details. Thank you.
+HARPER AGENT: No problem — expect a text from Harper and call back when convenient.
+

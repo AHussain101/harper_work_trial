@@ -1,0 +1,34 @@
+Subject: Quote from Harper with Harper Insurance!
+From: HARPER EMPLOYEE <harper_employee@harperinsure.com>
+To: owner@lakeviewjunction.com
+Date: 2025-12-04T23:29:07+00:00
+Direction: outbound
+
+Harper Insurance Quote
+
+Hello Marcus,
+
+Your personalized insurance quote is ready. We've worked with underwriters to secure competitive coverage options tailored to Lakeview Junction Bar & Grill.
+
+Quote prepared for: Lakeview Junction Bar & Grill
+
+Quote breakdown (approx.):
+- Premium and carrier fees: around $8.9k
+- Harper service fee (brokerage): around $450
+- Total amount due (approx.): around $9.4k
+
+Payment options (example):
+- Pay over time: down payment about $2.0k, then roughly $800 per month for ~10 months (illustrative)
+- Pay in full: around $9.4k
+
+Secure payment portal (synthetic): https://payments.example-insure.com/quote-abc123
+
+Disclaimer: Payments do not guarantee coverage; coverage is effective only after written confirmation from the agency and carrier.
+
+Please reply with any questions.
+
+Best regards,
+HARPER EMPLOYEE
+Harper Insurance
+470-664-1345
+harper_employee@harperinsure.com

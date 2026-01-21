@@ -1,0 +1,21 @@
+Subject: Submission Confirmation: Riverbend Care Homes - GL submission
+From: submissions@harperinsure.com
+To: underwriting@carrier-network.example
+Date: 2025-12-04T18:35:10+00:00
+Direction: outbound
+
+Submission Confirmation
+
+Harper has submitted the Riverbend Care Homes application to participating carriers for General Liability consideration. Underwriters may request additional documentation or clarification; we'll relay any subjectivities as they arrive.
+
+Key details submitted:
+- Facility type: Group home for adults with disabilities
+- Licensed beds: 5 (initial)
+- Staffing plan: one non-medical caregiver anticipated
+
+We'll follow up with any carrier questions or initial indications as soon as they are received.
+
+Regards,
+HARPER SUBMISSIONS
+Harper Insurance
+submissions@harperinsure.com

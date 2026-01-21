@@ -1,0 +1,17 @@
+Direction: outgoing
+Duration: 2m 15s
+Started: 2025-12-05T03:10:00+00:00
+Completed: 2025-12-05T03:12:15+00:00
+
+[SUMMARY]
+Quick follow-up call from Jamie to confirm documents were uploaded and to set expectations for underwriting timeline.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marco — this is Jamie at Harper following up. Did you manage to upload the MCS-150 and attorney letter?
+EXTERNAL CONTACT: Yes, I uploaded both and the prior declarations page this morning.
+HARPER AGENT: Great — underwriting will review and may request clarifications about the contractor incident. We expect initial carrier quotes in about 24–48 hours once they finish their review.
+EXTERNAL CONTACT: Okay, thank you — I'll watch my email and phone.
+HARPER AGENT: Perfect. If you have any additional documentation, upload it to the same portal and we will add it to the file.
+EXTERNAL CONTACT: Will do.
+HARPER AGENT: Thank you, Marco. Bye.
+

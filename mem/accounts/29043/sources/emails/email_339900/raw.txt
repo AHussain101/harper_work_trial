@@ -1,0 +1,21 @@
+Subject: Quote Available - Elm Street Tint Co.
+From: Alex Moreno <alex.moreno@harperinsure.com>
+To: marco@elmstreettint.com
+Date: 2025-12-05T07:10:00+00:00
+Direction: outbound
+
+Hello Marco,
+
+We've received preliminary quotes for your general liability request. The carrier-preferred option provides:
+- $1,000,000 limit (per occurrence)
+- Estimated annual premium: around $1.2k (includes carrier fees and state taxes)
+- Broker service fee: approximately $45
+- Estimated total due (if bound): around $1.25k
+
+You can review payment options or request an itemized quote by replying or visiting: https://payments.example-insure.com/quotes/elm-2025
+
+If you want any changes to limits or deductibles before binding, tell us and we will update the submission.
+
+Best,
+Alex Moreno
+Harper Insurance

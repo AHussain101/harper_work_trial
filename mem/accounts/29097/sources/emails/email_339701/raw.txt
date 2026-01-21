@@ -1,0 +1,22 @@
+Subject: Quote Packet: Oakridge Nutrition Clinic
+From: jordan.kim@harperinsure.com
+To: amanda.porter@oakridgenutrition.com
+Date: 2025-12-05T03:05:00+00:00
+Direction: outbound
+
+Amanda,
+
+Attached is the formal quote packet for Oakridge Nutrition Clinic prepared by our underwriters. Key figures (rounded):
+- Estimated premium + fees/taxes: about $3.2k
+- Harper brokerage fee (if applicable): about $120
+- Estimated total: around $3.3k
+
+Payment portal (secure): https://payments.example-insure.com/quote-oxc123
+
+If you want to proceed with binding, reply with your preferred effective date (we can target early December) and confirmation of the billing method.
+
+Thanks,
+Jordan Kim
+Producer
+Harper Insurance
+jordan.kim@harperinsure.com

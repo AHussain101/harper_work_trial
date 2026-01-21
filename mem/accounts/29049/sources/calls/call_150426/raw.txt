@@ -1,0 +1,11 @@
+Direction: outgoing
+Duration: 0m 32s
+Started: 2025-12-04T20:23:19.517000+00:00
+Completed: 2025-12-04T20:23:57+00:00
+
+[SUMMARY]
+Next Steps:
+- Client to call back the Harper agent at the provided office number
+
+Summary:
+A Harper agent left a callback message for the training facility to complete the application for general liability. A callback number was provided for the agent in the message (masked in records).

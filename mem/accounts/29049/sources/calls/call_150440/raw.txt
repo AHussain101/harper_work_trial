@@ -1,0 +1,12 @@
+Direction: incoming
+Duration: 4m 12s
+Started: 2025-12-04T20:25:10.628000+00:00
+Completed: 2025-12-04T20:29:32+00:00
+
+[SUMMARY]
+Next Steps:
+- Schedule callback at 5:00 PM (customer local time)
+- Confirm all required documents are complete and submit to underwriting
+
+Summary:
+Customer expressed frustration about repeating information multiple times. Agent apologized, reviewed status of document review, and escalated to ensure prompt handling. Customer requested a callback and agreed to receive it once documents are reviewed.

@@ -1,0 +1,24 @@
+Direction: outgoing
+Duration: 47m 5s
+Started: 2025-12-04T21:51:15.822000+00:00
+Completed: 2025-12-04T22:38:29+00:00
+
+[SUMMARY]
+Harper agent (Elena Park) completed intake interview with Erin Morales (owner) to gather details for a Business Owners Policy. Discussed services (yoga/Pilates, massage, chiropractor sessions, elective non-diagnostic ultrasounds), contractor relationships (independent contractors with separate coverage), part-time schedule, and revenue estimate. Erin confirmed rent/lease arrangement (does not own building). Agent recommended starting with a $1,000,000 liability limit and submitted the application to carriers.
+
+[TRANSCRIPT - redacted for PII]
+HARPER AGENT: Hi, this is Elena from Harper Insurance. Am I speaking with Erin?
+EXTERNAL CONTACT: Yes.
+HARPER AGENT: Thanks — I'm going to confirm a few details so we can get accurate quotes. You mentioned prenatal/postpartum services and elective ultrasound (non-diagnostic), correct?
+EXTERNAL CONTACT: Correct. We also do Pilates, massage and chiropractic sessions; the clinicians carry their own professional coverage.
+HARPER AGENT: Do you own the building or lease?
+EXTERNAL CONTACT: Lease.
+HARPER AGENT: Any past commercial coverage or claims?
+EXTERNAL CONTACT: No commercial coverage to date, no claims.
+HARPER AGENT: Do you have an EIN to include on the application?
+EXTERNAL CONTACT: I believe it's 48-1032 (synthetic sample).
+HARPER AGENT: Great. For limits I suggest starting with a $1,000,000 occurrence limit; we can adjust later if needed.
+EXTERNAL CONTACT: That sounds good.
+HARPER AGENT: I'll submit this to carriers now and send the quote to your email. Expect an email and a follow-up text within 24-48 hours.
+EXTERNAL CONTACT: Thank you — appreciate it.
+HARPER AGENT: Thanks, Erin. We'll be in touch.

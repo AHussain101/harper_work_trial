@@ -1,0 +1,4 @@
+Direction: outgoing
+Date: 2025-12-05T00:05:12+00:00
+
+Secure upload link sent: https://portal.harperinsure.com/upload/def456 — please upload loss runs and any proof of current coverage.

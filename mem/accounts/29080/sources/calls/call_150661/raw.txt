@@ -1,0 +1,18 @@
+Direction: incoming
+Duration: 1m 35s
+Started: 2025-12-05T14:50:00+00:00
+Completed: 2025-12-05T14:51:35+00:00
+
+[SUMMARY]
+## Next Steps:
+Confirm final limits and provide signed application. Harper to issue final binder after documents received.
+
+## Summary:
+Ethan called back to review the preliminary quote and clarify property limits and deductibles. Harper agent outlined next steps and available limit options.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Ethan — Brandon Hayes at Harper returning your call. I can walk you through options for property limits and deductibles.
+EXTERNAL CONTACT: Thanks, Brandon. We estimate contents around $100k and want to make sure building improvements are covered.
+HARPER AGENT: We can quote a contents limit at about $100k and offer increased limits for improvements; I'll add those options to the submission. Please upload signed application and prior policy declarations and we'll finalize binding.
+EXTERNAL CONTACT: Will do. Appreciate it.
+HARPER AGENT: Great — expect an email with the revised quote this afternoon.

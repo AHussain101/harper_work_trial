@@ -1,0 +1,21 @@
+Subject: Your Harper Insurance Quote for Harrison Automotive LLC
+From: jordan.kim@harperinsure.com
+To: owner@harrisonauto.com
+Date: 2025-12-05T08:15:00+00:00
+Direction: outbound
+
+Olivia,
+
+We've received initial pricing from our market. Summary (illustrative):
+- Estimated policy premium and carrier fees: around $3.2k
+- Harper broker fee: around $150
+- Estimated total due: around $3.4k
+
+To view your quote and securely upload any required documents (dealer license, prior policy), visit https://payments.example-insure.com/quote-harrison-001.
+
+This quote is subject to underwriting review and verification of your dealer license and loss runs. Reply here or call if you'd like to discuss payment options.
+
+Best,
+Jordan Kim
+Harper Insurance
+jordan.kim@harperinsure.com

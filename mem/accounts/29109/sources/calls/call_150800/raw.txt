@@ -1,0 +1,16 @@
+Direction: incoming
+Duration: 3m 5s
+Started: 2025-12-05T00:10:00+00:00
+Completed: 2025-12-05T00:13:05+00:00
+
+[SUMMARY]
+Next Steps: confirm COI requirements for landlord and provide a certificate template; note in file that owner requested clarification on rented premises liability.
+
+Summary:
+Owner called to confirm whether the general liability policy will include liability for the rented premises and whether Harper can provide a certificate for the landlord. Discussed basic confirmation steps and requested a short follow-up email with required documents list.
+
+[TRANSCRIPT]
+EXTERNAL CONTACT: Hi — this is Wei at Boardman Diner & Café. I had a question about the policy — will that cover incidents related to the building we lease?
+HARPER AGENT: General Liability can include rented premises coverage; we'll confirm limits in the quote. We can also issue a COI for your landlord. Please send lease copy and landlord contact for certificate issuance.
+EXTERNAL CONTACT: Great — I'll upload the lease and ask for a COI template.
+HARPER AGENT: Perfect, we'll email the COI template and update the file.

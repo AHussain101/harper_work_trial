@@ -1,0 +1,38 @@
+Direction: incoming
+Duration: 10m 22s
+Started: 2025-12-04T18:13:00+00:00
+Completed: 2025-12-04T18:23:22+00:00
+
+[SUMMARY]
+## Next Steps:
+- Transfer customer info to underwriting
+- Underwriting to follow up via phone and email
+- Clarify cancellation / short-term policy details with service team
+
+## Summary:
+Client (Dr. Marcus Reed) is seeking a minimal workers' compensation policy (officer exclusion / 'ghost' policy) to satisfy a contracting requirement. Prefers email contact. Client asked about month-to-month cancellation and potential fees; agent will escalate.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi — Brandt Insurance, this is Chris.
+EXTERNAL CONTACT: Hello, this is Jamalia with Tivoli. I have a customer from California on my back line who is looking for workers' comp. He's a dentist.
+HARPER AGENT: Okay, we can take the lead. Please transfer him over.
+HARPER AGENT: Hello — this is Chris with Harper Insurance. How are you?
+EXTERNAL CONTACT: I'm doing fine.
+HARPER AGENT: I understand you're looking for workers' compensation for yourself. Can I confirm your name?
+EXTERNAL CONTACT: Yes — Dr. Marcus Reed.
+HARPER AGENT: Thanks. What's the best number to reach you on file?
+EXTERNAL CONTACT: That number is on file with us.
+HARPER AGENT: Is this your first workers' comp policy?
+EXTERNAL CONTACT: Yes — I'm looking for minimal coverage, essentially an officer-excluded policy to satisfy a contract requirement.
+HARPER AGENT: Got it. We'll note the request for minimal limits and officer exclusion. Do you have an EIN on file?
+EXTERNAL CONTACT: Yes — EIN: 99-XX-9536.
+HARPER AGENT: Great. Any subcontractors?
+EXTERNAL CONTACT: No — I'm the only one.
+HARPER AGENT: Any claims history?
+EXTERNAL CONTACT: No.
+HARPER AGENT: Do you need the policy to start immediately?
+EXTERNAL CONTACT: As soon as possible.
+HARPER AGENT: Okay. I'll transfer this to underwriting and they'll reach out by email and phone, and we'll flag the cancellation/short-term policy question for service to confirm whether there are early-cancellation fees.
+EXTERNAL CONTACT: Thanks. Email is best — usually available around midday Pacific or after 6 PM.
+HARPER AGENT: Perfect. We'll be in touch within 24 hours.
+EXTERNAL CONTACT: Thank you. Bye.

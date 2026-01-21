@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T14:20:00+00:00
+Completed: 2025-12-05T14:21:35+00:00
+
+[SUMMARY]
+Follow-up call to confirm receipt of preliminary estimate and to remind client about documents needed for binding.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Khalil, this is Mia from Harper — checking that you received the preliminary estimate we emailed. We also need a copy of the vehicle title and a driver MVR to move toward binding.
+EXTERNAL CONTACT: Yes, got it. I'll upload after I finalize the truck purchase.
+HARPER AGENT: Great. Once you upload, we'll send final carrier quotes and next steps.
+EXTERNAL CONTACT: Thanks.
+HARPER AGENT: Talk soon.

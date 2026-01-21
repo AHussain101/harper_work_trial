@@ -1,0 +1,16 @@
+Direction: outgoing
+Duration: 2m 4s
+Started: 2025-12-04T22:30:00+00:00
+Completed: 2025-12-04T22:32:04+00:00
+
+[SUMMARY]
+Next steps: Schedule a quick follow-up to collect EIN and payroll totals; client to reply with available times.
+
+[TRANSCRIPT HIGHLIGHTS]
+HARPER AGENT: Hi Marisol, this is Daniel from Harper Insurance following up on your workers' comp intake.
+EXTERNAL CONTACT: Hi Daniel, yes I was just pulled over and can talk now for a couple minutes.
+HARPER AGENT: Great — can you confirm if you prefer workers' comp for owners to be excluded, and share an estimate of annual payroll for drivers?
+EXTERNAL CONTACT: Owners excluded. Payroll for drivers roughly $30k annually total.
+HARPER AGENT: Thanks — can you email or upload your EIN and a short driver roster to our upload portal? I'll hold on scheduling a full review until we have those.
+EXTERNAL CONTACT: I'll upload it this afternoon. Thanks for the follow-up.
+HARPER AGENT: Appreciate it. We'll watch for the upload and reach back with any carrier questions.

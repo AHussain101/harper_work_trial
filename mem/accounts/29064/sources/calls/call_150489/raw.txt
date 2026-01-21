@@ -1,0 +1,14 @@
+Direction: outgoing
+Duration: 1m 32s
+Started: 2025-12-05T15:20:00+00:00
+Completed: 2025-12-05T15:21:32+00:00
+
+[SUMMARY]
+Follow-up call to confirm document upload and answer questions about product handling and exposures.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Becca, this is Jordan at Harper Insurance calling to confirm we received your submission and to check whether you had a product spec sheet or any prior claims to share.
+EXTERNAL CONTACT: Hi Jordan — yes, I uploaded a short spec sheet and will send a brief note about production volumes.
+HARPER AGENT: Great. That will help underwriters. We'll ping you if carriers have any questions; otherwise expect preliminary indications in 48–72 hours.
+EXTERNAL CONTACT: Perfect, thanks for the call.
+HARPER AGENT: Thanks — talk soon.

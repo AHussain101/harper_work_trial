@@ -1,0 +1,6 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T15:00:00+00:00
+Completed: 2025-12-05T15:01:35+00:00
+
+Follow-up call: Jordan Kim (Harper) called Asif Khan to confirm that the GL quote and carrier questions were emailed. Confirmed client would review quote and requested Harper to add building coverage per landlord request (500k building limit). Agreed to send updated quote by end of day.

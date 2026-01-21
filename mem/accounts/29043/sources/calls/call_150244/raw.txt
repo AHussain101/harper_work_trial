@@ -1,0 +1,29 @@
+Direction: incoming
+Duration: 5m 34s
+Started: 2025-12-04T18:25:12.331000+00:00
+Completed: 2025-12-04T18:31:30+00:00
+
+[SUMMARY]
+Next Steps:
+- Verify and finalize general liability policy details
+- Ensure any outstanding documents are uploaded
+
+Summary:
+Conversation between Harper agent and Marco Rivera regarding a new general liability policy for his window tinting business. Owner confirmed 10 years' experience and 3 years operating under current business name. Shop location and mobile service confirmed. Driver's license is on file (redacted).
+
+[TRANSCRIPT]
+HARPER AGENT: Hello, this is Alex with Harper Insurance.
+EXTERNAL CONTACT: Hi, this is Francine at the Commercial Insurance Center. I have Marco Rivera on the other line.
+HARPER AGENT: Hi Marco, thanks for joining. How are you today?
+EXTERNAL CONTACT: I'm doing good.
+HARPER AGENT: Great. I see this is a business that's been open for three years — correct?
+EXTERNAL CONTACT: Yes, started in 2022.
+HARPER AGENT: And you do both shop and mobile tinting?
+EXTERNAL CONTACT: Yes, about 75% shop, 25% mobile.
+HARPER AGENT: Perfect. For underwriting, because you occasionally handle customer vehicles, we have a driver's license on file for you (redacted).
+EXTERNAL CONTACT: Okay, that's fine.
+HARPER AGENT: And coverage requested is $1,000,000 general liability?
+EXTERNAL CONTACT: Yes, that's right.
+HARPER AGENT: Great — I have everything I need and will submit to carriers. Expect quotes in 24-48 business hours.
+EXTERNAL CONTACT: Thank you.
+HARPER AGENT: Thank you, Marco. Have a good day.

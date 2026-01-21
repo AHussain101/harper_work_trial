@@ -1,0 +1,18 @@
+Direction: incoming
+Duration: 3m 5s
+Started: 2025-12-04T20:15:00+00:00
+Completed: 2025-12-04T20:18:05+00:00
+
+[SUMMARY]
+Agent called to confirm professional liability limits and clarify staff roles for underwriting.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marcus, this is Mia from Harper. I wanted to confirm a few details on your professional liability request.
+MARCUS: Hi Mia, sure—what do you need?
+HARPER AGENT: How many licensed clinicians are on staff and are they employees or contractors?
+MARCUS: We currently have three clinicians who are W-2 employees; no subcontractors.
+HARPER AGENT: Great. And are services primarily on-site or do you offer telehealth as well?
+MARCUS: Primarily on-site, with occasional telehealth follow-ups.
+HARPER AGENT: Thanks — that helps. We'll include that in the submission and follow up if underwriters request more detail.
+MARCUS: Appreciate it. I'll send the staff roster to your upload link.
+HARPER AGENT: Perfect, talk soon.

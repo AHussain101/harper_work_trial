@@ -1,0 +1,15 @@
+Direction: outgoing
+Duration: 0m 21s
+Started: 2025-12-04T22:49:52.279000+00:00
+Completed: 2025-12-04T22:50:36+00:00
+
+[SUMMARY]
+## Next Steps:
+Ethan to call Harper back to discuss quotes and submit documents.
+
+## Summary:
+A Harper representative (Brandon Hayes) called Ethan to follow up on requested General Liability and Commercial Property coverage for Willow Creek Assisted Living. Agent requested a callback at the Harper office number.
+
+[TRANSCRIPT]
+EXTERNAL CONTACT: This is Ethan.
+HARPER AGENT: Hi Ethan, this is Brandon Hayes at Harper Insurance. I wanted to follow up about general liability and commercial property coverage for Willow Creek Assisted Living. When you have a moment, could you call me back at our office number? Thanks.

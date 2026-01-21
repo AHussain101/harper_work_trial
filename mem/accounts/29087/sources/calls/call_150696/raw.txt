@@ -1,0 +1,28 @@
+Direction: incoming
+Duration: 18m 50s
+Started: 2025-12-04T23:10:12.000000+00:00
+Completed: 2025-12-04T23:29:22.000000+00:00
+
+[SUMMARY]
+## Next Steps:
+- Client to provide federal EIN via secure upload or redacted text
+- Submit completed intake to underwriting
+- Expect follow-up email/text with application confirmation and any carrier questions
+
+## Summary:
+Steven Morales (owner) called to discuss general liability for his unarmed security business. He operates primarily at warehouse accounts, bills about 40 hours/week at roughly $26/hour, and reports roughly $51k annual revenue with owner compensation in the mid-$30k range. No employees currently; plans to hire in future with background checks and drug testing. No prior claims reported. He will provide EIN and guard/license documentation for underwriting.
+
+[TRANSCRIPT HIGHLIGHTS]
+HARPER AGENT (Shannon Lee): Hi, this is Shannon with Harper Insurance — thanks for holding. Can you confirm the business name?
+EXTERNAL CONTACT (Steven Morales): That's right — Harbor Shield Security LLC.
+HARPER AGENT: Great. You're seeking general liability (minimum state requirement ~ $300k) and possibly higher limits?
+EXTERNAL CONTACT: Yes, we're looking in the range of a few hundred thousand up to several million depending on client needs.
+HARPER AGENT: Do you currently have any claims in the last five years?
+EXTERNAL CONTACT: No, none.
+HARPER AGENT: Any employees currently?
+EXTERNAL CONTACT: No, just myself.
+HARPER AGENT: Will you provide post orders and service agreements for the warehouse accounts?
+EXTERNAL CONTACT: Yes — I can upload those.
+HARPER AGENT: Perfect. Please upload your EIN and license copy via the secure portal or text a redacted version, and we'll submit to underwriting.
+EXTERNAL CONTACT: Will do — I'll send that today.
+HARPER AGENT: Thanks, Steven. We'll follow up by email and text after submission.

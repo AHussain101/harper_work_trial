@@ -1,0 +1,22 @@
+Direction: incoming
+Duration: 17m 49s
+Started: 2025-12-04T21:20:47+00:00
+Completed: 2025-12-04T21:38:56+00:00
+
+[SUMMARY]
+Next Steps:
+- Underwriters to contact Michael Martinez for insurance quote review
+- Follow up with Michael on licensing and incident reporting documentation
+Summary:
+Harper agent James connected with a referral partner and then with Michael Martinez. They discussed the new security agency's operations, incident reporting procedures, record-keeping, training expectations, staffing projections, and state licensing requirements. Agent confirmed business email and address and advised a 24-48 hour quote timeline.
+
+[TRANSCRIPT HIGHLIGHTS]
+HARPER AGENT: This is James Taylor with Harper Insurance.
+REFERRAL PARTNER: I have a customer for you in Texas seeking General Liability for armed security services.
+HARPER AGENT: Great — transfer them over.
+HARPER AGENT: Hi Michael, can you confirm contact details?
+EXTERNAL CONTACT: Yes — email is info@summitsecuritytx.com and mailing address is the Anytown TX address on file.
+HARPER AGENT: Do you have an EIN to include on the application?
+EXTERNAL CONTACT: Yes — EIN: XX-XXX4321 (redacted format)
+HARPER AGENT: Thanks. We'll submit to underwriters and expect quotes in about 24-48 hours. They'll reach out by text or call and then email the proposals for your review.
+EXTERNAL CONTACT: Appreciate it — sounds good.

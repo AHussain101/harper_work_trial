@@ -1,0 +1,10 @@
+Direction: outgoing
+Duration: 0m 31s
+Started: 2025-12-04T23:00:48.697000+00:00
+Completed: 2025-12-04T23:01:37+00:00
+
+[SUMMARY]
+Left a voicemail for Steven Morales to confirm availability and request a callback or text to schedule a short follow-up to discuss business liability and next steps.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi, this is Maya from Harper Insurance. I'm calling for Steven Morales about liability for Harbor Shield Security. Please call or text to schedule a brief chat. Thanks!

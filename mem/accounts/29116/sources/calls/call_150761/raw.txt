@@ -1,0 +1,21 @@
+Direction: outgoing
+Duration: 2m 5s
+Started: 2025-12-05T00:21:15.000000+00:00
+Completed: 2025-12-05T00:23:20+00:00
+
+[SUMMARY]
+## Next Steps:
+Confirm payroll estimates and arrange a 15-minute follow-up call to finalize intake details.
+## Summary:
+Harper agent Jordan called the business owner to confirm payroll and staff counts for the workers' comp quote and scheduled a short follow-up. The owner confirmed approximate payroll and that no prior claims exist. Jordan will upload the intake to underwriting and follow up within 24–48 hours with preliminary quotes.
+
+[TRANSCRIPT]
+HARPER AGENT: Hi Marcus — this is Jordan from Harper Insurance following up on your intake.
+EXTERNAL CONTACT: Hey Jordan, yes.
+HARPER AGENT: Can you confirm the estimated annual payroll and number of employees for SafeGuard?
+EXTERNAL CONTACT: We estimate about $45k in payroll and two contractors who are 1099s — no W-2 staff right now.
+HARPER AGENT: Great, and any prior claims in the last 3 years?
+EXTERNAL CONTACT: No claims.
+HARPER AGENT: Perfect. I'll forward this to underwriting and set a 15-minute call for tomorrow to review initial options.
+EXTERNAL CONTACT: Sounds good, thank you.
+HARPER AGENT: Thank you, Marcus. Speak soon.

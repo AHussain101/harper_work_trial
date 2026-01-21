@@ -1,0 +1,15 @@
+Direction: outgoing
+Duration: 0m 16s
+Started: 2025-12-04T22:58:26.367000+00:00
+Completed: 2025-12-04T22:58:57+00:00
+
+[SUMMARY]
+Next Steps: Harper agent to call back the primary contact.
+Summary: Brief call where the client noted the line became a conference call and requested an immediate callback.
+
+[TRANSCRIPT]
+HARPER AGENT: Hello, it's Jordan from Harper Insurance. How are you?
+EXTERNAL CONTACT: Hello? I'm not sure what happened — I accidentally made this a conference call. Can you call me right back?
+HARPER AGENT: Absolutely, we'll call you right back.
+EXTERNAL CONTACT: Thank you.
+HARPER AGENT: Thanks. Bye.

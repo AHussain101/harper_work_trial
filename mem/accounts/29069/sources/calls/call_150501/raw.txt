@@ -1,0 +1,6 @@
+Direction: outgoing
+Duration: 1m 35s
+Started: 2025-12-05T16:10:00+00:00
+Completed: 2025-12-05T16:11:35+00:00
+
+Outbound call summary: Jordan (Harper Insurance) called Terry to confirm carrier selection and to advise that a preliminary E&O quote was emailed. Client confirmed receipt and asked for clarification on retroactive date options and government-contract wording. Agent scheduled a follow-up email with suggested contract language notes.

@@ -1,0 +1,11 @@
+Direction: outgoing
+Duration: 0m 28s
+Started: 2025-12-04T23:43:19.594000+00:00
+Completed: 2025-12-04T23:44:21+00:00
+
+[SUMMARY]
+Next Steps:
+- If no answer, leave a brief message with Harper support contact for assistance
+
+Summary:
+Harper agent left a brief voicemail describing availability and a Harper support line for further assistance. The message noted Harper is available extended hours to help with binding or document questions.
