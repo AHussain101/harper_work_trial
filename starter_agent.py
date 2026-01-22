@@ -23,6 +23,8 @@ from dotenv import load_dotenv
 
 from name_registry import NameRegistry
 from search_agent import Orchestrator
+from followup_agent import FollowUpOrchestrator
+from updater_agent import UpdaterOrchestrator
 
 # Load environment variables
 load_dotenv()
@@ -113,6 +115,10 @@ class StarterAgent:
         self._updater_agent = None
         self._followup_agent = None
         
+        # Agentic orchestrators for streaming
+        self._followup_orchestrator: Optional[FollowUpOrchestrator] = None
+        self._updater_orchestrator: Optional[UpdaterOrchestrator] = None
+        
         # Session state for multi-turn confirmations
         self._pending_confirmations: dict[str, dict] = {}
     
@@ -135,6 +141,18 @@ class StarterAgent:
             from followup_agent import FollowUpAgent
             self._followup_agent = FollowUpAgent(mem_path=str(self.mem_path))
         return self._followup_agent
+    
+    def _get_followup_orchestrator(self) -> FollowUpOrchestrator:
+        """Get or create Follow-Up Orchestrator for streaming."""
+        if self._followup_orchestrator is None:
+            self._followup_orchestrator = FollowUpOrchestrator(mem_path=str(self.mem_path))
+        return self._followup_orchestrator
+    
+    def _get_updater_orchestrator(self) -> UpdaterOrchestrator:
+        """Get or create Updater Orchestrator for streaming."""
+        if self._updater_orchestrator is None:
+            self._updater_orchestrator = UpdaterOrchestrator(mem_path=str(self.mem_path))
+        return self._updater_orchestrator
     
     def classify_intent(self, query: str) -> ClassifiedIntent:
         """
@@ -755,8 +773,18 @@ Respond with ONLY the JSON object, no other text."""
             # Route based on intent
             if classification.intent == "search":
                 yield from search_agent.run_streaming(query)
+            elif classification.intent == "update":
+                # Stream from Updater Orchestrator
+                logger.info(f"Streaming update via UpdaterOrchestrator")
+                updater_orchestrator = self._get_updater_orchestrator()
+                yield from updater_orchestrator.run_streaming(query)
+            elif classification.intent == "followup":
+                # Stream from Follow-up Orchestrator
+                logger.info(f"Streaming followup via FollowUpOrchestrator")
+                followup_orchestrator = self._get_followup_orchestrator()
+                yield from followup_orchestrator.run_streaming(query)
             else:
-                # Update/Followup operation - yield final result with all details
+                # Fallback for other intents - use non-streaming run
                 logger.info(f"Processing {classification.intent} via run()")
                 result = self.run(query)
                 

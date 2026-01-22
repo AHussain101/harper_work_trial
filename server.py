@@ -26,7 +26,8 @@ from pydantic import BaseModel
 
 from search_agent import Orchestrator
 from starter_agent import StarterAgent
-from followup_agent import FollowUpAgent
+from followup_agent import FollowUpAgent, FollowUpOrchestrator
+from updater_agent import UpdaterOrchestrator
 
 # Load environment variables
 load_dotenv()
@@ -59,6 +60,8 @@ app.add_middleware(
 _starter_agent: Optional[StarterAgent] = None
 _orchestrator: Optional[Orchestrator] = None
 _followup_agent: Optional[FollowUpAgent] = None
+_followup_orchestrator: Optional[FollowUpOrchestrator] = None
+_updater_orchestrator: Optional[UpdaterOrchestrator] = None
 
 
 def get_starter_agent() -> StarterAgent:
@@ -95,6 +98,30 @@ def get_followup_agent() -> FollowUpAgent:
         _followup_agent = FollowUpAgent(mem_path="mem", api_key=api_key)
         logger.info("Follow-Up Agent initialized")
     return _followup_agent
+
+
+def get_followup_orchestrator() -> FollowUpOrchestrator:
+    """Get or create the Follow-Up Orchestrator (agentic mode)."""
+    global _followup_orchestrator
+    if _followup_orchestrator is None:
+        api_key = os.environ.get("ANTHROPIC_API_KEY")
+        if not api_key:
+            raise RuntimeError("ANTHROPIC_API_KEY not set")
+        _followup_orchestrator = FollowUpOrchestrator(mem_path="mem", api_key=api_key)
+        logger.info("Follow-Up Orchestrator (agentic) initialized")
+    return _followup_orchestrator
+
+
+def get_updater_orchestrator() -> UpdaterOrchestrator:
+    """Get or create the Updater Orchestrator (agentic mode)."""
+    global _updater_orchestrator
+    if _updater_orchestrator is None:
+        api_key = os.environ.get("ANTHROPIC_API_KEY")
+        if not api_key:
+            raise RuntimeError("ANTHROPIC_API_KEY not set")
+        _updater_orchestrator = UpdaterOrchestrator(mem_path="mem", api_key=api_key)
+        logger.info("Updater Orchestrator (agentic) initialized")
+    return _updater_orchestrator
 
 
 class QueryRequest(BaseModel):
@@ -167,6 +194,11 @@ class FollowUpBatchRequest(BaseModel):
     days_threshold: Optional[int] = None
     limit: int = 10
     dry_run: bool = True
+
+
+class AgentRunRequest(BaseModel):
+    """Request body for agentic run endpoints."""
+    query: str
 
 
 @app.post("/query", response_model=QueryResponse)
@@ -489,14 +521,154 @@ async def batch_followup(request: FollowUpBatchRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 
+# =============================================================================
+# Agentic Mode Endpoints (Claude-driven loops)
+# =============================================================================
+
+@app.post("/followup/run")
+async def followup_run(request: AgentRunRequest):
+    """
+    Run the Follow-up Agent in agentic mode.
+    
+    Claude decides which accounts to follow up with, what to say,
+    and when to stop.
+    
+    Args:
+        request: AgentRunRequest with natural language query
+        
+    Returns:
+        Result with answer, actions taken, and trace
+    """
+    try:
+        logger.info(f"Follow-up agentic run: {request.query}")
+        orchestrator = get_followup_orchestrator()
+        result = orchestrator.run(request.query)
+        
+        return {
+            "type": "success",
+            "answer": result.get("answer", ""),
+            "actions_taken": result.get("actions_taken", []),
+            "trace": result.get("trace", {}),
+            "from_cache": result.get("from_cache", False)
+        }
+    except Exception as e:
+        logger.error(f"Follow-up agentic run failed: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/update/run")
+async def update_run(request: AgentRunRequest):
+    """
+    Run the Updater Agent in agentic mode.
+    
+    Claude decides which account to update, what fields to change,
+    and when to stop.
+    
+    Args:
+        request: AgentRunRequest with natural language query
+        
+    Returns:
+        Result with answer, changes made, and trace
+    """
+    try:
+        logger.info(f"Update agentic run: {request.query}")
+        orchestrator = get_updater_orchestrator()
+        result = orchestrator.run(request.query)
+        
+        return {
+            "type": "success",
+            "answer": result.get("answer", ""),
+            "changes_made": result.get("changes_made", []),
+            "trace": result.get("trace", {}),
+            "from_cache": result.get("from_cache", False)
+        }
+    except Exception as e:
+        logger.error(f"Update agentic run failed: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+def generate_followup_sse_events(query: str):
+    """Generate SSE events for follow-up agent streaming."""
+    orchestrator = get_followup_orchestrator()
+    
+    for event in orchestrator.run_streaming(query):
+        event_data = json.dumps(event)
+        logger.info(f"Follow-up SSE event: type={event.get('type')}")
+        yield f"data: {event_data}\n\n"
+    
+    logger.info("Follow-up SSE sending done event")
+    yield "data: {\"type\": \"done\"}\n\n"
+
+
+def generate_update_sse_events(query: str):
+    """Generate SSE events for update agent streaming."""
+    orchestrator = get_updater_orchestrator()
+    
+    for event in orchestrator.run_streaming(query):
+        event_data = json.dumps(event)
+        logger.info(f"Update SSE event: type={event.get('type')}")
+        yield f"data: {event_data}\n\n"
+    
+    logger.info("Update SSE sending done event")
+    yield "data: {\"type\": \"done\"}\n\n"
+
+
+@app.post("/followup/run/stream")
+async def followup_run_stream(request: AgentRunRequest):
+    """
+    Stream follow-up agent exploration events via SSE.
+    
+    Yields real-time events as Claude decides which accounts to follow up with,
+    drafts communications, and executes actions.
+    """
+    logger.info(f"Follow-up streaming query: {request.query}")
+    
+    return StreamingResponse(
+        generate_followup_sse_events(request.query),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no",
+        }
+    )
+
+
+@app.post("/update/run/stream")
+async def update_run_stream(request: AgentRunRequest):
+    """
+    Stream update agent exploration events via SSE.
+    
+    Yields real-time events as Claude decides which accounts to update,
+    applies changes, and records history.
+    """
+    logger.info(f"Update streaming query: {request.query}")
+    
+    return StreamingResponse(
+        generate_update_sse_events(request.query),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no",
+        }
+    )
+
+
 @app.get("/health")
 async def health():
     """Health check endpoint."""
     return {
         "status": "ok",
-        "version": "3.5.0",
+        "version": "3.6.0",
         "agents": ["starter", "search", "updater", "followup"],
-        "features": ["agent_skills", "progressive_disclosure", "followup_automation"]
+        "features": [
+            "agent_skills",
+            "progressive_disclosure",
+            "agentic_streaming",
+            "followup_automation",
+            "agentic_loops"
+        ]
     }
 
 

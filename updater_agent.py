@@ -1158,31 +1158,521 @@ Respond with ONLY the JSON object, no other text."""
             ).to_dict()
 
 
+# =============================================================================
+# AGENTIC LOOP IMPLEMENTATION
+# =============================================================================
+
+from agent_base import (
+    BaseToolExecutor, BaseOrchestrator, Trace, ToolCall,
+    discover_skills, build_skills_xml
+)
+
+
+class UpdaterToolExecutor(BaseToolExecutor):
+    """
+    Tool executor for Updater Agent.
+    
+    Provides tools for:
+    - Reading files (skills, state, history)
+    - Looking up accounts
+    - Updating state fields
+    - Managing history chain
+    - Syncing Qdrant
+    """
+    
+    def __init__(self, repo_root: str, mem_path: str = "mem"):
+        super().__init__(repo_root)
+        self.mem_path = Path(mem_path)
+        self._updater_agent: Optional[UpdaterAgent] = None
+    
+    def _get_agent(self) -> UpdaterAgent:
+        """Get or create the underlying UpdaterAgent."""
+        if self._updater_agent is None:
+            self._updater_agent = UpdaterAgent(mem_path=str(self.mem_path))
+        return self._updater_agent
+    
+    def lookup_account(self, query: str, top_k: int = 5) -> list[dict]:
+        """Look up account by name using semantic search."""
+        agent = self._get_agent()
+        if agent._name_registry is None:
+            return [{"error": "Name registry not available"}]
+        return agent._name_registry.search(query, top_k)
+    
+    def update_field(self, account_id: str, field: str, value: Any) -> dict:
+        """Update a single field in state.md."""
+        agent = self._get_agent()
+        account_path = self.mem_path / "accounts" / account_id
+        state_path = account_path / "state.md"
+        
+        if not state_path.exists():
+            return {"success": False, "error": f"Account {account_id} not found"}
+        
+        # Read current state
+        current_state = agent.parse_state_md(state_path)
+        old_value = current_state.get(field, "Not set")
+        
+        # Handle list fields
+        if field == "insurance_types" and isinstance(value, str):
+            value = [value]
+        
+        # Apply update
+        current_state[field] = value
+        
+        try:
+            agent.write_state_md(state_path, current_state)
+            return {
+                "success": True,
+                "field": field,
+                "old_value": str(old_value),
+                "new_value": str(value),
+                "account_id": account_id
+            }
+        except Exception as e:
+            return {"success": False, "error": str(e)}
+    
+    def add_note(self, account_id: str, note: str) -> dict:
+        """Add a note to the account (recorded in history)."""
+        agent = self._get_agent()
+        account_path = self.mem_path / "accounts" / account_id
+        history_path = account_path / "history.md"
+        
+        try:
+            timestamp = agent.append_history_entry(
+                history_path=history_path,
+                changes=[StateChange(field="note", old_value="", new_value=note)],
+                summary=f"Note added",
+                evidence="User request",
+                note=note
+            )
+            return {
+                "success": True,
+                "note": note,
+                "history_entry_id": timestamp,
+                "account_id": account_id
+            }
+        except Exception as e:
+            return {"success": False, "error": str(e)}
+    
+    def append_history(
+        self,
+        account_id: str,
+        changes: list[dict],
+        summary: str
+    ) -> dict:
+        """Append a history entry with linked chain."""
+        agent = self._get_agent()
+        account_path = self.mem_path / "accounts" / account_id
+        history_path = account_path / "history.md"
+        
+        # Convert dict changes to StateChange objects
+        state_changes = [
+            StateChange(
+                field=c.get("field", "unknown"),
+                old_value=c.get("old_value", ""),
+                new_value=c.get("new_value", "")
+            )
+            for c in changes
+        ]
+        
+        try:
+            timestamp = agent.append_history_entry(
+                history_path=history_path,
+                changes=state_changes,
+                summary=summary,
+                evidence="Agent action"
+            )
+            return {
+                "success": True,
+                "history_entry_id": timestamp,
+                "account_id": account_id
+            }
+        except Exception as e:
+            return {"success": False, "error": str(e)}
+    
+    def update_search_index(self, account_id: str) -> dict:
+        """Regenerate and update Qdrant description."""
+        agent = self._get_agent()
+        account_path = self.mem_path / "accounts" / account_id
+        state_path = account_path / "state.md"
+        
+        if not state_path.exists():
+            return {"success": False, "error": f"Account {account_id} not found"}
+        
+        state = agent.parse_state_md(state_path)
+        description = agent.generate_description(state)
+        
+        success = agent.update_qdrant_description(
+            account_id=account_id,
+            account_name=state.get("account_name", "Unknown"),
+            description=description,
+            directory_path=f"{self.mem_path}/accounts/{account_id}"
+        )
+        
+        return {
+            "success": success,
+            "description": description,
+            "account_id": account_id
+        }
+    
+    def create_account(
+        self,
+        account_name: str,
+        account_details: Optional[dict] = None
+    ) -> dict:
+        """Create a new account."""
+        agent = self._get_agent()
+        return agent.create_account(
+            account_name=account_name,
+            account_details=account_details
+        )
+    
+    def execute(self, tool: str, args: dict) -> str:
+        """Execute a tool and return result."""
+        # Handle base tools (read_file, list_files)
+        if tool in ("read_file", "list_files"):
+            return super().execute(tool, args)
+        
+        # Updater specific tools
+        if tool == "lookup_account":
+            result = self.lookup_account(
+                query=args.get("query", ""),
+                top_k=args.get("top_k", 5)
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "update_field":
+            result = self.update_field(
+                account_id=args.get("account_id", ""),
+                field=args.get("field", ""),
+                value=args.get("value")
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "add_note":
+            result = self.add_note(
+                account_id=args.get("account_id", ""),
+                note=args.get("note", "")
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "append_history":
+            result = self.append_history(
+                account_id=args.get("account_id", ""),
+                changes=args.get("changes", []),
+                summary=args.get("summary", "Update")
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "update_search_index":
+            result = self.update_search_index(
+                account_id=args.get("account_id", "")
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "create_account":
+            result = self.create_account(
+                account_name=args.get("account_name", ""),
+                account_details=args.get("account_details")
+            )
+            return json.dumps(result, indent=2)
+        
+        else:
+            raise ValueError(f"Unknown tool: {tool}")
+
+
+class UpdaterOrchestrator(BaseOrchestrator):
+    """
+    Agentic orchestrator for Update workflows.
+    
+    Claude decides:
+    - Which account to update
+    - What fields to change
+    - When to record history
+    - When to sync search index
+    """
+    
+    # Budget limits for updater agent
+    MAX_TOOL_CALLS = 15
+    MAX_READ_FILE = 8
+    MAX_WRITES = 5
+    
+    def __init__(
+        self,
+        mem_path: str = "mem",
+        skills_path: str = "skills",
+        api_key: Optional[str] = None,
+        model: str = "claude-haiku-4-5-20251001"
+    ):
+        super().__init__(mem_path, skills_path, api_key, model)
+        self.tool_executor = UpdaterToolExecutor(
+            repo_root=str(self.repo_root),
+            mem_path=mem_path
+        )
+    
+    def get_agent_name(self) -> str:
+        """Return agent name for streaming events."""
+        return "updater"
+    
+    def create_trace(self) -> Trace:
+        """Create trace with updater specific budget limits."""
+        return Trace(
+            question="",
+            max_tool_calls=self.MAX_TOOL_CALLS,
+            max_read_file=self.MAX_READ_FILE,
+            max_writes=self.MAX_WRITES
+        )
+    
+    def build_system_prompt(self) -> str:
+        """Build system prompt with skills and tools."""
+        if self._system_prompt is not None:
+            return self._system_prompt
+        
+        # Discover available skills
+        skills = self._discover_skills("update")
+        skills_xml = self._build_skills_xml(skills)
+        
+        self._system_prompt = f"""# Updater Agent
+
+You handle updates to insurance account state and maintain history chain.
+
+## Available Skills
+
+{skills_xml}
+
+When you need guidance on formats or rules, use read_file to load a skill's SKILL.md.
+
+## Tools
+
+- `lookup_account(query, top_k?)` - Find account by company name. Returns `state_file` (ready to use) and `directory_path`
+- `read_file(path)` - Read any file - **must be a FILE path, not a directory**
+- `list_files(path)` - List directory contents
+- `update_field(account_id, field, value)` - Update a field in state.md
+- `add_note(account_id, note)` - Add a note (recorded in history)
+- `append_history(account_id, changes, summary)` - Add linked history entry
+- `update_search_index(account_id)` - Regenerate Qdrant description
+- `create_account(account_name, account_details?)` - Create new account
+
+## lookup_account Return Format
+
+`lookup_account` returns:
+```json
+{{
+  "account_id": "29041",
+  "name": "Maple Avenue Dental", 
+  "directory_path": "mem/accounts/29041",  // DIRECTORY - don't read this!
+  "state_file": "mem/accounts/29041/state.md"  // Use THIS for read_file
+}}
+```
+
+**CRITICAL**: Use `state_file` directly with `read_file`. Do NOT read `directory_path` - it's a folder!
+
+## Available Fields
+
+- stage: Pipeline stage (New Lead, Application Received, Quoted, Bound, Closed Lost, etc.)
+- insurance_types: List of insurance types
+- primary_email: Contact email
+- primary_phone: Contact phone
+- next_steps: List of next action items
+- pending_actions: List of pending items
+
+## Workflow
+
+1. Use `lookup_account` to find the target account (get `account_id` and `state_file`)
+2. Use `read_file(state_file)` with the returned `state_file` path to understand current values
+3. Apply updates with `update_field` (for state changes) or `add_note` (for notes only)
+4. Record changes in history with `append_history`
+5. **ALWAYS call update_search_index after ANY state.md change** - this keeps the vector database in sync
+
+## When to Use Which Tool
+
+- **update_field**: Use for ANY state change including:
+  - Stage changes (e.g., "mark as quoted")
+  - Status markers (e.g., "mark as needing follow-up" → update pending_actions)
+  - Contact info updates
+  - Next steps or pending actions changes
+  
+- **add_note**: Use ONLY for adding informational notes that don't change account status
+  - Does NOT trigger Qdrant sync (no state change)
+  
+- **update_search_index**: Call after EVERY update_field call to sync Qdrant
+
+## Response Format
+
+You MUST respond with exactly one JSON object per turn.
+
+### For tool calls:
+```json
+{{
+  "type": "tool_call",
+  "tool": "lookup_account",
+  "args": {{"query": "Sunny Days Childcare"}},
+  "reason": "Find the account to update"
+}}
+```
+
+### For final answer:
+```json
+{{
+  "type": "final",
+  "answer": "Summary of changes made",
+  "changes_made": [
+    {{"account": "Account Name", "field": "stage", "old": "Application", "new": "Quoted"}}
+  ]
+}}
+```
+
+## Important Rules
+
+- Always look up the account first to get the correct ID
+- Read state.md before updating to know current values
+- Record all field changes in history with append_history
+- **ALWAYS call update_search_index after ANY update_field call** - never skip this step
+- "Mark as needing follow-up" = update pending_actions field, then sync Qdrant
+"""
+        return self._system_prompt
+    
+    def run(self, query: str, use_cache: bool = False) -> dict:
+        """
+        Main entry point: run the updater agent loop.
+        
+        Args:
+            query: User's update request
+            use_cache: Whether to use cached results
+            
+        Returns:
+            Response dict with answer, changes_made, and trace
+        """
+        # Check cache
+        if use_cache:
+            cached = self._get_cached_result(query)
+            if cached:
+                cached["from_cache"] = True
+                return cached
+        
+        # Create trace with updater budget limits
+        trace = Trace(
+            question=query,
+            max_tool_calls=self.MAX_TOOL_CALLS,
+            max_read_file=self.MAX_READ_FILE,
+            max_writes=self.MAX_WRITES
+        )
+        
+        logger.info(f"Starting updater agent for: {query}")
+        
+        while not trace.is_budget_exhausted():
+            try:
+                response = self.call_claude(query, trace)
+            except Exception as e:
+                logger.error(f"Claude API error: {e}")
+                trace.stop_reason = "error"
+                return {
+                    "answer": f"Error: {e}",
+                    "changes_made": [],
+                    "trace": trace.to_dict()
+                }
+            
+            response_type = response.get("type")
+            
+            if response_type == "tool_call":
+                tool = response.get("tool")
+                args = response.get("args", {})
+                reason = response.get("reason", "")
+                
+                logger.info(f"Tool call: {tool}({args}) - {reason}")
+                
+                tool_call = ToolCall(tool=tool, args=args, reason=reason)
+                
+                try:
+                    result = self.tool_executor.execute(tool, args)
+                    tool_call.result = result
+                    logger.debug(f"Tool result: {result[:200]}...")
+                except Exception as e:
+                    tool_call.error = str(e)
+                    logger.warning(f"Tool error: {e}")
+                
+                trace.add_tool_call(tool_call)
+            
+            elif response_type == "final":
+                logger.info("Received final answer")
+                trace.stop_reason = "final_answer"
+                
+                result = {
+                    "answer": response.get("answer", ""),
+                    "changes_made": response.get("changes_made", []),
+                    "trace": trace.to_dict()
+                }
+                
+                if use_cache:
+                    self._cache_result(query, result)
+                
+                return result
+            
+            else:
+                logger.warning(f"Unknown response type: {response_type}")
+                continue
+        
+        # Budget exhausted
+        logger.warning("Budget exhausted")
+        trace.stop_reason = "budget_exhausted"
+        
+        return {
+            "answer": f"Update limit reached. {trace.get_budget_status()}",
+            "changes_made": [],
+            "trace": trace.to_dict()
+        }
+
+
 def main():
     """CLI for testing the updater agent."""
     import argparse
     
-    parser = argparse.ArgumentParser(description="Test the Updater Agent")
-    parser.add_argument("query", help="Update command to process")
-    parser.add_argument("--account-id", required=True, help="Account ID to update")
+    parser = argparse.ArgumentParser(description="Updater Agent CLI")
+    parser.add_argument("command", choices=["update", "run"],
+                        help="Command to run")
+    parser.add_argument("--query", "-q", help="Update query (for both modes)")
+    parser.add_argument("--account-id", help="Account ID (for legacy update mode)")
     parser.add_argument("--account-name", default="Test Account", help="Account name")
     
     args = parser.parse_args()
     
     logging.basicConfig(level=logging.INFO)
     
-    agent = UpdaterAgent()
+    # New agentic mode
+    if args.command == "run":
+        query = args.query or "Show me how to update an account"
+        orchestrator = UpdaterOrchestrator()
+        result = orchestrator.run(query)
+        
+        print("\n" + "=" * 60)
+        print("RESULT")
+        print("=" * 60)
+        print(result["answer"])
+        
+        if result.get("changes_made"):
+            print("\nChanges Made:")
+            for change in result["changes_made"]:
+                print(f"  - {change}")
+        
+        print(f"\nTrace: {result['trace']['budget_status']}")
+        return
     
-    account_path = f"mem/accounts/{args.account_id}"
-    
-    result = agent.process_update(
-        query=args.query,
-        account_id=args.account_id,
-        account_name=args.account_name,
-        account_path=account_path
-    )
-    
-    print(f"\nResult: {json.dumps(result, indent=2)}")
+    # Legacy mode
+    if args.command == "update":
+        if not args.account_id or not args.query:
+            print("Error: --account-id and --query required for update command")
+            return
+        
+        agent = UpdaterAgent()
+        account_path = f"mem/accounts/{args.account_id}"
+        
+        result = agent.process_update(
+            query=args.query,
+            account_id=args.account_id,
+            account_name=args.account_name,
+            account_path=account_path
+        )
+        
+        print(f"\nResult: {json.dumps(result, indent=2)}")
 
 
 if __name__ == "__main__":

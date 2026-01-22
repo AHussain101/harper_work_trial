@@ -303,10 +303,12 @@ class NameRegistry:
         # Format results
         matches = []
         for result in results.points:
+            directory_path = result.payload["directory_path"]
             matches.append({
                 "account_id": result.payload["account_id"],
                 "name": result.payload["name"],
-                "path": result.payload["directory_path"],
+                "directory_path": directory_path,
+                "state_file": f"{directory_path}/state.md",  # Ready-to-use file path
                 "score": round(result.score, 3)
             })
         

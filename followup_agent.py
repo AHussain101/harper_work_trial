@@ -799,12 +799,436 @@ Respond with ONLY a JSON object:
         state_path.write_text(content, encoding='utf-8')
 
 
+# =============================================================================
+# AGENTIC LOOP IMPLEMENTATION
+# =============================================================================
+
+from agent_base import (
+    BaseToolExecutor, BaseOrchestrator, Trace, ToolCall,
+    discover_skills, build_skills_xml
+)
+
+
+class FollowUpToolExecutor(BaseToolExecutor):
+    """
+    Tool executor for Follow-up Agent.
+    
+    Provides tools for:
+    - Reading files (skills, state, sources)
+    - Looking up accounts by name
+    - Scanning accounts needing follow-up
+    - Getting recent communications
+    - Drafting and sending communications
+    """
+    
+    def __init__(self, repo_root: str, mem_path: str = "mem"):
+        super().__init__(repo_root)
+        self.mem_path = Path(mem_path)
+        self._followup_agent: Optional[FollowUpAgent] = None
+    
+    def _get_agent(self) -> FollowUpAgent:
+        """Get or create the underlying FollowUpAgent."""
+        if self._followup_agent is None:
+            self._followup_agent = FollowUpAgent(mem_path=str(self.mem_path))
+        return self._followup_agent
+    
+    def lookup_account(self, query: str, top_k: int = 5) -> list[dict]:
+        """Look up account by name using semantic search."""
+        agent = self._get_agent()
+        if agent._name_registry is None:
+            return [{"error": "Name registry not available"}]
+        return agent._name_registry.search(query, top_k)
+    
+    def scan_accounts(
+        self,
+        stage_filter: Optional[str] = None,
+        min_days: Optional[int] = None,
+        limit: int = 10
+    ) -> list[dict]:
+        """Find accounts needing follow-up."""
+        agent = self._get_agent()
+        actions = agent.find_accounts_needing_followup(
+            stage_filter=stage_filter,
+            min_days=min_days,
+            limit=limit
+        )
+        return [a.to_dict() for a in actions]
+    
+    def get_recent_sources(self, account_id: str, limit: int = 3) -> list[dict]:
+        """Get recent source summaries for an account."""
+        agent = self._get_agent()
+        account_path = self.mem_path / "accounts" / account_id
+        sources = agent._get_recent_sources(account_path, limit=limit)
+        return [{"path": path, "content": content} for path, content in sources]
+    
+    def draft_communication(
+        self,
+        account_id: str,
+        channel: str,
+        purpose: Optional[str] = None
+    ) -> dict:
+        """Draft a follow-up communication."""
+        agent = self._get_agent()
+        draft = agent.draft_communication(
+            account_id=account_id,
+            channel=channel,
+            purpose=purpose
+        )
+        if draft:
+            return draft.to_dict()
+        return {"error": "Failed to draft communication"}
+    
+    def send_communication(
+        self,
+        account_id: str,
+        channel: str,
+        subject: Optional[str],
+        body: str,
+        rationale: str = ""
+    ) -> dict:
+        """Send a communication and record in history."""
+        agent = self._get_agent()
+        
+        # Create draft object
+        draft = DraftedCommunication(
+            channel=channel,
+            subject=subject,
+            body=body,
+            rationale=rationale
+        )
+        
+        # Execute (always dry_run=False in agentic mode - agent decided to send)
+        result = agent.execute_followup(account_id, draft, dry_run=False)
+        return result.to_dict()
+    
+    def update_contact(self, account_id: str, channel: str) -> dict:
+        """Update last contact date in state.md."""
+        agent = self._get_agent()
+        try:
+            agent._update_last_contact(account_id, channel)
+            return {"success": True, "message": f"Updated last contact for {account_id}"}
+        except Exception as e:
+            return {"success": False, "error": str(e)}
+    
+    def execute(self, tool: str, args: dict) -> str:
+        """Execute a tool and return result."""
+        # Handle base tools (read_file, list_files)
+        if tool in ("read_file", "list_files"):
+            return super().execute(tool, args)
+        
+        # Follow-up specific tools
+        if tool == "lookup_account":
+            result = self.lookup_account(
+                query=args.get("query", ""),
+                top_k=args.get("top_k", 5)
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "scan_accounts":
+            result = self.scan_accounts(
+                stage_filter=args.get("stage_filter"),
+                min_days=args.get("min_days"),
+                limit=args.get("limit", 10)
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "get_recent_sources":
+            result = self.get_recent_sources(
+                account_id=args.get("account_id", ""),
+                limit=args.get("limit", 3)
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "draft_communication":
+            result = self.draft_communication(
+                account_id=args.get("account_id", ""),
+                channel=args.get("channel", "email"),
+                purpose=args.get("purpose")
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "send_communication":
+            result = self.send_communication(
+                account_id=args.get("account_id", ""),
+                channel=args.get("channel", "email"),
+                subject=args.get("subject"),
+                body=args.get("body", ""),
+                rationale=args.get("rationale", "")
+            )
+            return json.dumps(result, indent=2)
+        
+        elif tool == "update_contact":
+            result = self.update_contact(
+                account_id=args.get("account_id", ""),
+                channel=args.get("channel", "email")
+            )
+            return json.dumps(result, indent=2)
+        
+        else:
+            raise ValueError(f"Unknown tool: {tool}")
+
+
+class FollowUpOrchestrator(BaseOrchestrator):
+    """
+    Agentic orchestrator for Follow-up workflows.
+    
+    Claude decides:
+    - Which accounts to follow up with
+    - What channel to use
+    - What to say
+    - When to stop
+    """
+    
+    # Budget limits for follow-up agent
+    MAX_TOOL_CALLS = 20
+    MAX_READ_FILE = 10
+    MAX_WRITES = 5  # Limit sends per run
+    
+    def __init__(
+        self,
+        mem_path: str = "mem",
+        skills_path: str = "skills",
+        api_key: Optional[str] = None,
+        model: str = "claude-haiku-4-5-20251001"
+    ):
+        super().__init__(mem_path, skills_path, api_key, model)
+        self.tool_executor = FollowUpToolExecutor(
+            repo_root=str(self.repo_root),
+            mem_path=mem_path
+        )
+    
+    def get_agent_name(self) -> str:
+        """Return agent name for streaming events."""
+        return "followup"
+    
+    def create_trace(self) -> Trace:
+        """Create trace with follow-up specific budget limits."""
+        return Trace(
+            question="",
+            max_tool_calls=self.MAX_TOOL_CALLS,
+            max_read_file=self.MAX_READ_FILE,
+            max_writes=self.MAX_WRITES
+        )
+    
+    def build_system_prompt(self) -> str:
+        """Build system prompt with skills and tools."""
+        if self._system_prompt is not None:
+            return self._system_prompt
+        
+        # Discover available skills
+        skills = self._discover_skills("followup")
+        skills_xml = self._build_skills_xml(skills)
+        
+        self._system_prompt = f"""# Follow-up Agent
+
+You automate follow-up workflows for insurance accounts. You decide which accounts need attention, draft appropriate communications, and execute follow-ups.
+
+## Available Skills
+
+{skills_xml}
+
+When you need specialized guidance (e.g., stage-specific rules, email templates), use read_file to load a skill's SKILL.md.
+
+## Tools
+
+- `lookup_account(query, top_k?)` - Find account by company name. Returns `state_file` (ready to use) and `directory_path`
+- `read_file(path)` - Read any file - **must be a FILE path, not a directory**
+- `list_files(path)` - List directory contents
+- `scan_accounts(stage_filter?, min_days?, limit?)` - Find accounts needing follow-up
+- `get_recent_sources(account_id, limit?)` - Get recent emails/calls/SMS for context
+- `draft_communication(account_id, channel, purpose?)` - Generate a draft (email, call_script, sms)
+- `send_communication(account_id, channel, subject?, body, rationale?)` - Send and record in history
+- `update_contact(account_id, channel)` - Update last contact date in state
+
+## lookup_account Return Format
+
+`lookup_account` returns:
+```json
+{{
+  "account_id": "29041",
+  "name": "Maple Avenue Dental", 
+  "directory_path": "mem/accounts/29041",  // This is a DIRECTORY - don't read_file on this!
+  "state_file": "mem/accounts/29041/state.md"  // Use THIS for read_file
+}}
+```
+
+**CRITICAL**: Use `state_file` directly with `read_file`. Do NOT try to read `directory_path` - it's a folder, not a file!
+
+## Workflow
+
+### When given a specific account name:
+1. Use `lookup_account(query)` to find the account
+2. Use `read_file(state_file)` with the returned `state_file` path
+3. Use `get_recent_sources(account_id)` for context
+4. Determine what follow-up is needed and draft/send
+
+### When asked to find accounts needing follow-up:
+1. Use `scan_accounts` to find accounts needing follow-up
+2. For each account, read state and recent sources for context
+3. Draft appropriate communication based on stage and history
+4. Send the communication (this also records in history)
+
+## Response Format
+
+You MUST respond with exactly one JSON object per turn.
+
+### For tool calls:
+```json
+{{
+  "type": "tool_call",
+  "tool": "lookup_account",
+  "args": {{"query": "Maple Avenue Dental"}},
+  "reason": "Find account ID to check follow-up needs"
+}}
+```
+
+### For asking clarification (when you need more info from user):
+```json
+{{
+  "type": "clarification",
+  "question": "Which account would you like me to send the follow-up SMS to?",
+  "suggestions": ["Use scan_accounts to find accounts needing follow-up", "Specify an account name"]
+}}
+```
+
+### For final answer:
+```json
+{{
+  "type": "final",
+  "answer": "Summary of what was done",
+  "actions_taken": [
+    {{"account": "Company Name", "action": "Sent email", "channel": "email"}}
+  ]
+}}
+```
+
+## Handling Ambiguous Requests
+
+When the user doesn't specify an account:
+1. **If they ask to "find" or "scan" accounts** → use `scan_accounts` to find accounts needing follow-up
+2. **If they give a general task like "write a follow-up SMS"** → ask which account using the `clarification` response type
+3. **If they mention pending documents** → use `scan_accounts` to find accounts with pending document requests, then ask to confirm
+
+## Important Rules
+
+- **When given an account name, ALWAYS use lookup_account first** to get the account_id
+- **When no account specified, ask for clarification** - don't guess
+- Always read account state before drafting
+- Use recent sources for personalization
+- Record all actions (send_communication handles this)
+- Stop when task is complete or budget is exhausted
+"""
+        return self._system_prompt
+    
+    def run(self, query: str, use_cache: bool = False) -> dict:
+        """
+        Main entry point: run the follow-up agent loop.
+        
+        Args:
+            query: User's request (e.g., "Follow up on overdue accounts")
+            use_cache: Whether to use cached results
+            
+        Returns:
+            Response dict with answer, actions_taken, and trace
+        """
+        # Check cache
+        if use_cache:
+            cached = self._get_cached_result(query)
+            if cached:
+                cached["from_cache"] = True
+                return cached
+        
+        # Create trace with follow-up budget limits
+        trace = Trace(
+            question=query,
+            max_tool_calls=self.MAX_TOOL_CALLS,
+            max_read_file=self.MAX_READ_FILE,
+            max_writes=self.MAX_WRITES
+        )
+        
+        logger.info(f"Starting follow-up agent for: {query}")
+        
+        while not trace.is_budget_exhausted():
+            try:
+                response = self.call_claude(query, trace)
+            except Exception as e:
+                logger.error(f"Claude API error: {e}")
+                trace.stop_reason = "error"
+                return {
+                    "answer": f"Error: {e}",
+                    "actions_taken": [],
+                    "trace": trace.to_dict()
+                }
+            
+            response_type = response.get("type")
+            
+            if response_type == "tool_call":
+                tool = response.get("tool")
+                args = response.get("args", {})
+                reason = response.get("reason", "")
+                
+                logger.info(f"Tool call: {tool}({args}) - {reason}")
+                
+                tool_call = ToolCall(tool=tool, args=args, reason=reason)
+                
+                try:
+                    result = self.tool_executor.execute(tool, args)
+                    tool_call.result = result
+                    logger.debug(f"Tool result: {result[:200]}...")
+                except Exception as e:
+                    tool_call.error = str(e)
+                    logger.warning(f"Tool error: {e}")
+                
+                trace.add_tool_call(tool_call)
+            
+            elif response_type == "clarification":
+                logger.info("Agent needs clarification from user")
+                trace.stop_reason = "clarification_needed"
+                
+                return {
+                    "answer": response.get("question", "I need more information to proceed."),
+                    "needs_clarification": True,
+                    "suggestions": response.get("suggestions", []),
+                    "actions_taken": [],
+                    "trace": trace.to_dict()
+                }
+            
+            elif response_type == "final":
+                logger.info("Received final answer")
+                trace.stop_reason = "final_answer"
+                
+                result = {
+                    "answer": response.get("answer", ""),
+                    "actions_taken": response.get("actions_taken", []),
+                    "trace": trace.to_dict()
+                }
+                
+                if use_cache:
+                    self._cache_result(query, result)
+                
+                return result
+            
+            else:
+                logger.warning(f"Unknown response type: {response_type}")
+                continue
+        
+        # Budget exhausted
+        logger.warning("Budget exhausted")
+        trace.stop_reason = "budget_exhausted"
+        
+        return {
+            "answer": f"Follow-up limit reached. {trace.get_budget_status()}",
+            "actions_taken": [],
+            "trace": trace.to_dict()
+        }
+
+
 # CLI for testing
 def main():
     import argparse
     
     parser = argparse.ArgumentParser(description="Follow-Up Agent CLI")
-    parser.add_argument("command", choices=["scan", "draft", "execute"],
+    parser.add_argument("command", choices=["scan", "draft", "execute", "run"],
                         help="Command to run")
     parser.add_argument("--account", "-a", help="Account ID for draft/execute")
     parser.add_argument("--channel", "-c", choices=["email", "call_script", "sms"],
@@ -812,10 +1236,32 @@ def main():
     parser.add_argument("--stage", "-s", help="Filter by stage (for scan)")
     parser.add_argument("--days", "-d", type=int, help="Min days since contact (for scan)")
     parser.add_argument("--send", action="store_true", help="Actually send (not dry run)")
+    parser.add_argument("--query", "-q", help="Query for agentic run mode")
     
     args = parser.parse_args()
     
     logging.basicConfig(level=logging.INFO)
+    
+    # New agentic mode
+    if args.command == "run":
+        query = args.query or "Find and follow up on accounts that are overdue"
+        orchestrator = FollowUpOrchestrator()
+        result = orchestrator.run(query)
+        
+        print("\n" + "=" * 60)
+        print("RESULT")
+        print("=" * 60)
+        print(result["answer"])
+        
+        if result.get("actions_taken"):
+            print("\nActions Taken:")
+            for action in result["actions_taken"]:
+                print(f"  - {action}")
+        
+        print(f"\nTrace: {result['trace']['budget_status']}")
+        return
+    
+    # Legacy commands
     agent = FollowUpAgent()
     
     if args.command == "scan":
