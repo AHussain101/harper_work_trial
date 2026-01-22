@@ -22,7 +22,7 @@ import anthropic
 from dotenv import load_dotenv
 
 from name_registry import NameRegistry
-from orchestrator import Orchestrator
+from search_agent import Orchestrator
 
 # Load environment variables
 load_dotenv()
@@ -31,7 +31,7 @@ load_dotenv()
 logger = logging.getLogger(__name__)
 
 # Intent types
-IntentType = Literal["search", "update", "unclear"]
+IntentType = Literal["search", "update", "followup", "unclear"]
 
 
 @dataclass
@@ -39,6 +39,7 @@ class ClassifiedIntent:
     """Result of intent classification."""
     intent: IntentType
     account_name: Optional[str] = None
+    requires_specific_account: bool = False
     action_summary: Optional[str] = None
     confidence: float = 0.0
     raw_response: dict = field(default_factory=dict)
@@ -110,6 +111,7 @@ class StarterAgent:
         
         # Lazy import to avoid circular dependency
         self._updater_agent = None
+        self._followup_agent = None
         
         # Session state for multi-turn confirmations
         self._pending_confirmations: dict[str, dict] = {}
@@ -127,6 +129,13 @@ class StarterAgent:
             self._updater_agent = UpdaterAgent(mem_path=str(self.mem_path))
         return self._updater_agent
     
+    def _get_followup_agent(self):
+        """Get or create Follow-Up Agent instance."""
+        if self._followup_agent is None:
+            from followup_agent import FollowUpAgent
+            self._followup_agent = FollowUpAgent(mem_path=str(self.mem_path))
+        return self._followup_agent
+    
     def classify_intent(self, query: str) -> ClassifiedIntent:
         """
         Use Claude to classify the intent of a query.
@@ -139,22 +148,32 @@ class StarterAgent:
 Query: "{query}"
 
 Respond with a JSON object containing:
-1. "intent": One of "search", "update", or "unclear"
+1. "intent": One of "search", "update", "followup", or "unclear"
    - "search": User wants to look up info, ask a question, check status (read-only)
    - "update": User wants to change something, add a note, update status, mark as something
+   - "followup": User wants to send a follow-up, draft a communication, or execute a follow-up action for an account
    - "unclear": Cannot determine intent, need clarification
 
 2. "account_name": The company/account name mentioned (or null if none)
 
-3. "action_summary": Brief summary of what user wants to do (for updates)
+3. "action_summary": Brief summary of what user wants to do (for updates/followups)
 
 4. "confidence": 0.0 to 1.0 confidence in classification
 
+5. "requires_specific_account": true/false - Whether this query is about a specific account
+   - true: Query references "the customer", "their email", "the call", a specific person, or implies a single account context
+   - false: Query is cross-account ("which accounts", "list all", "how many") or general
+
 Examples:
-- "What is the status of Sunny Days Childcare?" → {{"intent": "search", "account_name": "Sunny Days Childcare", "action_summary": null, "confidence": 0.95}}
-- "Mark ABC Corp as Quoted" → {{"intent": "update", "account_name": "ABC Corp", "action_summary": "Change stage to Quoted", "confidence": 0.9}}
-- "Which accounts need follow-up?" → {{"intent": "search", "account_name": null, "action_summary": null, "confidence": 0.85}}
-- "Sunny Days" → {{"intent": "unclear", "account_name": "Sunny Days", "action_summary": null, "confidence": 0.4}}
+- "What is the status of Sunny Days Childcare?" → {{"intent": "search", "account_name": "Sunny Days Childcare", "requires_specific_account": true, "action_summary": null, "confidence": 0.95}}
+- "Mark ABC Corp as Quoted" → {{"intent": "update", "account_name": "ABC Corp", "requires_specific_account": true, "action_summary": "Change stage to Quoted", "confidence": 0.9}}
+- "Which accounts need follow-up?" → {{"intent": "search", "account_name": null, "requires_specific_account": false, "action_summary": null, "confidence": 0.85}}
+- "What did the customer say in the call?" → {{"intent": "search", "account_name": null, "requires_specific_account": true, "action_summary": null, "confidence": 0.8}}
+- "Compare the emails to the call transcript" → {{"intent": "search", "account_name": null, "requires_specific_account": true, "action_summary": null, "confidence": 0.8}}
+- "Follow up with Maple Avenue Dental" → {{"intent": "followup", "account_name": "Maple Avenue Dental", "requires_specific_account": true, "action_summary": "Send follow-up communication", "confidence": 0.9}}
+- "Send a follow-up email to ABC Corp" → {{"intent": "followup", "account_name": "ABC Corp", "requires_specific_account": true, "action_summary": "Draft and send follow-up email", "confidence": 0.9}}
+- "Draft a call script for Sunny Days" → {{"intent": "followup", "account_name": "Sunny Days", "requires_specific_account": true, "action_summary": "Draft call script for follow-up", "confidence": 0.85}}
+- "Sunny Days" → {{"intent": "unclear", "account_name": "Sunny Days", "requires_specific_account": true, "action_summary": null, "confidence": 0.4}}
 
 Respond with ONLY the JSON object, no other text."""
 
@@ -174,6 +193,7 @@ Respond with ONLY the JSON object, no other text."""
                 return ClassifiedIntent(
                     intent=data.get("intent", "unclear"),
                     account_name=data.get("account_name"),
+                    requires_specific_account=data.get("requires_specific_account", False),
                     action_summary=data.get("action_summary"),
                     confidence=data.get("confidence", 0.0),
                     raw_response=data
@@ -225,142 +245,72 @@ Respond with ONLY the JSON object, no other text."""
             logger.error(f"Account resolution failed: {e}")
             return AccountResolution(found=False)
     
-    def create_new_account(
+    def _route_to_create_account(
         self,
         account_name: str,
-        account_id: Optional[str] = None
-    ) -> dict:
+        account_details: Optional[dict] = None
+    ) -> StarterAgentResponse:
         """
-        Create a new account folder structure.
+        Route account creation to the Updater Agent (account-create skill).
         
         Args:
             account_name: Company name for the new account
-            account_id: Optional specific ID, otherwise auto-generated
+            account_details: Optional dict with account info (industry, location, etc.)
             
         Returns:
-            dict with account_id, path, and success status
+            StarterAgentResponse with creation result
         """
-        # Generate account ID if not provided
-        if account_id is None:
-            account_id = self._generate_account_id()
-        
-        account_dir = self.mem_path / "accounts" / str(account_id)
-        sources_dir = account_dir / "sources"
-        
         try:
-            # Create directory structure
-            for subdir in ["emails", "calls", "sms"]:
-                (sources_dir / subdir).mkdir(parents=True, exist_ok=True)
+            updater_agent = self._get_updater_agent()
+            result = updater_agent.create_account(
+                account_name=account_name,
+                account_details=account_details
+            )
             
-            # Create minimal state.md
-            timestamp = datetime.now().isoformat()
-            state_content = f"""# {account_name} (Account {account_id})
-
-## Status
-- **Stage**: New Lead
-- **Insurance Types**: None
-
-## Contacts
-- **Primary Email**: 
-- **Primary Phone**: 
-
-## Next Steps
-- Initial outreach needed
-
-## Pending Actions
-- None identified
-
-## Last Contact
-- **Date**: {timestamp[:10]}
-- **Type**: Account created
-"""
-            state_path = account_dir / "state.md"
-            state_path.write_text(state_content, encoding='utf-8')
-            
-            # Create initial history.md
-            history_content = f"""# Change History
-
-## {timestamp}
-
-Account created for {account_name}.
-
-- **action**: Account initialized
-- **Evidence**: User request
-
----
-
-"""
-            history_path = account_dir / "history.md"
-            history_path.write_text(history_content, encoding='utf-8')
-            
-            # Index in Qdrant
-            if self._name_registry:
-                directory_path = f"{self.mem_path}/accounts/{account_id}"
-                
-                # Index by name
-                self._name_registry.upsert_account(
-                    account_id=str(account_id),
-                    name=account_name,
-                    directory_path=directory_path
+            if result.get("success"):
+                return StarterAgentResponse(
+                    type="success",
+                    message=result.get("message", f"Created new account: {account_name}"),
+                    data={
+                        "routed_to": "updater_agent",
+                        "account_id": result.get("account_id"),
+                        "account_name": result.get("account_name"),
+                        "changes": result.get("changes", []),
+                        "history_entry_id": result.get("history_entry_id"),
+                        "files_modified": result.get("files_modified", []),
+                        "qdrant_updated": result.get("qdrant_updated", False),
+                        "new_description": result.get("new_description"),
+                        "state_file_path": result.get("state_file_path"),
+                        "history_file_path": result.get("history_file_path"),
+                    }
                 )
-                
-                # Index by description
-                description = f"{account_name} | Stage: New Lead | New account, initial outreach needed."
-                self._name_registry.upsert_description(
-                    account_id=str(account_id),
-                    name=account_name,
-                    description=description,
-                    directory_path=directory_path
+            else:
+                return StarterAgentResponse(
+                    type="error",
+                    message=result.get("message", "Failed to create account")
                 )
-                
-                logger.info(f"Indexed new account {account_id} in Qdrant")
-            
-            logger.info(f"Created new account: {account_id} - {account_name}")
-            
-            return {
-                "success": True,
-                "account_id": str(account_id),
-                "account_name": account_name,
-                "path": str(account_dir)
-            }
-            
         except Exception as e:
-            logger.error(f"Failed to create account: {e}")
-            return {
-                "success": False,
-                "error": str(e)
-            }
-    
-    def _generate_account_id(self) -> str:
-        """Generate a new unique account ID."""
-        accounts_dir = self.mem_path / "accounts"
-        
-        if not accounts_dir.exists():
-            accounts_dir.mkdir(parents=True)
-            return "10001"
-        
-        # Find highest existing ID and increment
-        existing_ids = []
-        for path in accounts_dir.iterdir():
-            if path.is_dir() and path.name.isdigit():
-                existing_ids.append(int(path.name))
-        
-        if existing_ids:
-            return str(max(existing_ids) + 1)
-        else:
-            return "10001"
+            logger.error(f"Account creation failed: {e}")
+            return StarterAgentResponse(
+                type="error",
+                message=f"Failed to create account: {e}"
+            )
     
     def handle_confirmation(
         self,
         session_id: str,
-        confirmed: bool
+        confirmed: bool,
+        account_details: Optional[dict] = None,
+        clarification_data: Optional[dict] = None
     ) -> StarterAgentResponse:
         """
-        Handle user confirmation for pending actions (like creating new account).
+        Handle user confirmation for pending actions (like creating new account or clarifying updates).
         
         Args:
             session_id: Session identifier for the pending confirmation
             confirmed: Whether user confirmed the action
+            account_details: Optional dict with account details (industry, location, etc.)
+            clarification_data: Optional dict with clarification data for vague updates
             
         Returns:
             StarterAgentResponse with result
@@ -383,34 +333,72 @@ Account created for {account_name}.
         action = pending.get("action")
         
         if action == "create_account":
-            # Create the new account
-            result = self.create_new_account(
-                account_name=pending["account_name"]
+            # Route account creation to Updater Agent (account-create skill)
+            create_result = self._route_to_create_account(
+                account_name=pending["account_name"],
+                account_details=account_details
             )
             
-            if result["success"]:
+            if create_result.type == "success":
                 # Continue with original query if it was an update
                 original_query = pending.get("original_query")
                 original_intent = pending.get("original_intent")
                 
                 if original_intent == "update" and original_query:
-                    # Route to updater agent with the new account
+                    # Route to updater agent with the new account for the original update
+                    account_id = create_result.data.get("account_id")
+                    account_name = create_result.data.get("account_name")
+                    account_path = f"{self.mem_path}/accounts/{account_id}"
                     return self._route_to_updater(
                         query=original_query,
-                        account_id=result["account_id"],
-                        account_name=result["account_name"],
-                        account_path=result["path"]
+                        account_id=account_id,
+                        account_name=account_name,
+                        account_path=account_path
                     )
                 
-                return StarterAgentResponse(
-                    type="success",
-                    message=f"Created new account: {result['account_name']} (ID: {result['account_id']})",
-                    data=result
-                )
+                return create_result
             else:
+                return create_result
+        
+        elif action == "clarify_update":
+            # Handle clarified update submission
+            if not clarification_data:
                 return StarterAgentResponse(
                     type="error",
-                    message=f"Failed to create account: {result.get('error', 'Unknown error')}"
+                    message="No clarification data provided."
+                )
+            
+            try:
+                updater_agent = self._get_updater_agent()
+                result = updater_agent.process_clarified_update(
+                    account_id=pending["account_id"],
+                    account_name=pending["account_name"],
+                    account_path=pending["account_path"],
+                    clarification_data=clarification_data
+                )
+                
+                return StarterAgentResponse(
+                    type="success" if result.get("success") else "error",
+                    message=result.get("message", "Update processed"),
+                    data={
+                        "routed_to": "updater_agent",
+                        "changes": result.get("changes", []),
+                        "history_entry_id": result.get("history_entry_id"),
+                        "account_id": result.get("account_id"),
+                        "account_name": result.get("account_name"),
+                        "files_modified": result.get("files_modified", []),
+                        "qdrant_updated": result.get("qdrant_updated", False),
+                        "new_description": result.get("new_description"),
+                        "state_file_path": result.get("state_file_path"),
+                        "history_file_path": result.get("history_file_path"),
+                        "previous_history_entry": result.get("previous_history_entry"),
+                    }
+                )
+            except Exception as e:
+                logger.error(f"Clarified update failed: {e}")
+                return StarterAgentResponse(
+                    type="error",
+                    message=f"Update failed: {e}"
                 )
         
         return StarterAgentResponse(
@@ -459,6 +447,35 @@ Account created for {account_name}.
                 account_path=account_path
             )
             
+            # Check if this is a vague update that needs clarification
+            if result.get("needs_clarification"):
+                import uuid
+                session_id = str(uuid.uuid4())
+                
+                # Store pending clarification
+                self._pending_confirmations[session_id] = {
+                    "action": "clarify_update",
+                    "account_id": account_id,
+                    "account_name": account_name,
+                    "account_path": account_path,
+                    "original_query": result.get("original_query", query),
+                    "clarification_fields": result.get("clarification_fields", [])
+                }
+                
+                return StarterAgentResponse(
+                    type="clarification_needed",
+                    message=result.get("message", "I need more details to complete this update."),
+                    data={
+                        "routed_to": "updater_agent",
+                        "session_id": session_id,
+                        "account_id": account_id,
+                        "account_name": account_name,
+                        "clarification_type": "vague_update",
+                        "clarification_fields": result.get("clarification_fields", []),
+                        "original_query": result.get("original_query", query)
+                    }
+                )
+            
             # Pass through all rich details from updater agent
             return StarterAgentResponse(
                 type="success" if result.get("success") else "error",
@@ -484,6 +501,66 @@ Account created for {account_name}.
             return StarterAgentResponse(
                 type="error",
                 message=f"Update failed: {e}"
+            )
+    
+    def _route_to_followup(
+        self,
+        query: str,
+        account_id: str,
+        account_name: str,
+        account_path: str,
+        action_summary: Optional[str] = None
+    ) -> StarterAgentResponse:
+        """Route query to Follow-Up Agent."""
+        try:
+            followup_agent = self._get_followup_agent()
+            
+            # Determine channel from query or use default
+            channel = None
+            query_lower = query.lower()
+            if "email" in query_lower:
+                channel = "email"
+            elif "call" in query_lower:
+                channel = "call_script"
+            elif "sms" in query_lower or "text" in query_lower:
+                channel = "sms"
+            
+            # Draft the communication
+            draft = followup_agent.draft_communication(
+                account_id=account_id,
+                channel=channel,
+                purpose=action_summary
+            )
+            
+            # Determine if we should execute (send) or just draft
+            # Look for action words that indicate sending
+            should_send = any(word in query_lower for word in ["send", "execute", "do"])
+            
+            # Execute with dry_run based on intent
+            result = followup_agent.execute_followup(
+                account_id=account_id,
+                draft=draft,
+                dry_run=not should_send  # Dry run unless explicitly sending
+            )
+            
+            return StarterAgentResponse(
+                type="success" if result.success else "error",
+                message=result.message,
+                data={
+                    "routed_to": "followup_agent",
+                    "account_id": account_id,
+                    "account_name": account_name,
+                    "draft": draft.to_dict(),
+                    "sent": result.sent,
+                    "recorded": result.recorded,
+                    "history_entry_id": result.history_entry_id
+                }
+            )
+        except Exception as e:
+            logger.error(f"Follow-up agent failed: {e}")
+            return StarterAgentResponse(
+                type="error",
+                message=f"Follow-up failed: {e}"
             )
     
     def run(self, query: str, session_id: Optional[str] = None) -> StarterAgentResponse:
@@ -517,8 +594,21 @@ Account created for {account_name}.
                 }
             )
         
-        # Step 3: Handle queries without specific account (cross-account searches)
+        # Step 3: Handle queries without specific account
         if not classification.account_name:
+            # Check if query needs a specific account but none was provided
+            if classification.requires_specific_account:
+                return StarterAgentResponse(
+                    type="clarification_needed",
+                    message="Which account are you asking about? You can provide the company name or describe them (e.g., 'the childcare center in Texas').",
+                    data={
+                        "original_query": query,
+                        "original_intent": classification.intent,
+                        "reason": "Query requires specific account"
+                    }
+                )
+            
+            # Cross-account search (no specific account needed)
             if classification.intent == "search":
                 return self._route_to_search(query)
             else:
@@ -571,6 +661,14 @@ Account created for {account_name}.
                 account_name=resolution.account_name,
                 account_path=resolution.account_path
             )
+        elif classification.intent == "followup":
+            return self._route_to_followup(
+                query=query,
+                account_id=resolution.account_id,
+                account_name=resolution.account_name,
+                account_path=resolution.account_path,
+                action_summary=classification.action_summary
+            )
         
         return StarterAgentResponse(
             type="error",
@@ -586,7 +684,12 @@ Account created for {account_name}.
         search_agent = self._get_search_agent()
         
         # Build routing event to show Starter Agent thinking
-        routed_to = "search_agent" if classification.intent == "search" else "updater_agent"
+        intent_to_agent = {
+            "search": "search_agent",
+            "update": "updater_agent",
+            "followup": "followup_agent"
+        }
+        routed_to = intent_to_agent.get(classification.intent, "search_agent")
         routing_event = {
             "type": "routing",
             "intent": classification.intent,
@@ -595,15 +698,23 @@ Account created for {account_name}.
             "routed_to": routed_to,
         }
         
-        # Add skill info if available
+        # Add available skills info for the routed agent
+        intent_to_category = {
+            "search": "search",
+            "update": "update",
+            "followup": "followup"
+        }
+        skill_category = intent_to_category.get(classification.intent, "search")
         try:
-            skill_meta = search_agent.get_skill_metadata("search" if classification.intent == "search" else "update")
-            if skill_meta and skill_meta.get("name"):
-                desc = skill_meta.get("description", "")
+            available_skills = search_agent._discover_skills(skill_category)
+            if available_skills:
+                # Show first skill as representative, note that there are more
+                first_skill = available_skills[0]
+                skill_count = len(available_skills)
                 routing_event["skill_loaded"] = {
-                    "name": skill_meta.get("name", "Agent"),
-                    "description": desc[:120] + "..." if len(desc) > 120 else desc,
-                    "path": f"mem/skills/{'search' if classification.intent == 'search' else 'update'}/SKILL.md"
+                    "name": f"{skill_count} {skill_category.title()} Skills Available",
+                    "description": f"Skills: {', '.join(s['name'] for s in available_skills[:4])}{'...' if skill_count > 4 else ''}",
+                    "path": f"skills/{skill_category}/"
                 }
         except Exception:
             pass  # Skill info is optional
@@ -645,13 +756,30 @@ Account created for {account_name}.
             if classification.intent == "search":
                 yield from search_agent.run_streaming(query)
             else:
-                # Update operation - yield final result with all details
+                # Update/Followup operation - yield final result with all details
+                logger.info(f"Processing {classification.intent} via run()")
                 result = self.run(query)
-                yield {
-                    "type": "final" if result.type == "success" else result.type,
-                    "answer": result.message,
-                    **(result.data or {})
-                }
+                
+                # Handle vague update clarification
+                if result.type == "clarification_needed" and result.data.get("clarification_type") == "vague_update":
+                    logger.info("Yielding vague_update_clarification event")
+                    yield {
+                        "type": "vague_update_clarification",
+                        "message": result.message,
+                        "session_id": result.data.get("session_id"),
+                        "account_id": result.data.get("account_id"),
+                        "account_name": result.data.get("account_name"),
+                        "clarification_fields": result.data.get("clarification_fields", []),
+                        "original_query": result.data.get("original_query")
+                    }
+                else:
+                    final_event = {
+                        "type": "final" if result.type == "success" else result.type,
+                        "answer": result.message,
+                        **(result.data or {})
+                    }
+                    logger.info(f"Yielding final event for {classification.intent}: type={final_event.get('type')}, has_changes={bool(final_event.get('changes'))}")
+                    yield final_event
         else:
             # Fallback - run and yield result
             result = self.run(query)

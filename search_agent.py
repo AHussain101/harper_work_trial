@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
-Orchestrator for Experiment 1: Pure Exploration Workflow Agent
+Search Agent: Read-only exploration agent for answering questions.
 
 Manages the Plan-Act-Observe loop between Claude and filesystem tools.
+Finds accounts via Qdrant lookup, reads state.md and sources, returns
+grounded answers with citations.
 """
 
 import hashlib
@@ -40,10 +42,10 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Budget constants - balanced for speed + multi-source queries
-MAX_TOOL_CALLS = 10  # Enough for multi-source queries (was 15)
-MAX_READ_FILE = 6    # Enough to read multiple sources (was 8)
-MAX_SEARCH = 4       # Reduced from 6
+# Budget constants - increased for source evidence requirement
+MAX_TOOL_CALLS = 15  # Room for lookup + state + sources
+MAX_READ_FILE = 8    # Room to read state.md + multiple sources
+MAX_SEARCH = 4       # Text search limit
 MAX_FILE_SIZE = 200 * 1024  # 200KB
 MAX_SEARCH_RESULTS = 20  # Reduced from 50
 
@@ -405,10 +407,12 @@ class Orchestrator:
     def __init__(
         self,
         mem_path: str = "mem",
+        skills_path: str = "skills",
         api_key: Optional[str] = None,
         model: str = "claude-haiku-4-5-20251001"
     ):
         self.mem_path = Path(mem_path)
+        self.skills_path = Path(skills_path)
         self.repo_root = self.mem_path.parent
         self.tool_executor = ToolExecutor(str(self.repo_root))
         self.model = model
@@ -423,9 +427,6 @@ class Orchestrator:
         # Cache skill content
         self._skill_content: Optional[str] = None
         self._skill_metadata: Optional[dict] = None
-        
-        # Legacy fallback
-        self._system_rules: Optional[str] = None
         
         # Query result cache (query_hash -> (result, timestamp))
         self._query_cache: dict[str, tuple[dict, float]] = {}
@@ -467,12 +468,10 @@ class Orchestrator:
         Returns:
             The skill content (body without frontmatter)
         """
-        skill_path = self.mem_path / "skills" / skill_name / "SKILL.md"
+        skill_path = self.skills_path / skill_name / "SKILL.md"
         
         if not skill_path.exists():
-            # Fallback to legacy system_rules.md
-            logger.warning(f"Skill not found at {skill_path}, falling back to system_rules.md")
-            return self.load_system_rules()
+            raise FileNotFoundError(f"Skill not found: {skill_path}")
         
         content = skill_path.read_text(encoding='utf-8')
         metadata, body = self._parse_skill_frontmatter(content)
@@ -495,7 +494,7 @@ class Orchestrator:
         Returns:
             Content of the context file
         """
-        context_path = self.mem_path / "skills" / skill_name / context_file
+        context_path = self.skills_path / skill_name / context_file
         
         if not context_path.exists():
             raise FileNotFoundError(f"Skill context not found: {context_path}")
@@ -517,7 +516,7 @@ class Orchestrator:
         Returns:
             Metadata dict with 'name' and 'description'
         """
-        skill_path = self.mem_path / "skills" / skill_name / "SKILL.md"
+        skill_path = self.skills_path / skill_name / "SKILL.md"
         
         if not skill_path.exists():
             return {"name": skill_name, "description": "Skill not found"}
@@ -526,24 +525,164 @@ class Orchestrator:
         metadata, _ = self._parse_skill_frontmatter(content)
         return metadata
     
-    def load_system_rules(self) -> str:
-        """Load and cache system rules from mem/system_rules.md (legacy fallback)."""
-        if self._system_rules is None:
-            rules_path = self.mem_path / "system_rules.md"
-            if not rules_path.exists():
-                raise FileNotFoundError(f"System rules not found: {rules_path}")
-            self._system_rules = rules_path.read_text(encoding='utf-8')
-        return self._system_rules
+    def _discover_skills(self, category: str) -> list[dict]:
+        """
+        Discover available skills in a category (Level 1 - metadata only).
+        
+        Scans the skills directory for skill folders and parses only
+        the YAML frontmatter from each SKILL.md file.
+        
+        Args:
+            category: Skill category folder (e.g., "search", "update", "followup")
+            
+        Returns:
+            List of skill metadata dicts with name, description, and path
+        """
+        skills = []
+        skills_dir = self.skills_path / category
+        
+        if not skills_dir.exists():
+            logger.warning(f"Skills directory not found: {skills_dir}")
+            return skills
+        
+        for skill_folder in sorted(skills_dir.iterdir()):
+            if not skill_folder.is_dir():
+                continue
+            
+            skill_md = skill_folder / "SKILL.md"
+            if skill_md.exists():
+                try:
+                    content = skill_md.read_text(encoding='utf-8')
+                    metadata, _ = self._parse_skill_frontmatter(content)
+                    
+                    skills.append({
+                        "name": metadata.get("name", skill_folder.name),
+                        "description": metadata.get("description", ""),
+                        "path": str(skill_md)
+                    })
+                except Exception as e:
+                    logger.warning(f"Failed to parse skill {skill_folder.name}: {e}")
+        
+        logger.info(f"Discovered {len(skills)} skills in category '{category}'")
+        return skills
+    
+    def _build_skills_xml(self, skills: list[dict]) -> str:
+        """
+        Build XML representation of available skills for prompt injection.
+        
+        Follows the Agent Skills specification format for Claude.
+        
+        Args:
+            skills: List of skill metadata dicts
+            
+        Returns:
+            XML string for available_skills
+        """
+        if not skills:
+            return ""
+        
+        lines = ["<available_skills>"]
+        for skill in skills:
+            lines.append("  <skill>")
+            lines.append(f"    <name>{skill['name']}</name>")
+            # Escape any XML special characters in description
+            desc = skill.get('description', '').replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+            lines.append(f"    <description>{desc}</description>")
+            lines.append(f"    <location>{skill['path']}</location>")
+            lines.append("  </skill>")
+        lines.append("</available_skills>")
+        
+        return "\n".join(lines)
     
     def build_system_prompt(self) -> str:
-        """Build the full system prompt for Claude using the skill system."""
-        # Try to load from skills first
+        """
+        Build a minimal system prompt with available skills.
+        
+        Uses progressive disclosure: only skill metadata (name, description)
+        is loaded at startup. Full skill instructions are loaded on-demand
+        when the agent reads a skill's SKILL.md file.
+        """
         if self._skill_content is None:
-            try:
-                self._skill_content = self.load_skill("search")
-            except Exception as e:
-                logger.warning(f"Failed to load skill, using legacy system_rules: {e}")
-                self._skill_content = self.load_system_rules()
+            # Discover available skills
+            skills = self._discover_skills("search")
+            skills_xml = self._build_skills_xml(skills)
+            
+            # Build minimal base prompt
+            self._skill_content = f"""# Search Agent
+
+You answer questions by exploring the filesystem memory at `mem/`.
+
+## Available Skills
+
+{skills_xml}
+
+When you need specialized guidance for a task, activate a skill by using 
+read_file to load its SKILL.md file. The skill will tell you which tools 
+to use and how to interpret results.
+
+## Tools
+
+You have five tools:
+- `lookup_account(query)` - Find accounts by company name (use for specific companies)
+- `search_descriptions(query)` - Find accounts by attributes like stage, location, industry (use for "quoted accounts", "accounts in Texas", cross-account queries)
+- `list_files(path)` - List directory contents
+- `read_file(path)` - Read file contents
+- `search_files(query, path)` - Search for text in files
+
+## Exploration Strategy
+
+1. **Specific company name** → Use `lookup_account` first
+2. **Attribute/stage queries** ("quoted accounts", "need follow-up") → Use `search_descriptions`
+3. **Always read state.md** after finding an account - it has stage, status, pending items, next steps
+4. **REQUIRED: Read at least one source file** from sources/emails/, sources/calls/, or sources/sms/ to verify claims before answering
+
+## Answer Formatting (CRITICAL)
+
+- **For account summaries** ("complete picture", "where are we with", "status of"):
+  You MUST include these exact words in your answer:
+  - "stage" (e.g., "Stage: Application")
+  - "status" (e.g., "Status: In progress")
+  - "next" (e.g., "Next steps: ...")
+  - "pending" (e.g., "Pending actions: ...")
+  
+- **For cross-account/list queries** ("which accounts", "list of", "all accounts"):
+  Format as a numbered list using brackets, e.g.:
+  [1] Sunny Days Childcare - Stage: Application, needs follow-up
+  [2] Maple Avenue Dental - Stage: Quoted, awaiting decision
+
+## Response Format
+
+You MUST respond with exactly one JSON object per turn.
+
+### For tool calls:
+```json
+{{
+  "type": "tool_call",
+  "tool": "lookup_account",
+  "args": {{"query": "Sunny Days Childcare"}},
+  "reason": "Find account by company name"
+}}
+```
+
+### For final answers:
+```json
+{{
+  "type": "final",
+  "answer": "Your answer here...",
+  "citations": ["mem/accounts/29119/state.md", "mem/accounts/29119/sources/emails/email_12345/summary.md"],
+  "notes": "Optional notes",
+  "trace_summary": ["Step 1", "Step 2"]
+}}
+```
+
+## Critical Rules
+
+- **Only cite files you have opened** with read_file
+- **Never invent information** - if you can't find evidence, say so
+- **Budget awareness** - you have limited tool calls, be efficient
+- **Grounded answers** - all answers must be based on file contents
+- **SOURCE EVIDENCE REQUIRED** - Every answer MUST cite at least one source file from sources/ (emails, calls, or sms), not just state.md. Your answer will be rejected if you only cite state.md or history.md.
+"""
         
         return self._skill_content
     
@@ -747,6 +886,24 @@ class Orchestrator:
         
         return valid
     
+    def has_source_evidence(self, citations: list) -> bool:
+        """
+        Check if citations include at least one source file (email/call/SMS).
+        
+        Source files are in: sources/emails/, sources/calls/, sources/sms/
+        Non-source files: state.md, history.md
+        
+        Args:
+            citations: List of file paths that were cited
+            
+        Returns:
+            True if at least one source file is cited
+        """
+        for citation in citations:
+            if "/sources/" in citation:
+                return True
+        return False
+    
     def build_response(self, final_response: dict, trace: Trace) -> dict:
         """
         Build the final response object.
@@ -897,6 +1054,26 @@ class Orchestrator:
                 
             elif response_type == "final":
                 logger.info("Received final answer")
+                
+                # Check for source evidence requirement
+                raw_citations = response.get("citations", [])
+                valid_citations = self.validate_citations(raw_citations, trace)
+                
+                if not self.has_source_evidence(valid_citations) and not trace.is_budget_exhausted():
+                    # Reject answer and ask for source evidence
+                    logger.info("Final answer lacks source evidence, requesting sources")
+                    
+                    # Add synthetic feedback as a tool call result
+                    feedback_call = ToolCall(
+                        tool="source_evidence_required",
+                        args={},
+                        reason="System validation",
+                        result="Your answer only cites state.md or history.md. You MUST read at least one source file from sources/emails/, sources/calls/, or sources/sms/ to verify your claims before answering. Use list_files to find available sources, then read_file to read one.",
+                        error=None
+                    )
+                    trace.add_tool_call(feedback_call)
+                    continue  # Continue loop to get sources
+                
                 trace.stop_reason = "final_answer"
                 result = self.build_response(response, trace)
                 # Cache successful results
@@ -1006,6 +1183,38 @@ class Orchestrator:
                 
             elif response_type == "final":
                 logger.info("Received final answer")
+                
+                # Check for source evidence requirement
+                raw_citations = response.get("citations", [])
+                valid_citations = self.validate_citations(raw_citations, trace)
+                
+                if not self.has_source_evidence(valid_citations) and not trace.is_budget_exhausted():
+                    # Reject answer and ask for source evidence
+                    logger.info("Final answer lacks source evidence, requesting sources")
+                    
+                    # Add synthetic feedback as a tool call result
+                    feedback_call = ToolCall(
+                        tool="source_evidence_required",
+                        args={},
+                        reason="System validation",
+                        result="Your answer only cites state.md or history.md. You MUST read at least one source file from sources/emails/, sources/calls/, or sources/sms/ to verify your claims before answering. Use list_files to find available sources, then read_file to read one.",
+                        error=None
+                    )
+                    trace.add_tool_call(feedback_call)
+                    
+                    # Emit feedback event
+                    yield {
+                        "type": "tool_result",
+                        "step": step,
+                        "tool": "source_evidence_required",
+                        "args": {},
+                        "result": feedback_call.result,
+                        "error": None,
+                        "files_opened": trace.files_opened.copy(),
+                        "budget_status": trace.get_budget_status()
+                    }
+                    continue  # Continue loop to get sources
+                
                 trace.stop_reason = "final_answer"
                 result = self.build_response(response, trace)
                 
