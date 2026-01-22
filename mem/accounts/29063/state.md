@@ -9,13 +9,13 @@
 - **Primary Phone**: +1-555-0103
 
 ## Next Steps
-- Submit workers' compensation application to carrier network using confirmed details: 3 W-2 employees, ~$44.8k annual payroll, EIN ending in 4321
-- Prepare and send workers' comp quote options to Marisol once carrier responses received
+- Submit workers' compensation application to carrier network using provided EIN (ending in 4321), 3 W-2 employees, and $44.8k annual payroll
+- Prepare and send workers' comp quote options to Marisol Vega once carrier responses received
 - Schedule follow-up call with Marisol to finalize coverage selection
 
 ## Pending Actions
-- Complete federal EIN collection (client provided masked version ending in 4321; full EIN needed for submission)
-- Client to upload any additional requested documents via secure portal if available
+- Receipt of full federal EIN (currently masked; client indicated will be provided)
+- Any additional supporting documents if requested by carriers during underwriting review
 
 ## Last Contact
 - **Date**: 2025-12-04

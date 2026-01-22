@@ -9,14 +9,14 @@
 - **Primary Phone**: +1 (555) 010-0198
 
 ## Next Steps
-- Follow up with Steven Morales to confirm receipt of underwriter questionnaire and establish deadline for responses
-- Monitor for completion and submission of underwriter questionnaire regarding armed services, record-retention policy, and client contracts
-- Once underwriter clarifications are received, process payment and issue final policy documents
+- Follow up with Steven Morales via phone or text to confirm receipt of underwriter questionnaire and establish deadline for submission
+- Monitor for client submission of underwriter questionnaire responses and contract samples
+- Once underwriter clarifications are received, review responses and push to underwriting team for final pricing approval
 
 ## Pending Actions
-- Client to complete and submit underwriter questionnaire (armed services confirmation, record-retention policy, client contract with insurance limits)
-- Client to provide Federal EIN via secure portal or redacted text
-- Client to submit sample service agreement or warehouse contract if not already provided
+- Client must complete and submit underwriter questionnaire addressing armed services, record-retention policy, and client contracts with specific insurance limits
+- Client must provide Federal EIN (redacted or via secure upload) and copy of current guard license
+- Client must submit sample service agreement/contract template for warehouse accounts if not already provided
 
 ## Last Contact
 - **Date**: 2025-12-05

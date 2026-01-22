@@ -9,14 +9,14 @@
 - **Primary Phone**: +1-555-0123
 
 ## Next Steps
-- Follow up with Marcus if payroll documentation and signed application are not received within 2-3 business days
+- Follow up with Marcus if payroll snapshot and signed application are not received within 24-48 hours
 - Once documents are received, submit to Atlantic Mutual for final underwriting review and premium confirmation
-- Provide Marcus with binding instructions and payment portal link once underwriting approves
+- Confirm effective date with client and process payment once all documentation is complete
 
 ## Pending Actions
-- Payroll snapshot for the driver (required for final premium verification)
+- Payroll snapshot for the driver (required for premium finalization)
 - Signed application form
-- Confirmation of effective date preference (within 30 days)
+- Client confirmation of effective date and payment method (pay-in-full or financing option)
 
 ## Last Contact
 - **Date**: 2025-12-06

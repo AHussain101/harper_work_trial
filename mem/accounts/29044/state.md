@@ -9,13 +9,14 @@
 - **Primary Phone**: +1-380-260-8246
 
 ## Next Steps
-- Schedule state inspection for Riverbend Care Homes during morning hours and confirm appointment details with Marcus
-- Send licensing checklist and document requirements to Marcus to support state inspection preparation
-- Monitor carrier responses to GL application submission and relay any underwriter subjectivities or questions to Marcus within 24-48 hours
+- Send state inspection checklist to Marcus with morning inspection window preference noted
+- Monitor carrier responses for subjectivities and relay any requests within 24-48 business hours
+- Schedule internal follow-up (per incomplete 2025-12-06 call summary) to track application progress
 
 ## Pending Actions
-- Marcus to upload provisional licensing paperwork, inspection appointment details, staffing roster, and facility floor plan (exits and smoke detector locations) to portal
-- Marcus to confirm convenient morning time slot for state inspection scheduling
+- Upload licensing paperwork, provisional licensing details, and state inspection appointment confirmation
+- Submit staffing roster (roles and hours for non-medical caregiver and any additional staff)
+- Provide floor plan showing exits and smoke detector locations
 
 ## Last Contact
 - **Date**: 2025-12-06

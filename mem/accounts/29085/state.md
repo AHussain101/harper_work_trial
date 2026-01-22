@@ -9,13 +9,13 @@
 - **Primary Phone**: +1-555-0149
 
 ## Next Steps
-- Confirm receipt of loss runs and COI documents uploaded by Liam to the portal
-- Review uploaded documents and finalize quote review with Liam
-- Send binding instructions and payment details once Liam confirms acceptance of preliminary quote ($6.4k–$6.6k total estimated first year cost)
+- Confirm receipt of uploaded loss runs and COI documents with Liam and provide quote review timeline
+- Follow up on the preliminary quote ($6.4k–$6.6k annual cost) and present installment plan options to Liam for decision
+- Reattempt warm transfer with Maya at Tivoli referral partner using lead reference L-4820, or proceed with direct carrier intake if transfer fails
 
 ## Pending Actions
-- Liam's decision to accept or request modifications to the preliminary General Liability quote
-- Liam's selection of payment plan option (20% down payment ~$1.2k–$1.4k with monthly installments or other arrangement)
+- Liam's decision on preliminary quote acceptance and preferred payment plan (down payment ~$1.2k–$1.4k with monthly installments)
+- Confirmation of effective date and any additional coverage gaps Liam wants addressed
 
 ## Last Contact
 - **Date**: 2025-12-04

@@ -10,12 +10,12 @@
 
 ## Next Steps
 - Prepare applicant-facing quote document from RTS Specialty with broker fee and payment options
-- Send binding documents and payment instructions to Marcus once he confirms quote acceptance
-- Follow up if preferred effective date not received within 24-48 hours to initiate binder process
+- Send binding documents and payment instructions to Marcus once quote acceptance is confirmed
+- Initiate binder process upon receipt of preferred effective date from client
 
 ## Pending Actions
-- Marcus to confirm acceptance of $1.2k annual premium quote from RTS Specialty
-- Marcus to provide preferred effective date for coverage to begin binding process
+- Marcus must confirm acceptance of the $1.2k annual premium quote from RTS Specialty
+- Marcus must provide preferred effective date to proceed with binding
 
 ## Last Contact
 - **Date**: 2025-12-07

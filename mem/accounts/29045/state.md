@@ -9,14 +9,14 @@
 - **Primary Phone**: 818-335-7080
 
 ## Next Steps
-- Follow up with Mary Cox via call the morning after 2025-12-05 to confirm document upload status and payroll records
-- Verify receipt of signed application, last 3 years of loss runs, and payroll documentation via secure portal
-- Coordinate payroll audit with Acadia Mutual if required and finalize premium quote
+- Follow up with Mary Cox the morning after 2025-12-05 (scheduled 10-minute call) to confirm document upload and review payroll records
+- Monitor secure portal for uploaded documents (signed application, last 3 years of loss runs, payroll verification)
+- Once documents received, submit payroll audit request to Acadia Mutual and finalize premium quote
 
 ## Pending Actions
-- Client must upload signed application, last 3 years of loss runs, and payroll verification documents to secure portal
-- Client to provide payroll records to Harper for verification and potential audit by carrier
-- Client confirmation of preliminary indication terms and availability to proceed with coverage
+- Client to upload signed application, last 3 years of loss runs, and payroll verification documents to secure portal
+- Client to locate and provide payroll records for scheduled follow-up call
+- Payroll audit by carrier (may be required by Acadia Mutual)
 
 ## Last Contact
 - **Date**: 2025-12-06

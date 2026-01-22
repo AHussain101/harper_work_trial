@@ -335,6 +335,31 @@ class NameRegistry:
         info = self.qdrant.get_collection(COLLECTION_NAME)
         return info.points_count
     
+    def clear_all(self) -> None:
+        """
+        Delete and recreate both collections.
+        
+        Use this before re-ingestion to ensure no stale references remain.
+        """
+        logger.info("Clearing all Qdrant collections...")
+        
+        # Delete collections if they exist
+        try:
+            self.qdrant.delete_collection(COLLECTION_NAME)
+            logger.info(f"Deleted collection: {COLLECTION_NAME}")
+        except Exception:
+            pass  # Collection might not exist
+        
+        try:
+            self.qdrant.delete_collection(DESCRIPTIONS_COLLECTION_NAME)
+            logger.info(f"Deleted collection: {DESCRIPTIONS_COLLECTION_NAME}")
+        except Exception:
+            pass  # Collection might not exist
+        
+        # Recreate collections
+        self._ensure_collection()
+        logger.info("Collections recreated")
+    
     def upsert_description(
         self,
         account_id: str,
@@ -434,7 +459,7 @@ def main():
     import argparse
     
     parser = argparse.ArgumentParser(description="Test the name registry")
-    parser.add_argument("action", choices=["search", "search_descriptions", "count"], help="Action to perform")
+    parser.add_argument("action", choices=["search", "search_descriptions", "count", "clear"], help="Action to perform")
     parser.add_argument("--query", "-q", help="Search query")
     parser.add_argument("--top-k", "-k", type=int, default=5, help="Number of results")
     
@@ -443,6 +468,12 @@ def main():
     logging.basicConfig(level=logging.INFO)
     
     registry = NameRegistry()
+    
+    if args.action == "clear":
+        print("Clearing all Qdrant collections...")
+        registry.clear_all()
+        print("Done. Collections have been cleared and recreated.")
+        return
     
     if args.action == "search":
         if not args.query:

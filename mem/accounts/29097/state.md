@@ -9,14 +9,14 @@
 - **Primary Phone**: +1-555-0143
 
 ## Next Steps
-- Follow up with Amanda to confirm decision on binding (accept quote or request adjustments to coverage limits)
-- Upon binding decision, collect signed application and preferred effective date from client
-- Obtain 3-year loss runs from prior carrier(s) and any required COIs for third-party contracts before finalizing binding
+- Await client confirmation on effective date preference and billing method to proceed with binding
+- Follow up if signed application and 3-year loss runs are not received within 2-3 business days
+- Prepare binding documents and payment processing once client confirms intent to proceed
 
 ## Pending Actions
-- Client decision: proceed with binding or request adjustments to the $3.2k annual premium quote valid until 2026-02-02
-- Client to provide preferred effective date for coverage (broker mentioned targeting early December)
-- Client to upload or provide recent loss runs, certificates of insurance, and licensing documents via secure portal
+- Client decision: confirm preferred effective date and billing method (monthly installments or lump sum)
+- Client to provide: signed application, loss runs for last 3 years, and any COIs required by third-party contracts
+- Client to upload any available loss runs, COI, or licensing documents to secure portal if not already submitted
 
 ## Last Contact
 - **Date**: 2025-12-05

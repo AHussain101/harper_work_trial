@@ -9,13 +9,13 @@
 - **Primary Phone**: +1 (555) 013-3000
 
 ## Next Steps
-- Send formal quote package with full summary and carrier options to Anthony Morales
-- Follow up with Anthony regarding coverage limits, payment plans, and any carrier subjectivities
-- Contact Jasmine and Rachella to gather any remaining workers' compensation details for Harborwatch Security Solutions LLC
+- Send formal quote package summary to Anthony with coverage options and carrier subjectivities
+- Follow up with Anthony to review coverage limits, payment plans, and finalize selections
+- Coordinate with Jasmine and Rachella regarding any additional workers' compensation details needed
 
 ## Pending Actions
-- Anthony's decision on coverage limits and payment plan preferences
-- Any additional information from Jasmine and Rachella regarding workers' compensation requirements
+- Client review and approval of preliminary quote and coverage options
+- Client confirmation of final coverage limits and payroll details
 
 ## Last Contact
 - **Date**: 2025-12-06

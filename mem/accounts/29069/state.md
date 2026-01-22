@@ -9,14 +9,14 @@
 - **Primary Phone**: +1-850-555-0143
 
 ## Next Steps
-- Send email to Terry Blake with contract language clarifications addressing government contracts/RFP coverage and retroactive/preceding acts date options
-- Obtain and review Metro Guard Services contracts to confirm government work coverage applicability
-- Prepare final E&O quote with confirmed retroactive date and contract-specific endorsements
+- Send follow-up email to Terry Blake with contract language clarifications regarding government contracts and RFP coverage
+- Provide retroactive/preceding acts date options in writing via email as client prefers
+- Confirm final quote details with Sentinel Liability Co. once contract review is completed
 
 ## Pending Actions
-- Client to upload supporting documents (loss runs for last 3 years, contracts, COIs) to secure portal
-- Client to confirm preferred retroactive date and preceding acts date options via email response
-- Client to provide contracts or documentation detailing government contract work and RFP engagements
+- Client to review preliminary E&O quote and decide on retroactive date preference
+- Client to upload supporting documents (loss runs up to 3 years, contracts, COIs) to secure portal
+- Client to confirm contract details and scope of government/RFP work for underwriting review
 
 ## Last Contact
 - **Date**: 2025-12-05

@@ -4,60 +4,29 @@
 **Duration:** 12m 51s
 **Direction:** Outgoing
 
-# Insurance Intake Call Summary – Little Scholars Academy
+**CALL SUMMARY**
 
-## Business Details
+**Client:** Emily Rivera, Little Scholars Academy LLC (1234 Sample Street)
 
-**Company Information**
-- **Business Name:** Little Scholars Academy LLC
-- **Business Type:** Childcare/Early Education Facility
-- **Location:** 1234 Sample Street
-- **Structure:** Limited Liability Company (LLC)
+**Facility Details:**
+- Ages served: 6 weeks to 5 years
+- Hours: 7 AM–5 PM, Monday–Friday
+- Licensed capacity: 50 children (currently 25 enrolled)
+- Staff: 10 (including owner)
+- Outside play area with permanent perimeter fence; no bolted structures
+- 2 children on autism spectrum
+- Annual payroll: ~$288k
 
-**Facility Operations**
-- **Age Groups Served:** Six weeks to five years
-- **Hours of Operation:** 7 AM to 5 PM, Monday through Friday
-- **Licensed Capacity:** 50 children
-- **Current Enrollment:** Approximately 25 children
-- **Staff Count:** 10 total (9 staff + 1 owner/operator)
-- **Special Needs:** Two children on autism spectrum receiving tailored support
+**Coverage:**
+- Requesting: $1M per occurrence / $2M aggregate general liability
+- Current: Workers' compensation in place; liability lapsed due to 2021 billing-related cancellation (prior carriers: Markel, American Family)
+- Abuse & molestation: Not adding now; owner open to adding later
 
-**Facility Features**
-- Outside play area on premises
-- Permanent perimeter fence around play area
-- **No** permanent playground structures bolted in place
+**Compliance:**
+- Background checks conducted (including sex offender registry)
+- Emergency contact forms maintained for all children
 
-**Financial Information**
-- **Estimated Annual Payroll:** $288,000
-- **Monthly Payroll:** Approximately $24,000
-
-**Coverage & Policy Details**
-
-*General Liability*
-- **Status:** Currently **LAPSED** (no active coverage)
-- **Requested Limits:** $1,000,000 per occurrence / $2,000,000 aggregate
-- **Abuse & Molestation Coverage:** Client declined for now but indicated interest in adding later as optional endorsement
-
-*Workers' Compensation*
-- **Status:** Currently in place
-- **Details to be provided by client**
-
-**Insurance History**
-- **2021 Cancellation:** Previous general liability policy lapsed due to billing issue (client stopped receiving notices)
-- **Prior Carrier (GL):** Markel Insurance
-- **Earlier Carrier:** American Family Insurance (years prior)
-
-**Risk Management Practices**
-- ✓ Background checks performed on all staff (including sex offender registry checks)
-- ✓ Full emergency contact information maintained for each child
-
----
-
-## Personal Details
-
-**Primary Contact**
-- **Name:** Emily Rivera
-- **Title/Role:** Owner/Operator, Little Scholars Academy LLC
-- **Phone:** Not provided in call transcript
-- **Email:** Not provided in call transcript
--
+**Next Steps:**
+- Submit workers' compensation claim notice
+- Complete and submit general liability application
+- Quote results within 24–48 hours (text/email/phone)

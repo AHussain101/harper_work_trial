@@ -9,14 +9,14 @@
 - **Primary Phone**: 503-751-2345
 
 ## Next Steps
-- Follow up callback to primary contact (Emily) as requested during 2025-12-04T22:58:57 call
-- Follow up on document submission status (state license, payroll, loss runs, enrollment form) by 2025-12-05 or 2025-12-06
-- Contact client with workers' compensation claim notice details as discussed in intake call
+- Call back Emily at primary contact number (as noted in call summary from 2025-12-04T22:58:57)
+- Follow up on General Liability application completion and workers' compensation claim notice submission within 24-48 hours
+- Review and process submitted documents once client uploads to portal or emails attachments
 
 ## Pending Actions
-- State daycare license (front/back) upload to portal or email
-- Recent payroll summary or quarterly payroll documentation
-- Loss runs or claim history documentation
+- Client upload of state daycare license, payroll summary, loss runs/claim history, and enrollment form to secure portal
+- Client completion and submission of General Liability application
+- Client decision on abuse & molestation coverage add-on (quote was cut off mid-message)
 
 ## Last Contact
 - **Date**: 2025-12-05

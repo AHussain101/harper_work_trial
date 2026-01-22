@@ -10,13 +10,13 @@
 
 ## Next Steps
 - Send final carrier quotes to Khalil once vehicle title and driver MVR are received
-- Monitor carrier portal (https://carrier-portal.example.com/quotes/RB-4821) for USLI quote updates and any additional underwriting requirements
-- Follow up with Khalil after truck purchase completion to confirm VIN and coordinate document upload
+- Monitor carrier portal (https://carrier-portal.example.com/quotes/RB-4821) for USLI quote updates and additional carrier responses
+- Prepare binding documents and COI template for submission once subjectivities are satisfied
 
 ## Pending Actions
-- Vehicle title and proof of ownership from Khalil (contingent on truck purchase completion)
-- Driver MVR (Motor Vehicle Record) for Khalil
-- Signed application and vehicle VIN confirmation once purchase finalizes
+- Vehicle title and ownership documents from Khalil (contingent on truck purchase completion)
+- Driver MVR (Motor Vehicle Report) for Khalil Moreno
+- Confirmed VIN and vehicle purchase completion
 
 ## Last Contact
 - **Date**: 2025-12-05

@@ -6,44 +6,6 @@
 **From:** submissions@harperinsure.com
 **To:** info@summitsecuritytx.com
 
-# Email Summary: Summit Security Solutions Insurance Application Follow-up
+**Summary:**
 
-## Business Details
-- **Company Name:** Summit Security Solutions, Inc.
-- **Industry:** Security Services
-- **Location:** Texas (inferred from domain "summitsecuritytx.com")
-- **Coverage Status:** Application submitted to carrier network
-- **Expected Timeline:** Initial carrier responses expected shortly
-- **Documents Needed:**
-  - Licensing documentation
-  - Training documentation
-  - Loss runs (if available)
-  - Certificates of Insurance (COI) for prospective clients
-  - Any additional coverage needs or policy subjectivities
-
-## Personal Details
-- **Contact Name:** Michael
-- **Contact Email:** info@summitsecuritytx.com
-- **Harper Agent Contact:**
-  - Name: HARPER_AGENT (title: Senior Producer)
-  - Phone: +1 (470) 731-9934
-  - Email: submissions@harperinsure.com
-
-## Conversation Context
-- **Main Topic:** Follow-up after initial consultation discussing Summit Security Solutions' insurance needs
-- **Purpose:** 
-  - Confirm application submission to carrier network
-  - Request supporting documentation to expedite quote process
-- **Key Actions for Michael (Customer):**
-  - Upload licensing and training documentation via secure portal
-  - Provide loss runs if available
-  - Submit COI requirements for prospective clients
-  - Identify any additional coverage needs or policy subjectivities
-  - **Upload Link:** https://portal.harperinsure.com/upload
-- **Key Actions for Harper:**
-  - Monitor carrier responses
-  - Review submitted documentation once received
-  - Follow up on quotes once carrier responses arrive
-- **Tone/Sentiment:** Professional, helpful, collaborative
-- **Next Steps:** Await customer document submission and carrier responses
-- **Follow-up Timeline:** No specific deadline mentioned; process described as "shortly"
+Harper Insurance has submitted Summit Security Solutions' insurance application to carriers and expects initial responses soon. They're requesting the applicant upload licensing, training documentation, and loss runs through their secure portal to expedite the process. They also ask for any certificates of insurance requirements for prospective clients and details on additional coverage needs or policy concerns.

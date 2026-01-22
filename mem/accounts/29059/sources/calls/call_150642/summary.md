@@ -4,61 +4,22 @@
 **Duration:** 47m 5s
 **Direction:** Outgoing
 
-# Insurance Intake Summary for Harper
+**CALL SUMMARY**
 
-## Business Details
+**Date:** 12/4/2025 | **Duration:** 47m 5s | **Agent:** Elena Park (Harper Insurance)
 
-### Company Information
-- **Business Type:** Wellness/Healthcare Services (multi-service clinic)
-- **Services Offered:**
-  - Yoga/Pilates classes
-  - Massage therapy
-  - Chiropractic sessions
-  - Prenatal/postpartum services
-  - Elective non-diagnostic ultrasounds
-- **Building/Lease Status:** Leases building (does not own)
-- **Contractor Relationships:** Employs independent contractors who carry their own professional liability coverage separately
-- **Employment Structure:** Part-time schedule mentioned
-- **EIN:** 48-1032 (synthetic sample)
+**Client:** Erin Morales (Business Owner)
 
-### Coverage Details
-- **Policy Type:** Business Owners Policy (BOP)
-- **Recommended Liability Limit:** $1,000,000 per occurrence
-- **Claims History:** No prior commercial coverage; no claims on record
-- **Application Status:** Submitted to carriers
+**Policy Type:** Business Owners Policy
 
----
+**Services Offered:** Yoga, Pilates, massage, chiropractic, prenatal/postpartum care, elective non-diagnostic ultrasounds
 
-## Personal Details
+**Key Details:**
+- Independent contractors with separate professional coverage
+- Leases building (does not own)
+- No prior commercial coverage or claims
+- EIN: 48-1032
 
-### Contact Information
-- **Name:** Erin Morales
-- **Title/Role:** Business Owner
-- **Preferred Contact Method:** Email and text notification
-- **Communication Style:** Professional, responsive, cooperative
+**Recommendation:** $1,000,000 occurrence liability limit
 
-### Personality Notes
-- **Tone/Sentiment:** Positive, appreciative
-- **Approach to Decisions:** Receptive to recommendations; agreed to suggested $1M liability limit without hesitation
-
----
-
-## Conversation Context
-
-### Call Details
-- **Direction:** Outgoing call from Harper to prospect
-- **Duration:** 47 minutes 5 seconds
-- **Date/Time:** December 4, 2025 at 9:51 PM
-- **Agent:** Elena Park (Harper Insurance)
-- **Purpose:** Initial intake interview for Business Owners Policy quote
-
-### Key Topics Discussed
-1. Confirmation of services offered (yoga, Pilates, massage, chiropractic, prenatal/postpartum, elective ultrasounds)
-2. Contractor/clinician coverage arrangements
-3. Building ownership/lease status
-4. Prior commercial coverage and claims history
-5. EIN verification
-6. Liability limit recommendations
-
-### Decisions Made
-- ✅ Approved $1,000,000 per occurrence
+**Next Steps:** Application submitted to carriers; quotes to be sent via email within 24-48 hours with text follow-up.

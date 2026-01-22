@@ -9,14 +9,14 @@
 - **Primary Phone**: +1-555-0199
 
 ## Next Steps
-- Follow up with Naomi to confirm receipt of secure portal link and document upload status
-- Once documents are received, route intake materials to underwriting team for formal review and final premium calculation
-- Prepare final quote with exact premium and coverage terms pending underwriting approval
+- Follow up with Naomi by 2025-12-10 to confirm receipt of intake documents via secure portal
+- Once documents are received, submit to underwriting team for formal review and final premium quote
+- Schedule callback with Naomi to review final quote, coverage details, and Abuse & Molestation endorsement recommendation
 
 ## Pending Actions
-- Staff training records and certificate summaries from Naomi
-- Document uploads via secure portal (services overview, client demographics, care plans, staff roster)
-- Confirmation from Naomi on acceptance of preliminary quote and coverage recommendations (including Abuse & Molestation endorsement)
+- Staff training records and certification summaries from Naomi
+- Completed intake checklist and services overview document upload to secure portal
+- Client demographics breakdown and typical care plan examples
 
 ## Last Contact
 - **Date**: 2025-12-06

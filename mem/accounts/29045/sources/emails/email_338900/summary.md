@@ -6,65 +6,18 @@
 **From:** submissions@harperinsure.com
 **To:** underwriting@harperinsure.com
 
-# Workers' Compensation Intake Summary — Green Valley Orchards, LLC
+**Workers' Comp Submission Summary**
 
-## Business Details
+**Client:** Green Valley Orchards, LLC (macadamia & avocado orchard, Maplewood, CA)
 
-**Company Information:**
-- **Company Name:** Green Valley Orchards, LLC
-- **Industry/Type:** Macadamia & avocado orchard
-- **Location:** Maplewood, CA
-- **Number of Employees:** 1 full-time farmworker
-- **Estimated Annual Payroll:** $45,000
+**Contact:** Mary Cox
 
-**Coverage Details:**
-- **Coverage Type Requested:** Workers' Compensation only
-- **Current Carrier:** Berkshire Hathaway
-- **Claims History:** No losses reported
+**Coverage:** Workers' Compensation only
 
-**Documents Needed:**
-- Payroll verification documents
-- Prior loss runs (if applicable)
-- *Submission method:* Secure portal
+**Payroll:** ~$45,000
 
-## Personal Details
+**Employees:** 1 full-time farmworker
 
-**Primary Contact:**
-- **Name:** Mary Cox
-- **Role/Title:** Not specified
-- **Contact Method:** Via secure portal submission
+**Current Carrier:** Berkshire Hathaway (no losses)
 
-## Conversation Context
-
-**Email Type:** Inbound submission/intake form from client portal
-
-**Main Purpose:** 
-- Initial workers' compensation quote request for a small agricultural operation
-
-**Key Information:**
-- This appears to be an automated intake submission to Harper's underwriting department
-- Client is requesting workers' comp coverage only (no additional policies mentioned)
-- Clean loss history with current carrier
-
-**Harper's Underwriting Notes:**
-- Prioritize admitted carriers for CA market
-- Preliminary quotes expected within 24–48 hours
-
-## Action Items
-
-**For Harper/Underwriting Team:**
-- [ ] Confirm receipt of payroll verification documents via secure portal
-- [ ] Obtain prior loss runs from client
-- [ ] Solicit preliminary quotes from admitted CA carriers
-- [ ] Prepare quote package within 24–48 hour window
-
-**For Customer (Green Valley Orchards):**
-- [ ] Submit payroll verification documents through secure portal
-- [ ] Provide any prior loss run documentation if available
-
-## Timeline & Next Steps
-- **Expected Preliminary Quotes:** Within 24–48 hours of intake confirmation
-- **Follow-up Required:** Awaiting payroll verification and loss run documentation
-
-## Tone/Sentiment
-- Neutral, procedural (standard intake submission format)
+**Next Steps:** Verify payroll documents and obtain prior loss runs via secure portal. Preliminary quotes expected in 24–48 hours using admitted CA carriers.

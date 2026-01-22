@@ -9,14 +9,13 @@
 - **Primary Phone**: +1-512-554-32XX
 
 ## Next Steps
-- Verify payroll details and Pennsylvania employee information with Laura Benson
-- Obtain final pricing from Travelers Insurance (expected within 24-48 hours from 2025-12-05)
-- Call Laura Benson to review Travelers quote (TR-48-1032, $2.2k annual premium) and confirm binding decision
+- Follow up within 24–48 hours with final workers' compensation indications from carrier network
+- Review Travelers quote (TR-48-1032, $2.2k annual premium) with Laura Benson and confirm binding decision
+- Verify payroll details and Pennsylvania employee information before final underwriting
 
 ## Pending Actions
-- Client confirmation of payroll verification details
-- Client decision on whether to bind Travelers workers' compensation coverage or request adjustments
-- Final audit and payroll verification from Travelers to confirm $2.2k premium estimate
+- Client confirmation on payroll verification details and PA employee information
+- Client decision to bind Travelers workers' compensation coverage or request adjustments
 
 ## Last Contact
 - **Date**: 2025-12-05

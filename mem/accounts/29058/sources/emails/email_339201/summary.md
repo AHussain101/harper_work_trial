@@ -6,61 +6,16 @@
 **From:** underwriting@atlanticmutual.example
 **To:** submissions@harperinsure.com
 
-# Email Summary: Workers' Compensation Quote - Lakeside Freight & Logistics LLC
+**Workers' Compensation Quote Summary**
 
-## Business Details
+**Insured:** Lakeside Freight & Logistics LLC
 
-**Company Information**
-- Company name: Lakeside Freight & Logistics LLC
-- Industry: Freight & Logistics
-- Operations: Local routes only in North Carolina (NC)
-- Staffing: One part-time driver (noted in quote)
+**Carrier:** Atlantic Mutual
 
-**Coverage Details**
-- Policy type: Workers' Compensation
-- Carrier: Atlantic Mutual
-- Coverage limits: State-mandated limits for North Carolina
-- Geographic scope: Local operations only
-- Annual premium estimate: ~$1,800 (includes fees and taxes)
+**Annual Premium:** ~$1,800 (includes fees/taxes)
 
-**Quote Conditions & Notes**
-- Rate is based on assumption of one part-time driver with limited local routes
-- Final premium is **subject to:**
-  - Payroll verification
-  - Underwriting review
-- Quote is not finalized pending documentation
+**Coverage:** NC state-mandated workers' compensation limits, local operations only
 
-## Documents Needed
-- Proof of payroll (required for confirmation)
+**Key Assumptions:** One part-time driver, limited local routes
 
-## Conversation Context
-
-**Email Purpose**
-- Atlantic Mutual providing workers' compensation quote for new/renewal business
-
-**Key Information Requested from Harper/Client**
-1. Confirmation of acceptable effective date
-2. Upload of proof of payroll documentation
-
-**Pending Items**
-- Client acceptance/confirmation of quote terms
-- Effective date confirmation
-- Payroll verification documentation submission
-- Final underwriting review by Atlantic Mutual
-
-**Next Steps**
-1. **Harper's action items:**
-   - Contact Lakeside Freight & Logistics LLC with quote details
-   - Obtain confirmation on whether quote is acceptable
-   - Request effective date preference
-   - Collect proof of payroll documentation from client
-   - Return payroll docs to Atlantic Mutual for underwriting completion
-
-2. **Client action items:**
-   - Confirm if quote is acceptable
-   - Provide effective date preference
-   - Submit proof of payroll to Harper
-
-**Tone/Sentiment**
-- Professional, routine quote submission
-- Standard underwriting conditions noted
+**Next Steps:** Confirm effective date and provide payroll proof; final premium subject to verification and underwriting review.

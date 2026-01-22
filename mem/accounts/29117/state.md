@@ -9,14 +9,14 @@
 - **Primary Phone**: 555-0170
 
 ## Next Steps
-- Monitor receipt of loss runs and COI documents from client; follow up if not received within 21 days of binding date (by 2025-12-31)
-- Confirm policy documents were received by client and address any discrepancies reported
-- Verify payment of estimated $8.4k total premium has been processed
+- Send policy documents and binding confirmation details to Ethan for review and acknowledgment
+- Monitor for receipt of loss runs and COIs within the 21-day subjectivity deadline (due by 2025-12-31)
+- Follow up if documents are not received within 14 days of binding date
 
 ## Pending Actions
-- Client to upload loss runs covering prior 3 years to https://portal.example-insure.com/upload/subjectivities-48-1032
-- Client to upload any COIs or contract-specific insurance requirements to subjectivities portal
-- Client to confirm receipt of bound policy documents and report any discrepancies
+- Client to upload loss runs covering prior 3 years to subjectivity portal (deadline: 21 days from binding or 2025-12-31)
+- Client to upload any COIs or contract-specific insurance requirements to subjectivity portal
+- Client to review and confirm receipt of bound policy documents
 
 ## Last Contact
 - **Date**: 2025-12-06

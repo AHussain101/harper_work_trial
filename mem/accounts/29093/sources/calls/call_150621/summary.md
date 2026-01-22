@@ -4,73 +4,16 @@
 **Duration:** 9m 53s
 **Direction:** Outgoing
 
-# Insurance Application Summary – Isabella Rivera
+**CALL SUMMARY**
 
-## Business Details
+Outgoing call to Isabella Rivera (9m 53s) regarding general liability, workers' comp, and disability insurance application for licensed home daycare in Los Angeles.
 
-**Company Information**
-- Business Type: Licensed home-based daycare
-- Location: Los Angeles, CA (address on file)
-- Industry: Childcare services
-- Licensing Status: Fully licensed and currently operating
+**Key Details:**
+- Capacity: 16 children (1 currently enrolled, growth planned)
+- Staff: 2 active + backup as required
+- Coverage: $500k–$1M liability limits
+- Clean history: no claims, abuse allegations, or licensing actions
+- Activities include outdoor play and local walks
 
-**Capacity & Operations**
-- Licensed capacity: 16 children
-- Current enrollment: 1 child
-- Growth plans: Planning to enroll more children soon
-- Staffing: 2 active staff (owner + 1 assistant)
-- Backup staff: Available as required by license
-- Activities: Regular outdoor activities and local walks included in program
-
-**Coverage Needs**
-- Policy types requested:
-  - General liability
-  - Workers' compensation
-  - Disability insurance
-- Desired liability limits: $500,000–$1,000,000
-
-**Claims & Loss History**
-- Prior claims: None reported
-- Abuse allegations: None reported
-- Licensing actions: None reported
-
-**Documents Required**
-- State license (to be uploaded)
-- Emergency contact list (to be uploaded)
-
-## Personal Details
-
-**Primary Contact**
-- Name: Isabella Rivera
-- Role: Owner/operator of daycare
-- Communication style: Professional, cooperative, responsive
-- Special request: Needs insurance certificates by December 6th (partner network deadline)
-
-## Conversation Context
-
-**Call Details**
-- Direction: Outgoing from Harper
-- Agent: Ethan Park (Harper Insurance)
-- Duration: 9 minutes 53 seconds
-- Date & Time: December 4, 2025, 10:12 PM (UTC)
-- Completion Time: 10:22 PM (UTC)
-
-**Purpose**
-- Review application for general liability, workers' compensation, and disability coverage for licensed home daycare
-
-**Key Discussion Points**
-- Confirmed business location and licensing status
-- Reviewed current and projected staffing levels
-- Verified clean claims and licensing history
-- Discussed appropriate liability coverage limits
-- Identified urgent deadline for certificates
-
-**Tone/Sentiment**
-- Professional and cooperative
-- Client is organized and prepared
-- Sense of urgency due to partner network deadline
-- No concerns or friction noted
-
-## Action Items
-
-**For Harper (Et
+**Next Steps:**
+Harper agent Ethan Park to receive state license and emergency contacts, then provide quote options within 24–48 hours. Client needs certificates by December 6th for partner network.

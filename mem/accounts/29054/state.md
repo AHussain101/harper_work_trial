@@ -9,14 +9,14 @@
 - **Primary Phone**: 555-0112
 
 ## Next Steps
-- Follow up with Emma Johnson within 24-48 hours if loss runs and e-signature documents are not received
-- Once loss runs are received, submit to underwriting for final binding approval
-- Confirm policy start date in early December and prepare binding documents
+- Follow up with Emma Johnson if loss runs and e-signature are not received within 24 hours
+- Prepare binding documents once loss runs are submitted and e-signature is completed
+- Confirm facility capacity (40 clients) and staffing details are documented in underwriting file
 
 ## Pending Actions
-- Client must e-sign quote documents via portal (https://portal.example-insure.com/esign/brightview-001)
-- Client must provide loss run reports for the last 3 years to finalize binding
-- Client should verify and confirm facility capacity (40 clients) and staffing details for underwriting
+- Client must e-sign policy documents via portal (https://portal.example-insure.com/esign/brightview-001)
+- Client must submit loss run reports for past 3 years to finalize binding
+- Client must verify and confirm licensing documentation and facility capacity details
 
 ## Last Contact
 - **Date**: 2025-12-05

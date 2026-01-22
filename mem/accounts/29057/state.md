@@ -10,13 +10,11 @@
 
 ## Next Steps
 - Print complete policy documents for Summit Ridge Roofing & Exteriors (Application 48-1032)
-- Review printed policy for any discrepancies before distribution
-- Deliver printed copy of policy to insured David Mercer
+- Review printed policy documents for any discrepancies before distribution
+- Provide printed copy of the policy to insured David Mercer
 
 ## Pending Actions
-- N
-- o
-- n
+- None identified
 
 ## Last Contact
 - **Date**: 2025-12-04

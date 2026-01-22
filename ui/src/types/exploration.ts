@@ -15,8 +15,8 @@ export interface Budget {
 
 // Response types from Starter Agent
 export type ResponseType = 'success' | 'confirmation_required' | 'clarification_needed' | 'error';
-export type IntentType = 'search' | 'update' | 'unclear';
-export type AgentType = 'search_agent' | 'updater_agent';
+export type IntentType = 'search' | 'update' | 'followup' | 'unclear';
+export type AgentType = 'search_agent' | 'updater_agent' | 'followup_agent';
 
 // Skill information
 export interface SkillInfo {
@@ -134,6 +134,37 @@ export interface ClarificationEvent {
   extracted_account?: string;
 }
 
+// Clarification field for vague update forms
+export interface ClarificationField {
+  id: string;
+  label: string;
+  type: 'select' | 'multi-select' | 'text' | 'textarea';
+  options?: string[];
+  placeholder?: string;
+  current_value?: string | string[];
+}
+
+// Vague update clarification event
+export interface VagueUpdateClarificationEvent {
+  type: 'vague_update_clarification';
+  message: string;
+  session_id: string;
+  account_id: string;
+  account_name: string;
+  clarification_fields: ClarificationField[];
+  original_query: string;
+}
+
+// Pending vague update clarification
+export interface PendingVagueUpdateClarification {
+  session_id: string;
+  message: string;
+  account_id: string;
+  account_name: string;
+  clarification_fields: ClarificationField[];
+  original_query: string;
+}
+
 export interface ErrorEvent {
   type: 'error';
   message: string;
@@ -152,6 +183,7 @@ export type ExplorationEvent =
   | FinalEvent 
   | ConfirmationEvent
   | ClarificationEvent
+  | VagueUpdateClarificationEvent
   | ErrorEvent 
   | DoneEvent;
 
@@ -183,7 +215,7 @@ export interface ExplorationStep {
 }
 
 export interface ExplorationState {
-  status: 'idle' | 'running' | 'completed' | 'error' | 'awaiting_confirmation' | 'awaiting_clarification';
+  status: 'idle' | 'running' | 'completed' | 'error' | 'awaiting_confirmation' | 'awaiting_clarification' | 'awaiting_vague_update_clarification';
   query: string;
   steps: ExplorationStep[];
   currentStep: number;
@@ -204,8 +236,17 @@ export interface ExplorationState {
   pendingConfirmation?: PendingConfirmation;
   clarificationMessage?: string;
   clarificationSuggestions?: string[];
+  // Vague update clarification
+  pendingVagueUpdateClarification?: PendingVagueUpdateClarification;
   // Rich update details
   updateDetails?: UpdateDetails;
+  // Follow-up details
+  followupDraft?: {
+    channel: string;
+    subject?: string;
+    body: string;
+  };
+  followupSent?: boolean;
 }
 
 export interface FileContent {

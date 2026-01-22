@@ -9,14 +9,14 @@
 - **Primary Phone**: +1 (843) 555-0178
 
 ## Next Steps
-- Finalize underwriting quote within 24-48 hours and contact Deborah with confirmed premium and effective date
-- Prepare binding documents and payment instructions for client e-signature
-- Confirm receipt of binding request and provide clear next steps (signatures required, payment amount, effective date)
+- Finalize underwriting quote and confirm binding details within 24-48 hours as promised
+- Contact Deborah Myers with effective date, signature requirements, and payment instructions for policy binding
+- Prepare and send binding documents and payment options to client via portal or email
 
 ## Pending Actions
-- Client decision on coverage limits and endorsements to finalize quote
 - Client signature on binding documents
-- Client payment/payment arrangement confirmation
+- Client payment/payment method confirmation
+- Underwriting finalization and effective date confirmation
 
 ## Last Contact
 - **Date**: 2025-12-04

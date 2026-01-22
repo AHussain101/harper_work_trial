@@ -9,14 +9,14 @@
 - **Primary Phone**: 555-0155
 
 ## Next Steps
-- Send email to Wei with required documents list and COI template for landlord
-- Follow up on kitchen suppression system details and inspection date to complete underwriter requirements
-- Route formal quote package to MidState Indemnity once loss runs and COIs are received
+- Send follow-up email with required documents list and COI template for landlord
+- Clarify rented premises liability coverage in the GL policy and confirm COI will include landlord requirements
+- Follow up on kitchen suppression system details and inspection date to finalize underwriter requirements
 
 ## Pending Actions
-- Loss runs (last 3 years) and certificates of insurance from client
-- Confirmation of kitchen automatic suppression system and last inspection date
-- Updated/corrected payroll figures and exposure details from client
+- Loss runs (last 3 years) and current certificates of insurance from client
+- Updated/corrected payroll figures and exposure information for re-pricing
+- Confirmation of kitchen automatic suppression system details and last inspection date
 
 ## Last Contact
 - **Date**: 2025-12-05

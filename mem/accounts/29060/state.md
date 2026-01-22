@@ -9,14 +9,14 @@
 - **Primary Phone**: +1-555-0123
 
 ## Next Steps
-- Conduct scheduled site visit next week to photograph access points, erosion controls, and lot conditions for underwriter review
-- Follow up with carrier network for initial quotes (expected within 48 hours of 2025-12-05)
-- Review submitted underwriting documents and monitor for carrier subjectivities or additional requests
+- Conduct scheduled site visit next week to document lot conditions and gather photos for underwriting
+- Follow up with carrier network within 48 hours of 2025-12-05 submission to collect initial quotes and any subjectivities
+- Review underwriter requests and compile site photos/lot plan for submission to carriers
 
 ## Pending Actions
-- Client to upload site photos and lot plan/grading plan to secure portal (or provide access for agent site visit)
+- Client to upload site photos (access points, erosion controls, lot conditions) and lot plan/grading plan to secure portal
 - Client to provide loss runs for past 3 years if available
-- Site visit scheduled for next week to document lot conditions and gather photos
+- Client confirmation of coverage limits and heavy equipment exposure details ahead of site visit
 
 ## Last Contact
 - **Date**: 2025-12-05

@@ -9,13 +9,13 @@
 - **Primary Phone**: +1-555-1234
 
 ## Next Steps
-- Follow up with Marcus Lee on document submission status (loss runs, staff roster, facility lease/ownership documentation) by end of business day 2025-12-05
-- Monitor underwriter review progress and provide Marcus with timeline expectations for final quote and subjectivity clearance
-- Prepare e-sign documents and payment portal instructions contingent on document submission and underwriter approval
+- Follow up with client by phone or email if documents are not received within 3-5 business days
+- Obtain loss runs from prior insurer on behalf of client if they are unable to retrieve them
+- Once all documents are received, submit to underwriter for final review and binding decision
 
 ## Pending Actions
-- Loss runs from prior insurer (last 3 years) or claims declaration
-- Current staff roster and subcontractor agreements (if applicable)
+- Loss runs (last 3 years) or claims declaration from prior coverage
+- Current staff roster and any subcontractor agreements
 - Copy of facility lease or ownership documentation
 
 ## Last Contact

@@ -9,14 +9,13 @@
 - **Primary Phone**: +1-617-555-6342
 
 ## Next Steps
-- Obtain signed documents from Daniel Martinez and confirm effective date through the MGA portal (Application 48-1032)
-- Compile final underwriting review with confirmed operational details and present binding quote with selected limits and deductibles
-- Contact Daniel by phone or text (between 7AM-6PM per preference) with final quote and bind options
+- Obtain signed documents from Daniel Martinez and confirm effective date to move application 48-1032 forward with underwriting
+- Follow up with underwriting to obtain final formal quote after document review is complete
+- Prepare policy documents for execution once underwriting approval is received
 
 ## Pending Actions
-- Upload signed documents and confirm requested effective date to MGA portal
-- Provide loss runs or COIs if available (optional but requested to expedite process)
-- Confirm chosen coverage limits and deductibles from preliminary quote range ($1.1k-$1.4k annual premium)
+- Client must upload signed documents and confirm requested effective date via underwriter portal (https://portal.example-mga.com/applications/48-1032)
+- Client should upload existing loss runs or Certificates of Insurance if available via secure upload portal (https://portal.example-insure.com/upload/quote-qt123)
 
 ## Last Contact
 - **Date**: 2025-12-05

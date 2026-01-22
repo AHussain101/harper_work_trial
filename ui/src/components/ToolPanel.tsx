@@ -341,8 +341,119 @@ function UpdateResultCard({
   );
 }
 
-function AgentRoutingIndicator({ routedTo }: { routedTo: 'search_agent' | 'updater_agent' }) {
-  const isSearch = routedTo === 'search_agent';
+function FollowUpResultCard({ 
+  draft, 
+  sent, 
+  accountName,
+  historyEntryId 
+}: { 
+  draft?: { channel: string; subject?: string; body: string };
+  sent?: boolean;
+  accountName?: string;
+  historyEntryId?: string;
+}) {
+  const [showFull, setShowFull] = useState(false);
+  
+  if (!draft) return null;
+  
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20, scale: 0.98 }}
+      animate={{ opacity: 1, y: 0, scale: 1 }}
+      transition={{ duration: 0.3, ease: 'easeOut' }}
+      className="tool-card overflow-hidden border-2 border-purple-200 bg-purple-50"
+    >
+      <div className="p-4">
+        {/* Header */}
+        <div className="flex items-center gap-3 mb-4">
+          <div className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-purple-100 text-purple-700">
+            <Zap className="w-4 h-4" />
+            <span className="text-sm font-medium">Follow-Up {sent ? 'Sent' : 'Drafted'}</span>
+          </div>
+          <CheckCircle className="w-5 h-5 text-purple-500 ml-auto" />
+        </div>
+        
+        {/* Account Info */}
+        {accountName && (
+          <div className="mb-4 p-3 bg-white rounded-lg border border-purple-200">
+            <div className="flex items-center gap-2 text-sm">
+              <Hash className="w-4 h-4 text-slate-400" />
+              <span className="text-slate-500">Account:</span>
+              <span className="font-medium text-slate-700">{accountName}</span>
+            </div>
+          </div>
+        )}
+        
+        {/* Channel & Status */}
+        <div className="mb-4">
+          <div className="text-xs font-medium text-slate-500 uppercase tracking-wide mb-2">
+            Communication Details
+          </div>
+          <div className="space-y-2">
+            <div className="flex items-center gap-2 text-sm bg-white rounded-lg p-3 border border-purple-200">
+              <span className="font-medium text-slate-700">Channel:</span>
+              <span className="px-2 py-0.5 rounded-full bg-purple-100 text-purple-700 text-xs font-medium">
+                {draft.channel}
+              </span>
+              <span className={`ml-auto px-2 py-0.5 rounded-full text-xs font-medium ${
+                sent ? 'bg-emerald-100 text-emerald-700' : 'bg-amber-100 text-amber-700'
+              }`}>
+                {sent ? 'Sent' : 'Draft Only'}
+              </span>
+            </div>
+            {draft.subject && (
+              <div className="flex items-center gap-2 text-sm bg-white rounded-lg p-3 border border-purple-200">
+                <span className="font-medium text-slate-700">Subject:</span>
+                <span className="text-slate-600">{draft.subject}</span>
+              </div>
+            )}
+          </div>
+        </div>
+        
+        {/* Draft Content */}
+        <div className="mb-4">
+          <div 
+            className="text-xs font-medium text-slate-500 uppercase tracking-wide mb-2 flex items-center gap-1 cursor-pointer"
+            onClick={() => setShowFull(!showFull)}
+          >
+            <ChevronRight className={`w-3 h-3 transition-transform ${showFull ? 'rotate-90' : ''}`} />
+            Draft Content
+          </div>
+          <div className="bg-white rounded-lg p-3 border border-purple-200">
+            <pre className="text-sm text-slate-700 whitespace-pre-wrap break-words max-h-48 overflow-auto">
+              {showFull ? draft.body : (draft.body.length > 300 ? draft.body.slice(0, 300) + '...' : draft.body)}
+            </pre>
+          </div>
+        </div>
+        
+        {/* History Entry */}
+        {historyEntryId && (
+          <div className="border-t border-purple-200 pt-4">
+            <div className="text-xs font-medium text-slate-500 uppercase tracking-wide mb-2">
+              History Chain
+            </div>
+            <div className="bg-white rounded-lg p-3 border border-slate-200">
+              <div className="flex items-center gap-2 text-sm">
+                <History className="w-4 h-4 text-purple-500" />
+                <span className="text-slate-600">Entry:</span>
+                <span className="font-mono font-medium text-purple-700">{historyEntryId}</span>
+              </div>
+            </div>
+          </div>
+        )}
+      </div>
+    </motion.div>
+  );
+}
+
+function AgentRoutingIndicator({ routedTo }: { routedTo: AgentType }) {
+  const agentConfig = {
+    search_agent: { bg: 'bg-blue-100', color: 'text-blue-700', label: 'Search Agent' },
+    updater_agent: { bg: 'bg-orange-100', color: 'text-orange-700', label: 'Updater Agent' },
+    followup_agent: { bg: 'bg-purple-100', color: 'text-purple-700', label: 'Follow-Up Agent' },
+  };
+  
+  const config = agentConfig[routedTo] || agentConfig.search_agent;
   
   return (
     <motion.div
@@ -350,11 +461,11 @@ function AgentRoutingIndicator({ routedTo }: { routedTo: 'search_agent' | 'updat
       animate={{ opacity: 1, x: 0 }}
       className={`
         inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-sm font-medium
-        ${isSearch ? 'bg-blue-100 text-blue-700' : 'bg-orange-100 text-orange-700'}
+        ${config.bg} ${config.color}
       `}
     >
       <GitFork className="w-4 h-4" />
-      <span>{isSearch ? 'Search Agent' : 'Updater Agent'}</span>
+      <span>{config.label}</span>
     </motion.div>
   );
 }
@@ -380,6 +491,7 @@ function StarterAgentCard({
   const intentConfig = {
     search: { color: 'text-blue-700', bg: 'bg-blue-100', label: 'Search (read-only)' },
     update: { color: 'text-orange-700', bg: 'bg-orange-100', label: 'Update (write)' },
+    followup: { color: 'text-purple-700', bg: 'bg-purple-100', label: 'Follow-Up (action)' },
     unclear: { color: 'text-amber-700', bg: 'bg-amber-100', label: 'Unclear' },
   };
   
@@ -455,9 +567,13 @@ function StarterAgentCard({
                   <div className="flex items-center gap-2">
                     <ArrowRight className="w-4 h-4 text-purple-500" />
                     <span className={`px-2 py-1 rounded-full text-xs font-medium ${
-                      routedTo === 'search_agent' ? 'bg-blue-100 text-blue-700' : 'bg-orange-100 text-orange-700'
+                      routedTo === 'search_agent' ? 'bg-blue-100 text-blue-700' : 
+                      routedTo === 'followup_agent' ? 'bg-purple-100 text-purple-700' : 
+                      'bg-orange-100 text-orange-700'
                     }`}>
-                      {routedTo === 'search_agent' ? 'Search Agent' : 'Updater Agent'}
+                      {routedTo === 'search_agent' ? 'Search Agent' : 
+                       routedTo === 'followup_agent' ? 'Follow-Up Agent' : 
+                       'Updater Agent'}
                     </span>
                   </div>
                 </div>
@@ -501,6 +617,8 @@ export function ToolPanel({ state }: ToolPanelProps) {
     intentConfidence,
     extractedAccount,
     skillLoaded,
+    followupDraft,
+    followupSent,
   } = state;
 
   return (
@@ -564,6 +682,16 @@ export function ToolPanel({ state }: ToolPanelProps) {
           />
         )}
         
+        {/* Show follow-up results if this was a follow-up operation */}
+        {status === 'completed' && followupDraft && (
+          <FollowUpResultCard
+            draft={followupDraft}
+            sent={followupSent}
+            accountName={extractedAccount}
+            historyEntryId={historyEntryId}
+          />
+        )}
+        
         {status === 'running' && steps.length === 0 && (
           <div className="text-center py-16">
             <Loader2 className="w-10 h-10 mx-auto mb-4 animate-spin text-[#f97066]" />
@@ -591,6 +719,18 @@ export function ToolPanel({ state }: ToolPanelProps) {
             <h3 className="text-lg font-medium text-slate-700 mb-2">Need Clarification</h3>
             <p className="text-slate-500 text-sm max-w-sm mx-auto">
               {state.clarificationMessage}
+            </p>
+          </div>
+        )}
+        
+        {status === 'awaiting_vague_update_clarification' && (
+          <div className="text-center py-16">
+            <div className="w-20 h-20 mx-auto mb-4 rounded-2xl bg-orange-100 flex items-center justify-center border border-orange-200">
+              <Edit3 className="w-10 h-10 text-orange-600" />
+            </div>
+            <h3 className="text-lg font-medium text-slate-700 mb-2">What Would You Like to Update?</h3>
+            <p className="text-slate-500 text-sm max-w-sm mx-auto">
+              Please fill out the form to specify the changes you want to make.
             </p>
           </div>
         )}

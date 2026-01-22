@@ -6,67 +6,6 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** maya.alvarez@sunnydayschildcare.com
 
-# Email Summary: Sunny Days Childcare Insurance Application
+**Summary:**
 
-## Business Details
-
-**Company Information:**
-- Company Name: Sunny Days Childcare
-- Business Type: Daycare operation
-- Industry: Childcare services
-
-**Coverage Needs:**
-- Policy Type: General Liability
-- Coverage Limits: $1M per occurrence / $2M aggregate (typical for daycare)
-- Special Endorsements Needed:
-  - Childcare-specific wording
-  - Abuse/molestation coverage
-
-**Pending Information:**
-- Estimated average daily attendance (not yet provided)
-- Number of staff on site (not yet provided)
-
-## Personal Details
-
-**Contact Information:**
-- Name: Maya Alvarez
-- Title/Role: Decision-maker for Sunny Days Childcare (presumed owner/manager)
-- Email: maya.alvarez@sunnydayschildcare.com
-- Preferred Contact Method: Email (based on outbound email communication)
-
-## Conversation Context
-
-**Main Purpose:**
-- Confirmation of completed application submission
-- Notification that underwriting process has begun
-- Request for additional operational details to expedite underwriting
-
-**Key Information Provided:**
-- Application for coverage has been received and logged
-- Standard daycare GL limits are $1M/$2M
-- Childcare-specific endorsements will be included
-- Abuse/molestation coverage will be included as applicable
-
-**Information Still Needed:**
-- Approximate number of children served daily
-- Approximate number of staff members on site
-
-**Action Items for Harper:**
-- Follow up with Maya if operational details not received within reasonable timeframe
-- Distribute application to carriers
-- Collect preliminary quotes from carriers (expected within 24–72 hours)
-- Review any carrier subjectivities or conditions
-- Prepare preliminary quote package for Maya
-
-**Action Items for Customer (Maya):**
-- Reply with estimated average daily attendance (~number of children)
-- Reply with estimated number of staff on site
-
-**Timeline:**
-- Carrier indications expected: 24–72 hours from submission
-- Next communication: Once preliminary quotes and subjectivities received from carriers
-
-**Tone/Sentiment:**
-- Professional and courteous
-- Efficient and organized
-- Collaborative
+Harper Insurance confirms receipt of Sunny Days Childcare's application. Coverage requested: General Liability ($1M per occurrence / $2M aggregate) with childcare-specific wording and abuse/molestation coverage. Maya Alvarez is asked to provide estimated daily attendance and staff count to expedite underwriting. Preliminary quotes and subjectivities will be shared once carriers provide initial indications (typically within 24–72 hours).

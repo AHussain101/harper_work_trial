@@ -4,72 +4,23 @@
 **Duration:** 17m 49s
 **Direction:** Incoming
 
-# Call Summary: Summit Security TX - General Liability Quote Request
+**INSURANCE CALL SUMMARY**
 
-## Business Details
+**Caller:** Michael Martinez, Summit Security TX (armed security services)
+**Agent:** James Taylor, Harper Insurance
+**Duration:** 17m 49s
+**Date:** 12/04/2025
 
-**Company Information:**
-- **Company Name:** Summit Security TX
-- **Business Type:** Armed Security Services
-- **Industry:** Security Services
-- **Location:** Anytown, TX
-- **EIN:** XX-XXX4321
+**Coverage Needed:** General Liability for armed security services
 
-**Coverage Details:**
-- **Policy Type:** General Liability
-- **Coverage Needed:** General Liability for armed security services operations
-
-**Quote Timeline:**
-- **Expected Timeline:** 24-48 hours for quotes
-- **Quote Delivery Method:** Text or call notification, followed by email proposal
-
-**Documents/Information Provided:**
+**Details Collected:**
 - Business email: info@summitsecuritytx.com
-- Mailing address: Anytown TX address (on file)
-- EIN provided
+- Address: Anytown, TX
+- EIN: XX-XXX4321
 
-**Topics Discussed During Call:**
-- New security agency operations overview
-- Incident reporting procedures
-- Record-keeping practices
-- Training expectations
-- Staffing projections
-- State licensing requirements
+**Topics Discussed:** Operations, incident reporting procedures, record-keeping, training expectations, staffing projections, state licensing requirements
 
-## Personal Details
-
-**Primary Contact:**
-- **Name:** Michael Martinez
-- **Role/Title:** Not explicitly stated (appears to be owner/decision-maker)
-- **Email:** info@summitsecuritytx.com
-- **Preferred Contact Method:** Text or call, with follow-up email for proposals
-- **Communication Style:** Professional, cooperative, receptive
-
-## Conversation Context
-
-**Call Purpose:**
-- Referral for General Liability insurance quote for armed security services company
-- Intake call to gather business information and confirm contact details
-
-**Key Questions Addressed:**
-- Contact information confirmation (email, mailing address)
-- EIN verification
-
-**Call Participants:**
-1. James Taylor (Harper Insurance Agent)
-2. Referral Partner (transferred call)
-3. Michael Martinez (Summit Security TX)
-
-**Decisions Made:**
-- Quote submission approved and moving forward
-- 24-48 hour timeline agreed upon
-
-## Action Items
-
-**Harper/Underwriter Actions:**
-- Submit application to underwriters for quote review
-- Underwriters to contact Michael Martinez via text or call within 24-48 hours
-- Send email proposals once quotes are generated
-- **Follow up with Michael on:**
-  - State licensing documentation
-  - Incident
+**Next Steps:**
+- Underwriters to contact Michael with quote (24-48 hour timeline)
+- Follow up on licensing and incident reporting documentation
+- Quotes to be sent via text/call then email

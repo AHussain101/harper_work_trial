@@ -9,13 +9,13 @@
 - **Primary Phone**: +1-555-123-4567
 
 ## Next Steps
-- Confirm receipt of uploaded state license and emergency contacts with Isabella
-- Submit complete application to carrier network and obtain initial quote options within 24-48 hours
-- Prepare quote presentation and schedule follow-up call with Isabella to finalize coverage options
+- Confirm receipt of Isabella's uploaded state license and emergency contacts
+- Submit application to underwriting and generate quote options for general liability, workers' comp, and disability coverage within 24-48 hours
+- Call Isabella to present and finalize coverage options once quotes are ready
 
 ## Pending Actions
 - Client to provide sample parent agreement or incident reporting policy (if available) to support underwriting
-- Client decision on coverage options once quotes are presented by Harper agent
+- Client to review and select from quote options once presented by Harper agent
 
 ## Last Contact
 - **Date**: 2025-12-05

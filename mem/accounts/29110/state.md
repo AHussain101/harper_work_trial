@@ -9,14 +9,14 @@
 - **Primary Phone**: 555-0123
 
 ## Next Steps
-- Follow up with underwriter on carrier-specific terms and subjectivities once documents are received
-- Prepare formal quote with final premium and payment options upon receipt of all requested documents
-- Confirm client's target countries and subsidiaries to be included on multinational program
+- Follow up with underwriter to confirm receipt of documents uploaded to secure portal and status of carrier responses
+- Prepare formal quote with final premium, payment options, and carrier-specific terms once all documents are received
+- Coordinate with client on target territories and subsidiary confirmation to finalize multinational coverage scope
 
 ## Pending Actions
-- Client must upload loss runs (last 3 years) via secure portal
-- Client must provide third-party product testing certificates for ABS components
-- Client must submit written product recall plan
+- Client must upload loss runs (last 3 years) to secure portal
+- Client must upload third-party product testing certificates for ABS components to secure portal
+- Client must provide written product recall plan and confirm subsidiaries to be included on program
 
 ## Last Contact
 - **Date**: 2025-12-05

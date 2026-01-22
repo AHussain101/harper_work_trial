@@ -9,14 +9,14 @@
 - **Primary Phone**: +1-850-123-4567
 
 ## Next Steps
-- Review USLI quote (MCP-XXXX) and prepare applicant-facing version for Marcus Perez
-- Follow up on incomplete call transcript from 2025-12-05T14:02:00 to confirm quote review and next steps
-- Send quote summary to Marcus with explanation of coverage limits and premium details
+- Review USLI quote (MCP-XXXX) and customize applicant-facing version for Marcus Perez
+- Send quote summary to Marcus with coverage details and next steps for binding decision
+- Follow up via email and text to schedule call to review quote and answer questions
 
 ## Pending Actions
 - Marcus must upload last 3 years of loss runs via secure portal (https://portal.example-insure.com/doc-upload/xyz789)
-- Marcus must provide current Certificates of Insurance (COIs) if not yet submitted
-- Marcus must review and approve USLI quote before policy can proceed to binding
+- Marcus must provide current Certificates of Insurance (COIs) or confirm none exist
+- Marcus must review USLI quote and confirm acceptance/binding decision
 
 ## Last Contact
 - **Date**: 2025-12-05

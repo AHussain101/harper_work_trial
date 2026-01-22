@@ -5,7 +5,8 @@ import { ToolPanel } from './ToolPanel';
 import { FilePreview } from './FilePreview';
 import { QueryInput } from './QueryInput';
 import { QuerySelector } from './QuerySelector';
-import { ConfirmationModal, ClarificationModal } from './ConfirmationModal';
+import { ConfirmationModal, ClarificationModal, VagueUpdateClarificationModal } from './ConfirmationModal';
+import type { NewAccountDetails } from './ConfirmationModal';
 import { useExplorationStream } from '../hooks/useExplorationStream';
 import { 
   RotateCcw,
@@ -17,10 +18,11 @@ import {
 } from 'lucide-react';
 
 export function ExplorerLayout() {
-  const { state, startExploration, stop, reset, confirmAction, cancelConfirmation } = useExplorationStream();
+  const { state, startExploration, stop, reset, confirmAction, cancelConfirmation, submitVagueUpdateClarification } = useExplorationStream();
   const [selectedFile, setSelectedFile] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<'queries' | 'files'>('queries');
   const [isConfirming, setIsConfirming] = useState(false);
+  const [isSubmittingClarification, setIsSubmittingClarification] = useState(false);
 
   // Get the current path being explored
   const currentPath = useMemo(() => {
@@ -48,15 +50,22 @@ export function ExplorerLayout() {
     setActiveTab('files');
   };
 
-  const handleConfirm = async () => {
+  const handleConfirm = async (details?: NewAccountDetails) => {
     if (!state.pendingConfirmation) return;
     setIsConfirming(true);
-    await confirmAction(state.pendingConfirmation.session_id, true);
+    await confirmAction(state.pendingConfirmation.session_id, true, details);
     setIsConfirming(false);
   };
 
   const handleCancelConfirmation = () => {
     cancelConfirmation();
+  };
+
+  const handleVagueUpdateSubmit = async (data: Record<string, string | string[]>) => {
+    if (!state.pendingVagueUpdateClarification) return;
+    setIsSubmittingClarification(true);
+    await submitVagueUpdateClarification(state.pendingVagueUpdateClarification.session_id, data);
+    setIsSubmittingClarification(false);
   };
 
   const handleSelectAlternative = (accountId: string, accountName: string) => {
@@ -105,6 +114,16 @@ export function ExplorerLayout() {
         />
       )}
 
+      {/* Vague Update Clarification Modal */}
+      {state.status === 'awaiting_vague_update_clarification' && state.pendingVagueUpdateClarification && (
+        <VagueUpdateClarificationModal
+          clarification={state.pendingVagueUpdateClarification}
+          onSubmit={handleVagueUpdateSubmit}
+          onCancel={handleCancelConfirmation}
+          isLoading={isSubmittingClarification}
+        />
+      )}
+
       {/* Top bar */}
       <header className="flex-shrink-0 border-b border-[#e7d7ce] bg-white/80 backdrop-blur-xl">
         <div className="flex items-center gap-4 px-6 py-4">
@@ -149,10 +168,16 @@ export function ExplorerLayout() {
             <StatusIndicator status={state.status} />
             
             {state.routedTo && (
-              <div className={`flex items-center gap-2 ${state.routedTo === 'search_agent' ? 'text-blue-600' : 'text-orange-600'}`}>
+              <div className={`flex items-center gap-2 ${
+                state.routedTo === 'search_agent' ? 'text-blue-600' : 
+                state.routedTo === 'followup_agent' ? 'text-purple-600' : 
+                'text-orange-600'
+              }`}>
                 <GitFork className="w-4 h-4" />
                 <span className="font-medium">
-                  {state.routedTo === 'search_agent' ? 'Search Agent' : 'Updater Agent'}
+                  {state.routedTo === 'search_agent' ? 'Search Agent' : 
+                   state.routedTo === 'followup_agent' ? 'Follow-Up Agent' : 
+                   'Updater Agent'}
                 </span>
               </div>
             )}
@@ -260,10 +285,11 @@ function StatusIndicator({ status }: { status: string }) {
     error: { color: 'text-red-600', bg: 'bg-red-500', label: 'Error' },
     awaiting_confirmation: { color: 'text-amber-600', bg: 'bg-amber-500', label: 'Awaiting Confirmation' },
     awaiting_clarification: { color: 'text-blue-600', bg: 'bg-blue-500', label: 'Need Clarification' },
+    awaiting_vague_update_clarification: { color: 'text-orange-600', bg: 'bg-orange-500', label: 'What to Update?' },
   };
 
   const config = statusConfig[status] || statusConfig.idle;
-  const isPulsing = status === 'running' || status === 'awaiting_confirmation' || status === 'awaiting_clarification';
+  const isPulsing = status === 'running' || status === 'awaiting_confirmation' || status === 'awaiting_clarification' || status === 'awaiting_vague_update_clarification';
 
   return (
     <div className={`flex items-center gap-2 ${config.color}`}>

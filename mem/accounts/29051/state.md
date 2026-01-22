@@ -9,14 +9,14 @@
 - **Primary Phone**: 555-0102
 
 ## Next Steps
-- Monitor for additional carrier quotes (initial responses expected within 24-48 hours of 2025-12-04)
-- Follow up with client on subjectivities within 2-3 business days if documents not uploaded
-- Prepare binding documents once client confirms $500k liability limit and all underwriting subjectivities are satisfied
+- Follow up with client within 24-48 hours to confirm receipt of preliminary quote ($3.6k annual premium) and address any questions
+- Monitor carrier underwriting for final quote and any additional subjectivity requests
+- Once client uploads required documents, submit to carrier for final underwriting review and binding
 
 ## Pending Actions
-- Client must upload loss runs (prior 3 years), recent payroll/enrollment records, and licensing documentation to secure portal
-- Client must confirm desired liability limit of $500k per occurrence in writing
-- Client must review preliminary quote ($3.6k annual premium, valid until 2026-02-02) and approve to proceed with binding
+- Client must upload recent payroll/enrollment records to secure portal
+- Client must upload licensing documentation to secure portal
+- Client must confirm final liability limit preference ($500k per occurrence) and approve preliminary quote to proceed with binding
 
 ## Last Contact
 - **Date**: 2025-12-05

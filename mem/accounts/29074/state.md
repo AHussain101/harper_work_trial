@@ -9,13 +9,13 @@
 - **Primary Phone**: +1 (617) 915-31XX
 
 ## Next Steps
-- Follow up with MapleBridge Staffing to confirm receipt of loss run request and establish deadline for submission
-- Once loss runs are received, activate carrier outreach to the underwriter network for quote generation (expect 24-48 hour turnaround)
-- Prepare underwriting file with submitted coverage details and loss runs for carrier review
+- Follow up with Rachel/MapleBridge Staffing to obtain 3-year loss run statements from prior carrier
+- Once loss runs are received, submit complete application package to carrier network for underwriting and quotes
+- Monitor for carrier responses and expect initial quotes within 24-48 hours of loss run submission
 
 ## Pending Actions
-- Loss run statements for the last 3 years from MapleBridge Staffing (critical for underwriting and pricing)
-- Confirmation of document upload completion via secure portal (https://portal.example-insure.com/upload)
+- Loss run statements for the last 3 years (critical for underwriting and pricing)
+- Confirmation of receipt and completion of document upload via secure portal
 
 ## Last Contact
 - **Date**: 2025-12-05

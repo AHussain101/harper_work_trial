@@ -9,14 +9,14 @@
 - **Primary Phone**: 555-0246
 
 ## Next Steps
-- Send e-sign packet with application and payment authorization documents to Amelia's email
-- Schedule and conduct follow-up call with Amelia to finalize binding decision
-- Monitor for any carrier subjectivities on submitted documents and communicate resolution to client
+- Send e-sign packet with application and payment authorization documents to Amelia Rivera's email
+- Schedule and conduct follow-up call to finalize binding once Amelia reviews e-sign documents
+- Monitor for carrier subjectivities and follow up with underwriters on any outstanding document reviews
 
 ## Pending Actions
-- Amelia's decision to bind the policy and execute signed application
-- Payment authorization and premium payment ($2,600 total estimated cost)
-- Confirmation of final staff MVR documentation for all employees who will transport clients
+- Amelia to review and execute e-sign application and payment authorization documents
+- Amelia to confirm binding decision and provide payment authorization
+- Loss run statements from previous insurance (if applicable) — client was asked to provide but no confirmation of receipt documented
 
 ## Last Contact
 - **Date**: 2025-12-05

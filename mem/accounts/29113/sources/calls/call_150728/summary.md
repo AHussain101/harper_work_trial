@@ -4,65 +4,12 @@
 **Duration:** 6m 8s
 **Direction:** Incoming
 
-# Call Summary: Riverbend Hauling Co. - New Commercial Auto Account
+**CALL SUMMARY**
 
-## Business Details
+**Caller:** Khalil Moreno, owner of Riverbend Hauling Co.
 
-**Company Information:**
-- Company Name: Riverbend Hauling Co.
-- Business Type: Local hauling service
-- Industry: Transportation/Hauling
-- Service Area: ~50-mile radius (local operations)
-- Cargo Type: Sand and gravel only (no hazardous materials)
-- Number of Vehicles: 1 (single-vehicle operator)
-- Fleet Size: One vehicle operation
-- Prior Coverage: No prior commercial auto policy on file
+**Business:** Local sand/gravel hauling within ~50-mile radius; single vehicle operator; no hazardous cargo; no prior commercial auto policy; no recent accidents.
 
-**Coverage & Policy Details:**
-- Policy Type Needed: Commercial auto
-- Coverage Level: State-minimum quote being prepared
-- Vehicle Details:
-  - Make/Model: 2018 Western Star
-  - Estimated Vehicle Value: ~$120,000
-  - Purchase Status: Not yet finalized (owner closing next week)
-  - VIN: To be verified upon purchase completion
-  - Ownership: To be verified upon purchase completion
+**Vehicle:** 2018 Western Star, ~$120k value; purchase finalizing next week.
 
-**Claims & Loss History:**
-- Recent Accidents: None reported
-
-## Personal Details
-
-**Primary Contact:**
-- Name: Khalil Moreno
-- Title/Role: Owner/Operator
-- Business Structure: Single-vehicle operator (sole proprietor implied)
-- Contact Method: Email and text preferred for follow-up
-
-**Contact Information:**
-- Phone: Not explicitly provided in notes
-- Email: Not explicitly provided in notes
-- Preferred Contact Method: Email/text
-
-## Conversation Context
-
-**Call Information:**
-- Direction: Incoming call
-- Duration: 6 minutes 8 seconds
-- Date/Time Started: December 4, 2025 at 23:44 UTC
-- Date/Time Completed: December 4, 2025 at 23:50 UTC
-- Agent: Mia (Harper agent)
-- Call Type: New account intake
-
-**Main Purpose:**
-- Initial intake call for new commercial auto insurance account
-- Gathering business and vehicle information for quote preparation
-
-**Key Information Gathered:**
-- Business operations scope and cargo type confirmed
-- Vehicle specifications documented
-- No hazardous cargo (simplifies underwriting)
-- No accidents or claims history
-
-**Decisions Made:**
-- Will
+**Next Steps:** Provide state-minimum commercial auto quote via email; follow up via email/text; verify VIN and ownership upon purchase; request vehicle title and MVR upload via secure portal.

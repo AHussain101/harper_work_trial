@@ -9,14 +9,14 @@
 - **Primary Phone**: 555-0174
 
 ## Next Steps
-- Schedule follow-up call with Marisol to collect Federal EIN and annual driver payroll totals
-- Shop account with carrier network and provide quote within 24-48 hours
-- Send text reminder with secure portal link for document uploads if not received
+- Schedule follow-up call with Marisol to collect Federal EIN and annual payroll totals for drivers
+- Submit application to carrier network and monitor for initial responses (expected within 24-48 hours)
+- Send text reminder with portal link for document uploads if not received within 24 hours
 
 ## Pending Actions
-- Federal EIN (or SSN if sole proprietor)
-- Recent payroll totals and number of drivers
-- Loss runs (last 3 years), certificate of insurance, and driver rosters via secure portal
+- Federal EIN (or SSN for sole proprietors)
+- Most recent payroll totals and number of drivers
+- Loss runs (last 3 years), certificate of insurance, and any recent claims/incidents (past 3 years)
 
 ## Last Contact
 - **Date**: 2025-12-04

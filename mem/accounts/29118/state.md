@@ -9,14 +9,14 @@
 - **Primary Phone**: +18558648000
 
 ## Next Steps
-- Follow up with Acme Underwriting and other carriers to finalize quote terms pending receipt of all requested documents
-- Confirm receipt and review of ACORD application and background check policy uploaded by client
-- Submit contractor COI requirement confirmation ($1,000,000 per occurrence) to carriers to complete underwriting
+- Follow up with Acme Underwriting and other carriers to finalize quote terms pending receipt of documents
+- Confirm receipt of uploaded ACORD application and background check policy from Alex
+- Obtain and review contractor Certificate of Insurance (COI) documents confirming $1,000,000 per occurrence professional liability coverage
 
 ## Pending Actions
-- Client to provide Loss Run Statement (if available) and any existing certificates of insurance
-- Client to provide contractor professional liability COI documentation meeting the $1,000,000 per occurrence minimum requirement
-- Carriers to complete final underwriting review and issue binding quotes/policy terms
+- Client to provide Loss Run Statement (if available)
+- Client to provide contractor Certificate of Insurance (COI) with $1,000,000 per occurrence limit confirmation
+- Carriers to complete final underwriting review and issue binding quotes
 
 ## Last Contact
 - **Date**: 2025-12-06

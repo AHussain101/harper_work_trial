@@ -6,60 +6,11 @@
 **From:** Jordan Kim <jordan.kim@harperinsure.com>
 **To:** contact@summitbiodev.com
 
-# Email Summary: Summit BioDevices Insurance Quote Update
+**SUMMARY**
 
-## Business Details
-
-**Company Information:**
-- Company name: Summit BioDevices
-- Industry: Medical device/biotech manufacturing
-- Business type: Device manufacturer with lab operations
-
-**Coverage & Application Status:**
-- Application submitted to underwriter network
-- Expected timeline: Initial interest and preliminary quotes within 48–72 hours
-- Contract/tenant COI (Certificate of Insurance) requirements mentioned as potential need
-- Specific coverage limits to be determined based on client needs
-
-**Documents Requested:**
+Harper Insurance has submitted Summit BioDevices' application to underwriters and expects preliminary quotes within 48–72 hours. Jordan Kim requests the following documents be uploaded to their portal:
 - Prior insurance loss runs (last 3 years)
-- Contract/tenant COI requirements documentation
-- Specific coverage limit requirements (if applicable)
-- Product specification sheets
-- Basic lab handling procedures
-- Upload portal provided: https://portal.harperinsure.com/upload/summit-xxxx
+- Contract/tenant COI requirements or coverage limit specifications
+- Product specification sheets or lab handling procedures
 
-## Personal Details
-
-**Contact Information:**
-- Name: Becca (first name only, full name not provided)
-- Company email: contact@summitbiodev.com
-- Harper contact: Jordan Kim
-- Jordan's phone: +1 (470) 731-4971
-- Jordan's email: jordan.kim@harperinsure.com
-
-**Communication Notes:**
-- Becca recently had an initial consultation call with Harper team
-- Collaborative tone; client willing to provide additional documentation
-- Jordan offering assistance with document retrieval if needed
-
-## Conversation Context
-
-**Main Purpose:**
-- Follow-up email after initial consultation call regarding commercial insurance quote for Summit BioDevices
-
-**Key Points Discussed:**
-- Reviewed device overview and client operations during call
-- Application forwarded to underwriter network
-- Preliminary quotes expected within 48–72 hours
-
-**Action Items for Customer (Becca):**
-- [ ] Upload prior insurance loss runs (last 3 years) via secure portal
-- [ ] Provide contract/tenant COI requirements or written description
-- [ ] Submit product specification sheets
-- [ ] Submit basic lab handling procedures
-- [ ] Contact Jordan if assistance needed gathering/retrieving documents
-
-**Action Items for Harper (Jordan Kim):**
-- [ ] Monitor underwriter responses for preliminary quotes (48–72 hour window)
-- [ ] Follow up with Becca if documents not received within
+Assistance is available if needed to gather documents.

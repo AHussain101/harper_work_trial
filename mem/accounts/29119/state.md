@@ -9,14 +9,14 @@
 - **Primary Phone**: 555-0143
 
 ## Next Steps
-- Follow up with Acme Mutual (AMQ-4821) to confirm packaging as primary GL policy with childcare endorsements and obtain final quote
-- Request client confirmation of estimated average daily attendance and number of staff on site to complete underwriting requirements
-- Collect outstanding subjectivity documents from client: proof of staff background checks, written safety plan, and playground surfacing details (if applicable)
+- Follow up with Acme Mutual on preliminary quote AMQ-4821 to confirm packaging as primary GL policy with childcare endorsements
+- Obtain clarification from client on estimated average daily attendance and number of staff on site (requested in second email but not yet confirmed)
+- Collect and review staff background check documentation from client portal for final underwriting submission
 
 ## Pending Actions
-- Client to provide complete staff background check documentation (summaries submitted; full files needed for final bind)
-- Client to confirm estimated average daily attendance and on-site staff counts
-- Client to upload written safety plan and playground surfacing information via secure portal
+- Client to upload complete staff background check files (summary provided; full documentation needed for final bind)
+- Client to confirm estimated average daily attendance and number of staff on site
+- Client to provide loss runs (if previously insured), facility inspection certificates, and written safety plan per Acme Mutual's subjectivities
 
 ## Last Contact
 - **Date**: 2025-12-05

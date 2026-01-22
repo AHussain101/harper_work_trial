@@ -9,13 +9,13 @@
 - **Primary Phone**: +15552340199
 
 ## Next Steps
-- Submit expanded application packages to two specialty carriers in regional E&S and specialty financial services markets
-- Monitor secure portal for client document uploads and follow up within 48-72 hours with alternate carrier submissions
-- Provide Meadowbank with written summary of USLI declination rationale and alternative carrier strategy
+- Submit expanded application package to two specialty carriers in regional E&S and specialty financial services markets
+- Prepare and send alternate carrier submissions once client documents are received from secure portal
+- Provide client update within 48-72 hours of document receipt with carrier submission status and timeline
 
 ## Pending Actions
 - Client to upload signed management practices letter to secure portal
-- Client to upload most recent financial overview/statements to secure portal
+- Client to upload most recent financial overview (rounded figures acceptable) to secure portal
 - Client confirmation of preferred effective date window for new submissions
 
 ## Last Contact

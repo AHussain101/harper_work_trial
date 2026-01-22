@@ -4,6 +4,7 @@ import type {
   ExplorationEvent, 
   ExplorationStep,
   PendingConfirmation,
+  PendingVagueUpdateClarification,
 } from '../types/exploration';
 
 const API_BASE = '/api';
@@ -115,8 +116,19 @@ export function useExplorationStream() {
     }
   }, []);
 
-  // Handle confirmation for new account creation
-  const confirmAction = useCallback(async (sessionId: string, confirmed: boolean) => {
+  // Handle confirmation for new account creation (with optional account details)
+  const confirmAction = useCallback(async (
+    sessionId: string, 
+    confirmed: boolean,
+    accountDetails?: {
+      industry?: string;
+      location?: string;
+      primary_email?: string;
+      primary_phone?: string;
+      insurance_types?: string[];
+      notes?: string;
+    }
+  ) => {
     setState(prev => ({
       ...prev,
       status: 'running',
@@ -128,7 +140,12 @@ export function useExplorationStream() {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ session_id: sessionId, confirmed }),
+        body: JSON.stringify({ 
+          session_id: sessionId, 
+          confirmed,
+          // Pass account details if provided
+          ...(accountDetails || {})
+        }),
       });
 
       if (!response.ok) {
@@ -176,12 +193,80 @@ export function useExplorationStream() {
     }
   }, []);
 
+  // Handle vague update clarification submission
+  const submitVagueUpdateClarification = useCallback(async (
+    sessionId: string,
+    clarificationData: Record<string, string | string[]>
+  ) => {
+    setState(prev => ({
+      ...prev,
+      status: 'running',
+    }));
+
+    try {
+      const response = await fetch(`${API_BASE}/confirm`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ 
+          session_id: sessionId, 
+          confirmed: true,
+          clarification_data: clarificationData
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
+      const data = await response.json();
+      
+      if (data.type === 'success') {
+        setState(prev => ({
+          ...prev,
+          status: 'completed',
+          answer: data.answer || data.message,
+          pendingVagueUpdateClarification: undefined,
+          routedTo: data.routed_to,
+          changes: data.changes,
+          historyEntryId: data.history_entry_id,
+          updateDetails: data.account_id ? {
+            account_id: data.account_id,
+            account_name: data.account_name || '',
+            files_modified: data.files_modified || [],
+            qdrant_updated: data.qdrant_updated || false,
+            new_description: data.new_description || '',
+            state_file_path: data.state_file_path || '',
+            history_file_path: data.history_file_path || '',
+            previous_history_entry: data.previous_history_entry || null,
+          } : undefined,
+        }));
+      } else if (data.type === 'error') {
+        setState(prev => ({
+          ...prev,
+          status: 'error',
+          errorMessage: data.message,
+          pendingVagueUpdateClarification: undefined,
+        }));
+      }
+    } catch (error) {
+      setState(prev => ({
+        ...prev,
+        status: 'error',
+        errorMessage: (error as Error).message,
+        pendingVagueUpdateClarification: undefined,
+      }));
+    }
+  }, []);
+
   // Cancel confirmation and reset
   const cancelConfirmation = useCallback(() => {
     setState(prev => ({
       ...prev,
       status: 'idle',
       pendingConfirmation: undefined,
+      pendingVagueUpdateClarification: undefined,
       clarificationMessage: undefined,
       clarificationSuggestions: undefined,
     }));
@@ -194,6 +279,7 @@ export function useExplorationStream() {
     reset,
     confirmAction,
     cancelConfirmation,
+    submitVagueUpdateClarification,
   };
 }
 
@@ -305,6 +391,10 @@ function processEvent(
           history_file_path: event.history_file_path || '',
           previous_history_entry: event.previous_history_entry || null,
         } : undefined,
+        // Follow-up details
+        followupDraft: (event as any).draft,
+        followupSent: (event as any).sent,
+        extractedAccount: event.account_name || prev.extractedAccount,
       }));
       break;
 
@@ -328,6 +418,21 @@ function processEvent(
         status: 'awaiting_clarification',
         clarificationMessage: event.message,
         clarificationSuggestions: event.suggestions,
+      }));
+      break;
+
+    case 'vague_update_clarification':
+      setState(prev => ({
+        ...prev,
+        status: 'awaiting_vague_update_clarification',
+        pendingVagueUpdateClarification: {
+          session_id: (event as any).session_id,
+          message: event.message,
+          account_id: (event as any).account_id,
+          account_name: (event as any).account_name,
+          clarification_fields: (event as any).clarification_fields || [],
+          original_query: (event as any).original_query,
+        },
       }));
       break;
 

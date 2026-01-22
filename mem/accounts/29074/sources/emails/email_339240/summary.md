@@ -6,60 +6,6 @@
 **From:** harper_employee@harperinsure.com
 **To:** rachel.m@maplebridgestaffing.example
 
-# Email Summary for Harper Insurance Broker
+**Summary:**
 
-## Business Details
-- **Company Name:** MapleBridge Staffing
-- **Industry:** Staffing (temporary/contract workforce implied)
-- **Coverage Needs:** Not explicitly detailed yet
-- **Policy Types:** Likely general liability and workers' compensation (standard for staffing)
-- **Application Status:** Submitted to carrier network; initial responses expected shortly
-- **Documents Requested:**
-  - Loss runs (3 years minimum or full coverage history)
-  - Certificates of Insurance (COIs)
-  - Prior policies
-  - Contract-specific insurance requirements (limits, additional insured language)
-- **Required Submissions:** Via secure portal at https://portal.example-insure.com/upload
-
-## Personal Details
-- **Primary Contact:** Rachel M.
-- **Email:** rachel.m@maplebridgestaffing.example
-- **Contact Method:** Email (established)
-- **Harper Employee:** CEO & Co-founder of Harper Insurance
-  - **Email:** harper_employee@harperinsure.com
-  - **Website:** www.harperinsure.com
-
-## Conversation Context
-
-### Main Topic
-- Follow-up to initial consultation meeting with MapleBridge Staffing
-- Application submitted to carrier network; moving toward underwriting phase
-
-### Key Points
-- Rachel provided business overview during recent meeting
-- Application already submitted to carriers
-- Underwriting process underway
-
-### Action Items for Customer (Rachel/MapleBridge)
-- **URGENT:** Upload requested documents via secure portal:
-  - Loss runs (3 years or full coverage history)
-  - COIs
-  - Prior policies
-  - Contract-specific requirements (coverage limits, additional insured language)
-- Contact Harper if assistance needed obtaining loss runs
-
-### Action Items for Harper
-- Monitor carrier responses
-- Follow up if documents not received
-- Prepare quotes once documents arrive
-
-### Next Steps
-- Initial carrier responses expected "shortly"
-- Underwriting process to begin after document submission
-- Binding eligibility to be confirmed once contract requirements reviewed
-
-### Tone/Sentiment
-- **Professional and collaborative**
-- Appreciative of Rachel's time
-- Proactive and solution-oriented
-- Helpful (offering to assist with loss run requests
+Harper Insurance has submitted MapleBridge Staffing's application to carriers and expects initial responses soon. Rachel must upload documents via secure portal: loss runs (last 3 years preferred), certificates of insurance, and prior policies. She should also provide any contract-specific insurance requirements (limits, additional insured language) to confirm binding eligibility. Harper can assist with obtaining loss runs if needed.

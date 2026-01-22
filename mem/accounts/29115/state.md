@@ -9,14 +9,14 @@
 - **Primary Phone**: +1 (555) 333-4567
 
 ## Next Steps
-- Follow up with Brandon within 2-3 business days to confirm receipt of preliminary quotes and answer any policy wording questions
-- Coordinate with Integrated MGA to ensure all carrier documents are uploaded to portal for underwriting review
-- Prepare final quote comparison once underwriting review is complete and effective date is confirmed
+- Follow up with Brandon in 2-3 business days to confirm he has reviewed preliminary quote and E&O wording comparison
+- Monitor carrier underwriting portal for any additional documentation requests from Integrated MGA and relay promptly to applicant
+- Prepare final quote presentation once underwriting review is complete and all carrier terms are confirmed
 
 ## Pending Actions
-- Client to review preliminary quotes and compare E&O policy wording to prior policy
-- Client to confirm effective date for coverage
-- Client to submit current policy declarations, loss runs (last 3 years), and any required certificates of insurance if available
+- Client to review preliminary quotes and compare E&O policy wording to prior coverage
+- Client to upload current policy declarations, loss runs (last 3 years), and any required certificates of insurance to carrier portal
+- Client to confirm effective date preference for coverage
 
 ## Last Contact
 - **Date**: 2025-12-05
